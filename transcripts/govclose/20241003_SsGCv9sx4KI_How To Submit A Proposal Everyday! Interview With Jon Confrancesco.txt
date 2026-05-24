@@ -1,0 +1,1559 @@
+Kind: captions
+Language: en
+welcome to the dod contract Academy
+podcast today we've got a a special
+interview for you guys I'm talking with
+John K Francisco from American AI
+Logistics and I don't
+typically address the Commodities part
+of Government Contracting meaning low
+dollar items how do you bid on them it's
+usually lowest price technically
+acceptable a lot of work put proposals
+together what uh what I really find
+fascinating about this tool is it is
+basically a service that comp can
+subscribe to where they will generate I
+mean it sounds like they could generate
+hundreds of proposals over time for you
+at a very low cost listen to the process
+for how this company works it's
+different than some of the AI tools I've
+talked about for proposal writing where
+this is done for you they are actually
+finding the leads they are matching
+pricing and then they basically deliver
+you a proposal complete for you to
+submit so
+John also gets into his background which
+I find fascinating so you're going to
+learn a lot about John's success in the
+Government Contracting space if you're
+interested in learning about Government
+Contracting you want to be part of the
+Government Contracting Community as a
+consultant you want to start your own
+business helping other companies sell to
+the government you want to get the skill
+set that you need to maybe go after one
+of these sales executive jobs or maybe
+you just want training you're already
+selling to the government you want to
+improve what you're doing go on over to
+goose.com we have a great certification
+program there our students are lining up
+deals before they even graduate so it's
+not for everybody it's going to take you
+a month or two at least to get through
+the program and that's if you're really
+dedicated to it but the upside is there
+and the results are in so we' love to
+see you in the certification program and
+now here's John with American AI
+Logistics I grew up in Orlando Florida I
+came to the DC area to play football for
+Catholic U D3 football baby back
+and then I stayed I got my first job
+working as a as a civilian with the Navy
+okay and on the back of that you know I
+had a big career break sort of early on
+my boss got cancer he lived we're still
+very close but he wrote a nice letter
+saying hey John can basically run my
+division while I'm gone and that was
+right at the time that the Japan
+experienced Fukushima daishi disaster so
+I was I was like a 22-year old guy
+running all the comps for the non-combat
+Navy Fleet
+oh wow it was crazy and I was there
+weekends to un evaporate the the water
+from the Fukushima daishi plant it'ss
+radiated yeah what year was that oh
+golly I have to think it's probably 2010
+2011 I'm not gonna get wrong maybe it's
+11 12 but okay got job any uh yeah after
+that I I sort of went on to the private
+sector did a tour Duty with you know the
+typical belt wake Foles lucky Martin and
+boo Allen and then I got an
+entrepreneurship okay so when you were
+working with the Navy uh were you a GS
+employee then yeah I believe it or not I
+started as a GS4 which is a real thing
+so GS4 so for anyone not familiar a lot
+of people say that civilians don't have
+rank but they kind of do call Ran So the
+official government
+civilian I guess there's and there's a
+lot of them now right but it used to be
+pretty much GS and it would start off
+kind of low right I didn't I mean I knew
+it when as low as four I think goes
+lower than that too doesn't it but it
+goes to one it goes to one but like
+nobody gets the government doesn't offer
+those jobs really that so to be a GS4
+you're essentially an intern you're a
+paid intern is is more or less what that
+is yeah no I got you and then so what
+was the actual job that you got hired to
+do I think the designation was
+management analyst okay really what I
+was doing is I was working in the Safety
+Division for military seal of command
+which is underneath their their it was
+underneath their Engineering Group yeah
+and there were a couple of Legacy
+software platforms that I had learned
+that's not what I went to school for but
+I IID selftaught and you know through
+happen stance they needed a guy who
+could do it I came in and I was in many
+ways the fish out of water I was the guy
+with a you know political science degree
+in an engineering division working on
+software and what a great experience
+like honestly great because it gave me
+because I was the yes guy it gave me an
+opportunity to do all sorts of weird
+stuff that really changed my career I
+got to go I I got to go out to sea with
+the on board the Comfort I got to work
+with the SEAL Teams before we killed Bin
+Laden so most people didn't even know
+what those were I helped to change a USS
+ship into a usns ship got to work on
+some of the very first at se drones an
+eagle which I think they're still flying
+but you know this is the Drone of
+yesterday year it's really gave me a lot
+of exposure it was honestly one of those
+things that at the time I was making no
+money and it was a lot of work but it
+I'm so grateful for it well that's the
+time to do it right just to uh get in
+there like you said say yes to
+everything that you can I mean you can't
+I mean how can you recreate that
+experience anywhere else really so
+what's interesting though they came in
+as a GS4 which is a very low rank and
+then you went on to basically run a
+division you know it was I'm guessing
+that was years later but no it wasn't
+years later so I'd gotten promoted to
+GS5 so GS4 for six months okay I
+promoted to GS5 and know my boss was a
+gs14 and he really ran the safety
+program and part of that safety program
+you would send out data to the ships and
+this is not the combatant fleet
+non-combatant Fleet so the fleet Oilers
+and the Lewis and Clark class and this
+communication this exchange was really
+you're sending them Word documents
+predominantly but the word documents
+would articulate how to execute certain
+procedures right and so if you were
+going to sail into a certain Harbor you
+need to follow certain procedures so you
+don't ground the ship or if you were to
+evaporate water it's how you make clean
+water at Sea you were going to follow
+certain procedures so he had gotten sick
+I had really taken over this program
+again it was through this esoteric
+Software System we were managing this he
+says hey John can he writes this letter
+he said John can manage this right and
+and to be clear it wasn't a huge
+division but for me at that age I mean
+it it was like I'm a GS5 of a few weeks
+acting gs14 functional how old were you
+22 wow it's amazing and just so for
+anyone listening to 14 is like the
+equivalent of like a lieutenant colonel
+colonel in the military so very senior I
+mean that's almost as senior as you can
+get as a civilian without being an sces
+so gs15 was the top so uh wow that's an
+amazing experience so clearly I mean
+you've obviously you have a little
+something extra right you're you go in
+right away you're doing very well and
+then a gs14 asks you to run his division
+you know clearly you're a fast burner so
+what happens next right so you said you
+got out and then you you end up kind of
+leaving the the government civilian
+ranks to do some other things yeah so he
+came back and you know be fa had great
+management great supervision that helped
+me do that so I I didn't get the pay of
+an acting GS4 te believe me I was still
+GS5 but I was doing the work he came
+back and I'm so very grateful he' gotten
+sick he survived in his great shape and
+then I'd been promoted to gs7 and I was
+just unwilling to be a gs7 right at that
+point had this great experience I was
+not going to do it so I go to Loy Martin
+they offer me a really again it was you
+know luck has a lot to do with it and
+being in the right place at the right
+time they offered me this position again
+working on the same esoteric Software
+System the Navy had deployed a new
+version of it and that deployment had
+failed really quite badly and from a
+regulatory perspective it is a
+requirement that you have this Sy
+records keeping system or locky Martin
+brings me in as a contractor working now
+at the Secretary of Navy's level uh to
+sort of redeploy this software and at
+the time it was the world's largest
+deployment of a records management
+software so between the unified Network
+and the classified Network and more than
+300,000 seeds now believe me a tiny
+fraction of that people were actually
+using it but they but it was on their
+computers Y and and I went through about
+a two-year Evolution sort of redeploying
+that software out to out to the Navy
+Network very cool that is interesting so
+you got a lot of experience there with
+loed um also kind of working it from the
+I guess the defense contractor
+perspective in a sense right I mean
+because you already working for a
+defense contractor you're getting to see
+everything that they have to go through
+you know to um probably not only get it
+on contract but implement it right which
+is really important yeah I would say the
+two things that really was a change for
+me in that position it was my first
+exposure to super senior leadership so I
+was in the cno's office I was in the
+Secretary of Navy's office one time I
+got to sit in the the chair of the under
+Secretary of Navy so he was leaving his
+office and they'd set me in there and I
+got the SI his chair Pentagon get a
+couple DS in the chair I was not
+supposed to do that but I felt I I
+needed to do it yeah of course but it g
+it gave me exposure there and then the
+second thing it was the first time that
+I learned the business end of DOD so the
+locky Martin contract and this was very
+much the redheaded stepchild task order
+on a much larger contract that was based
+out of Tennessee so I started learning
+the mechan of how contract gets executed
+how you're interfacing with clients to
+to make sure that those things are
+shaped
+the way you want them to be shaped so it
+it really helped me oh wow so when did
+you or how long did you stay at locki
+for I was there for another couple years
+I wanted a big promotion and they
+basically told me no you're too young
+okay well and so so I said no problem
+and through my delivery of that program
+I had met a lot of folks at the Marine
+Corps and boo Allen Hamilton came to me
+and they said hey we heard you're
+unhappy will you come do what you did
+for the Navy but with the Marine Corps
+abs absolutely that'd be great that's so
+I ended up going over to Booze Allen and
+I had another you know really wonderful
+run there awesome which one did you like
+better between locked and ballen or
+between Na and Marine Corps no between
+Booz and locked I absolutely preferred
+Bo Allen if you're gonna be in if you're
+gonna be at the worker level Bo Allen is
+better if you're gonna work right if you
+want to have a more passive experience
+definitely lucky okay but who will grind
+you but if you're one of those guys who
+are
+wants to learn some things who's Allen
+is happy to bill you for a bazillion
+dollars and pay you a lot less and you
+know that's a good deal if you're
+looking to learn yeah and who all only
+gave you that opportunity and again it
+was one of these things where I was
+always willing to say yes so the Marine
+Corps through BR Allen sent me out to
+Okinawa they sent me to Pendleton and
+lour and again it was this one of these
+opportunities where I got so much
+exposure to things that I would have
+never again I would have never even come
+close yeah had I not been in that
+position at that time it's a great
+experience I mean you were so young too
+going into it all that you know I would
+imagine by the time you were 30 you
+probably had a really good walk on what
+was happening and boo like I just from
+my perspective they were always they
+were a core part of my team they worked
+with my military and government
+civilians whereas Lockheed was more I
+would have them on contract to build
+something but I would go to their
+facility to see get updates I would you
+know they would come to me to provide an
+update but they weren't necess neily in
+the government building like you're
+saying they weren't sitting in the seats
+swiveling around and necessarily so
+really interesting so okay so boo Allen
+so locky to booze they're two of the
+major players in the defense industry
+what happens next well so that my career
+really took a turn at that point so I
+was with boo Allen and one of the things
+I said to them on my first day that so
+boo Allen you got to go through
+indoctrination the time I think it was
+like a four day four day class and then
+you meet sort of your manager it's
+almost it's like the Sorting Hat Harry
+Potter right your manager shows up like
+okay I'm your manager right and I said
+to this guy his name was Paul and I said
+to him I was like I'm going to do a lot
+of Business Development and at my level
+of seniority that was not a requirement
+and certainly notation but I immediately
+started to go win business and so I had
+actually gone back to that locky
+contract where they wouldn't promote me
+and that came up for recompete I took
+that contract back nice I took that
+contract back which was great I went to
+another PMW on the Navy side iend
+building a small business there so after
+a couple years again I'm looking for big
+promotion booze more or less gives me
+the same story you're too young not
+happen they had promoted me all the
+companies had promoted me a couple times
+just never as fast as I wanted right so
+in that time we had deployed we boo
+Allen and and Marine Corps had deployed
+a pretty unique piece of software called
+active navigation was a a uk-based
+company and it was an early form of data
+analytics and specifically what it was
+really good at was AutoCat iing
+data that company you know through that
+business I had really gotten to know
+them and they were Five Guys large they
+had just rehe headquartered to the
+United States were preparing to do that
+and and I went to them and I said hey I
+I think I could build your business so
+they cut me a deal they said hey we'll
+pay your existing base salary but
+understand like we're in a startup mode
+like we could go out of business any
+time yeah but you know we'll let you
+come run sales and and I did I went
+there and again it was a stroke of luck
+the CEO there Peter Balman like dude
+what a cool dude you know you meet like
+some of these guys he's a European guy
+he's half British half Swiss and he's
+just like he doesn't look like a cool
+dude you're not looking at this guy like
+he's James Bond but he is just so smooth
+such a cool operator even when he was
+stressed out he was Mr Cool and that was
+not me by Nature that's so I I had this
+opportunity to observe him and work very
+closely with him and then we built the
+business so in you know about two and a
+half years we went from a company of
+like million million one in Revenue I
+was number six to a company of 50 people
+you know5 million do of Revenue and had
+again great Partners there but I was a
+major part of that I was a major part of
+making that so with that company and
+just so you know like people watching
+this have I would say they they fall
+into two categories right one is going
+to be the the business owner maybe the
+sales team underneath them that are
+selling to the government and the other
+and this is a growing population is
+people that are interested in Government
+Contracting as a profession from a sales
+point of view but we have a
+certification course that we put people
+through and kind of train sales and BD
+people so so one question is who are you
+selling to you're selling commercially
+were you selling to the government were
+you doing both at that company we were
+selling both and I was selling both I
+started selling both so you know I sold
+Caesar's Palace I've never been to Vegas
+but I did make a half million dollars of
+Caesar palace one time nice uh and the
+company did anyhow and we were selling
+Banks and so you know we met with some
+of the major Global institutions in
+banking and then yeah I really ended up
+building a nice business with government
+and that is where I ended up focusing
+right so I did build this commercial
+business but ultimately we sort of
+divided the company said okay I'm going
+to be the the government guy and you
+know how I did that how I focused there
+is two things one I tied everything I
+did back to a regulation so I found a
+listed requirement and I married us to
+that requirement and I would get up and
+give speeches and I would just say hey
+if you have this requirement of course I
+knew they all did then you have to come
+to us and that is what really boosted
+our business and then as an aside to
+that I was always a consultative partner
+to our clients so even when they weren't
+paying me a dime right if they wanted to
+know about data analytics or software
+deployment because again I'd had that
+experience with lock heed and then BR
+Allen I would come in and just do that
+for them right I would sit them go to
+lunch just hey think about this think
+about that I would connect them to
+colleagues of mine again I wasn't going
+to make a lick or a dollar for that but
+I would always do that for them and they
+ended up becoming my best clients right
+that's I continued to work with the Navy
+the Marine Corps and some of the Intel
+agencies but it was that Circle that
+relationship that I was able to build
+often between clients so I would say hey
+you know what Marine cor you really got
+to talk to this person at arm or hey AR
+you really got to talk to this person at
+NSA that was never going to help me but
+I knew it would help them and when I got
+to that place with the clients they
+would I was their trusted partner and
+and to be honest with you I worked my
+butt off them I always delivered for
+them I was never going to miss with
+those clients yeah so I mean what you're
+saying resonates with a lot of the
+messaging that I put out there which is
+really it's relationships that are going
+to win contracts for you and obviously
+we're going to talk about your tool here
+in a bit but from my perspective when
+we're talking about bigger contracts
+Services technology things of that
+nature it's so important to build that
+relationship and so it's interesting you
+have some you have some things that you
+pointed out like giving speeches tying
+regulation and policy to probably your
+product or tool and you know presenting
+that to the audience is that from just
+volunteering to speak at different
+conferences is that you know setting up
+meetings in offices that can buy what
+you sell what was the the path in so
+that was a strategy right that was a
+sales strategy I I am you know I'm
+actually grammatically like if you look
+at my writing it's terrible I just don't
+I I didn't come out of the box with a
+strong skill set for grammar right it's
+an okay writer but has to edit but
+public speaking I was always able to and
+so I knew when we had and we had very
+limiting marketing budget but I knew
+okay said if I can get in front of a
+room of people I will be able to convey
+our message you know very effectively so
+that is what we did and I came up with
+you know what was at the time a very
+aggressive hook for what we were doing
+so our data analytics tool was very
+useful at collapsing old file shares
+which is where people used to store they
+used to call them the S drive if you
+ever worked in government you'd know the
+estra everybody stored all stuff oh yeah
+and it was a digital pigy so my cook was
+I'm going to teach you to kill the file
+shares and in like the boring world of
+records management using the word kill I
+mean they that was not something they
+were going to hear and I would get up
+and talk about this is how you kill your
+file share and I would marry that
+closely with the policy so it was a
+strategy on my part because I knew if I
+got in front of a room of a big enough
+room with the right people in it that at
+least some of them were going to were
+going to you know Buy in and I knew that
+I would follow up a the work right
+that's was I don't want to call it a
+shtick it was my strategy it was I knew
+that if somebody came to me even if they
+didn't have a dollar for me today that I
+would be able to provide value for them
+and then when they did have a dollar and
+they had a choice of where it was going
+to go I was likely to get it yeah that's
+sort of how I went about it that's
+really interesting yeah making something
+that is what I would say inherently not
+interesting right so when we're talking
+about anything data database data
+platform data science AI I mean AI is a
+buzz word right now but when we we talk
+about ones and zeros and all that unless
+you're like a data scientist or an
+engineer that focuses on that you know
+you're not going to talk about you know
+the real like hey you know no one's
+going to get really excited about data
+rest right or vulnerability testing but
+I think it's interesting that you came
+up with a way to make it a little bit
+more appealing or maybe to grab their
+attention and relate it maybe to the
+average person that's going to that's
+going to see you speak I think that I
+have tried to replicate that through
+throughout my career and I think I've
+done so pretty decently but that that's
+one advice I have for people if you're
+quiet join the military right and you
+have a military client like they joined
+because they watched Top Gun and they
+want to fly a plane I promise you like
+they they want to shoot the missile no
+ad no General join the military because
+they like want to talk about the Palm
+cycle or they care about some esoteric
+regul like I promise you like they'll do
+it because that's the requirement of the
+service but they hate doing it yep right
+they hate it and the ones who like it
+are so few and far between they're there
+for long enough to get promoted into a
+position that's really more interesting
+to them yep so I I have found it if you
+could be the person who they can rely on
+to take care of that issue for them
+because frankly for them that is a
+career killer you could be the greatest
+high-f flying Admiral or general in the
+world if some esoteric regulation goes
+sideways and that gets hung around your
+neck well you're not making your neck
+promotion absolutely yeah and the same
+is true for a GS right you're GS Who
+Wants To Be An sces but your division
+failed their Nara records inspection
+guess what you're going to be in that
+position for the next 10 years yeah a
+lot of people don't realize that you
+could be you know bullir kernel that
+just came out of the cockpit and doing a
+staff job somewhere and now all of a
+sudden your job is to build a god
+software tool and it fails you're not
+going to have the paperwork that gets
+you to the next level definitely not
+gonna happen definitely not so I always
+tried to position it in that manner I've
+always tried to say okay what are these
+esoteric things that are critical are
+required are important and how can we
+translate those in a manner that the guy
+who you know
+he wants to sing in a bar with Tom Cruz
+right and date Elizabeth Shu right like
+how is that guy how is that guy gonna
+translate right that
+so that I've always tried to focus on
+that and again I think if you're the
+type of person who can commit to
+delivery right so it's easy to be the
+guy who goes out and sells that is
+harder to be the person who you know
+takes the phone call like this is a true
+story I was on my honeymoon in Paris and
+I had a client need something and
+believe me I did not want to pick up the
+thong I did right that now I don't have
+to do that as often anymore but but
+early in my career the clients knew I
+would do it and that's that is what set
+me apart it wasn't some genius that's
+not me there's other guys who are a lot
+smarter it was the fact I pick up the
+phone I do yeah absolutely right
+absolutely right I mean I still have
+some high-end clients that I personally
+do some of the work for and if I'm
+selling for them it's the exact same
+thing like they know if there's a
+software tool don't call the help desk
+we can just he'll he won't know he won't
+know the answer but he'll put us with
+the right person or get it to him so
+yeah no I think that's a check with that
+absolutely so a so you're doing some
+great work so far and so now what comes
+next so after that you know I went to a
+small govcon company I wasn't there very
+long but we had a big victory there they
+were a subcontractor on a large GSA
+contract I'd come in their less than a
+year and I said hey this is coming up
+for recompete we're going to knock out
+the primes we're going to reverse that
+is this your company now your is this no
+this is yeah not my current an equity
+holder in that company okay I'm still
+Junior partner we make that coup we make
+the reversal we win the prime contract
+there's a big contract with GSA again it
+was a data project it's called Data to
+decisions what a great program so you
+know occasionally I always laugh at this
+government gets a bad rap and it often
+deserves it but on occasion government
+will do something that's really Forward
+Thinking at GSA at the time program
+called Data tip decisions and it was 10
+years ahead of its time and it was good
+then and it's still good I me it really
+was exceptional so we knocked out the
+Prime on that and then shortly
+thereafter you know I was there for a
+little more than a year I decided I
+wanted to go back and work for a
+software okay and I go work for a cyber
+security company and and we had crazy
+growth and that's that company you know
+when I joined it was probably worth
+between 20 and 40 million something like
+that and we ended up selling it for you
+know 50% of it on an evaluation of more
+than 100 you know 80 million bucks to
+Goldman Sachs and that was a cyber
+supply chain company and
+again gonna sound repetitive but the
+story was get out speak get on the news
+at that point I was making news you know
+Fox News and NBC right speaking about
+this stuff and again it was an esoteric
+let's it's so funny because this week
+there was a major supply chain attack
+that the Israelis pulled off against
+Hezbollah if if you're watching this the
+next few days those pagers that blew up
+in everybody's Pockets that was a supply
+chain attemp and so we're now in the
+middle of Co supply Chain's a Hot Topic
+right and I start selling supply chain
+security software and it was just
+perfect timing yep we worked really hard
+and and we did well there and and after
+that I I I started my curcum okay
+perfect well that so a ton of success
+there and anybody listening should be
+taking notes here especially if they're
+whether they're sales executive or
+they're they have their own business
+selling to the government even even the
+Consultants out there people starting
+their helping businesses because it's
+the same thing you're probably helping
+with the sales process somehow and this
+is these are not the things most people
+are talking about so carrent business
+what's the current
+business so you know in the prior
+business we had this crazy growth
+experience and one of the takeaways I
+had there that was a little bit
+different than what I had learned in the
+prior ones is that there is an
+opportunity to just grow through
+bidding and you know in the world of
+Government Contracting most of the
+contracts are already spoken for
+incumbency when rates are dramatic but
+there's something to be said and you
+always hear companies talking about bid
+to win price to win you know what
+sometimes you need to bid to
+lose sometimes explain that and by the
+way so just so you know and I when I was
+talking to I don't know if he's your
+Junior partner or if he just works for
+you but uh we were talking about he gave
+me a demo of your tools so obviously I
+know kind of used it which is really
+interesting by the way I focus anyone
+that watches this program knows how much
+I focus on finding opportunities before
+this solicitation comes out in fact I've
+said the exact opposite of what you say
+which is you know with our clients we
+don't let them bid on a proposal unless
+we've worked that thing six months a
+year beforehand and know and that pwi's
+up there and you know now but there are
+and I acknowledge this there are there's
+a lot going on in Government Contracting
+government buys a lot of different
+things and some things are never going
+to come out in theour of s some things
+do just you know especially with
+commodities but are lower pric items but
+you said a couple things that are
+interesting so you're going to explain
+when it is appropriate to to bid and bid
+a lot but what what does bid to lose
+mean there are some clients because of
+their insular nature you will not get
+exposure to them unless you're competing
+a c for them you can call them you can
+show up to conferences and they're going
+to brush you off because to to them
+you're a dad flood they already favor
+whoever the incumbent is or whoever they
+like and they're just not interested in
+meeting right so your opport to get out
+in front of them is the bidding
+opportunity they can't deny you that
+exposure and so I they do and let me
+just not to interrupt you but just for
+anyone watching if you write a proposal
+for a solicitation the government can't
+just not review it so now they have an
+obligation to review your proposal and
+this is probably where you're going with
+it so they are going to know your name
+and they're going to know what's in that
+proposal because they have to score and
+they have to read it
+exactly right that so sometimes you
+should bid to lose and and you don't
+treat that as a sales opportunity that's
+a marketing opportunity interesting you
+need to bid to get into the space and
+you need to be exceptional so don't go
+do that if your if your pitch is I'm a
+you know disadvantage business set aside
+and I think that makes me different
+guess what they don't care like that is
+not moving the needle if your pitch is
+hey I'm just another Staffing firm again
+not moving the needle but if you have
+something that is truly truly different
+about and you really feel that that way
+bidding to lose often makes sense
+because you will get exposure and they
+will read it and they may not say
+they're hiring you they usually don't
+but they will call you they will take
+your phone call and then either through
+another opportunity or as a sub to the
+contract you lost or through another
+mechanism you will usually find yourself
+in that space so for go ahead sorry I
+was gonna ask because it's an
+interesting honestly haven't heard of
+this approach before so it's interesting
+to me as a way of getting your name out
+there when you take that approach what
+are some best practices on hey I'm I
+know that or I have a strong inclination
+that I'm not going to win this I have
+something unique let's say it's a
+technology because we have a lot of
+Technology Sellers and whatnot but is it
+hey let's price this that we know we're
+not going to win so let's price this
+thing at the top and we're gonna get
+their attention we're gonna price it out
+but you can do do it both ways right but
+most govern businesses are purely
+derivative I mean they are carbon copies
+of one another that's so you need to
+pick a thing that could be price could
+be you're the low price guy hey we can
+do this cheaper because we use AI for
+these functions it could be we're more
+expensive but instead of offering you
+bachelor degree people everybody on our
+staff has a PHD in fact we did this I
+had one company where we had a ton of
+phds and that's what we did we said
+we're going to be more expensive but
+guess what everybody has a PHD in the
+subject matter that you work on and that
+will turn somebody's head they're
+usually not going to use phds for their
+low lower level staff but when they know
+they have access to somebody who has you
+know two phds in data science and then
+they have the specialized program
+they're going to come to you because
+aren't that many you know Experts of
+that nature around it's true and in the
+technology space what we're doing is
+we're basically and again that's where I
+prefer to be we had differentiating
+techn we genuinely thought we were
+Superior and we would give the client in
+our proposal even if it was even if it
+was something we knew wasn't strictly
+asked for we would give them examples of
+things we had done so real in the Cyber
+supply chain business we would go out of
+our way we would do a report on a system
+that we knew the government had and we
+would find all the vulnerabilities in it
+and we would say well just in case you
+have this you know Cisco switch or just
+in case you have this router here's a
+list of every vulnerability we found and
+oh by the way here's a picture of all
+the internals of this because we took
+the device
+apart that was not going to win me the
+contract usually it was always going to
+get me a phone call it was in a real
+sales process yeah I mean you know often
+when you're anything like that were you
+know Tech related cyber related you know
+I ran a rapid technology development
+branch which you know hit and tried to
+tackle things like Insider threat you
+know here at H with MIT Lincoln labs and
+different things like that and I had an
+entire staff of engineer I had probably
+40 plus Engineers working with us so any
+proposal that came in I mean immediately
+the engineers are going to take it and
+have you know they were going to have on
+it but if you gave us something where
+you took one of our systems apart and
+did a break down on an analysis and we
+poting of vulnerability there's no
+question there's no question the chief
+engineer would be coming in with that
+report saying hey did you see this and
+that that's that was the strategy so on
+the that was the strategy on sort of bid
+to lose so we had this experience I then
+started my current company which
+ostensively uses AI to bid government
+contracts now we are not focused on
+service style contracts right the large
+language models today can help you there
+but they're not there's no magic button
+but on the product contracts right where
+the government is buying toilet paper
+and so
+bullets we are I sounds selfish but I
+genuinely believe that this is the
+future of the industry because I now
+have a bot looking for the opportunities
+reading the opportunities pricing the
+opportunities writing the entire
+proposal and filling out the associated
+paperwork all my clients do is review it
+and that means if you're a oneman band
+instead of doing one bit a day you can
+do like 15
+well and that's you know writing
+proposals is that's where the work is
+it's in it's a ton of work to get one
+that actually you know looks normal and
+when you're talking about that too so
+there's this I guess you could call it a
+strategy I don't I kind of vomit inside
+my mouth a little bit whenever I hear it
+but so there's a lot on social media
+about this middleman approach to
+Contracting right and takes maybe a
+similar bent but that it's not really
+what they're preaching and by the way
+I'm not saying everyone that it's a
+catchphrase a lot of people are using it
+to get more views I've probably I think
+I used it once I said like middleman
+sucks or said middleman's or
+something but what a lot of them what
+they're saying is hey take these big
+contracts you can just you know find a
+solicitation on sam.gov you don't need a
+company go match it and write a proposal
+and send it in and you're going to win a
+contract and you know what I tell people
+is look I'm not saying you can't win a
+contract that way you can kind of
+depends on what you're bidding on a
+you're probably going to have to write a
+lot of proposals B to see any results
+from that which is what your what your
+system kind of helps with and by the way
+like I've had some of the the biggest
+proponents out there about this Strat
+because it's kind of like they're kind
+of promoting a get-rich qu and there's
+nothing fast about this and usually it's
+lowest price and it's a shitload of work
+and I think a lot of people get burned
+by it even if they do win a contract but
+I've had some of them reach out to me
+say hey Rick like what are you talking
+because I mean they don't have a
+background in this right and they're
+like I have to write I used to have to
+write 20 proposals this is what they
+told me on a phone call like I won't say
+the name of the person but I used to
+have to write 20 proposals to win a
+solicitation and this is for again
+Commodities usually or maybe like
+landscaping services something like that
+but now it's like he goes now I have to
+write like 50 to even get close so yeah
+writing those prop if you're going to
+take an approach like that and I think
+what what you're saying is that I think
+you're voring it more towards products
+is what you're saying like commodity
+type products right which which makes a
+hell of a lot more sense but again
+generated the proposals is that's where
+the work is so how quickly does this
+happen for someone and you know how
+confident can they be in like for
+instance you said it does the pricing
+right so if it's if it's toilet paper
+right you know it how confident am I
+going to be in the price that it gave me
+because if I win that contract now I got
+to provide $50,000 in toilet paper to
+you know I need or10 million 12th paper
+yeah so a couple different things in
+this and I think to separate service
+contracts from product contract biggest
+client by revenue does more than a
+billion dollars to the federal W and our
+smallest client by revenue is like a
+oneman band right you know and they're
+doing less than a million dollars a year
+the truth is the win rates between the
+small one and the big one are not very
+different okay the big boys
+win between five and eight% and the
+small guys win between four and seven
+okay percentages are not that I mean
+we're talking about a point either side
+occasionally you'll see a breakout
+client they'll win 12% that year and and
+usually that is a breakout year they
+have some exceptional deal with a note
+so it is a numbers game and it is a
+small margins game so the guy who's
+reselling software you know he's making
+one two three four 5% is a golden number
+the guy who's selling Hardware is making
+four five six maybe eight% again a
+golden number very small margin so in
+that space right the automation is key
+right I mean if I can take you from
+bidding one or two things a day per
+inside sales up to 10 12
+15 fundamentally different game bre
+absolutely in terms of trusting the
+pricing well that has to do with your
+OEM relationships and this is where you
+see big
+differentiations the bigger companies
+have established credit lines
+established relationships with the oems
+so they're tending to get if not
+Superior pricing they're tending to get
+the same pricing back faster than the
+small guy who's never done business with
+the toilet paper
+man but again the win rates are that
+different because the pricing that the
+oems give out really isn't that
+different yeah the big guys will have
+slightly higher margins because they
+have Superior Credit the small guys will
+have slightly smaller margins and again
+that's all L price technically
+acceptable to win yeah and and then when
+we look at that we're not just looking
+at the federal government we're looking
+State local Federal lot of school
+systems and it is the boring stuff it is
+the boring stuff that makes the world go
+around again people listen you take the
+toilet paper out of a high school for
+one day I promise you that high school
+is not going to
+operate it is the board stuff absolutely
+get good at the boring stuff and you can
+that's where you want to hang your hat
+and make some money right um hey we're
+sitting here talking about Government
+Contracting and toilet paper for a
+reason so yeah no no kid I promise you
+no kid thinks to themselves man I'm
+gonna be the toilet paper king of
+federal Contracting like that's that's
+not an exciting thing but uh but it is a
+thing that people make money on I'll
+tell you Crayola crayons people make
+billions of dollars every year just
+selling crayons to school districts
+that's all kidding yeah and so your tool
+I think you said said that the tool
+finds the leads takes care of the
+pricing basically puts the proposal
+together and then sends it to me the
+business owner to review and then I send
+I submit if I want to submit it you
+submit you let it rip if you want to let
+it rip interesting and I but I have to
+have the pre-existing relationships in
+place and locked prices in with some of
+these vendors so the bot has the
+capability of finding you online pricing
+and and we do have clients that do that
+I will say two things there one you're
+not going to have a credit relationship
+with that OEM so you're going to be
+paying upfront to buy those goods yeah
+and two you're going to not usually have
+the best pricing so the clients who win
+most frequently are establishing OEM
+relationships now where clients again
+find a lot of success is if you show up
+to an oem say hey I'm you know Joe scho
+and I want to sell your products Crayola
+crayons Crayola crayons is gonna tell
+you to pound sand right but if you show
+up hey I got a $2 million opportunity
+here I think I can do this right that so
+when the bot finds that the smart
+clients get on the phone and go build a
+relationship building a relationship
+around a dollar figure is so much easier
+than just randomly yeah no question and
+that's what the sophisticated clients
+are do yeah always bring them an
+opportunity as a side note I had some on
+that we were interviewing and they had a
+client call them because they just won a
+contract for $100,000 in toilet paper
+and they based the price off of
+something they saw on the Walmart
+website then of course they went to buy
+$100,000 in toilet paper from Walmart
+and they told to pound sand they're like
+no we're not selling you $100,000 not at
+that price and you know Etc so I don't
+even remember what happened to them I
+think they ended up calling the
+Contracting officer and killing the deal
+but yeah so you're right you Gotta Be
+You gotta be super careful and and make
+sure you have those agreements in place
+so so the right way would and I don't
+know if this client did this but the
+right way to deal with that would have
+been to reverse negotiate that's so you
+can't go to Walmart but I promise you
+there are you know dozens of principal
+Distributors who would have taken that
+deal and they would have taken that deal
+and given you a margin on it yeah and
+again we talk about sophisticated
+clients will have clients going back to
+price to win they will price to win
+because they know once they have the
+contract in hand they're leverage to now
+negotiate with the oems is dramatic oh
+absolutely absolutely not to mention I
+mean you know we have some clients that
+will go intentionally low just to win
+the contract just to win initial
+contracts just so they have past
+performance then come back and be a
+little bit more credible coming to the
+government so incumbency is a major
+thing people people underestimate the
+power of incumbency and I tell people
+all the time and to get back to your
+point on the middle Manning business
+that there's I don't want to call it a
+scheme but there is
+definitely a group of people online
+predominantly on YouTube who are saying
+something it's it's amazing they they
+wrap the lie with a veneer of Truth and
+it's hey this is a great opportunity and
+you should bid things and get aggressive
+and and those are all truth you should
+do that but they'll also say things like
+the you'll see the title of their video
+it'll be no experience1 million 12
+months right like come on and they'll
+tell them other things like get all your
+set asides that's what's going to make
+the difference and hit to break it but
+you could have every set aside in the
+book and you could you know just wing it
+until you're blw in the face and that is
+not going to vake you a business you
+might win some stuff you probably will
+but you're GNA make no money and you're
+going to be in a tough spot when Uncle
+Sam's angry at you for failure to
+deliver and so if you want to be in this
+you need to do it as a business and and
+I'll tell you we see this amongst our
+clients clients who win most frequently
+do basic salesmanship they call the
+contract officer so I will have clients
+who both will do 50 to 100 bids a day
+using the machine and the client who
+picks up the phone and just calls
+contract hey I'm you know I'm Janet I'm
+from so and so we're bidding this
+contract we know we haven't done
+business with it before so I wanted to
+introduce myself that client wins at a
+much higher rate than the one who
+doesn't do because with prices are the
+same when the prices are the same
+they're always going to go with the
+company they've talked to yeah you know
+some folks don't want to do that work
+yeah I mean look you got to have trust
+in I don't think I ever was involved
+with awarding a contract to somebody to
+a business where I didn't at least know
+before the solicitation went out that
+there was a business out there that
+could actually do the work and usually
+that business was in our office trying
+to affect the solicitation develop the
+requirements somehow but I mean even you
+know I wasn't involved with putting
+toilet paper on but look if I was
+certainly still the relationship matters
+right if I know a company can do it if
+it's a local business and I know they
+have past performance I know the person
+you know because again everyone's got a
+career they got to look at look for
+right so what happens to the the CEO or
+the program manager that's putting
+companies on contract that fail to
+deliver right yeah well they're not
+going to be that position long or they
+will be and they'll never Escape it
+which is worse in some respects they'll
+be there for the next 15 years without a
+promotion that's I will say in the
+product space contract officers will
+award the companies they haven't met
+before because there are some products
+that are esoteric you know
+in this country there are about
+36,000 Municipal Water treatment
+facilities and every single one of them
+is buying forid and and various forms of
+chlorine they're going to buy the lowest
+price technically well let me ask you
+this too because I guess to your point
+and it's not this is not something we
+address on our Channel very often just
+because who our viewers are but there
+are also places that just sell things
+like products Commodities you know
+there's like divs and ebi and some other
+yeah is it bu so does your tool generate
+proposals for something like that as
+well yeah yeah absolutely in fact that's
+you know for our business is gonna our
+business is moving in two directions
+simultaneously we are focusing really
+hard on dibs NASA soup to get so these
+vehicles that have more commodity
+purchasing the old GSA schedule 70 mass
+schedule a lot of that we're focusing
+the second development we're making is
+in helping and this is still a little
+bit of a ways out but we are starting to
+help companies who are doing more
+service oriented conts and and our and
+our offering there is going to be quite
+different because you cannot write a
+good proposal that's purely automated
+that will never happen but what you can
+do is the bot can help you identify the
+right ones for you and the bot can help
+you to scope sure and what we're seeing
+in the market is there's loads of folks
+who want to charge you $1,200 a month or
+something and that is just a ridiculous
+number so we're moving in that direction
+a little bit what we're what we feel we
+can offer that's a little bit special is
+what we call
+historian it's a program it's in beta
+we're using it with some clients now but
+historian helps to predict both when the
+government is going to buy something and
+winning price is likely to and oh that's
+interesting that is proven to be very
+efficacious in the product side but so
+you know if the government buys you know
+this wing nut for 25 cents a wing nut
+and they buy 2 200 of them every
+February you can reasonably predict that
+this February they're going to buy that
+now there's a more to go into it than
+that because the government doesn't buy
+at a steady rate it would be great if if
+Government bought like this that's not
+how it works but the same is true also
+on the service contract right so you
+know if there was a you know a 10 FTE
+you know contract with the secnav doing
+it and that was released four years ago
+well the likelihood they're going to
+re-release that is quite High yeah that
+is not going to help you to just win a
+random contract it will help you to say
+okay I need to set my BD to go meet it
+in the second sure I mean like a gowin
+IQ will do that on some opportunities if
+they're tracking them which of course
+it's govern IQ is also really expensive
+but but it certainly it's usually not
+giving me an idea of the price I mean
+not is I take it with a grain of salt
+when I see and there are other tools
+that do something like that too but yeah
+there are other folks there our view of
+this isn't that end of the business is
+the most exciting frankly the most
+exciting part of our business is the
+product side right because we like I
+said We Believe fundamentally We're The
+Game Changer in in two years time if
+your company is selling Hardware
+software or hard goods and you're not
+using us or if there's some equivalent
+at some point I don't think you'll be a
+successful business yeah we just draw
+down the cost so much it's not even
+close yeah it sounds like you'd say I
+mean just on the team of people you'd
+have to hire to generate that much I
+don't even want to call it content but
+proposals I mean look somebody who's
+writing proposals who's writing white
+papers and Source a s and request for
+information like I don't know if it's
+going to go there at some point the tool
+but anything that can and you're right
+AI doesn't do it people know if AI
+writes something like that it can give
+you some it can help you out in certain
+areas but yeah a tool that can really
+cut down on that and start linking some
+of it finding the opportunities to go
+after doing some of the writing so
+helpful so that and that's on the
+services end we that you know that's
+really into next year we're going to
+look to go there but we are going to do
+some of that but again it's wrapped
+around this veneer of data right there's
+a I can you know there's a dozen
+different companies that are available
+right now who will pull something from
+Sand doov and have their chat GPT pass
+through and and they're gonna thewing it
+that's not interesting to me what's
+interesting to me is we've collected
+some past award data and we we can rough
+out what that client's going to need and
+we can give you the the opening brush
+and not at some crazy price that's so
+again we're very transparent you know we
+do what we do for 25 a proposal right
+that so you have companies who are
+spending yeah like so you have companies
+who are spending you know eight or nine
+man hours or 200 man hours to bid one
+product contract right and that was
+costing them hundreds or thousands of
+dollars and now they come to me it's 25
+so even if they disagree with the bot I
+wouldn't make a change right it's a
+10-minute ordeal right not a you know
+not an all day experience and I think
+that's where this is going to go on both
+sides product and and services now when
+we just one one more question just to to
+get a little bit more granular on my end
+so you kind of separated services and
+products but we were kind of talking
+specifically about lower price products
+like the toilet papers and the whatnot
+we get services on the other end but
+then there's also very high-end products
+I guess you could call them I usually
+don't think of software is that but you
+do you have software licenses that are
+million dollar contracts stuff like that
+now did your tool handle look at our
+biggest clients that is where our
+biggest clients are our biggest clients
+are names that you would know I'm not I
+can't share them but you would know them
+they're the they're the big boy vars
+right and they're now using us to do
+what used to be called bidboard work
+they're now using us to do that bidboard
+work oh and that and some of those wins
+are million dooll wins right now again
+software the margins are much smaller
+than toilet paper but unless you own a
+software company right right again but
+again then you're not selling you're not
+a VAR you're an oem right the VAR the
+vars you know who they are you show up a
+little big conferences
+that is the future of that business
+because it simply doesn't make sense the
+margins are very thin the need to
+respond is very high right and and the
+more you can squeeze there and I equate
+it to the ATM if you look at the Advent
+really came out in the you know mid 19
+1970s you know the ATM did not cause a
+contraction in banking and actually it
+didn't cause a contraction in bank
+tellers the ATM caused an explosion in
+the number of banks because the at M
+allowed Banks to be more profitable per
+unit right that's so there were you know
+I can't remember the exact number off
+the top of my head a half a million
+tellers you know in 76 and there's about
+a half a million tellers now it's just
+that there's 20,000 more Banks right
+right that's what's going to happen in
+the VAR space what's gonna happen in the
+VAR space is more AI comes in is that
+vars will have to differentiate either
+by driving their cost slower which is
+what we're offering but also by having
+specialty salese so I really understand
+Isco or I really understand Dell that so
+you're buying for me for the same price
+as the other guy but when you have an
+issue right it gets back to what we
+started with when you have an issue I
+actually know how this stuff works right
+right you have actual service it's a
+real value ad yeah and I think we will
+see that transition it will take some
+time but over the next five years that's
+where this Market's going you'll see the
+big boys do better and you'll see the
+small guys do better I think it's that
+middle rung that that will they'll
+either become big or they will become
+small because they have or haven't
+adopted quickly
+yeah no it's really interesting so I
+guarantee there be a lot of people that
+watch this and go hey well I want to use
+this so what do they have to do if I'm a
+business owner and I am interested in
+using your tool where do I find it and
+how do I sign up for it and what can I
+expect the process to be like yeah well
+you go to American AI Logistics uh I
+probably should have come up with a
+better URL but American AI Logistics is
+where you can
+go. you can go there and you can connect
+with us uh the process is really
+straightforward actually you know first
+we we ask to know what you sell that's
+so we won't take on a client if they
+sell you know called the purple squirrel
+right government does if there is a
+purple squirrel the government would buy
+it but they they'd only buy a couple
+right so first we do an analysis of what
+you sell and whether or not there's a
+sufficient Market there for for us to
+Warrant being your
+partner most of the time if you're
+calling us the answer is yes but but
+sometimes no we we're very honest about
+that because clients won't renew with us
+if they're not there's a selfishly I
+need the clients to win because that's
+why they renew and so we go through that
+and after that it's we demo it we show
+it to you and then we let you start and
+usually within a week or so clients are
+receiving their first bids we train the
+bot against your requirements and we let
+it rip interesting what if I'm a what if
+I'm a small business that has never sold
+anything to the government I just want
+to start a business is that something
+that they could work with you on or we
+do that's so we do take we do take some
+of those clients we're also I don't want
+to say pessimistic because it's too
+strong of a word but we are realists and
+we tell them so right that so the single
+biggest the single biggest you know
+determining factor of whether or not
+somebody's going to be successful is not
+us it's them right and so if you're not
+submitting the bids you will lose yeah
+if you're not calling the oems you will
+lose and if you're not calling contract
+officers you will lose more
+frequently and we can tell within 90
+days of somebody in that situation
+whether or not they're going to be
+continuing with us because we can see
+the numbers we can see how they oh they
+call and because of the win rates right
+we know if you haven't submitted if we
+gave you 100 bids and you submitted 20
+well statistically you're not in great
+shape yeah if we gave you 100 bids and
+you submited 100 you're going to be
+renewing with me yeah so we will work
+with them but we also won't you know
+won't spin them a tail about what's
+going to happen there isn't a magic
+process here no matter what some of the
+YouTube guys say like you have to be
+procedural about this where you won't be
+successful yeah it's super interesting I
+could tell it's a big time saer I'd love
+to play with it maybe on one episode and
+just uh kind of show people what it does
+I also think that we didn't touch on it
+but the ability
+to if it's finding leads not only in
+federal but in state and local which
+trying to do all that we generating is a
+job for in some cases more than one
+person if you if you talk to me yeah if
+it's doing that for you what a time saer
+that you know it's funny because we have
+some clients who really obsess they give
+us opportunities they say we don't like
+the way you do your picking we want okay
+and then they use us for pricing and
+then we have other clients who like to
+keep their pricing secret they don't
+want the bot to have anything to do with
+her but they love the bot I would call
+it the bot that we we love it's the real
+name is autobid but we Cally call it the
+bot they love the bot for finding the
+opportunities and we have a group of
+guys based in Massachusetts and that's
+really what they use the bot for because
+you know let's say you do let's say you
+sell you know toilet paper again we're
+picking this really fun subject you
+might only sell toilet paper of a
+certain size or maybe you only sell it
+in bulk or maybe you only sell it
+individually wrapped and as it turns out
+you're not going to be eligible for
+every toilet paper contract so the
+existing tooling out there does not they
+don't discriminate bids along those
+lines they give you keywords what the
+bot is looking to do is it is actually
+reading them like having a it's like
+having a sec it's about as smart as a
+secretary like you know it'll read it
+and it'll say oh this isn't for you
+because you do individually wrapped and
+this is bulk right right and we have a
+lot of clients who use us you know they
+love us for that reason we can save them
+having to you know scroll through 2,000
+things a day yeah huge time saer it's a
+very unique solution you've got there
+well look thanks for coming on here I
+know John you had to take time out your
+day to be on and but we really
+appreciate it I'm sure the viewers are
+going to appreciate it any any last
+words for those those budding government
+contractors out there you could do it
+you can totally do it that's the one
+thing I would say like don't get wrapped
+around the axle this is totally doable
+like just get into it jump in with both
+feet and ask questions people want you
+to succeed and it's but anyhow it's been
+my experience people want you to succeed
+go do it okay well great hey I'm going
+to leave all your contact information in
+the show notes if anyone wants to reach
+out if anyone wants to check out our
+website gum close.com and get certified
+in Government Contracting sales any of
+that you can go there and we will see
+you next time

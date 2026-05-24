@@ -1,0 +1,1254 @@
+Kind: captions
+Language: en
+hey guys Ricky here owner of dodc
+contract.com you know the US government
+is the single biggest purchaser of goods
+and services from small businesses and
+they buy just about everything if you
+want to discover what your Niche is see
+how much the government's spending in
+your category head on over to dodc
+contract.com we have lots of resources
+there depending on what your budget is
+and where you are in the process to help
+you find your way through the Government
+Contracting process and start closing
+those six to figure government contracts
+now on with the
+show well hey everyone uh Ricky here
+with DOD contract Academy and today I'm
+very pleased to bring you Frasier
+kitchell from uh he's the CEO and
+co-founder of kef Robotics he frer how's
+it going good how are you kick playing
+kick play I know we just talked about
+you wearing a hat versus me wearing a
+hat and you know really cold where you
+are so just kind of uh sharing uh guys
+with shaved heads have I guess some
+similar hey that's kind call my head
+shaved I'm just a Balan guy and I'm in
+the first floor of a warehouse in
+Pittsburgh it's something like 17
+degrees out today so you know they say
+men uh that go bald have more
+testosterone than men that don't so
+that's what have better leadership
+quality so that's I think about that a
+lot I would send that article out
+actually every unit I was in in the Air
+Force just to kind of get a rise out of
+people but um whether it's true or not I
+I can't speak to it but hey no it's it's
+great I'll kiding aside it's great
+having you on here and I know just from
+a brief conversation before uh you know
+Brian stream who we've had on the
+podcast so and you guys are when I look
+at your contract you have some similar
+success stories and and and some great
+wins so why don't we start with what is
+kaf robotics what problem you guys are
+trying to solve and what what are you
+doing in the world okay great yeah so I
+usually describe KF at a high level as
+we're trying to use cameras to fly
+aircraft so we're an autonomy developer
+we develop software to fly other
+people's aircraft using specifically
+cameras so um that's different than some
+approaches you know we're we're a
+passive sensor um we're kind of like the
+we're replacing the eyes of a pilot and
+we're trying to move some of the
+intelligence of a pilot on board the
+aircraft so so that's kind of our Niche
+um we were founded four years ago I'm a
+co-founder and the CEO the business M
+and um it's our our general thesis is
+that aerial autonomy is uh very hard to
+develop even even large companies like
+primes will struggle to develop it even
+if they can build great aircraft the
+autonomy problems quite different right
+and then we also believe that cameras if
+you can extract data from them are a
+really great sensor to use so um they're
+challenging to use because they actually
+bring in so much data and then you have
+to interpret it with algorithms that's
+that's challenging but that's kind of
+where where we live as a company okay
+interesting very interesting Okay so
+we've got kind of the snapshot of what
+you guys are doing so let's take it back
+right so you know I've got your at least
+your LinkedIn profile up in front of me
+here so I mean it looks like you have a
+a really H great past history Carnegie
+melon maybe we could talk a little bit
+about you know coming out of school um
+and your experience um you know in the
+world and and what led you to create a
+KF yeah absolutely so so KF we have our
+name because it's Carrie Eric and
+Frasier they're just the first initials
+of the three co-founders names and um
+prior to founding our business in in
+December of
+2018 I think it was um we all worked at
+a research and development group within
+a space robotics company and for that
+space robotics company we were working
+on algorithms to develop to well to
+allow spacecraft to land on the moon or
+on unmapped bodies of the solar system
+so um so that's through that we actually
+started using drones and kind of using
+cameras as well prior to that business I
+always tell people I'm not an engineer
+by training and I'm not a roboticist and
+uh I went to Carnegie melon for grad
+school to study energy science and I
+discover if you know Carnegie melon you
+know it's a Robotics and artificial
+intelligence Hub and I discovered
+robotics while I was walking down a
+hallway and I saw a poster about um like
+saying Carnegie melons going to the Moon
+I was like oh that's cool I'll just drop
+in on that class for a day and I knew
+within five minutes I was like oh this
+is what I'm going to be doing going
+forward like I'm forget about energy I'm
+gonna be working with roboticists and
+this is what I want to do I want to have
+like an adventure basically with my
+career yeah um so just going back for
+you know listeners uh you know just to
+inform people like I was biologist
+before that so I I got a biology
+undergrad degree um so I was in the
+Sciences I'd worked in uh for a
+mechanical contractor doing energy
+systems for buildings so I was working
+with
+engineers and um my role in KF is to
+manage our engineering team and and try
+and guide our strategy and make sure we
+have a good product Market fit okay so
+none of my educational background kind
+of led to that it's just sort of
+something I found my way
+into okay fantastic you know it's funny
+uh just listening to you talk about like
+removing the pilot from uh the aircraft
+is a former Navigator uh those was first
+half of my Air Force career I'm all
+about taking the pilots out of those
+aircraft I watch Pilots so many Pilots
+try to kill me over those uh over those
+those years that I'm I'm a big fan of
+this so on my pile of buddies will send
+emails after they they listen to that
+but no what you're doing what you're
+doing is amazing and there's a huge need
+for this right there a lot of different
+efforts right now um autonomy related
+efforts especially when we're talking
+about uh flying aircraft and I don't
+know if you get into uh swarm technology
+or any of that stuff that that we've
+been hearing about but as we start
+moving forward you so you you had this
+kind of epiphany with uh with robotics
+right and um and then eventually you you
+start uh kef and you guys all it sounds
+like you guys all work together um you
+know when you made the transition did
+you start did you start the business
+before you left did you start it
+afterwards and then just go full full
+force or yeah we we uh we worked
+together for something like four years
+at that prior business and we had a lot
+of really cool successes we um the
+biggest probably accomplishment I point
+to is we won a NASA Tipping Point award
+which was a 10 million dollar award to
+develop terrain relative navigation to
+land a spacecraft on the moon so if you
+know how we land spacecraft on the moon
+typically you just sort of know where
+you are in orbit and you start firing
+your thrusters and you land and you have
+this massive kind of ellipse that you
+might actually land in because you're
+not doing much navigation or guidance as
+you go down to the surface right so we
+were developing techniques so you could
+use a camera and you could look at the
+ground and if you don't have GPS around
+the Moon you can you can use that camera
+to reestablish your position as you
+descend sure so we could take that that
+error and bring it down to like the size
+of a football field from the size of
+like a couple kilometers long oh that's
+awesome so like terrain mapping feature
+is that kind of Yeah so basically we
+know exactly what the surface of the
+Moon looks like the moon's actually
+pretty easy to do this on because
+there's no clouds there's no weather the
+lighting is very predictable years in
+advance um so and and here's um so so
+basically we're developing those
+algorithms and the way you develop those
+algorithms on Earth as a lowbudget you
+know space robotics company is you is
+you find an analog to a spacecraft and
+you fly it a bunch and you develop the
+algorithms so the closest analog the
+cheapest analog is to fly a drone and
+we're um so we're using cameras we're
+flying drones we're turning the GPS off
+because we're not GNA have GPS on the on
+the moon right and we're like well let's
+see who's doing the best work in this
+field and as we kind of um came to study
+it and know it more we're like well you
+think we might be doing some of the best
+work in this field and um long story
+short as you know you can imagine when
+three people leave a company there's a
+little bit of friction there so we had
+some friction with our upper management
+sure I was actually on the upper
+management in that company but um we're
+like why are we doing this for somebody
+else let's go do our own thing and not
+have this thing kind of sitting above us
+so so um we started um the first thing
+we did was we're like okay well we're a
+small business nobody knows us yet we've
+got to get on the map so we entered into
+a locked Martin sponsored competition
+called Alpha pilot okay which oh you
+could Point your readers to but um long
+story short is that was highly
+publicized um we qualified in first
+place going up against all these other
+teams in the world as a team of three
+and I can't code so it it's really two
+software developers and that got us on
+the map we were in the New York Times
+before we were 100 days old and awesome
+we just like we we parlayed that into
+our first DOD contracts with Special
+Operations actually with softworks okay
+awesome and then we're off and running
+so now we support uh softworks the Air
+Force Socom ditra Army um a whole bunch
+of DOD Partners yeah I know I mean I
+could see you get a lot of uh contracts
+here so getting into so you have kind of
+a non-traditional I guess most companies
+small businesses don't don't get the uh
+the benefit of kind of being in the New
+York Times and all a lot of the
+publicity and stuff going into it how
+was your experience um getting your
+first DOD contract you know with softw
+works is that something you found and
+you applied for did they reach out to
+you uh how did that work oh man so it's
+like it's like being in the right place
+at the right time and just getting a
+little bit lucky and also just sicking
+our necks out so um we uh knew that our
+technology was mostly applicable to the
+dod we don't really actually even to
+this day believe in the commercial drone
+Market we we don't see a lot of people
+using autonomous drones we don't think
+the FAA is going to let you do that so
+um we uh somehow found out about Special
+Operations Command you know none of us
+are DOD
+background we heard that the best
+conference was something called sopic
+which happens in May which uh that was
+about six months after our founding so
+um we reached out to a few people before
+we went down there got some meetings
+lined up uh showed up and just started
+telling our story and um actually I went
+on a tour of softw works so softw works
+if you're if your listeners don't know
+it's like a very open kind of nonprofit
+that's aligned with Socom very easy to
+do business
+with they gave uh so the the head of
+software gave me a tour and at the end I
+said can I get five minutes of your time
+I told him what we were working on and
+he said write me a white paper
+and uh we wrote him too we sent him over
+the weekend oh that's awesome and
+something like six weeks later we were
+on
+contract okay interesting so so and it
+was it's not an SBI it was a direct
+contract from softw works and we just
+happened to be developing a tech that
+they had been trying to field um they
+trying find commercial providers for for
+years right they had done a big down
+select this is before KF was even
+founded uhhuh one of the teams that they
+down selected to dropped out and so we
+just know we were in the right place at
+the right time signed that contract and
+now we're on contract number four with
+them that is very
+unusual very unusual so for everyone
+listening don't expect to be on contract
+that fast with the government um no but
+I will say special ops like within
+Acquisitions so I spent half my career
+in Acquisitions the latter half um
+traditional Acquisitions as you probably
+went on to discover typically takes a
+long time time uh at least long compared
+to commercial timelines but the Special
+Operations units and and we work very
+closely with them on rapid uh like
+prototype development technology
+different things like that LPI LPD what
+whatever you know the the thing of the
+day is but they can rapidly put
+something on contract and and of course
+they should be able to right because you
+have a guy out in the field that he
+needs something right now they need
+support right so they are very good
+about finding what they want and getting
+what they want and getting it on
+contract
+it's unusual it's it's very um it's it's
+it's specialized and unique within uh
+DOD Contracting so that's awesome that
+that was your your first experience with
+that so now I did see some SBI contracts
+under your uh under your belt in the uh
+in the federal system here so when did
+uh that come into
+play so I think our first SBI was
+through
+afors and this is another like every one
+of your listeners who's trying to be a
+small business should be talking to
+aworks is my my opinion and softworks
+yeah so aworks they release a open topic
+they select you know they're looking for
+non- traditionals they give you low
+dollars to get your foot in the door
+with the Air Force so we um probably
+along with literally 400 other companies
+want to um phase one sbir from AF Works
+probably at month 9 10 of our business
+okay and obviously aerial autonomy you
+know we're somewhat aligned with the Air
+Force even though we're talking about
+very small aircraft versus their large
+aircraft and then so um from that phase
+one we ended up getting a lot of
+meetings with people in the Air Force
+and we got a phase two um the phase twos
+are large I think ours was 1.5 million
+which for us was like that that could
+support our whole team for two years at
+that point yeah and then um we've now
+collected some sbirs from army
+applications lab which I believe is
+under Futures command so that's another
+fast moving group within the Army
+amazing turnaround time from submission
+to selection there too something like 10
+days yeah the award took longer um we
+have an spbi with chem biod defense
+which is under the Army that's a phase
+one uh that took quite a long time to
+close that's more like traditional SP
+probably took sure nine months from
+selection to
+award um and then we we actually do have
+some commercial contracts now as well
+but um generally we've just stepped our
+way through the SB process we we knew it
+well from writing NASA sbirs at our old
+company okay so we kind of had Carrie
+Eric and I very dialed into how you
+write a compelling SP and how you get to
+know the TAC the technical point of
+contact before you write you know so you
+don't you don't send anything in blind
+you don't hire professional writers you
+do organically um so yeah we probably a
+little bit more experience than most
+young companies had there um but I still
+still feel like if you know the rules of
+the SBI world you can be highly
+successful you can have a 50 60% win
+rate you uh you bring up something I
+think that's extremely important and I'm
+not sure that we've talked about it on
+the on the podcast before which is when
+you actually start getting into the
+solicitation writing um there there's a
+bunch of businesses out there that you
+could hire and that's what a lot of
+businesses want to do they want to go
+out and they want to hire someone to
+write the solicitation for them because
+feel like either they don't understand
+the process or they don't have the time
+but and what you just alluded to and
+what I've seen whether it's with my
+clients or on the Air Force side on the
+government side is that if you if you
+have to write a proposal whether it's
+for cber or anything else nobody
+understands the technology and your
+company better than your company so a
+proposal writer and if you've done this
+before you don't need them but what I
+think a proposal writer can do is maybe
+say hey this is the structure of a
+proposal this is what a compliance
+Matrix looks like but even if you hire
+somebody if you want to if you want a
+product that makes sense at all you're
+putting in almost the same amount of
+time because you still have to write out
+all of the technical work you have to be
+involved with the pricing you have to be
+involved with that process um so I think
+you're right I think writing it yourself
+my advice is always write it yourself
+and then maybe get someone if you need
+someone to review it just to make sure
+that it you know hits you know you
+understand the fire Clauses and things
+like that that's great but yeah so so
+you mentioned that so writing it
+yourself is writing a compelling
+proposal uh is what you said and you
+mentioned uh talking with the teok
+beforehand I'm not sure we we've
+discussed that on the podcast before
+maybe you could tell me why you would do
+that who they are and why that is
+important yeah so it's our general
+belief that um almost every SBI is
+written with
+with I I hate to even say this but this
+is just my belief so I I will say it so
+a lot of times the the the teac the
+technical point of contact has been made
+aware of a technology need from somebody
+inside the government who's probably
+been uh has some teams already in mind
+that they know can provide that solution
+so it's it's our opinion that oftentimes
+those solicitations are written and
+unless you're sort of the one that
+seated that idea in the minds of the the
+people on the other side of the fence
+that you don't get to talk to you don't
+have a really good chance to win the SBI
+so a really good way and you know
+company you're all about minimizing your
+effort or like really streamlining your
+effort so you can't you can't submit 20
+proposals you you your business would go
+under you have to you have to submit a
+few and hopefully win most of them so
+you should be immediately when the
+Topic's released finding out who's on
+that who's associated with that
+selection or that kind of guidance of
+those proposals to the selection
+committee and you need to be talking
+talking with them verbally uh on day one
+hopefully about what you're doing and
+you should be reading between the lines
+of the feedback they give you which they
+can't give you explicit feedback but you
+know am I gonna be able to write a
+compelling proposal here yeah and so if
+you're not even talking to that person
+then you're you're probably not going to
+win um you're just going to be an
+anonymous company um that's you know
+developing a tech that they they know
+nothing about yeah um so that is that is
+really interesting you know we talked a
+lot about the um maybe the official way
+you know of writing a proposal based on
+a solicitation and but I tell everyone
+listening and I tell my clients is you
+got to spend you got to live in the
+market research phase so I tell them
+don't even respond to a solicitation you
+know typically you're looking for
+something like a request for information
+source of s some way of finding out
+about that opportunity ahead of time and
+then you're in that office and you're
+talking with a program manager and
+you're talking with them so they know
+who your company is so you can shape it
+and so they know who you are right and I
+I've said before like I didn't always
+get to hire the company that I wanted to
+as a program manager you know but I
+almost always knew what company I wanted
+to hire just to speak to your point
+about cber right so even though I
+typically talk about regular
+Acquisitions with the cber process it's
+it's kind of the same thing right I mean
+you're it's it's a little bit different
+but in the sense that the cber the sbir
+office is typically a different office
+than you know the users or the you know
+a traditional acquisition shop but all
+of those topics come from somewhere so
+when when the government wants to do
+something with autonomous flight or
+vertical uh lift aircraft right somebody
+somebody in the government gave them
+that um that technology request and you
+know different government agencies want
+cber dollars to fund what they're doing
+so they all kind of compete for uh you
+know what these topics are going to be
+so you're right I think that's something
+people need to think about is you're
+right there there's definitely companies
+talking with the user agencies about
+what they have and a lot of that's going
+to shape you know what they're
+requesting so now you have that SBI
+office and they're aware of that so that
+that's actually really great advice is
+going in there talking with them letting
+them know and you could and like you
+said you're probably gonna be able to
+get a sense of whether or not that is
+even worth you applying for because they
+they probably will yeah they'll probably
+give you enough between the lines for
+you to understand if you're competitive
+or not yeah so I I'll tell tell you guys
+a story um that we had recently so we
+had a we had an Air Force or we saw an
+Air Force sbir come out MH that looked
+like it had been it couldn't have been
+written for KF like more like it was
+almost like we wrote it yeah they wanted
+a a company to come in that had a mid
+TRL technology ready technology
+Readiness level um capability to do
+terrain relative navigation they wanted
+to do a no Hardware upgrade of an
+aircraft that's what we do we basically
+take your existing camera we make our
+algorithms run on that and it had all
+these specific things that were like oh
+this is this is great but we were
+nervous because we hadn't seated the
+topic and we know there's other teams
+out there that are competitive and we're
+like okay well the fact that this came
+out like we'll write to it we did write
+to it we wrote a really good proposal
+and we had a great Prime that was GNA
+give us you know hundreds of thousands
+of dollars of free flight time on Range
+aircraft like really strong proposal in
+our mind we didn't get selected and we
+weren't entirely surprised by that
+because
+out of all the teams that you know KF we
+could write a really compelling thing on
+paper but unless they know us this is
+still a human- to human business they're
+not going to stake their million dollars
+on this unknown team or this small team
+when they have somebody who's maybe 80%
+as compelling a proposal but they're a
+known commodity yeah so it was it I mean
+that's just one Parable but it kind of
+brought home to me like even if you're
+the perfect team with a perfect Tech
+don't expect to win unless you yeah
+unless you've done something and that
+doesn't make me upset like I want the
+government to know their winning teams
+rather than just select it off of a
+written proposal because I think that's
+you know you have to be playing the
+technical game and the Business
+Development game to win absolutely you
+have to be able to organize in all those
+multiple fronts so was that a phase one
+or phase two that was a direct to phase
+two okay sounds like so with a direct to
+phase two just for anyone listening so I
+guess one of the big differences is
+money of course phase one's usually
+lower dollar maybe you always a tech you
+know a tech write up or something but
+you're really after a phase one you're
+looking for someone in the government to
+sponsor you and that's one of the
+requirements for phase two right you
+need to somebody usually in the dod
+would probably be someone like an' 06
+level um you know maybe a GS higher
+ranking government civilian but someone
+that can on the government side that
+will at least sign a memorandum of
+understanding saying hey will you know
+if you're recommending a demo then maybe
+they give you a space to do the demo if
+they're you know they so they might be
+providing some type of facility or like
+you know some hours to donate to to what
+you're doing usually it's not funding
+but sometimes it is um how has the um
+the process been for you finding
+sponsors for phase
+two so um the Air Force is I would say
+pretty easy to break into um one thing
+the SBI our office did under a Works
+which was smart was they gave you this
+small dollar phase one but it was an
+actual contract and they give you they
+tell you what to say to the the people
+you're reaching out to they say right I
+have a contract with the Air Force can I
+get 10 minutes of your time to talk
+about the technology I'm developing to
+get a letter of support for phase two
+yeah that so um for our the the the
+contract that we had that did progress
+from a phase one to a phase two we had
+something like nine meetings and 90 days
+and U actually probably even more than
+that probably 15ish meetings okay some
+of those were in DC
+some of those were in Dayton Ohio so
+we're based in Pittsburgh we we drove to
+both those destinations some of them
+were you know um this was pre-co but
+some of them were remote meetings um so
+we we ended up having a pretty
+compelling um phase two um those letters
+of support I imagine were the make or
+break for us as far as getting um moving
+forward so there was you know a somewhat
+compelling user need that we
+demonstrated across broad how many did
+you did you so you had more than one
+sponsor for that yeah so I think all
+told we had something like four letters
+of support um that you know nine people
+were kind of on board but actually
+organizing everybody to get their letter
+in on time I think we ended up with four
+which was still not bad the minimum was
+one at that time I don't probably
+probably one of the more painful parts
+of the process is now you're getting
+into the bureaucracy of just just
+getting a signature from you know
+somebody can take weeks if not months
+exactly the right approval getting it to
+be on the right person's desk and they
+want to make a change and it goes back
+and forth so uh well that no that's
+that's great and that's something for
+people to think about too is maybe hey
+don't just stop stop when you have that
+uh that letter of support or thatou you
+can go out and get letters of support in
+addition to that where people are are
+going to sponsor your technology and um
+it kind of reminds me a little bit of of
+Brian stream's interview where he's
+flying to people's retirement ceremonies
+and like going all over the place
+getting getting his sponsors and
+everything so just not stopping with
+kind of the minimum and to keep going
+and it's worth it in the end especially
+for a phase two um to help you what
+you're what you're doing Brian stream if
+your viewers haven't seen that podcast
+they should go back and watch it because
+that guy is better at getting access to
+people than anybody I've ever met I mean
+he was he is so good at finding email
+addresses for Air Force people his reach
+is really impressive and he's really
+figured that part of it out yeah when I
+uh I get a lot of questions about that
+episode and a lot of people uh a lot of
+people bring it up and he there's part
+of the interview if you go and check it
+out where he talks about because he he
+was doing part of this during covid and
+he talks about just renting it sounded
+like renting a little cottage on a lake
+in New Hampshire locking himself in
+there and just like going to town on
+LinkedIn and all the other methods he
+had to to find the right people and it
+was just his job to find sponsors and to
+find and he like I said he was he was
+doing the work and obviously you guys
+did the work too um so it's really uh
+it's really incredible and I think it's
+a good example of you know what it takes
+to to get the right people to sponsor
+you on something like that but I mean
+look you're saying hey you could be 50
+60% successful yeah on some of these and
+that is not the odds if you if you look
+at all the people right the odds are
+actually you know much much lower than
+that you don't just win by making a
+submission you really got to put the
+working yeah I think I roughly we think
+blind odds 10% so that means you have to
+write 10 10 proposals to win one and if
+you're talking phase ones you're writing
+10 proposals to make 125,000 bucks that
+doesn't that's like 12 and a half
+thousand bucks average per proposal
+that's just barely going to cover your
+costs yeah so yeah yeah I would I would
+say 10% it's being generous actually
+unless unless you're approaching it from
+a a position of I'm going to put the
+work in I'm not just winging this and
+slapping it together last minute which
+you guys really aren't um and espe now
+you add to that reach out to the teapac
+right or somebody at the office that's
+going to be reviewing these and by the
+way I think another good reason to do
+that is not only are they getting to
+know your company and you're getting to
+know some of the background to see if
+you're competitive but they are also
+potentially going to give you some
+information that is not included in the
+solicitation and government
+solicitations are notorious for not
+giving you the whole picture um because
+look everyone's busy right so you if
+you're writing a a three or four page uh
+solicitation for cber or anything else
+you're going to get some of it in there
+but you might not know the need so maybe
+some essential details that you need to
+know that you need to understand about
+who the customer really is or who what
+they're really what their objective is
+you know and you can start including
+that in your proposal and now you're
+really going to be hitting the mark in a
+place somebody else isn't yep absolutely
+any not to exhaust the topic but any
+other you know what anything else that
+you think about when you're trying to
+write that compelling proposal yeah so
+this might be obvious um but
+commercialization is more and more of a
+massive it's a need in the government
+right everybody's being more fiscally
+responsible you need to have a and
+everybody wants dual use Technologies
+because that's how we'll stay
+competitive and not have this Tech you
+know just go to the military and have
+them fund everything you're watching
+cell phones developed by commercial
+markets every other technology that's
+commercialized we're among the world
+leaders in if it's not commercialized
+we're way behind
+so for drones in particular they want to
+know how you're going to make money
+outside the government if you're going
+to be selling them drone technology so
+you know from the beginning the biggest
+companies we can possibly find that will
+talk to us for a half hour and provide a
+letter of support for you know our the
+our general developments of for drone
+autonomy that's critical so I can't name
+names but I'll just say like very large
+shipping companies and very large uh
+logging companies and
+uh like in in this current push I'm on
+right now I'm reaching out to oil and
+gas companies um the biggest the biggest
+I can find in the US um you know we're
+trying to get letters of support or even
+just say get like talking points from
+these people that we can say this is the
+the market that we're going to be
+addressing alongside the dod so that's
+um that's that's pretty Upfront for most
+people but um those letters they can be
+turned around quickly you shouldn't be
+AF afraid if you're a small business to
+call up you know the somebody on
+LinkedIn or shoot them a note um and try
+to get their their stamp on your
+approval and your Tech as as well that's
+that's really great advice um actually
+including that with your proposal not
+something that a lot of companies are
+doing um and you're right
+commercialization is extremely important
+we just had an episode on because we've
+had a lot of companies especially
+technology companies get their start uh
+in the SB program yeah and probably the
+biggest complaint or roadblock or or
+struggle I guess I would hear is you
+know cber can take you so far it gets
+you to a certain point right and there
+are a lot of companies that have won a
+lot of those type of contracts and it
+sounds like you guys have regular
+contracts as well kind of keeping you
+along and you know there's a need in
+some cases it's the the government
+programs of record and funding hasn't
+caught up with the technology that's
+been developed so a lot of these
+businesses will get to a certain point
+say okay now we're funded we've
+developed what we developed but we're
+really struggling to to find that
+long-term uh contract with the
+government that has the funding because
+it still needs to be set aside and
+that's a process that can take years
+sometimes with a with a brand new
+technology yeah we had a Joe on that was
+talking about commercialization he's
+like hey you know I've listened to these
+and he goes this is where
+commercialization is extremely important
+he goes because his take and and I'd
+like to hear what your commentary would
+be on it was he looks at cber as almost
+a a venture capital fund that he could
+use to develop his technology where he
+still retains ownership of his business
+um and just understanding that
+commercialization and dual use is part
+of this he's like when you get to that
+point he said he pivots to commercial to
+commercial use like now I have the thing
+I'm selling it commercially and I use
+that stream of Revenue to keep me going
+until the government funding catches up
+yeah what are your thoughts on that as a
+as a strategy for a business I think I
+look at it the exact same way every
+money every dollar I can raise from the
+government is one less dollar I have to
+raise from private investors so KF you
+know I I I'm always willing to talk full
+disclos I can tell you all our numbers
+if you'd like so we we the only money
+we've raised was a friends and family
+investment round um we did that after we
+were in that locky Martin competition
+and after we' had our first contract so
+you know we tried to get money and get
+validation before raising money so and
+then I look at it as um actually we
+found the government to be so fast
+moving between softw awks and army
+applications lab that in my you know
+role as CEO I have to find the cheapest
+dollars um uh I look at the government
+as a better preferable funder to venture
+capital right now they're more patient
+they're moving just as fast if not
+faster and they don't take ownership of
+my business our business so pretty
+pretty obvious call that I should work
+with them as long as the dollars are
+flowing quickly and that's hug but but
+yeah I see a potential not valy of death
+but a potential Valley coming up where
+we want to wean ourselves off the sbir
+process not because it hasn't been good
+to us but just because we want to grow
+Beyond it kind of scale Beyond it and um
+so in 23 we'll be selling our first
+software licenses to actual us
+businesses okay so that's that's the
+model we're going towards is you know we
+sell our software per seat or per
+aircraft um you pay us$ 6,000 for it and
+then you know the aircraft now has a new
+performance upgrade that it didn't have
+before you can say you can navigate
+without GPS interesting and is that the
+same model you're going to use with the
+government if you want to talk about
+that yeah it is okay so um yeah to date
+um we've just Advan entirely on Research
+grants so sbirs and that type of Grant
+it's all been you know fund our research
+Advance the technology but um what we're
+going to shift towards is you know not
+now you don't have to pay us for the
+development but you pay us for the
+software right and then we take that
+money and we still do our R&amp;D and make
+the software better and hopefully grow
+um but that that's the valley we want to
+get across and it's going to take us you
+know at least three years to get off
+sbirs maybe we never fully do yeah
+because we could still use them to fund
+new advancements in our Tech in this key
+area or that key area and get get you
+know kind of like that market validation
+before we do internal research and
+development but it would be you know not
+100% of our Revenue it'd be something
+like 20 30% of it sure yeah and no and I
+I kind of key on that because the
+licensing model is a good one for a
+business that's selling to the
+government and and I won't speak to
+commercial but I assume it's the same
+there because it can you know it can
+bring in occurring Revenue um maybe it's
+a a lower cost Upfront for the
+government
+um versus you know buying like an
+Enterprise you know license or inserting
+something permanently but it also gives
+them um it gives them access to the
+benefits of the fact that you are dual
+use right so now you have all of these
+customers both defense and you know
+government defense and Commercial which
+are putting money into your company you
+guys are improving and making the
+updates to the software um and then the
+government gets to benefit from a lot of
+those updates I would imagine um if it
+like some of the other models I was in
+you know I saw from the government side
+what happens if you don't have that
+right so some of the Legacy aircraft
+that I would have to U whether I was
+flying them or whether I was actually in
+charge of the Acquisitions unit
+supporting them what would happen is
+you'd have a software suite that was
+developed for that system and just for
+that system and the problem on the
+government side is well now if we ever
+need an update that means the government
+has to get a contract with this company
+pay them to do the update then they have
+to do the update then you get it and
+then by the time you get it you might
+need something else and it's like that
+you're constantly playing this game
+where um I feel like the benefit's
+better for both the government and the
+business if you have this dual use
+continuing model um and then the
+licensing model certainly um like I said
+that can provide you that sustained
+funding over years yeah yeah and
+actually as you were talking there I was
+thinking you know one of the risks for
+us going forward is that we're somewhat
+skeptical of the government's prowess at
+um acquiring
+software um they kind of like Hardware
+is what we understand and they want that
+software to be embedded on it so I think
+they're you know we're getting on the
+GSA schedule now that's like a push
+we're a push we're doing so they can
+procure It Off the
+Shelf but um I think there's some risk
+there that even though we have a good
+product it's hard for them to acquire so
+at the same time we're developing you
+know in some cases for government
+specific aircraft but often for aircraft
+that are commercially available that
+they've purchased so you know we might
+work through those commercial vendors to
+kind of package up our software before
+the government buys it sure and I mean
+they do both right so and that's just I
+think needs to be understood going into
+it um I don't know if you guys have
+looked at uh open mission systems um and
+UCI it's something that you may want to
+take a look at As you move so open
+mission system just uh is something I
+worked on in the government I'm I'm
+involved with now to a certain extent
+when when I'm going to conferences and
+working with people and basically what
+we're talking about is you know the
+government has all these whether we're
+talking about aircraft or groundbased
+systems right but you pick you know from
+the F-35 to you know kind of more of the
+ancient uh air aircraft that we flown
+like the B52 coming to now but typically
+um an oem one of the big defense
+contractors would put that air win the
+contract they put it together and if the
+government wanted to make any change to
+that system put your software on for
+instance
+nope the OEM first of all the OEM
+doesn't want your software on there but
+they own it completely and to get them
+to make a change it took a it's almost
+like working with another government
+organization right these big companies
+it takes time maybe it's not as good and
+the money is going to cost you know 100
+not 100 but it might cost 10 times as
+much to get a product that's not as good
+right and so what we would see is we'd
+have these startups and these new
+technology companies and I'm in Boston
+right so we're always working with MIT
+and some of the great great minds around
+here and you know they have something we
+want to put it on a system can't do it
+right so what Ms does this is where the
+Air Force is going and I think a lot of
+the other services uh where we are going
+to have an open open systems that the
+government owns and it allows um a
+company like yours for instance to be
+able to put something together if you
+follow the parameters that we set forth
+that everybody so we have these
+consortiums that everyone kind of has
+agreed on you know what that's going to
+look like um so they can they can build
+things according to those parameters UCI
+stands for Universal command and
+control and essentially it's a code you
+know a code a language that you you can
+understand and then so what you put
+together can communicate with the weapon
+system and everything else that's
+connected to it so um it still has a
+ways to go but um you know something
+like yours espe especially I would think
+would want to be at least aware of that
+of OMS and and where we're going and um
+who's using it so yeah that's actually
+so when as you were talking about it we
+we are somewhat familiar with that
+sometimes I've heard the term mosa I
+think sense for modular open system
+architectures and maybe that's more army
+or maybe that's more somewhere else but
+but yeah I mean that's kind of my belief
+is what should happen is the government
+should own the
+interface and you should have a
+competitive market for vendors who can
+meet the needs of that interface and if
+the government just maintains that and
+they give you you know four you know
+here three years down the road here's
+what the interface is going to be
+evolving to it's kind of like the
+standard that Industries kind of
+organized around for data transfer and
+software interfaces that seems to make a
+lot of sense to me and then then yeah
+hopefully KF is the best team in you
+know visual nav that's what we hope yeah
+and we can compete against say locki or
+somebody you know a big company with you
+know because we have a new approach um
+or or like you mentioned earlier or you
+could sub to them right so and that
+happens too where they take a look at
+you and say hey these guys have a great
+product or solution and and by the way
+they also understand maybe if Ms applies
+to that or you know hey you guys have
+that that understanding as well so now
+you're sub to them going in and
+companies do it both ways right so
+whether you're subbing to a lock or
+you're Prime and you're just working
+directly with the government I think
+there's a lot of different ways to do
+that um and then I just want to say one
+thing for anyone listening when you when
+you think about the licensing I think
+maybe you were alluding to it which is
+sometimes the government doesn't want to
+buy software licenses
+because if the government if it's not a
+program of record and it's not like this
+funding where hey I have five years of
+funding to put KF on contract right um I
+might have Fallout funds and this is
+where where the government buys a lot of
+different things right so let's say my
+office has 15 million in Fallout funds
+and I know that KF is at the top of my
+list I need to get this on a certain
+maybe whether it's a demo or whether
+it's on a weapon system or you know
+whatever whatever the exact project is
+but I might only have that money for
+this year I don't know if I'm going to
+have it next year so do you want to sell
+a one-year license to are they going to
+buy a one-year license knowing that they
+need it or that but that's where you
+just hey I could sell you a three-year
+license I can s sell you a fiveyear
+license so um sometimes you can get
+around it that way but I just want
+people listening to understand that
+there are different things that you can
+do and there are different problems that
+you'll encounter if it's if it's a
+licensing model versus yeah if you're
+just coming in on a project yep cool
+we've covered a lot this has been an
+amazing episode I think I think that for
+anyone going after cber contract
+especially they're going to be uh they
+got a lot of great tips for you
+especially on that proposal writing
+process um so we we've talked a lot what
+what's next for you guys what what do
+you have coming up and and what um what
+do you want people to know about
+KF um what's coming up for us in 23 is
+that that transition to our first
+licenses um so we hope to be doing that
+October Q4 of this year um we're doing a
+ton of demos we uh if you look at our
+website we're we only released like half
+of our kind of cool stuff on our website
+but we're doing a lot of flying at night
+right now a lot of fast
+flying um yeah we think we're caring at
+a really cool Niche um getting on a real
+products that hopefully are serving
+hopefully overseas um pretty soon so we
+hope we hope we're making that that leap
+to being a kind of what I would consider
+almost a real business a real um
+provider of valuable software right no
+that that's awesome and if someone want
+to reach out to you some small business
+or government and they want had a
+question or just wanted to to talk to
+you what would be a good uh place to go
+find you guys well I'll give you my
+email if that's if that's uh okay I
+think that's fine at this point you know
+we don't we don't we don't have five
+million people listening
+so emails I'll say I respond to our
+contact us email so if you contact us at
+KF robotics.com those will come to my
+inbox and we don't get enough email
+traffic that that I'll miss many emails
+so there's that there's LinkedIn I do
+check LinkedIn at least probably once a
+week because I'm doing Outreach or
+whatever myself on LinkedIn even though
+I don't love it um but yeah we're a
+small business we're easy to get a hold
+of um got a good pretty up toate website
+run by our coo here so she's doing great
+it looks it looks like an awesome
+website and doing great I'll uh I'll put
+she needs a raise by the way and she
+does y yep she's actually typing me an
+email now oh fantastic hey maybe once
+you get your next contract here if we
+can uh we could get a little extra for
+um I'm going to put the email I'm going
+to put your website in the show notes so
+people can uh just click on that then
+usually I ask you know what would you
+what would your recommendation be to a
+small business that's thinking about
+getting into this uh maybe a technology
+company but what would you
+say um stay lean travel a bunch um Don't
+Be Afraid of
+Anything worst somebody can say is no
+you got to get in front of people you
+got to stay got to keep EMA emailing
+them um in the dod you'll get a lot of
+non-responses and you can't take that
+personally you can't think they don't
+like you you just have to keep bugging
+them until they give you some time
+that's great advice that's great advice
+Fraser I really appreciate it yeah we go
+okay ready hey guys Ricky here with dodc
+contract.com this was a a great
+interview with kaf robotics they had
+some amazing tips on how to win those
+SBI contracts I'm sitting here with my
+four-year-old son Zachariah Zach what
+did you think of this episode amazing
+it's amazing all right well you do get
+your ice cream now buddy thanks for that
+head on over to DOD contract.com if you
+want to learn more about these uh
+contracts about how you can go through
+the process to win contracts for
+yourself or you know like a lot of CEOs
+you don't have time for training and you
+just want it done for you we have a few
+programs for you too don't forget to
+like And subscribe to this episode
+please leave a review and we will see
+you next week

@@ -1,0 +1,1116 @@
+Kind: captions
+Language: en
+if you've been trying to sell to the
+government you're involved with
+Government Contracting or interested in
+it and you think that when you look at
+sam.gov you're seeing all of the
+government
+solicitations I'm telling you that
+you're wrong in fact a lot of
+solicitations never come out on s.gov
+they go directly to Prime contractors
+that hold government-wide Acquisitions
+contracts like GSA so how do you find
+those opportunities well in this episode
+you're going to meet the guys from gole
+this is the second episode we did with
+them and they're going to tell you how
+their tool can not only partner you with
+primes but give you access to the
+opportunities that they're seeing on
+these contract Vehicles really this
+gives you an edge over your competition
+so this is a great episode my name is
+Rick Howard I'm a former government
+procurement officer managed over $82
+billion in contracts with the federal
+government then started out Consulting
+buiness where we train and help business
+owners and entrepreneurs to sell to the
+US federal government we have a
+certification program now we'd love to
+see you over at G close.com goov
+cl.com this is a higher end course this
+is more the equivalent of a college a
+semester at college or a college course
+where at the end of it you're going to
+be certified as a Government Contracting
+sales professional you use that to
+either get a job with a company selling
+to the government or to start your own
+Consulting business helping company sell
+to the government I'll tell you guys
+this is an amazing Niche to be in
+because not too many people really
+understand the process of selling to the
+US federal government so whether you are
+looking at starting your own Consulting
+business or going to work for another
+company as an employee that
+certification program can really help
+you it's not an inexpensive program and
+it requires a lot of work so I just want
+to tell you that before you go and and
+check it out that's a Dov close.com and
+now over to gole thanks for tuning in to
+DOD contract Academy this week today we
+have a returning guest supera from a
+past episode so Mike welcome to uh DOD
+contract for the second time hey thanks
+for having you this is uh I'm looking
+forward to this as recently as yesterday
+we had an inbound inquiry with someone
+that called out having seen this episode
+so it's this is timely oh that's awesome
+that's great so you are the CEO and
+co-founder of goley correct and and for
+those that didn't hear the past episode
+maybe you can give us a quick hey this
+is what doely is and then we can get
+into what's changed since you lost on
+the episode yeah absolutely a g platform
+for the entire supply chain of
+government contractors to get together
+to collaborate to find track and respond
+to government opportunities and so
+government or gble is a singular pain of
+glass per se to get access to all of the
+public and all of the private
+Contracting opport when I say public
+that's at the sam.gov and then the
+private is all of the contract Vehicles
+like your soup and CIO and army chess
+and all of those and so we we aggregate
+all of this data into a singular place
+and we run analytics and create Market
+intelligence across the board in federal
+an sled yes that's it's really unique
+and that's what caught my attention
+first time you were on and we want to
+have you on because there's a lot of
+applications and tools out there for
+people to use to find
+contracts track everything but most of
+those tools are only pulling from
+s.gov maybe a little bit from some other
+sources and maybe you could give a quick
+because there going to be people that
+tune into this that maybe aren't even
+familiar yet with what else is there
+besides sam.gov so what does it mean
+when we start talking about some of the
+contract Vehicles out there that you
+guys pull from why aren't they on
+sam.gov and and how do you guys bring it
+into goly yeah no great question so it
+feels like the government either loves
+or would love everyone to believe that
+all the opportunities so the government
+exist in the public domain on sam.gov
+and it's just categorically false
+there's plenty of opportunities out
+there on sam. don't get me wrong but due
+to the nature of speed requirements or
+complexity or the wanting to accelerate
+a delivery of goods and services and the
+government created contract vehicles and
+the these contract Vehicles generally
+speaking are posted on Sam neov as a
+contract themselves so in theory these
+contract vehicles are open for everyone
+to bid but the requirements for the
+run-of-the-mill shop are so high that no
+one ever really looks at them like the
+soup six we are actively looking at soup
+6 is the sixth iteration of the soup
+contract I think it's currently due July
+25th and that is one of the larger gwx
+the government wide acquisition contract
+and so the soup contract
+will be a 10-year contract and we'll
+have hundreds of net New Opportunities
+every single business day and all of
+those opportunities will not be in the
+public ground they will not be in
+sam.gov soup to bid on to gain access to
+that contract vehicle that opportunity
+exists on sam.gov today will any of
+those opportunities that fall under soup
+show up on sam.gov or they only to the
+members only go to the
+me yeah you're right
+it's the government can say there this
+everything's public everyone can bid on
+it you know because they'll say Hey you
+have the chance to get on soup so let me
+restate what you just said for anyone
+watching so NASA soup which mainly
+technical requirements right you're not
+going to unless I missed something it's
+probably not going to be for like
+construction and things like that right
+but it's more probably like cyber
+security it want some other Advanced
+Tech requirements on there but they know
+that they are going going to have to put
+companies on contract quickly and and
+this is why I reuse Vehicles when I was
+a program manager and they can't wait
+two years 18 months every time that they
+want to put someone on contract so they
+put something on them sand back do is
+about to come out and it says hey you
+can apply to be on this contract vehicle
+soup six I don't even know what the what
+the threshold is on this or what the
+limit is but it's usually it's probably
+around a billion dollars I would imagine
+maybe less maybe more but it's it's high
+so basically is going to have a high
+ceiling and let's say it's 25 is 20
+billion per contract holder I don't
+recall but I know this one's higher yeah
+it's going to be a wicked high ceiling
+and they all vary but I guess the point
+is you win a spot on a vehicle like that
+that doesn't mean that you're going to
+have a bunch of contracts with the
+government where you're getting paid you
+might get a small stipend I think when
+you first on board but outside of that
+now yeah now you're just on vehicle so
+now it means whenever these
+opportunities come out for soup holders
+you see the opportunity and you can bid
+on them and you've already been vetted
+to a certain degree so it makes things a
+lot faster for the government but it
+sucks for everybody else that doesn't
+have soup right because now we don't
+even know a lot of these opportunities
+that are coming out what about
+GSA so GSA is GSA is a little different
+with a little bit more rolling
+admissions in but same the vast majority
+actually all of the GSA opportunities
+coming out on GSA schedule unless the
+Contracting officer also posted it on
+sam.gov will not be on sam.gov yeah
+there are times count officer would say
+hey I'm gonna put this out on GSA and on
+sam.gov to see maybe it's a specialized
+piece of equipment that there might not
+be a GSA holder and so the country
+officer needs to get a response and so
+they might go through two channels but
+far and few in between yeah and
+sometimes it'll be like a source of s
+will come out and say the government
+intends to award this on GSA NASA soup
+ites whatever yep so you have an
+opportunity if you're a business owner
+there if you're not on the vehicle to
+say hey we recommend you don't put it on
+that but by and large and really the
+reason we're talking is by using goly
+you now have an opportunity to see some
+of those OPP see some of those things
+that are coming out that you wouldn't
+beforehand and so now because I guess
+this can work for both companies that
+are on these schedules or on these
+contract vehicle or companies that
+aren't so maybe approach like hey how
+does it help both of those individuals
+yeah no a great question this is one of
+the main differences between us and the
+other players in the bace in that these
+soup opportunity are they're private by
+Nature someone spent the time and what's
+really exciting about the the sup six
+contract
+now is there's about 140ish soup primes
+on soup five and on soup six I am my
+crystal ball I'm expecting oh between 3
+and 400 they've opened up to Services a
+little bit more Broad and I think the
+quantity of entrance is going to be
+quite large and these opportunities that
+this new subset of front contract
+holders will have access to is we can't
+take those and just blanketly publish
+them to the public like the public at
+large does not have access and shouldn't
+have access because they didn't go
+through the process some of these
+organizations are going to spend
+hundreds of thousands of dollars
+responding to this sup solicitation and
+once you're in you're in the club that
+being said the supply chain that
+supports all of the primes today on soup
+five and subsequent soup six those
+subcontractors have a Bonafide need to
+see those opportunities and generally
+what happens is two prime would take the
+opportunity get it in their in box or go
+through the two portal and find it and
+Bor it on to their subcontract and say
+hey Jim he's my Cisco point of contact
+or Sally she's my new tanx or fill in
+the blank they share these opportunities
+and that's totally allowed and all guble
+did was come in and say you know what
+let's make this way more efficient
+because Jim and Sally are entirely
+focused on their type of stuff and maybe
+they're even driving these opportunities
+but because they don't have access to St
+they have no idea when it's coming out
+and so the prime has a has a need to
+share that information the
+subcontractors be it a reseller
+distribution or distribution or M has a
+reason to receive that information and
+respond and we've put them all on a
+platform for communication and sharing
+information basically instantaneously
+and so now everyone get to focus on what
+is Meaningful to that and so getting
+back to your original question we
+surface these opportunities in a where
+we have a bonafied need or a bonafied
+relationship and so a new services
+company coming on to gbly when they
+first sign on if they are not a crime
+contractor they're going to get access
+to the Sam deckup they're going to have
+all of our analytics they're going to
+have all of our tools we're going to be
+able to illustrate some information that
+is aggregated data of the private but
+generally speaking not going to see any
+opportunity on private contract Vehicles
+that's where the networking aspect of gy
+comes in and that's where you're able to
+use our platform to say you know what I
+really have a good stronghold at right
+Pat Air Force Base and so I can look at
+I can use G to find the contractors that
+are Oni that have a stronghold in a
+right pad Air Force Base using the
+former netsense or two or soup contract
+vehicles and you can request inside of
+gole to connect and there is a mutual
+vetting relationship and so we can goly
+now our customer success team has a has
+a CrossFit for facilitating those
+conversations and relationships and once
+you are in effect vented the prime is
+saying you know what yeah I'm interested
+I want to share my feed to you because
+the benefit to the prime is as long as
+you're not in a competitive space you're
+not selling directly against who they're
+selling to or the same Tech like you
+know they want to have you as a
+subcontractor because you're going to
+bid through them to the government
+they're going to mark your bid up
+anywhere from that one to five point
+depending on the lift and you as a
+subcontractor are excited because now
+you have access and not only do you have
+access to the stuff that you're looking
+to sell you have access to all of the
+opportunities as a whole on that vehicle
+to see your competitive analysis hey you
+sell this type of tech now you can see
+the or this OEM you can now see all of
+the opportunities requesting your
+competition OEM and you level that
+information in the analytics that we
+provide to say hey maybe I should deploy
+resources at this other base because
+it's tangential or it's related that
+type of thing right it's interesting
+because it seems like it's also a place
+where we mentioned the Prime's going to
+have their own subcontractors that hey
+here's here's an opportunity of course I
+think a lot of people don't even realize
+that just because companies a prime
+contractor even The Bigs they don't have
+this unlimited all- knowing sales team
+that's aware of everything coming out
+typically no matter what level a company
+that I'm talking to seems like the sales
+team's stressed out and thin no matter
+how
+and yeah so now so they might even be
+struggling just to the prime might be
+struggling just to identify something
+that makes sense to go after and and the
+only people the only subcontractors that
+would be getting that information would
+be someone they had a personal
+relationship with now go gives you a way
+to get an inside track to be a sub to
+some of these prims you wouldn't maybe
+you wouldn't be partners with before Oh
+exactly and it's early on in our early
+days when we had significantly less
+customers it was a bit more of a dance
+in terms of of okay do we have enough
+primes to support enough Downstream
+subcontractors resellers just youm today
+we've hit a critical mass where we can
+accept new customers as is because there
+is enough Green Space and we our reach
+and our expanding into new contract
+vehicles I think we're somewhere north
+of 30 contract vehicles on platform
+what's really exciting about that is
+what we've been able to do is extract or
+this is our AI play our natural language
+processor machine learning that only in
+the most recent I'll call it N9 months
+for us have we been able to take all of
+this mass amount of data we're talking
+million of discret contract
+opportunities from across the public
+space the sam.gov now all of the soup
+history all of the army chests all of
+the cocs all the GSA and now we can
+actually start eliciting Trend and so
+that's what's really cool because we've
+aggregated all this data and now we're
+able to share it with organizations on
+platform saying hey there is a trend to
+this type of tech or what this TR but
+OEM is trending down because this
+competitor is winning or capturing more
+business that type of thing interesting
+could you could you give me like another
+Trend what's another Insight that would
+be valuable that maybe we wouldn't been
+able to capture before yeah so there the
+most recent one that we noticed it was
+actually a it was the hyper Converse
+technology hyper Converse technology
+really started trending up probably a
+year year 15 months ago and has recently
+started taking a decline and it's just
+it there's a decline in quantity of rfqs
+coming out for it the renewals are not
+happening as often the awards are
+decreasing and so what's what's
+interesting and what we haven't
+extracted yet and to be honest I'm sure
+some of our customers have is what it's
+being replaced by and so those that are
+selling hypercom technology are now
+either trying to figure out you know
+what we need to focus harder on our
+renewals or they need to get into
+whatever the technology that's replacing
+it do you only have so let's say that
+I'm a guess either prime or small I'm
+I'm in Dove closed and I want to start
+looking at those Trends am I limited to
+only looking at data that would apply to
+my nakes codes and stuff like that or
+it's all available it's all available
+what it's all available based on the
+level of access to the contract vehicles
+that you have okay gotcha so if I had
+access to I imagine most companies don't
+but if I had all 40 or 30 contract
+vehicles that you guys have then I'd be
+able to see hey what are the trends that
+are going across all the vehicles the
+easiest one right now is I I think last
+year there was and I forget the the
+filters we had on but it was the
+unbelievably dramatic hockey stick you
+see for AI related opportunities in the
+government like it's one thing to tongue
+and cheek say the government is slow to
+the changing of the times and this and
+that but I can tell you the quantity
+hundreds of opportunities that exist in
+the past call it three months for AI
+related software compared Crickets at
+this time last year is wild that is
+interesting it's not surprising either
+from but it's if you don't unless you're
+if you're not looking at trends like
+that then you're you if you're look at
+Sam dark every day you're looking at
+platforms you might notice that but that
+is that is interesting I was what I was
+going to say is you guys could put
+together a hell of a newsletter just
+cracking down on all these trims here to
+everyone yeah it's it's funny to say
+that and it's again it's only because
+like a couple of our competitors have
+our very long-standing organizations in
+industry and they have small armies of
+people that are churning through data
+and watching C-SPAN and reading budgets
+and we have leaned in on the other side
+of we now have machines that are able to
+go out and capture the updated budget
+analysis from Department of Treasury or
+Department of Veterans Affairs and start
+aggregating that and then mixing it with
+the opportunities of historics and
+current and you're absolutely right that
+this newsletter
+we let's just say in the works because
+the distilling of this information to a
+usable meaningful snippet is is
+forthcoming well feel like I should at
+least get a free subscription to that
+now that we're now that we're on the
+subject maybe we could offer a special
+deal to the listeners here to subscribe
+to that and feel well you know what I
+will I will get with my marketing team
+and we will put that together and you
+can blast it out that that' be awesome
+no I'm looking forward to it it's always
+interesting looking at because there's
+so much data available and and I spend a
+lot of my time looking get the data and
+building strategies and and helping
+businesses figure out hey who am I
+selling to what are the trends what's my
+Niche that's another the big one and I
+think with something like that
+especially since you have access to data
+this is great for anybody looking to get
+an edge you're you're going to have
+access now to data that you typically
+wouldn't have and I would
+also I use a lot of your competitors
+things like the big guy that have been
+around for a while right and we can it's
+go wi right A lot of them yeah and a lot
+of them are good at look they're great
+at certain things right historic
+analysis historic data and whatnot but
+what I don't see and it's not just that
+it's again I'm not going to mention all
+their names but there I've used a lot of
+different systems over the years and I
+have never with the exception of [&nbsp;__&nbsp;] had
+that type of insight onto vehicles and
+the different all the different purchase
+orders and requests and stuff that are
+coming through and I've been on the
+email list of and maybe some companies
+out there will resonate with this so I
+have partnered with a lot of primes over
+the years where I'll get an email from a
+prime that's on one of these vehicles
+and say hey we're looking for this if
+you're if you think your tech service
+whatever is the requirement you could
+pitch us essentially but outside of
+waiting because you're really hat in
+hand waiting for those emails if if you
+wanted to get onto a vehicle that you
+weren't already on this definitely put
+you more in the driver's seat right what
+about what about so it's great to
+partner with a prime or one or two but
+do I have access to let's say that I
+want to see hey who who else is I can
+see with some research all the companies
+that are on a a NASA SC or one of the
+others but would I be able to pitch how
+does that work can you just pitch any
+company that's using goly that's on that
+contract or do you because I remember
+talking it was like yeah go ahead yeah
+no the the straight answer is yes the
+longer answer is you know putting our
+customers trust us by creating a
+platform that is Meaningful and not
+noisy right the information that we
+highlight is geared for them in that
+vein we do have a sequencing so that if
+we had a hundred new small businesses
+come on that are scatter shotting primes
+and we're not going to send all hundred
+to the same primes so on our platform
+you do have the ability to search
+Partners we call them Partners so you
+can search hey you know what I need a
+woman-owned small business on I need a
+service abled vet on fill in the blank
+you can filter and you can see and we
+actually have I'm not going to say we
+have 100% of them but we've got the vast
+majority of all of the crimes across the
+board and so that you can see hey these
+are the organizations that meet my
+filters and there's going to be a check
+boox that say hey these are on guet and
+so those are going to be the ones that
+you're going to be able to click if they
+request partnership and that's going to
+kick off a cycle through our customer
+success team to make sure that it's a a
+b need because if it's a if it's a new
+customer coming on to gble and they've
+never sold to the government before it's
+really not worth an intro to a major
+crime just yet because there's no
+evidence they don't know how to operate
+the prime a prime is not going to look
+at them and be like oh yeah let me just
+give you my feeds and you're going to
+send me a 100 emails and not win any of
+them and so they're they're a balancing
+game and so they're we want to make the
+information available we want to make it
+possible for that small medium business
+who is just looking for that break has
+found some success in the government and
+just needing to take it to the next
+level that type of thing gotta got you
+now how long has [&nbsp;__&nbsp;] been in business
+now yeah so we we founded we grew out of
+uh my previous government contractor in
+2019 and so we full on kicked it out and
+separated the asset and launched in
+we'll call it January of 2020 and then
+did white combinator so we were
+graduated of this summer of white summer
+of 21 white combinator batch nice so
+about four years and you were now you
+said you have all the Primes on there
+but how many people are you think go oh
+gee that is a great question de Banis I
+don't know I know we've got somewhere in
+the tune of four or 500
+organizations okay interesting and some
+organizations are new people and some of
+the large primes are in the hundreds of
+users sure okay you know happen roughly
+the percentage of primes to Subs that
+are in there yeah it's last tech was
+pretty close to third of primes
+resellers and oems and our oems are some
+of our bigger accelerated customers
+recently mostly because the the oems are
+leveraging de for competitive analysis
+and so because HP has a great channel
+for example or I'm going to pick random
+o pick all all the big ones hpu Oracle
+uh Dallas Cisco they have great channels
+that are leveraging their channel for
+Intel coming in in these opportunities
+that calling out their name
+but what they don't necessarily have a
+great Channel doing it is finding all of
+the competitor Ops and so what they can
+use gbly for say you know what I am I'm
+GNA I'm gon to pick two and HP and Dell
+the HP can now have HP Personnel looking
+for Dell opportunity to take and Dell
+can now have Personnel looking for HP
+take out because their channels are
+really good at bringing them their stuff
+with they less good at bringing them the
+competitive or competitive so it's more
+of a green field for him no that's great
+no very unique angle as we're going
+through this what in and maybe the
+answer is none but I don't think so if
+I'm a user of gole aside from finding
+opportunities are there other aspects of
+this that in analytics other aspects of
+this can make my kind of sales process
+easier my BD easier or any other new any
+new features that you want to go over or
+talk about
+yeah so it's fun having uh recently
+watched our original podcast from about
+18 months ago and taking kind of a step
+back of who we are and what we do and
+where we're going where we were 18
+months ago was hey we've got smaller
+number of contract Vehicles smaller
+quantity of opportunities we've got all
+that historic and then we wanted to get
+the the what is available today and what
+at that point in time we were you know
+hypothesizing you know what we should
+look into the future we should be able
+to take some of this data and forecast
+opportunity future we didn't have that
+also at that time we didn't really have
+the we didn't have the award data we
+didn't have evidence of what actually
+transacted on these contract vehicles
+and then lastly we didn't have points of
+contact and so what I'm happy to stand
+here and share with you guys today is
+that we executed on all of those and
+that's some of the coolest stuff that
+we've been leaning into with our
+recently expanded engineering team they
+lean into the AI architecture and being
+able to turn math amounts of data and so
+now we have way more contract we have
+way more opportunities both historically
+and present we're taking that we're
+forecasting into the future and we
+talked about right pad Air Force basing
+the hyper converg Technologies while is
+trending down there's still plenty of
+opportunities and what we can do is we
+can take that and say hey right P isas
+than buying hyper conversed at this hype
+of cadence at these
+locations uh well we take that and we
+say you know what we're forecasting that
+these are when the opportuni are going
+to come out or the renewals or the
+expansions fill in the blank they're
+going to come out on these contract
+vehicles and now we've layered on hey
+these are the point of contact that have
+responsible for those procurements and
+better we're actually being able to
+point back to the the USA spending and
+the fbds all of the award data we can
+actually give you a bogey on it's I'm
+not going to call it a silver platter
+yet it takes a little bit of digging
+around on the award data but if you can
+if we can pick a opportunity that's
+forecasted in the future and we can say
+hey that Contra officer is responsible
+for that type of technology in the past
+this is where it's going to happen in
+the future and this is how much they
+bought it for now you have all the
+pieces of the puzzle to either go in as
+a a competitive op or you can take some
+of that data and go elsewhere and
+because you know that type of that price
+point and that technology is working for
+that customer yeah what I've seen on
+other platforms is they they come up
+with a because you can figure it out if
+it's if it's say something that we think
+is going to renew in four years you can
+in general put it out there and it's
+usually never really after it it's maybe
+it could be accurate within a year maybe
+within the month if they're really good
+and they get lucky right so many think
+they could delay it but I I think it's
+interesting if you start adding the
+different vehicles that you guys have
+and the ability to layer on well hey if
+it's if it is this hyperon converge
+technology piece that you're talking
+about and we see renewal coming up well
+maybe that's in general when it's going
+to be renewed but maybe it's not going
+to be for that specific type of
+Technology right maybe the trends so now
+you can let say maybe it could be these
+three things that are other than that
+yeah and so so two two add-on points to
+that is pick something a littleit more
+tangible BTC so a video conference got
+deployed and here's the award data BTC
+don't have a a Perpetual life they're
+going to expire and need new tech new
+security and so we can forecast that out
+into the future so you can leverage that
+data and one of the biggest reasons and
+it's maybe less so for BTC but one of
+the biggest reasons that the forecasting
+of other organizations hasn't been so
+trustworthy is they're only leveraging
+award data well as award data can be
+entirely disconnected from solicitation
+data and if you're bidding the next one
+you don't care about the award data you
+want to know when is the Sol
+solicitation came come out and so the
+solicitation came out nine months before
+the award and you forecast out from the
+award date that contract going to for
+you're going to plan for the next
+iteration of that 9 months in advance
+The W Times it's two weeks sometimes
+it's a year depends on cycles and so are
+we feel our forecasting capabilities so
+much stronger because we actually have
+this citation so we know what they were
+asking for so if the award just says Hey
+BTC deployment these codec and this
+equipment at this price well you don't
+have any of the color of the types of
+rooms or the the expansion plans that
+might be in there or you know hey we are
+planning this but then it's going to
+expand into new floors of the VA
+hospital that type of thing and that
+color of information is what makes our
+forecasting so much more clear that's
+really interesting yeah so for anyone
+listening to this and by the way it's
+been a while since we have last talk so
+we have a we have a new core of people
+listening as well so we have our small
+business owners that are are listening
+that are already selling to the
+government a lot of cter Executives that
+are selling maybe on bigger teams we
+also have a group of individuals that
+are more looking just to get into
+Government Contracting go through our
+certification program and Consulting and
+Advising maybe doing something similar
+to what I'm doing and so if for those
+individuals listening or anyone normally
+if you went to USA spending. goov for
+instance and I think this is what you're
+getting at and I was to look at we could
+stick with the instruction painting
+right let's say we're researching
+competitors or just we see one of our
+competitors and they they sell something
+to the VA you're right you might have
+two lines in that and the only
+description you have of what that
+contract award was for was hey painting
+blah blah blah blah blah right it's not
+going to you're right it's not going to
+give you the number of rooms or the
+color or anything else now if I really
+want to know what happened there I
+either have to go to sand darkg and try
+to find a solicitation which by the way
+if it didn't come out on Sand darkg it's
+not going to be there right so
+um I could request the contract there
+are mechanisms to request the actual
+contracts and the government doesn't
+have to oblige but even if they do it's
+going to take a while so then the next
+thing take while right it's gonna take a
+while so now with gole you're linking
+the two together in some Cas where they
+exist I think is what you're saying
+right yep exactly and we to illustrate
+that point further we we actually
+launched our Foya request feature so if
+you can actually see this solicitation
+and in form or in goly we can walk you
+through the Foya there to get more color
+if it's a if it's a large enough
+opportunity for you it's worth this six
+months of requesting the foyer oh
+definitely absolutely and
+so even look at this little most people
+aren't most companies aren't doing the
+data drill anyway and those that are
+might have an idea of hey my competitor
+is selling to the VA and handsom Air
+Force Base lcmc blah blah blah but
+beyond being a to see that and see some
+contract listings and purchase orders
+and stuff with a sentence on what it
+actually is really looking at that
+solicitation and is going to give you so
+much more information on it and then
+even requesting the contract or talking
+to someone can give you something else
+so let me ask you this so you have
+Trends you have data you're matching the
+solicitations with predictions and even
+Awards what about human analysis or any
+of that any of that piece right so do
+you have you mentioned some of your
+competitors have an army of analysts
+right and I don't know that you have an
+army of analysts or not but do you have
+any features where you have a human in
+the loop that are taking that data and
+kind of digesting it or do you work
+one-on-one with people in there at their
+request how does that work a little bit
+of both so compared to some of our
+competitors we have very few human
+resources that being said we still do we
+do have a full-time researcher that is
+doing data validation and doing ad hoc
+request and so if it a customer rates
+and okay I really need to better
+understand XY and Z that's something
+that we you know depending on the level
+of lift that we are going to do because
+we want to take that data and we will
+blanketly publish it because any sort of
+Intel or information derived from data
+that we have that's what we're looking
+to do we're looking to bring more
+transparency to Government Contracting
+in general don't me wrong if they're
+trying to do you know pure competitive
+analysis and they want us to help them
+do some research we can have that
+conversation and we won't publish it
+that is that's not necessarily our Core
+Business and we can have those
+conversations that's sure maybe maybe a
+higher entity there for for something
+exactly but it could it could be very
+well worth it well this is great you
+guys have obviously done a lot of work
+since we last talked and I got to I want
+to dig back in here now because
+especially with your analytics because
+I'm a government contract data nerd I
+want to get in there and see what what's
+actually going on but I think this is an
+amazing resource for Prime sub anybody
+looking to just get that Competitive
+Edge and that advantage and take not not
+only take advantage of a a unique
+I don't want to say unique angle because
+so so few people that are doing anything
+like this but but then combining it with
+the current technology with AI and and
+all the Antics and everything I think
+it's awesome yeah and you mentioned you
+mentioned your we'll call it your new
+Avenue of of listeners and those that
+are looking to get in and I don't mean
+to dissuade anyone from in that world to
+trying gly because G has the has the
+ability to basically on board you with
+seeing that sam.gov and running the
+analysis both forward and backwards one
+of the things that we launched and we
+really haven't talked about is we are
+now mixing fed and sled and so you have
+the ability to see we're up to I think
+we're north of 3,000 maybe approaching
+4,000 different sled data feed so on the
+federal side we're in the we're still in
+the many dozens but side we're in the
+thousands just because California alone
+has thousands of Small Town police
+officer versus State Y and so having a
+singular place to be able to say you
+know what I'm in this location and I
+want to be able to sell to the state and
+local as well as fed gley is still that
+that place and all of the sled data
+right now is public so that's the
+there's plenty of opportunity there for
+your listeners that are trying to get in
+to have a single place to say yeah I
+want Federal opportunities that are in
+my region and sled opportunities and run
+analysis you still get all of those
+tools and metrics yeah so yeah sled
+state and local and obviously a little
+bit different than going after the
+federal contracts a lot of companies
+lump Dan you un go with Federal because
+it's
+easy yeah similar enough but yeah and I
+think since you brought it up I think a
+lot of the certification Consulting core
+of the audience where they would use it
+is for their clients right so they would
+be approaching it because you did
+mention hey in in your right it's harder
+for a company that hasn't sold anything
+to the government to maybe not just with
+primes but certainly with the federal
+government right to make that first
+contract to show hey I I got a history
+of past performance that I'm going to
+deliver whatever I say I can deliver but
+for a consultant or an advisor you're
+going to need tools to be able to work
+with your clients in different company
+so if you're working well that doesn't
+have this or doesn't have this Insight
+that's a perfect match I would think oh
+100% and one step one step further if
+you get an organization listening in and
+they've you know say they've got a
+customer they have a I sell Widgets or I
+sell this service and I've got a
+customer that's interested what we want
+to empower them with is you know let's
+help them have them Reach Out reach out
+to our success team reach out through
+the website whatever we can help them
+craft the narrative to their customer to
+unlock the door so that they the
+customer doesn't have to post their
+opportunity on stand. C because we can
+help them network with the right Prim
+and it's very different when you're
+reaching at the primes through our
+Network through the network and say hey
+I'm looking to gain access so I can go
+fish
+is very different than saying hey I have
+a Target in my sight I just need the the
+final yard line that is instantaneous
+can have you up and running with a
+partner in a a prime in a matter of call
+it 48 hours I feel very confident that
+we could do that no it's a that is
+absolutely the right strategy and we do
+it on a minor level like one-on-one
+between our client and Prime absolutely
+totally because you're right these big
+companies not even big companies any
+company on contracts when
+you know different people that are
+looking to sell something figure out
+that they can see who's on contract with
+the government well now they'll reach
+out to these businesses and they like
+hey you're a cyber security company on
+contract with the dod and I sell I sell
+these data SES or I sell X so but they
+get they're getting pitched all the time
+from these Fishers I guess you could
+absolutely right if you're reaching out
+and you are a you actually have an
+opportunity you're talking with the
+office or you're working or already in
+some government agency they're going to
+be much more likely to talk to you I
+would argue that if you're coming to
+them with an opportunity
+it's if I was a salesperson's manager
+and I am the manager of some sales
+people if someone came to them with an
+opportunity they didn't respond I would
+be very upset with that sales execu so
+yep oh absolutely and more importantly
+is if you get this customer and the
+customer says hey I really like in the
+customer being either end user or
+contract officer I really like using
+this contract vehicle I want to empower
+your lers to always say yes I can get
+access they're not going to be a
+generally speaking they're not going to
+be a Prime on whatever they're saying
+and but if they can say you know what if
+that's how you want to go no problem I
+will go get access and I'll let you know
+in 48 hours that I'm good to go and
+let's do this and in that time we can
+spin up and make sure that partnership
+in place and more importantly we can
+make sure that the partnership's in
+place and your listener that to that
+vendor is actively monitoring the
+opportunities on that contract vehicle
+so that they can see when it gets posted
+and they're not be folding to hey you
+know what maybe they're going to see it
+or hopefully it doesn't fall through the
+cracks because that's the worst right
+yeah your driving Community we see it
+all the time and that's one of our
+biggest values even for the big guys my
+favorite story was a very large OEM
+that's a customer of ours today during
+our demo we were LIF fire exercise of
+hey let's find Opportunities available
+and in the conference room they were
+like hey that's my opportunity that's
+not out yet and we're like well it's out
+and it's expiring tomorrow we don't
+really know how to explain this to you
+and they're like no supposed to be on
+soup small business we're like well it
+is but it's also got a hub Zone set
+aside and your partner apparently is not
+so they couldn't see it and so they
+basically from the conference room we
+connected him with the hubzone prime
+they then had access they did it the
+next day and they cuss that OEM
+basically said said we we are a gbly
+customer forever because we missed this
+and the GP we made on this one deal pays
+for gbly for ever it's worth it just for
+that reason exactly for that reason
+that's awesome well this has been
+awesome do you have any parting words or
+anything for I know we we've covered a
+lot you've given a lot of great reasons
+for I think both small and large
+companies to check out go potentially
+get on there but yeah know the floor is
+yours what's coming up next and what
+would you what's your recommendations to
+everyone out there yeah
+and ultimately the we closed our series
+a last September we have been pouring uh
+fuel into our R&amp;D division our
+engineering team is cranking out code on
+a daily basis so especially if you
+haven't seen us since the December of 22
+podcast come request a demo come check
+us out and see the new features our
+expansion effort continue into the sled
+domain and a huge push into Services sup
+six and a lot of the other large
+Contracting vehicles are leaning into
+Services differing opinions but with the
+government budget being you know
+somewhere between 50 and 70% appli to
+Services it's a massive chunk and so
+we're getting into that space and being
+able to filter and dial in find those
+opportunities across state and federal
+all at the same time in a single pain of
+glass would love to show you yeah no
+it's going to be amazing as as soon as
+you guys get into I shouldn't say soon
+but seeing you guys expand into
+different vertical if that's the if
+that's the eventual goal to to get their
+almost unlimited uh value that you're
+offering here to businesses across the
+United States anyway worldwide if you
+consider the intern we anada is slated
+for end of the year oh fantastic that's
+awesome well Mike thanks again for
+coming on if anyone wants to reach out
+to you at the gole team what was the
+best way to do that yeah so the the
+easiest way is to request a demo on our
+website there's just a a fill form right
+there go.com golom
+and then there's also info if you're
+more prefer to send an email all right
+fantastic all right well thanks again
+and thanks everyone for listening this
+week we will check you next time

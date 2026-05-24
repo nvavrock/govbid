@@ -1,0 +1,1330 @@
+Kind: captions
+Language: en
+welcome to this week's edition of the
+dod contract Academy podcast this week's
+a little bit different this week I have
+a company on called forces Horizon so
+I'm going to talk to them a little bit
+about their technology what their plan
+is with the government but I want if
+you're a company or if you're a veteran
+or just getting started in Government
+Contracting I want to kind of preface
+this with why you should listen to this
+episode what this company does is they
+have an AI tool which is designed for
+veterans that are transitioning from the
+military that takes their experience and
+matches that to different job
+opportunities they work with companies
+and help them find veterans with the
+right experience you've probably heard
+because this is something that happens
+often unfortunately which is that it's
+it can be difficult for military members
+to find the right employment
+opportunities after they get out because
+it's hard for a business especially
+somebody that hadn't been in the
+military to understand hey what what's
+this person good at what's their skill
+set so we get into an in-depth
+conversation about that the reason it's
+important for you as a business is that
+some of the best sales Executives
+especially if you're selling to the
+Department of Defense any of the
+services are going to be somebody that
+served in the military now we can teach
+them to sell to the government but I
+can't teach you to have a military
+background so there's going to be a bond
+there they have a network there's a lot
+of great reasons to hire someone from
+the military and then if you happen to
+be a veteran this is a really
+interesting episode because this tool
+essentially takes all of your military
+experience and turns that into things
+like resumés and it matches you with
+different jobs that you might not have
+thought worked for you so it's a really
+interesting episode and stick around too
+if you are interested in Government
+funding for technology startups because
+that's what they are they're Tech
+startups so we talk a little bit about
+the cber process that's towards the end
+and what I'm seeing right now like what
+is because it is a competitive process
+but there are some areas where you're
+going to be you are going to be more
+competitive than your peers so stick
+around for that hopefully this episode
+resonates with you and then next week
+we're going to come back with part three
+of our three-part series on leads
+meetings pipeline how to win those
+government contracts so thanks again and
+we'll see you at the end of the episode
+one of the hardest things for any
+company selling to the government is
+getting their sales process down and
+building a sales team that can actually
+win
+contracts if that sounds like you then I
+want you to go to dodc contract.com we
+have offerings for different levels
+depending on where you are in business
+the very high end we will build your
+sales team for you and run that sales
+team establish the CRM put all the
+processes in place so you essentially
+get a sales team built for you that can
+win and close contracts now at the lower
+end you can subscribe to DOD contract
+Academy you get all of the courses that
+will teach you how to sell to the
+government and the CRM tool called gov
+close which we develop Ved just for
+federal
+sales this is a really great offer so
+that at that low end it's a price that's
+affordable where you can get all of the
+training and the CRM tool and you get uh
+group coaching every couple of weeks
+where we can sit down and talk to you
+about what your problem sets are and
+help you win those
+contracts if either of those sound good
+head on over to DOD contract.com and if
+neither of them sound good at minimum go
+check out our book at Amazon the book is
+called the government contract planner
+by me Richard C Howard check that out at
+Amazon please leave a review as well it
+comes with a a free companion course so
+you don't get everything that you get in
+DOD contract Academy but you get a
+little taste get a little taste if you
+buy the book on Amazon so please head on
+over grab that leave a review subscribe
+to the podcast and now on to our
+interview with forces Horizon this week
+I have forces Horizon on and this one is
+near and dear to my heart as a veteran
+and you're going to hear about some of
+the technology and the great work these
+guys are doing I have Devin Smith who's
+the CEO of the US I guess portion of
+forces Horizon then I got Ben Rob who's
+our UK representative on the other side
+so he's the CEO of the UK piece of this
+welcome guys thanks for coming on today
+yeah thanks for having us appreciate it
+yeah no no worries okay so I'm not going
+to I'm not going to choose by one of you
+if you could introduce for's Horizon why
+you started it what it's doing now what
+you want it to do the objective
+everything let's just dig into it so we
+have that up front then you want to take
+that your baby yeah I think um I think
+Deon SK have a lot more to say about L
+rather so I'm happy to get my bit in now
+but yeah so for Horizon the concepts
+arrives it's something that Devon and I
+both saw firsthand when we were officers
+in the Army when we saw that servicemen
+and women who have sometimes incredibly
+sophisticated skill sets attributes and
+qualities that are cultivated in the
+military and are very desirable in the
+civilian worlds but not necessarily
+don't necessarily have obvious parallels
+in the civilian worlds we're struggling
+to represents themselves in a way that
+maximize their value in civilian
+employment in second careers and in
+their lives more broadly in the civilian
+worlds and we thought that's a problem
+and it's also an inefficiency because
+people spend you know however many years
+whether it's four or 30 years in the
+military and they developed these
+amazing skill sets and there's a
+mismatch there's a mismapping between
+what people do in service and how they
+see themselves and how they're seen in
+the civilian world and we thought that's
+a problem that we wanted to solve and
+we'd actually been looking at it from a
+number of angles but the advances in
+large language models and generative AI
+have really enabled us to do what we're
+doing and it's a really fortunate
+combination of us starting this and
+those advances happening at the same
+time because the military by its Nature
+has a regimented system of language it
+has you can infer a huge amount of
+information from someone's job role
+someone's Rank and anyone who's in
+service will be able to do that
+instinctively but people in the civilian
+World generally can't and huge technical
+skill set within that and the beautiful
+thing about large language models is
+they love that kind of language they
+it's standardized it's there's the right
+degree of variance because different
+roles within ranks and different units
+create variety but it's not so varies
+that it's going to be producing nonsense
+that's the beauty of it really and
+that's the basis for our model and
+helping trans transfer those skills so
+forces Horizon is a essentially it's a
+AI kind of chat GPT program for military
+members that helps them translate their
+skills from the military into language
+that companies would are going to
+understand so I'm assuming this is going
+to help them with things like applying
+for jobs maybe putting a resume together
+can we is or does it build your resume
+for you what how yeah so I can jump on
+that so the four thing is that does a
+couple things one is it builds your
+resume so it goes through you plug in
+your information it helps you build a
+resume that's editable also comes out
+multiple formats and then all the the
+second half is that it builds like looks
+into your skills and profiles and
+working on that part right now to really
+flesh out like not only what you obvious
+things such as typical Army project
+manager for officers right that's the
+stereotype it comes project manager but
+trying to look beyond that look at some
+of the skills from all the different
+military schools that you took what sort
+of skills does this guy have where could
+or girl and where could It Go in the
+future where in the civilian world might
+they be a fit because a lot of
+times I think military risk of being
+pigeonholed a little bit yeah I'm trying
+to help break that out and it's a
+two-sided problem one you've got the
+military people on this side who need to
+understand what their value their worth
+and skills are and then you have the
+civilian people who would need to be
+like this dude is better for something
+than just kicking IND doors or you know
+what they have to break that stereotype
+as well and so we're trying to work on
+both sides and so we've got the military
+facing side to help them understand
+their skills we're also working with
+companies we're trying to build out that
+side to help them understand help
+them okay no that's interesting how are
+you working because I would imagine on
+the military
+side I would be looking at this to help
+me translate what I'm doing and build my
+resume out maybe even I don't know what
+it what it does it give you a in
+addition to your resume is it giving you
+like ideas for jobs because you mention
+hey we're trying not to Pigeon hold
+people as a program manager but and I
+would imagine you're training it and I'm
+making some assumptions here but so if I
+plug in like I was an Acquisitions
+officer a company may not understand
+exactly what that is language model you
+may understand that that hey that's
+something that Ricky managed $82 billion
+in contracts and that's something that
+may resonate with a company looking for
+someone that's actually had experience
+dealing with a high level of funding in
+contract is that am I going down the
+right you you are 100% down yeah that's
+and it is like you said I think it's
+important Tois that you know all about
+training that is a real important thing
+with these language models right now it
+does come up with more generic stuff but
+the more it gets used the better it gets
+go by way and that we can more tailor it
+so that we can start to pull out those
+acquisition things like hey this is
+important this is what that means it's
+definitely a process to it but that's
+that is the direction you're heading and
+already on our website right now as you
+create your profile it will come up with
+some suggestion jobs well interesting
+maybe I don't know if we can do a demo
+on the podcast but it' be nice to jump
+into it if we can if not we don't have
+to but I did want to ask how does it
+help companies so I get it this might be
+something I can do I think any anyone in
+the military that's getting ready to
+transition out even if you're not and
+you just want to get a resume or put
+something together this would probably
+be an interesting process to go through
+to see what you guys have done and get
+some benefit out of but what if I'm a
+company or a business owner and because
+a lot of people listen to the podcast
+are business owners that are selling to
+the government selling to the dod and so
+they're going to be and I always tell
+people if you're going to hire someone
+to help you sell to the Department of
+Defense there's no better person to hire
+than a former military person from the
+service that you're trying to sell to
+but that company might not really
+understand if I put somebody's opr or
+performance report in front of them from
+the Army or the Air Force or whatever
+Branch there's a lot of accur my wife
+doesn't want to listen to me when I
+start talking because it's like an
+language how do you help companies do
+you help them decipher through some of
+that yeah 100% that's the that is comes
+the Crut in the platform like Ben was
+talking to he found that there was loads
+of service members with great skills
+that didn't know how to translate that
+skills core Mission I would say of this
+product is to translate military fi so
+the relevant to civilian recruiters you
+know the backend Force specifically for
+businesses that use our platform they
+can it one it becomes a clearing good
+milary candidates that have translated
+their skills to a certain extent so
+there's that easy win but also we work
+with them to try they plug it in like
+they're looking for these 10 trads we
+can go through our system and our
+systems identify people with those
+traits and step Sergeant so and so has
+eight of these traits and we think they
+might be a pretty good match and we can
+start like making those links up and Ben
+has already worked with companies to
+when they've got hey we've got specific
+resume requirements maybe we want to see
+no more than one page res whatever or
+they've got a certain format that's just
+a standard in their company then they
+can specify that and then that service
+person St Z can say I'm applying to this
+company and this company's preferred
+resume style is X I'm going to have a
+resume generate in EX system will do
+that for it and then I can set the
+application oh very cool very cool so it
+sounds like you also do a little bit of
+matchmaking then yeah so I probably
+speak a bit to that there's a number of
+ways that we create efficiencies both of
+time and cost and access for companies
+and we also work with different types of
+companies so there's the sort of large
+Enterprise organizations that often
+already will have some sort of Veteran
+Outreach but unless that's matched with
+correct representation on the size of
+the service person it's never going to
+be optimally effective so that's how us
+helping the service person helps the
+company but then on the other side for
+these of clients um there is that
+matching element and to be honest with
+you that's our whole model is trained on
+Military data and it's we're also
+looking to other elements of defense and
+security but that's what we're training
+on so everything we do is bespoke to
+that audience but it is just a useful HR
+tool because it saves HR team spending
+hours trolling through resumés we've
+cency there already because we've
+generated the resume and we know it's HR
+industry standards we know the service
+person is well represented they don't
+have to make too much inference or do
+too much of their own translation but
+also we can then match candidates to
+roles which won will never be the final
+say and it shouldn't be the final say
+companies there's always got to be the
+human decision maker at the end of it
+but it does it also creates an
+efficiency from that point of view and
+our other type of clients is or are they
+are recruiters because recruiters will
+often want to play service personnel and
+they will some they also will sometimes
+struggle to recognize what acronyms mean
+what the technical skill set is because
+if you're a if you're a sergeant in the
+Infantry for example in throughout your
+career the more militaristic elements of
+your role will be emphasized and will be
+of essential importance but when you
+leave a lot of the administrative side
+of things and a lot of the sort of you
+know the Pastoral side things and that
+becomes more important and we can help
+emphasize that so we can also work with
+recruiters to help them save time
+Outsourcing writing those CVS the time
+it it takes for them to identify those
+characteristics themselves so it's as
+much about it's about matchmaking it's
+also about saving time and very
+efficiently so I think that's what we
+offer to all policies ready okay what do
+you charg we don't have to get into the
+exact price but if I'm on the military
+side of it is this something that I'm
+going to pay a monthly subscription for
+is it a what's the what kind of fees is
+am I
+expecting so free sorry yes so it's
+entirely free for service users so
+anyone leaving the military and and the
+other thing returning to your initial
+question briefly about this being a GPC
+designed for veterans there is an
+element of that to is in the the days
+trained on that but it also goes well
+beyond what those sorts of brilliance
+the general services do because it's not
+a case if you say I did this what's my
+skill set it does do that in the
+background because it all formats it for
+you it creates a resume for you you can
+then edit that resume on the platform
+you can download this in different
+formats it gets exposure to employers
+it's yeah yeah so it's there is the GPT
+side of things but that's which is
+Central to what we do it's also combined
+with a lot of other efficiencies sorry
+but yeah it's free it answers your
+initial question it's free for for
+service Personnel that's awesome I just
+by the way I just signed up I looked
+aside for a second here I just wanted to
+see how fast I could sign in and and get
+an account here so I just signed into
+your system so you see uh Rick Howard in
+there I just got a an email back by
+force Horizon what would the process be
+so I signed up now how do I use it I
+verify my email I get into the system
+and it's free the next steps here maybe
+talk me through what I'd be doing yeah
+um so you get the you get the
+verification email that comes back and
+then you basically it's going to prompt
+you to start building your profile out
+this profile is going to work through
+just the your military career basic
+headline information who are you where
+do you live work through your military
+career and it'll ask you any civilian
+information where you went to University
+at kind of education other
+certifications you may have just the
+general resume stuff you put a decent
+amount of information there more kind of
+detailed information you give it to a
+certain extent it's the better it'll do
+because
+obviously well we are working with GPT
+and they are advancing by Leaps and
+Bounds right now it can't know your
+personal story so you were the top five%
+of your class like you have to tell that
+yeah and that's just understanding the
+limitations of a system but yeah you
+submit that and in a couple minutes
+It'll generate your resume and it'll
+send you an email to go back on log on
+and you can go back on and you'll see
+your profile the top page and then
+you'll also see uh your resume that's
+going to be completely editable and
+you'll be the different formats and
+that's the Mason process okay
+interesting yeah know and I just so for
+everyone uh watching or listening I just
+created an account it was really simple
+now is there an ability to upload
+documents in here or is it mainly right
+now just type it in not yet so that is
+something that we've talked about
+especially important for me at the US
+side and to be able to also background
+I'm Army so when I say I apologize to
+maybe anybody that listen to this but so
+when I talk about I'd like to see if
+some that it can parse like o and SS any
+sort of valuation CD 214 any that
+information be great however that's just
+time and development it's significant
+development cost so we are looking at
+that and that maybe future iterations
+but for right now it's primarily just
+the information that you in okay very
+cool and so from here so you have the
+system you're making changes to it it
+sounds like it has a lot of benefits
+both to uh commercial world to the
+military man or woman are you looking at
+the government right now Government
+Contracting investing from there we are
+just in the beginning of that process so
+I've spun up at onc here so for ston
+since Ben was the initial founder that
+started in UK see that but I st up LLC
+here so that we are looking I'm pursuing
+the disabled veterans small business
+certification so working on that and
+then from there we will start looking at
+SBI and kind of F that fit the bill so
+we're in the initial phases of that okay
+interesting yeah it's a a lot what you
+guys are doing and there's a lot of
+investment going on in AI right now and
+clearly there's a benefit to the
+military man or woman there's clearly a
+benefit to corporations and businesses
+like there a clear benefit to the the
+government as well so this could be used
+for something like uh the transition
+assistance program in the US military
+that that is probably the clearest use
+of that I could think of for but in in
+addition there are different programs
+within the military military and the
+other government organizations have
+their own versions of an HR department
+right so I would bet a tool like this
+would help match individuals with their
+skill sets help identify them for
+different positions and things like that
+so there's probably a lot of iterating
+that you could do on the initial product
+for uh the US government to make
+yourself available to different grant
+opportunities SBI a one yeah like a
+long-term goal bars when you talk about
+tap is that's to be capture every s of
+sniper that coming through it not like
+business sense but just to make the tool
+available to them so there's a lot of
+values being a t course and then be like
+hey you guys great your resume this
+forces Horizon is a tool that you can
+use if that's a
+lie makes like we can help them out
+instead of us out and P rou and do the
+traditional marketing route having that
+tap program is that's like kind of the
+ultimate thing that we can do cuz we
+want to help transition service you want
+to help all veterans you can be out for
+10 years and our system is still really
+good for helping because it captures all
+St bilon sign does that but it would be
+great if that's when get a Tapper qu
+programs across the military they can
+come in they can be like yeah I like
+this system it's helpful and hopefully
+help them make an easier transition
+because it is rough I can speak long
+time about that from personal experience
+it's a brutal transition and to make it
+easier certainly resonates with me and
+and probably Ben and let me ask you this
+because we didn't really get into your
+backgrounds outside of saying hey you
+were both in the army of your different
+countries right Ben maybe you could go
+first give me some background so where
+did you grow up what made you join the
+Army what did you do in the Army and
+then when did you get
+out yeah absolutely I I grew up in
+herfordshire in the UK spent some time
+abroad in Singapore when I was very
+young but yeah mostly in and around
+herit and then was down at University
+for a bit and actually started getting
+an interest developing an interest in
+what was a relatively nent form of AI at
+that sort of time mostly through
+conversations and things that were going
+on it was a very different discussion
+then and then yeah joined the army spent
+some time as attachment Commander with
+the Grenadier guards and it was a
+relatively quiet time you know whilst I
+was in went on a couple of exercises
+abroad went across to bise worked with
+forces out there and then Co hit so we
+were running mobile testing units around
+the UK and responding to that situation
+it was yeah it was was it was a really
+interesting experience but I think the
+main thing that I got from it was seeing
+what a what an incredible pathway it can
+be for people from all sorts of
+backgrounds and I think there's less
+vocal support for the military in the UK
+there is support but I don't think
+there's
+culturally it doesn't hold quite the
+same place in the National psyche as I
+believe it does in the states and
+I think that's where I saw how use how
+beneficial is obviously in its primary
+function but also as a a mechanism by
+which people from any background can
+learn not just skills but qualities and
+ways of ways of conduct that are really
+valuable outside of that and um I think
+that was where it was seeing people and
+to be honest with you is mostly from the
+non-commissioned ranks who had
+incredible skill sets whose
+contributions the whole unit was
+dependent on far more it might be
+controversial say this but I think at
+least initially during your first year
+more so than the junior officers they
+was so Central to everything that was
+going on and I think seeing people with
+these skill sets leaving and having the
+double problem of firstly being so
+ingrained in military language and
+culture that they didn't know what was
+outside and found it very hard through
+that language to explain what they had
+done but also just not having you an
+awareness of those avenues that was
+really the process that led us to where
+we I I was working at an investment bank
+for a while after I left but this idea
+was always there and you know something
+that we're all really passionate about
+and it came to a time at the end of last
+year where we've been doing this for a
+while it was working and it is working
+and I thought we just got to go and make
+this happen so I quit my job and have
+been doing this full time since it's
+awesome and yeah I think you're right
+it's in the United States as well I
+don't think that the anyone that hasn't
+served in the
+military has a very difficult time
+understanding the amount of training and
+responsibility that everyone is uh not
+just capable of but it's it's demanded
+of them and it it can be I think that
+there's actually two mindsets that you
+could probably help people uh change one
+is the the NCO himself right or herself
+so the noncommissioned officer the staff
+sergeant Maybe someone that just was in
+for four years they might be thinking oh
+I wasn't an officer or I wasn't Senior
+Chief Master Sergeant or whatever the
+service you're in but a Staff Sergeant
+at least US military and I I worked very
+closely with our partner Nations I know
+that these soldiers Sailors Airmen Etc
+Marines they have an enormous amount of
+responsibility they are training people
+they are leaders they they learn their
+skill set but then they very quickly go
+on to maybe managing a certain
+department or training people that are
+underneath them as they move up and it's
+a force mechanism where of hey we're
+going to give you training then we're
+going to stress you past the point of
+what you're used to and you might
+struggle a little bit but you'll have
+great mentors then you're going to get
+it going to do great at and we're going
+to give you more and we're going to give
+you more money more people more risk
+more training and then more it's this
+cycle this never-ending cycle really
+makes great not just program managers
+which might be the cliche Devon but uh
+leaders in different areas from
+accounting to Logistics probably a lot
+of jobs that people don't normally think
+about even an infantry troop having
+because oh hey they were in the Infantry
+but they're also managing
+meticulously ammunition and your
+uniforms and ordering for the troops and
+there's so many different areas of life
+that you can be involved in and Ben you
+probably didn't think you were going to
+be uh running around doing testing for a
+pandemic but look at the experience that
+you gained there which is pretty
+incredible
+Devin why don't you give me a little bit
+of your backstory yeah of course I'm
+from the Seattle area group about an
+hour north of Seattle between Seattle
+and commun water up there in Washington
+state so I did untraditional path in the
+military I went to college did my MBA
+got into a working worlding was doing
+like account executive work for a while
+I was bored I wanted more life so I
+walked in Recruiting Station shipped off
+but you were selling when you say
+account executive you had a sales job
+yeah we were working it was we were
+supporting the sales team with myor
+clients not a true sales more like the
+sales teams would get the clients and
+then we come out to and I would make
+sure those clients were happy and
+insurance company so that's what was
+doing a lot basically a lot of looking
+at excel's files coming in with these
+massive sales records through that like
+what they all the things they wanted to
+process it was it just wasn't for me it
+was eight eight hours a day sitting in
+computer so yeah we enjoy the military
+went through OCS I was actually at OCS
+officer candidate school that I was
+selected to go to the Royal Military
+Academy as like liaison which is
+actually where I met Ben Rob so I I was
+there for a year with the British army I
+did that came back and then I was I was
+an armor officer so I was assigned to
+Fort Carson where I did my team leader
+at so time all in Scouts there third
+grade and then yeah my wife got an
+awesome job so I could be a case study
+for why people leave the military my
+wife got an awesome job and I felt
+military wasn't conducive to her
+pursuing her career in racing we ended
+up here in Indianapolis and I am just
+finishing up my time as Detachment Camp
+Commander In The Reserve SC up unit
+that's my career and then Ben who kept
+in contact with after San with and he
+said he was working on that and
+resonated with me because again I got
+out last minute for a deployment to
+Poland when she got my wife got this job
+and so I never had a skillbridge or
+evening like that I walked out to world
+oh no I'm here again now now I'm in a
+totally different city no family no
+contacts West so it was it's been a
+education searching for roles and
+everything like that so yeah it was a
+kind of a natural fit when he said I
+want to help people transition like
+grapes let's do it I think true to what
+a lot of military women and military men
+do is uh they see a problem and then
+they fix it it's drilled into you and no
+pun intended and so you got out you had
+the same thing hey I'm transitioning oh
+crap I didn't get the assistance that I
+needed this is a problem why is it not
+easier there has to be a tool to help
+military men and women transition and
+find those jobs that they're really
+capable of right and it really it
+saddens me when I see people with
+enormous credibility and capability in
+positions where they're not being fully
+utilized because and how many times you
+guys have probably heard this a lot
+being on the outside I know I hear it
+all the time where I somebody gets out
+of the military they were a platoon
+Commander or they were a squadron
+commander they were doing something that
+has enormous respons and they've
+received so much training and on the job
+and the stress levels and everything
+else to make something very difficult
+happen a difficult Mission and then they
+end up in a company working for someone
+that hasn't had half of a perent of the
+training and the experience that they
+have leading people and they're trying
+to figure it out on the job and that's
+always difficult yeah that's a huge one
+I like I said my wife works in racing
+Indiapolis and she's in a relatively
+senior position what she tells me some
+days like office general office issues
+that go on you I'm like pulling my hair
+out cuz that's just like day one of even
+basic training not even like highle
+leadership stuff it's basic trading like
+how to treat people I know military gets
+bad that oh you can just order everybody
+around but I always sent when I was team
+lead or whatever that if you had fall
+back in ERS you failed so hard at that
+point you have not built a functioning
+team that like trusts you because you
+guys know how to work together and stuff
+like that that's the basics right there
+to people like making these mes like I
+know half a dozen more than half a dozen
+like dozens of officers who could do
+that role would not have made those
+mistakes just because they receive that
+training it always kills me a little bit
+but it was fair that a lot of people
+that came from whatever they came out of
+college and they never got a single B
+like how to train him there's nothing
+wrong with that but it just they have to
+learn the hard yeah and not not only
+that and Ben I know you're trying to
+jump in too but I just wanted to point
+out for companies listening that the
+military has a bad perception from some
+people because they're watching movies
+about the military and they see like
+this kind of
+Hardcore like swearing like not in some
+movies nonprofessional just blowing
+stuff up but in reality and I know that
+it's not just the US military that has
+this aspect to it but the military is a
+professional environment and it's
+actually been the testing ground for
+inclusivity for the United States for
+over well over a hundred years where
+when we're talking about some of the the
+problems we have in society and in the
+work environment whether it's racially
+or equality or between the Sexes and all
+the stuff that's going on in the
+military it's almost the the forcing
+ground for inclusivity because what
+you're doing is you're by putting
+policies in place that ensure that
+you're you're not discriminating you are
+working with and I think Ben you were
+talking about this earlier you're
+working with a group of people that you
+might not normally be working with right
+they're from different places they look
+different from you but the I think the
+true test in the military is and it's
+the one that I think all of us come to
+the conclusion of is if you are smart
+and you can do your job and you're
+trustworthy then I can work with you and
+we have to treat each other with respect
+and it's do you do your job and are you
+completing the training are can you are
+you capable and and when you have that
+perspective it's almost ingrained in you
+right so I think that and I'm not sure
+what the problems your wife was were
+talking about at work Devon but I know a
+lot of the things that I hear on the
+civilian side never would happen it
+wouldn't even be tolerated in a military
+unit it's like seconds you don't even
+have to think about things like
+inclusivity or not offending people
+because you just don't do it you
+accomplish the mission we have rules but
+there's so many skill sets that a a
+strong military person can bring to a
+company that aren't realized and and I
+like that your tool is helping translate
+some of
+that yeah I think on that and similar to
+you app point earlier about the S of the
+training I think so in I think there is
+also a difference in the US and the UK I
+think um there is for whatever reason I
+don't know if it's the variety of roles
+or just the composition of American
+society compared to British there is
+certainly that diversity in the British
+army but I think something that seems
+almost unique about the US military is
+this is that kind of that melting po
+that forges people from all sorts of
+different backgrounds together I think
+in the UK is slightly different it's it
+has the same function but perhaps it's
+from different backgrounds in a
+different sort of way but it's I did
+just want to make the point on something
+you may you mentioned earlier which is
+that when it comes to training I think
+there is I think there's an
+understanding amongst some businesses
+when people leave there's there are
+officers and then there are people who
+aren't officers and I think that's a
+real misunderstanding because I think
+someone someone can join the age of 18
+even 17 whatever it might be and they
+could be a full Corporal potentially by
+the time they're s of
+2223 and that's a real responsibility
+they're leading a team they're they're
+responsible for not just their sort of
+operational effectiveness but also their
+cohesion as a unit both in barracks on
+base as well as when they're performing
+their roles and it's a huge
+responsibility but then I think people
+in service it's still it's still towards
+it's still towards the lower end of the
+rank hierarchy so I think people in
+those roles will know their
+responsibility know their importance but
+they won't necessarily because it's
+still quite it's towards the lower ends
+of the rank Spectrum throughout all of
+the ranks they still in a sense are
+junior but actually in reality when they
+leave that's not the case because
+they've had management experience
+they've had leadership experience
+they've led a team lots of people then
+do that throughout their whole career
+you can be you can be a lawyer and not
+really have to truly manage in the same
+way a team for a very long time and I
+think that's something else that we want
+to emphasize is that whilst people might
+see themselves as being a a junior
+non-commissioned officer in the military
+and that comes with the weight of all
+the ranks above it that's not the
+reality in the civilian world and yeah I
+think that's it's slightly different to
+it is different the point you're Mak
+about diversity which I think is another
+incredibly important aspect of it I
+think is a Pome one for people to
+recognize yeah no no doubt and I think
+just a a message to the to the my
+enlisted military Community out there
+impostor syndrome is not something that
+I can't tell you not to have it was a
+enlisted or former enlisted troop what I
+can tell you is that for instance in the
+Melting Pot as you put it of the United
+States in the Northeast a lot of people
+don't even know the differ between an
+officer and enlisted they just know that
+you're in the military I I remember like
+still like if someone asks I have to
+explain it to them what the difference
+is cuz they don't know now different
+areas are have varying levels of
+experience if I go to Texas it's
+probably going to be a lot different
+than that it's a military heavy state
+but the point is a lot of the companies
+either don't know or don't care it's how
+you present yourself in the resume and
+what skill sets you're bringing to the
+company I could from personal experience
+some of the best for instance public
+sector sales EX Ives I know were
+enlisted in the Navy or the Army these
+are guys that are because look you need
+to be able to and companies want to know
+that the people that they're hiring are
+not afraid to get their hands dirty and
+do the work there's so much value that
+you're bringing to the company and and
+you guys are doing a great job of
+translating it so before we wrap this up
+we need to talk about a couple things
+right because this is DoD contract
+Academy so this is focused on helping
+companies sell to the US government now
+you've already talked about the fact
+that
+you have a goal of potentially getting
+some initial contracts with the US
+government potentially in the dod
+potentially with transition assistance
+and sbir and so there's a a great Avenue
+for that through c.gov for you guys to
+take your first steps and put some
+solicitations or proposals together to
+get that so I want to talk about that
+but I also want to talk
+about the companies that are listening
+to this how you can help them
+with potentially hiring former military
+people to work for them and may let's
+focus on I would say maybe two things
+let's talk about account Executives or
+salespeople that can help them sell to
+the US government and maybe even program
+management something along those or you
+could pick another skill set or position
+in in the company but targeted at hey
+you're selling to the government how
+could they work with you how could a
+company reach out to you guys and get
+your assistance getting match with some
+some good people to put in their
+business and and help them with their
+DOD or other Government Contracting
+abilities so I think there are two there
+are two sides to that so the first one
+is quite simple so if they sign with us
+um they will have access to our users
+and that's see that's a voluntary thing
+so anyone who signs up they will be
+getting the benefit of free resume
+generated skills mapping for suggestions
+but there is the employment element as
+well so in that sense it's you will have
+a database of well represented
+candidates with an HR industry standard
+resume which has been vetted to ensure
+that it best reflects them so that's
+that's just a discussion to be had if
+anyone is interested that would be
+fantastic we always want to work with
+veteran friendly s hiring partners and
+we can do that over email or the call
+whatever but I think the other side is
+is marketing effectively
+because anything we do we're at the
+stage of the moment where we want to
+collaborate and share who we're working
+with because it's we think that's
+there's Synergy in that there's it shows
+it just shows partnership amongst the
+veteran friendly hiring community and so
+there is the first thing which is
+signing up to the platform but the
+second thing is affiliation because we
+we be going around events bases whatever
+might be in the US and then also in the
+UK but doing that so there are two sides
+to that really and but yeah the first
+one is simple it's we can provide P do
+okay no that's great Devin did you have
+anything to add no that's pretty much
+the basic any company that wants to work
+with us to reach out sent that up and if
+they are looking for specific roles for
+people that's we can help funnel that
+and as more and more veterans start to
+sign up on our platform we hope to have
+a bigger list of different rules people
+that may those niches because like you
+said certain listed service members can
+make great account Executives even if
+they don't have the degree to check that
+PR walks and we want to highlight that
+yeah what degree are they really going
+to get to help them be a good in this
+case sales executive to the federal
+government and really the education is
+already there they were in the military
+this is a good point I think for anyone
+listening whether they're the company or
+they're in the military if you served in
+the
+military even a foreign military because
+we have a huge foreign military sales
+process by the way you automatic Al for
+the because we're all about being very
+focused on this channel when we're
+talking about selling to the government
+right so based on what you sell you may
+be selling to the Air Force or maybe
+selling in the Navy let's say it's the
+Air Force because that's my favorite and
+this has been a very Army heavy heavy
+podcast here with you two but so if
+you're selling to the Air
+Force doesn't it make sense to have
+somebody on your sales team that
+actually was in the Air Force because
+here's what they're coming with and look
+Devon you're use you an use you as an
+example for the Army right you're still
+in the reserves right is that what you
+said yep so you have a network of army
+people that you know you have a security
+clearance you also can use Army email
+when you go in uh to work you're getting
+the latest on the trends and the
+different things that especially in the
+reserves right but the Army at large as
+well what's going on in your particular
+career field even if let's say I was to
+hire you to be a sales executive using
+you as an example and I just pivoted
+from the Air Force to the Army but hey
+so if I hired you to sell to the Army it
+doesn't it almost doesn't matter what
+your background was in the Army as far
+as your actual j o right so you don't
+need to necessarily be a cyber security
+guy to sell cyber security services to
+the Army but you can get on to military
+base you understand all the acronyms you
+have a little learning to do with any
+company you work with as to what uh
+you're providing and you probably just
+by being in the military by the way if
+companies aren't aware everyone has to
+go through cyber security training every
+year at a minimum just as a user uh not
+to mention that it's actually it goes a
+little bit further than that because we
+have a lot of things like Insider threat
+and different uh security environments
+we have to work in and cyber secur is
+very important and I'm just using this
+as an example so you don't even have to
+have be a cyber security officer to have
+a a great understanding of what's in
+place for every single user in the Army
+because you had to go through all the
+training and not to mention speaking the
+language having the network having the
+clearance versus hiring somebody else
+that doesn't have any of that and I
+don't know how many companies that we've
+worked with we've advised over 500
+companies at this point most of them
+never have set foot on military
+installation so they're they want to
+sell the Air Force they've never been on
+an Air Force Base I would say hire
+yourself someone that actually has that
+experience same thing with the Army same
+thing with the Navy and I just to make
+that point yeah yeah I mean I I think to
+to your point even the basic stuff like
+an army guy working for a company that's
+trying to sell to the Air Force we may
+not be airf but when I was in the tanks
+on the ground I always knew what planes
+were flying over our head being able to
+just go point out hey I know the
+difference between all those air frames
+like I can tell difference between a
+C130 and a C5 which is maybe not that's
+not super high level that's a quick like
+Google that's just an intuitive thing
+that most people across the military all
+branches will be able to understand and
+that's just that little bit of level of
+understanding that goes a ways and like
+ingratiating yourself that's it's a good
+point so I should put people in their
+own silos right someone that was in the
+Army is going to have a better
+understanding of all the military
+branches compared to somebody that's
+never served and so for you guys and
+Devin's out was in a partner Nation
+military but there's going to be a kind
+of unspoken Bond or understanding
+between us because we've all served in
+the military and that's there's nothing
+that can change that because there's no
+experience that I have ever been
+acquainted with that is lifechanging
+like having served in the military
+that's just a bond right so you
+immediately have that kind of unspoken
+bond in any branch of the service when
+you walk in there and you have the
+understanding again all the things I
+talked about before just maybe you
+didn't serve in that particular Branch
+so so that's a good point you could
+certainly and by the way I sell for
+companies to a variety of services right
+so that I didn't come from so that's
+certainly a an aspect to it as well
+that's great okay so companies can come
+to you guys to help find people for
+sales Executives and maybe some other
+positions in their Government
+Contracting and that's great and you
+guys from here because it's going to be
+interesting because I'd like to have you
+guys on in another year just to see how
+far you've come so not just working with
+companies selling to the government and
+I know you helped companies doing a lot
+of different things not just that our
+veterans of course which is of primary
+importance but also taking a look at how
+you guys are approaching sbir and
+hopefully winning some of those
+contracts we'd love to hear any progress
+you've made and certainly you guys can
+reach out to us if want some help with
+that yeah we' love to conversations with
+you past have already helped us long
+path towards pursuing them and we'd be
+really interesting because we're in the
+startup space we are a military FOC
+we're also in the startup space where
+you know both Ben and I are learning as
+we go every day oh we did that wrong we
+did that right and it's just so how
+happen to ha sh because I know Founders
+and everything it's a rocky journey and
+it's confusing one so hopefully we can
+help I'm sure there's lo I see him every
+day on LinkedIn there's always new
+defense startup so that could yeah be
+interesting no it's great the just for
+you guys and for anyone listening the
+SBI process is a three-phase process
+where the you can win Government funding
+to help develop a technology or solution
+or modify a solution so in this case
+modifying Force Horizon for government
+use and we talked about a variety of
+areas that you could potentially do that
+on topics will come out so in this case
+it could be a general topic about AI it
+could be something more specific about
+transition for veterans but you find a
+topic on sb.gov
+that meets or broadly meets the category
+of technology that you're working on and
+you can apply for um to win a contract
+essentially with the government designed
+to help you develop that technology so
+like phase one typically around 150
+Grand it
+varies B basically doing like a
+feasibility study phase two that's where
+you're really developing something like
+a prototype demonstration they all vary
+a little bit but those could be up to a
+couple million dollars and then phase
+three that's when you're moving on to
+maybe a standard government contract
+over time a powerful program it's
+getting a little bit competitive guys so
+just to let you know but there is a my
+my tip for everyone for SBI this week of
+going to be not looking at SBI but
+looking at
+sttr and don't ask me what the acronym
+stands for same website sb.gov but it
+basically it very similar program but
+you're partnering with a nonprofit like
+a university or you pick your nonprofit
+right so now of course since you're
+partnering you're not taking the full
+amount of funding but the odds of you
+winning go up pretty dramatically
+because most companies aren't taking the
+time to partner with a nonprofit so this
+is a good way to eliminate some of that
+competition and maybe find an area where
+you're working with a university and and
+winning some of those initial sttr and
+bringing some funding in to do something
+very similar so again I would take a
+look at that it's a good path forward
+right now as what is it March of 2024
+that could be totally different a year
+from now as of right now that's what
+we're
+seeing awesome right guys one more thing
+yeah one more thing before I go maybe
+think about it when it ter of Defense
+startups onp side anybody from the
+defense world in the US that's looking
+towards the UK please reach out to us
+hiring needs one only but also we have
+contact I know Ben Rob is an awesome
+contact he knows loads of people UK
+military not only for if you're looking
+to work with the def Ministry of Defense
+but also hiring people for a you're all
+move into the UK Ben's Ben's got that
+out log that's maybe we can make
+something
+work yeah no that is awesome that is
+awesome well thank you guys so much for
+coming on so yeah you heard it if you're
+iring reach out to these guys to hire
+former military for a variety of
+positions if you're moving to the UK and
+looking for something out there if
+you're a veteran please go on here like
+I said it's free you can uh log in like
+I just created my profile in about 2
+minutes here while these guys were
+talking at the beginning of the episode
+provides a lot of value for you you can
+go to forces horizon.com to find you any
+other places they should be
+looking Place yeah okay L are they just
+typing in Devin Smith or do you have
+more
+specific yeah Devon Smith forces Rising
+Benedict Rob forces Rising call it will
+come up it's a small company so few of
+us all right all right guys thank you
+very much for coming on here today and
+everybody out there listening thank you
+for tuning in this week you can go to
+dodc contract.com if you want some more
+information on what we do or to access
+past podcast episodes or our newsletter
+the govcon and until then we will see
+you next week take care

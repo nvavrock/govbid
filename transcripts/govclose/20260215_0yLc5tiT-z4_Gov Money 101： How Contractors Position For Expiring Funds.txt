@@ -1,0 +1,381 @@
+Kind: captions
+Language: en
+I broke a lot of hots when I ran an
+acquisition's branch in the US Air
+Force. Companies would come in with a
+great product. It would fit our needs,
+but they didn't get the contract. Not
+because of competition or price, but
+because we had the wrong color of money.
+That's right. The US government doesn't
+just have money. It has colors of money,
+different timelines, and different
+restrictions. I've had many meetings
+with a company telling them something
+like we have O andM funding but finance
+still needs to determine if it's the
+right appropriation or this is FY27
+budget. You know the company would sit
+there and nod along but in reality they
+often didn't understand what that meant.
+So if you don't understand how
+government funding works you're going to
+be sitting on the sidelines wondering
+why you're not on contract. At worst you
+could lose contracts or have no idea
+when they're actually going to be
+awarded to you. In this video, I'm going
+to break down the three-part framework
+that actually controls every dollar the
+federal government spends. Purpose,
+time, and amount. And I'm going to show
+you how to use this knowledge when
+you're meeting with government offices,
+so you know exactly where you stand. And
+at the end, I'm going to tell you about
+fallout funds. This is a concept the
+most successful government contractors
+use to win business that their
+competitors don't even know is
+available. So, let's think about how
+money works for you and me. Let's say
+I've got $10,000 in the bank and my
+budget says $4,000 is going to go to
+housing and $2,000 for education, $3,000
+for food, maybe $1,000 for a car
+payment. But if I want to take $2,000
+from my tuition fund and throw it at a
+car payment, I just pull it out. I pull
+out my phone, move the money with a
+couple buttons, and I'm done. Uh but the
+federal government can't do that because
+Congress has built a system around
+federal funding that is designed to
+prevent agencies from moving funding
+around wherever they want it. Now, this
+is built on fiscal law. This isn't just
+like DoD or DOW policy. This applies to
+every federal agency. The framework has
+three parts: purpose, time, and amount.
+I'm going to focus on purpose, and time.
+This comes from the purpose statute, the
+Anti-Deficiency Act, and the Bonafide
+Needs Rule. Okay. Okay, so why is this
+so complicated? Well, Congress wants to
+prevent agencies from stockpiling money,
+moving money between missions, starting
+programs without oversight, and making
+long-term commitments without approval.
+So, they've created funding buckets with
+a specific mission, a specific time
+window, and specific execution rules.
+Each agency names these buckets
+differently, but I'm going to use the
+Department of Defense or Department of
+War terminology just to illustrate how
+this works. So, quick question for you
+before I explain the funding types. Drop
+a comment and tell me, have you ever
+lost a deal or had a contract delayed
+because of a funding issue. I want to
+hear your story and I read every one of
+the comments and I try to respond back
+and a lot of them become our next video.
+Now, in the Department of Defense or for
+our military branches, the main colors
+of money are operations and maintenance
+or M research, development, test, and
+evaluation referred to as RDT&amp;E. They're
+very acronym heavy. we are in the
+military construction and that's also
+known as milcon. Now, the purpose
+statute requires that appropriations be
+used for the intent they were originally
+made for. So, in plain English, when
+Congress gives an agency money, that
+money can only be spent on what it was
+given for. An agency can't take that
+money that's intended for construction
+and use it to buy software or move money
+from one bucket to another. In order to
+do that, it requires official
+reprogramming actions, typically with
+congressional approval. And trust me,
+most agencies will avoid cross
+appropriation moves unless absolutely
+necessary. So, why does this matter to
+you? When you're selling to the
+government, you need to understand if
+the office you're talking to has the
+correct kind of funding to buy what
+you're selling. When I was running an
+acquisitions branch in the Air Force and
+putting companies on contract, I might
+be flush with O andM money, but I would
+have needed RDT&amp;E to fund a software
+development project. That's frustrating
+for the acquisitions office. And trust
+me, I have had battles with our finance
+folks trying to justify using one type
+of money to make a purchase, but it's
+even more frustrating for the company
+because if you don't understand the type
+of money an office has, you might think
+you're about to be awarded a contract
+when in reality, you could be a couple
+years off. Speaking of years, let's talk
+about time. Congress doesn't just assign
+purpose to money, they assign time. The
+federal government operates on a
+completely different calendar than you
+and I. Our year starts January 1st and
+it ends December 31st. The federal
+fiscal year, on the other hand, starts
+October 1st. It used to start in July,
+but in 1976, Congress moved it to
+October. So, they'd have more time to
+review and pass the budget. Now, as
+you've seen, they still can't get it
+done by October half the time, or at
+least by October 1st, which is why we
+see government shutdowns and continuing
+resolutions. Now, here's where time
+really matters for your business.
+One-year money must be obligated during
+the fiscal year it's assigned to. So, if
+a government office has FY26, one-year
+money, it has to be obligated by the end
+of September 2026. Multi-year money,
+typically 2 to 5 years, is used for
+things that naturally take longer, like
+development projects, major purchases,
+or construction. Now, there is no year
+money, which is basically what me and
+you use, right? That's available until
+it's spent, but this is rare. It's
+usually special funds or working capital
+funds. You're probably not going to
+encounter that. After the obligation
+period expires of the fiscal year, the
+money goes into an expired phase where
+agencies they could pay existing bills
+but eventually it's canled and returned
+to the treasury. Now in the military,
+Congress assigns time to risk and
+complexity. So operations and
+maintenance funds get one year. It runs
+the force. It covers services and
+sustainment. RDT&amp; the research money
+that gets two years because development
+usually crosses fiscal years.
+Procurement gets about 3 years. This is
+to cover contracting, manufacturing, and
+delivery and milcon. Right? So, this is
+the construction funds. These get
+five-year assignments because
+construction timelines are long as you
+know. Now, if you're watching this and
+thinking, Rick, I need to understand
+this at a much deeper level and apply to
+my business, then I want to tell you
+about something I'm really excited
+about. On March 25th of 2026, I am
+hosting the Govclo workshop in Houston.
+This is a full day in person. uh you're
+going to be talking with me and former
+contracting officers and other
+instructors and we are going to go over
+government contracting together, how it
+applies to your business. We're working
+through your specific situation. And if
+you want a overview of the entire
+syllabus, what we're going to be going
+over during that day, just check out the
+link in the show notes or just drop a
+comment and I will uh get out the
+information to you so you can register
+and I'd love to see you there. All
+right, so back to the video. Now you
+understand purpose and time with
+government money. So, let me show you
+how a savvy company uses this
+information in real life. If you watch
+this channel, you know how much I stress
+the importance of meeting with the
+government procurement offices that buy
+what you sell. Now, there's a lot that
+goes into these meetings. If you want to
+know the questions you should be asking
+during these meetings, you can pick up
+the government contract planner, newly
+revised for 2026. It's available on
+Amazon. But here's what a savvy company
+does. When you meet with a government
+office, you're asking if their
+requirement is funded and what kind of
+funding it is. And most companies don't
+do this, right? But this is what you
+should be doing. But say the office
+tells you that they have O andM funding
+for FY26. Now, they may explicitly say
+it to you just like this and give you
+nothing else. But you need to understand
+what that means for your business. That
+means they need to obligate that money
+by the end of September. That tells you
+there's going to be a push to get this
+on contract probably July, August,
+September time frame. But if they tell
+you it's scheduled as FY27 RDT&amp;E
+funding, well now you can't even put
+this on contract until October 1st. And
+in my experience, there's usually a
+delay in getting next year's funding. So
+you might be looking at December,
+January, February of next year before
+you go on contract. Could even be longer
+than that. See how this changes your
+entire forecast. Now, let me ask you
+this. When you've met with government
+officers, have they ever told you what
+kind of funding they have? Or did you
+have to figure it out on your own? Or
+was it even a thought in your mind? Drop
+a comment below. I'm curious to hear,
+you know, what's working with our
+audience and what their experience has
+been here. But if this kind of knowledge
+is new to you, I want you to know that
+this is what separates people who win
+government contracts from people who
+just spin their wheels for years. And
+when I say it separates people who win
+government contracts, I mean
+consistently over and over again. people
+who are building huge businesses.
+They're building small businesses,
+turning them into medium businesses and
+then large businesses. This is exactly
+what we teach inside the Gulf Close
+certification program. We've trained
+well over 300 professionals in the
+program and I've trained a lot more than
+that in total and to understand how the
+government actually buys. This is a
+great program for any company that
+really wants to know the in-outs of uh
+selling to the federal government. We go
+through the real mechanics, the funding
+requirements, acquisition strategy, how
+to position yourself for the win, how to
+build a pipeline, close leads, and check
+it out at govclo.com. But here's what
+we've been building up to throughout the
+entire video. And this might be the most
+important thing you learn about
+government funding all year. Now that
+you understand the colors of money, that
+funding has a purpose, a timeline, and
+that it expires, let me give you some
+facts. According to the govclos roadmap
+generator, which takes all of its data
+directly from USA spending and sam.gov,
+39% of all obligations happened in Q4 of
+fiscal year 25. That means almost 40% of
+everything that went on contract
+happened in Q4. And you can go to USA
+spending yourself and look back over the
+years and you'll see that Q4 almost
+always has the most obligations listed
+there. So, what's going on? What are we
+talking about, Rick? Well, what we're
+talking about is fallout funds. You know
+now that funding expires at the end of
+September. Now, this could be one-year
+money. This could be two or threeear
+money from the year before, the year
+before that. But Q4 spending is the
+highest not because agencies are being
+reckless. It's because contracts,
+negotiations, protests, and
+requirements, approvals, they take most
+of the year. Agencies have to obligate
+funds before they expire the end of
+September or lose buying power. But
+here's something else that happens.
+Agencies often find that they have
+excess funding. Now, there's no official
+place where you're going to read this,
+but everybody knows it's taking place.
+In my experience, agencies, they start
+identifying excess funds in late spring,
+meaning they might have a million
+dollars in excess funds, and they need
+to put a plan together in order to spend
+it. All of the agencies are scrambling
+to spend all of their money before the
+end of September. The end of the day,
+they're afraid to give it back to the
+government because they think they'll
+get less the next year. So they
+prioritize the extra money they have.
+They compare it to existing programs,
+maybe construction projects on the base.
+There might be pet projects that you
+know the CIO or the chief of engineering
+want to put through in order to help
+accomplish a mission. But aligning these
+fallout funds and knowing when that
+takes place is critically important for
+you, the business owner. I can
+personally remember companies that were
+really good at government contracting,
+either subtly or not so subtly, asking
+me in the spring if there were going to
+be follow-up funds available. And hey,
+what were we going to use them for?
+Maybe we could use it for their project.
+The government doesn't have to tell you
+about fallout funds or what they're
+doing with it, but you should be asking
+them. The more closely you work with a
+procurement office, the better aligned
+you are going to be when fallout funds
+become available. Now, this is advanced,
+but it is necessary. It's necessary to
+understand government funding if you
+want to be the most successful
+government contracting company,
+consultant, account executive that you
+could be. Purpose and time. These are
+the colors of money. understand them and
+you'll know exactly where you stand when
+you're talking to a government office.
+You'll know whether that contract is
+coming in July or January and you'll be
+positioned to capture follow-up funds
+that your competitors won't even know
+exist. Now, here's what I want from you.
+If you want a video that goes deep on
+the requirements process, how Congress
+appropriates money, how the president's
+budget gets submitted, how all of this
+flows down to the contracting office,
+leave a comment, just say, "Show me the
+process." If you want to know more about
+fallout funds, throw that in there. So,
+we're putting together our lineup of
+videos for the year. And I'd love to
+hear your thoughts on what you want to
+see. And if you're ready to take this
+seriously, Dove Close Workshop in
+Houston on March 25th, this is where
+we're going to work together on all this
+in person. In fact, on the 26th, the day
+after, this is where we're having an
+inner circle meeting just for those
+members that are in Gov close and we're
+going to go deep on the 26th. So, I
+would love to see you in the workshop or
+the inner circle. Then I'll see you in
+the next

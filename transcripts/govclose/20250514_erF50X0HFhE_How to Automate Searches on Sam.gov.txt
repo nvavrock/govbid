@@ -1,0 +1,287 @@
+Kind: captions
+Language: en
+Well, today we're going to talk about
+SAM.gov and we've got a lot of questions
+about how to use the features inherent
+to SAM.gov. Can you automate things? Can
+you make things a little bit more
+searchable? I'm going to talk about two
+features today that are inherent to
+SAM.gov that almost nobody uses. And
+these are things that people will pay
+hundreds if not thousands of dollars for
+third party tools to take advantage of.
+And I just wanted to present those to
+you guys so you can save a lot of time
+and especially not lose any
+opportunities you're working on. There's
+a way to get notifications uh make
+things a little bit faster. So let's get
+into it here. If I can share my screen.
+So everyone should be seeing sam.gov
+screen that I'm using right now.
+And in order for you to take advantage
+of these features, you're going to have
+to be logged in. So, you don't have to
+be logged into sam.gov to search. Okay?
+And I've been through plenty of
+tutorials. You can find them on the
+YouTube channel. They're free. Just go
+to the tutorials block. But what I'm
+going to do now is show you something
+you have to be logged in for. So, if
+you're following along, you are going to
+have to be logged in for this. I'm
+already logged in. You're going to do
+that right up here. and it will take you
+through the government system that
+verifies who you are. But once you log
+in and you go to search, if you happen
+to be in an industry that just matches
+up perfectly with a product service code
+or NIC code, then your searches could be
+relatively simple. But most people, mo,
+whether you're in our certification
+course or you're just working out there,
+your company for another company, a lot
+of things don't fit perfectly into those
+buckets, right? Good example of that
+would be augmented reality or anything
+to do with a drone. But it doesn't have
+to be technology. I bring those up
+because like newer technologies
+typically don't have a service code or a
+nakes code dedicated to them. So there's
+no drone nakes code for instance. Right.
+Now, that makes it a lot harder to
+search for things. So, when I'm
+searching, I'm going to go to contract
+opportunities here. When I'm searching
+for something that is not perfectly
+matched up with a code, I'm probably
+going to have to do a few things. Now, I
+may be making a combination of NICS and
+product service codes with keywords.
+Okay? And that happens a lot. So, for
+instance, if I was going to go up here
+and say that I wanted a and let's see if
+anything pops up, but if I wanted an
+analyst certificate and that's what I
+was looking for, now there's nothing
+that's just going to pop up there under
+NAKES code or product service code. But
+if I put that those two terms together
+and I put exact phrase, it's only going
+to show opportunities that have those
+two words right together. And that's
+very important because if it just said
+any words, then any opportunity,
+anything within SAM.gov that had either
+of those words in would pop up. And now
+I'm getting lost in the things that I
+don't care about, right? You are
+honestly a waste of my time and yours.
+So now that we have the exact phrase in
+there, I'm also going to put in a couple
+things. I'm never a big fan of looking
+at solicitations unless I already worked
+that solicitation for months ahead of
+time. If you have a set aside, you can
+plug it in there. I'm going to look for
+sources
+sought, right? And also I want to look
+at the
+dates because I don't want to anything
+that's expired, right? So let's just
+look at anything in the next three
+months. Oh, and of course I've got to
+type my my little phrase in there again.
+All right. Okay. So we got one thing
+right now. Let's say that I've worked on
+this cuz you guys are going to have to
+if you have something to search for that
+is a little bit more complicated or
+nuanced. You'll probably have to do a
+bunch of searches until you start coming
+up with the right type of thing. Meaning
+the right responses. Like so if this is
+assuming this is perfect for me and it's
+something I'm going to and I'm not going
+to go through the actual sources saw
+right now, but assuming this is
+something I really want to engage on and
+I've worked hard at this search, I don't
+want to have to come into SAM.gov of
+every time and refigure out what my
+search is going to look like. I want to
+make sure that my keywords are right. I
+want to know what works. And if I take a
+break from sam.gov, I've been off for a
+week or more. I want to be able to come
+back in here and really hit the ground
+running. So, one thing that I can do is
+you can see up here it says saved
+searches. So, you can save your search.
+So, that's the first thing. It's
+actually this is very valuable. So, if I
+go in here and I hit save, I could call
+this I'm going to call this search, too,
+because I ran it earlier
+today. I'm going to hit save. So, now I
+have this as a saved search. So,
+whenever I come into
+sam.gov, I can go right to my saved
+searches and I can grab any of these.
+And now I have different searches that
+I've had in the past. Augmented reality,
+nothing. Oh, here we go. So, we got a
+few things in here. So, I can come right
+in, hit it up, and now I've got the
+opportunities immediately, and I don't
+have to screw around with trying to
+figure out what the keyword combination
+is and don't have to remember this part
+again about putting an exact phrase in.
+So, that in and of itself can save you a
+lot of time, especially if most of you
+guys, if you're doesn't matter sales
+executive, if you're running your own
+business, you don't have hours a day to
+spend in SAM.gov. I like to just make it
+one of those first things I do in my
+morning checklist. So, I'm gonna hit it
+real quick. Hit the button. Bam. I can
+see if there's three things in here.
+Okay. Now, I might download them or I
+might just review them real quick to see
+if it's something I need to engage on.
+Now, what if there is something that I
+really want to engage on? Right? So,
+let's see. This right here
+is due December 12th. Right now, let's
+say that this was something. And this is
+the second thing show you when you have
+it doesn't matter if it's a source of
+sod or a request for proposal request
+for
+quote often the government will put out
+multiple versions of these right and you
+want to make sure that if you're working
+especially you have a deliverable coming
+up you want to make sure you have the
+most current available
+information so what you can do is now
+let's say I'm going to click on this all
+right so I already followed it but what
+you can do is you can follow this
+opportunity
+Okay. And now you can automatically
+receive the updates and the
+notifications when something changes. So
+what what could potentially change?
+Well, the government first of all just
+might have screwed up, right? So I've
+seen teams where they put out a
+solicitation and they forgot to put
+something in there. So they have to put
+out a newer version. Often, and you've
+probably seen this, what you'll see is
+that the government will change the due
+date. That happens a lot around the
+holidays. They'll be like, "Hey, we want
+to make this due." And they weren't
+thinking and it was due. This just
+happened to me right before
+Thanksgiving. Thing was due two days
+before Thanksgiving. Well, that was
+stupid. The government certainly doesn't
+want to be reviewing proposals the day
+before Thanksgiving. So, they're going
+to extend that as and you'll see that
+the week after. So, that's just
+something it just happened to me. So,
+it's top of mind, but these things
+happen all the time. Now you can
+actually manipulate when you get
+notified on these things, right? So I
+can go to my workspace right now. I'm
+not going to click on it. And then you
+can decide when you receive emails and
+email notifications. It could tell you
+if hey, do I want to be notified weekly?
+Do I want to be notified daily? Or it
+can give you immediate notifications. So
+you can receive an email immediately. I
+just said immediately like five times.
+So you can get that email as soon as
+something happens. That's usually how I
+set mine up. So guess that would be my
+next uh recommendation is you go into
+your workspace and in your workspace you
+want to just massage that so you have
+all of your emails set up so you're
+getting notified immediately whenever
+there's a change. After going through
+the course I was able to land a client
+that pays me a monthly retainer to
+actually help them develop their
+business and go after these federal
+contracts. I was able to get a
+consulting gig with a uh software
+company that currently works with the
+intelligence community. Within two
+months, I have my first client. So, the
+initial contract was for a 3-month uh
+contract for 4,000 a month. So, 27 years
+old. You've never worked in government
+contracting. You've never worked as a
+consultant. And you just uh closed your
+first deal. Is that correct? That's
+fair. And I've got a couple small
+projects on the side as well. So
+definitely something probably my best
+investment I've made all year. A cold
+call landed a nine figure government
+contract. Start a consulting business
+and a high salaried position as a
+account executive in public sales. So
+you're doing both of those things. I'm
+living the best of both worlds right
+now. So my name is uh Mike Neckerbacher.
+I am a naval officer that's getting
+ready to retire. Right now I have three
+firm clients and two more perspectives.
+I'm able to provide value across
+different industries cuz the skill set
+that I learned through the course and
+was able to apply my own experience. Gov
+clothes came and it was a no-brainer. I
+I wanted some uh secret sauce. This has
+allowed me to live in Germany. It's a
+little hazy
+today. We can do that. Oh yeah, dude.
+That's beautiful. the content, the
+training, it's invaluable. It's written.
+And Deb, what motivated you to join the
+GovClo certification program? Wow. Well,
+I think that wanting to work with a
+leader in the field, someone who
+understands government contracting on a
+deep basis and has the reputation, the
+experience working with you and your
+company was a natural. The students that
+graduate our program, they go on to
+start their own consulting firms winning
+high dollar consulting clients. They go
+on to land highpaying salaried positions
+as account executives with companies
+that sell to the government. I'm so
+proud of the people that have gone
+through our program. And if you are
+considering either a job or a business,
+and by the way, some of our students are
+doing both as I did. They're running a
+consulting business and they'll have an
+account executive job. It's transforming
+their lives. It's bringing true wealth
+to them and their families.

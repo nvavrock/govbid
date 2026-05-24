@@ -1,0 +1,1225 @@
+Kind: captions
+Language: en
+so sure enough we we went and uh applied
+for our first cber phase one and we
+secured that and from that Journey that
+uh sent us to The cver Phase 2 process
+and I'll be gosh darn if we didn't get
+that one and our client there was the
+Air Force SL space force where our
+mission was to help with astronaut
+rescue hey guys Ricky Howard here with
+dud contract.com you just heard from
+John Martin who's the CEO of bundle AR
+and his augment reality startup has seen
+exponential growth due in large part to
+investment from the US government now
+this is through something called the SBI
+program which to talk about and this is
+available to anybody listening that has
+a technology they want to develop or
+maybe you're selling it commercially but
+you could modify it for government use
+there's a lot there has a lot of
+potential now for those of you that
+don't know me I'm Ricky Howard I'm a
+former government procurement officer I
+managed over 2 billion in contracts for
+the US federal government and then after
+retiring in 2019 started DOD
+contract.com we help companies sell to
+the US government the Department of
+Defense something else we talk about in
+this video is conferences for starters
+when I heard somebody like you who's
+been to many conferences speak so highly
+of it and the way you could interact
+with the the war Fighters and uh from
+all levels right and then also some of
+the other primes were there I just
+thought it was uh very focused and for
+me let's you know I have a lot to learn
+every day about the military and about
+the whole process and you certainly uh
+guide us and help us I found the
+feedback the camarad was all very
+positive to me to best understand some
+of the needs that the the various
+branches of the military might have and
+how potentially we could help solve pain
+points and finally what you're going to
+learn is how important relationships are
+as John and I went from a conference
+where we developed some of those
+relationships to just Weeks Later being
+invited through a competitive process to
+pitch the bundle AR augmented reality
+solution for foreign military sales what
+was exciting Rick you knew the the right
+people and I guess they gave you a
+choice to either do as a zoom call or
+you could come in person you're like
+we're going oh yeah oh yeah I think you
+gave me maybe a five-day notice or
+something yeah and I was like wow I'm
+was super excited to go to Poland and we
+went to the US Army base pretty close to
+the Ukraine border and and it it's like
+our team got together said we got to
+give a real example and that took place
+in less than a month from developing
+relationships to pitching to getting out
+there putting our solution in front of
+US Army and our foreign military sales
+Partners which not only helps Jon's
+business it also helps our country and
+helps the security of our nation and our
+partner Nation let's get into today's
+episode I know you guys are going to
+learn a lot about selling to the
+government the steps John took what
+worked for him and how you can apply
+that to your business let's go thanks
+everyone for listening to this week's
+episode of DOD contract Academy I've got
+an awesome episode special episode I've
+been waiting to unleash upon everybody
+I'm here with John Martin and he's the
+owner of bundle AR hey John how's it
+going good morning morning going well
+thank you Rick good and John we have a
+lot of businesses on here that we've
+interviewed that sell to the government
+but I I really I love yours and we've
+also worked together so you we fit into
+that that realm so I have a little bit
+more information on what you guys are
+doing but super excited about this
+because I think when we start unveiling
+your story and what bundle a which is
+the the name of the virtual real or
+augmented reality business I think what
+people are going to see is how when
+you're specialized and do something
+really well momentum that you can get
+going in government and DOD Contracting
+thanks for coming on oh my pleasure
+enjoy talk to with you and and your
+audience for sure today so awesome let's
+get into it all right before we get into
+bundle AR you are extremely interesting
+and I know I probably first really got
+to know you when we attended a
+conference together last year and really
+extraordinary history going back to
+radio and hearing about that so first
+why don't you introduce yourself just
+tell us a little bit about where you
+grew up and like your career before we
+even got into bundle ar oh my pleasure
+I'm from Chicago a suburb of Chicago
+called WKA and I was very fortunate at a
+young age I knew what I wanted to do
+which was I looked at my lifestyle I
+said I love music I love sports I love
+news social events and all that so I
+went and studied radio and television it
+place called Southern Illinois
+University I went to that whole program
+started with ABC radio in Chicago at a
+WS am and FM and stayed in the radio
+track and ultimately ended up with CBs
+in New York and I was with the CBS Radio
+Networks in New York and that was a very
+fun initiative as they were trying to
+turn around the CBS Radio Networks to
+compete against Paul Ary and ABC I
+carried it on for quite a while and I
+ran a research and marketing company
+called critical mass media that was
+associated with a radio company called
+Jor Randy Michaelson crew and we acquire
+we were Acquired and merged with Clear
+Channel Communications which you might
+know today as iHeart media oh yeah y
+1,200 radio stations and I was very
+fortunate to be able to be president of
+Clear Channel internet running these
+1200 radio stations bringing them
+together under one common technology
+platform for hosting and streaming and
+AD serving and content that was quite an
+exciting project because we had to give
+all of these local Brands brand identity
+but keep them on one technology platform
+and then once that was in good shape I
+was able to focus on the next venture
+which was bundle AR and that summer of
+2017 when Google and apple both
+announced that they were all in with
+augmented reality on the mobile device
+that was going to be the distribution
+platform for AR and then AR kit AR core
+and they made this so everybody in the
+world could have argumented reality on
+their mobile device which everybody
+already own and was addicted to sure
+yeah to us that made just a lot of sense
+to focus on augmented reality on mobile
+devices to start this is crazy so you
+started in so you were running radio
+stations initially you loved the radio I
+think a lot of things are interesting
+about this one is you really got you got
+into it before there was anything the
+internet existed but no one really knew
+what the internet was until the really
+the 2000s is when everyone was really
+using it late 90s but podcasting things
+that are replacing some of radio now
+none of that stuff existed some people
+listening to this may not even remember
+that time where everything was on the
+radio how important it was and so you
+were in the thick of that and you were
+involved in transitioning from that
+Legacy technology to a new technology to
+convey some of the same stuff it was fun
+at that time Rick you might remember the
+the talk show host Rush limbo yep and R
+was one of the many Network
+personalities we had in our stable if
+you will and this is before the cloud so
+when Rush came on a number of streamers
+was extraordinary because Rush was on
+many AM stations and AM stations many
+times had trouble breaking into
+highrises where
+E Yeah so a lot of people that were in
+their office streamed him on their
+computer for us we had a server Farm in
+San Antonio so this is or AWS or Azure
+and so we had to keep adding servers
+right to be able to have people stream
+rush so yes it was early it was that's
+amazing people wanted to be able to
+stream his show and before we even had
+streaming a podcast and Stu you just had
+to provide that just to provide one of
+your radio show talents to the people
+that wanted to listen and we were doing
+podcasting because you would take
+Snippets or the hourly news that we
+would do and those would podcast
+available if you will the way we know P
+podcast today sure like what time frame
+is this going on where you started
+transitioning radio into streaming to
+the highrises that was we merged in 1999
+and then so the 2000 from 99 to 200
+through 2002 into 2003 was the window we
+were launching all of this and bringing
+it together we were way ahead of CBS and
+companies like amfm that had started and
+so we were very much leaders in it for
+sure we had
+very creative people that were wanting
+to do it analog and digital and that's
+kind of led me into the whole journey
+I've been on as it relates to augmented
+reality also sure and then so you worked
+a lot with am did you work with the it
+sounds like you worked with some of the
+FM and the music channels as well right
+oh for sure we had over a hundred kiss
+channels oh no kidding and kiss I know
+in Boston Kiss is still one of the
+biggest radio stations here when we had
+kiss in LA and kiss became its own brand
+if you will good on consolidation these
+consolidators would sometimes try to
+take a format like kiss and make it a
+national brand and for efficiencies and
+all that sure and the power of the brand
+uh but no we had you name it we had
+Urban we had country we had Rock we had
+oldies any format we had format captains
+so you might have a a format Captain who
+had 42 countries a kiss Captain who had
+over a 100 a new captain in and so on
+and so it was a big undertaking and
+Enterprise for sure yeah I can remember
+sitting down with you not just at the
+conference we could talk a little bit
+about how important conferences are for
+Government Contracting and selling to
+the the dod but even that eventually
+took us on a trip to Europe I remember
+you telling me some of the the many
+concerts you got to attend because you
+you're involved in this this industry
+and Earl some of that I believe you were
+talking about Taylor Swift when she was
+a kid and I was telling my daughters
+about that and my daughter and my wife
+and they were pretty jealous of of some
+of the stuff that you've got Taylor
+she's been unbelievable what she's
+accomplished but 2007 I think it was she
+came to Chicago and she was like one of
+the three openers for Brad Paisley and I
+was like who is this young lady man that
+she have stage presence and just talent
+and I'm not surprised that she's
+achieved what she has but it's really
+wonderful to see such a I think a
+positive influence on women on moms and
+daughters yeah creating a positive vibe
+and giving back to the community there's
+so many different ways you've seen
+artists maybe do nothing to give back
+but I think she's a a good example for
+all of us on what to do with that type
+of platform she has sure you're you've
+been good throughout your career I think
+of seeing different opportunities before
+everybody else does or potential where
+other people don't see it till later on
+right maybe she's just another example
+of that but so transitioning now to
+you've worked in that industry you've
+trans I from Legacy to internet and you
+one of the early early people early
+companies on doing some of that work and
+then you mentioned you get to that 2017
+place where you're now starting to see
+what the the impact of having augmented
+reality on your personal mobile device
+could mean right so now this is the
+beginning of bundle AR and the main
+reason we're we're having you guys on
+today so why don't you tell us a little
+bit about that so how do you why is it
+named bundle AR what does it do uh give
+me the background what's the sco thank
+you I I worked Chicago's got this
+wonderful environment called 1871 which
+is Chicago center for technology and
+Entrepreneurship in 1871 people go why
+1871 that was the Chicago Fire so oh
+okay the the reinvention and it the
+mayor the governor uh about five about
+six universities about 10 uh private
+Equity firms all got together and
+created this environment probably 13
+years ago at any rate I've been working
+uh I've been a member there for many
+years and I just love the energy and the
+vibe of it all and not to get too
+detailed but I had a tonsil cancer eight
+years ago so I was coming out of this
+and I was like you know what I wanted to
+be hopefully an example for people who
+had cancer to say don't give up you can
+have a second rounded this and so at the
+time I was very focused on that and also
+I looked at four Technologies at the
+time which was artificial intelligence
+augmented reality virtual reality and
+something called iot internet of things
+and then I was trying to decide which of
+those four I was going to focus on
+that's when Google and apple literally
+look it up in the summer of 2017 they
+both announced they were all in with
+augmented reality they said this is how
+humans will be communicating with each
+other in the decades ahead and then they
+both announced arkit and AR core giving
+tools to the development Community
+saying hey make AR on our devices and as
+you might know Google controls Android
+and controls iOS and I was like wow
+that's a that was a big announcement for
+me sure so that guided me into augmented
+reality and so we started and uh from
+this community of 1871 I found some
+technology Partners who shared the same
+vision and my son Zach Martin who's our
+coo and co-founder we all got together
+and began the journey is awesome and I
+know when I ran into you guys we were
+working together on a project and
+starting with the ATA conference that's
+where I met bundle right the tanker
+airlift Symposium in in Florida I think
+it was this year but it does change was
+it in Florida this year was in Florida
+the year before might have
+been it was in Dallas yeah God I don't
+even know where I've been John but it
+was Dallas and we were on the phone
+right and I was talking to you about hey
+this conference because I'm big believer
+in the power of being able to expedite
+your Government Contracting if you go to
+the right conference and I think part of
+that for me is do we who first of all is
+industry outnumbered by the government
+people there right but are the right
+government people are you going to have
+people that could put you on contract
+you're going to have requirements folks
+people with money people in leadership
+positions the user and that particular
+conference you get everything Allin one
+and you get cornhole competitions at
+night and I was telling about this on
+the phone and literally you were there
+like four or five hours later and you
+just hopped on a plane and somehow uh
+made it down there maybe we can talk
+about I want to talk about the
+conference and I also want to talk about
+some of your G Government Contracting up
+to that point but maybe what it before
+we get to your Government Contracting up
+to that point what about the conference
+um made you want to attend it and and
+what were you think the high points the
+low points were for starters when I
+heard somebody like you who's been to
+many conferences speaks so highly of it
+and the way you could interact with the
+the war Fighters and uh from all levels
+right and then also some of the other
+primes were there I just thought it was
+U very focused and for me let's you know
+I have a lot to learn every day about
+the military and about the whole process
+and you certainly uh guide us and help
+us I found the feedback the camaraderie
+was all very positive to me to best
+understand some of the needs that the
+the various branches of the military
+might have and how potentially we could
+help solve pain points and Rick one
+thing I've learned from the Department
+of Defense leaders um they teach us
+about Warf Fighters and about what
+they've learned about how War Fighters
+learn and it's changed over the decades
+right we I hate to be stereotypical but
+let's say the war fighters from 20 to 40
+let's say Broadley of course is older
+people than that too but the way they
+learn today they they don't want 192
+page bone written manual right they want
+immersive on demand mobile training
+Solutions when they want them that's
+right so we learned that digital Twins
+or subject matter videos or process flow
+step by step all those things were very
+important so the more we can learn about
+the pain points from real war Fighters
+and maintenance teams hopefully the
+better we will be in solving problems
+that helpful military yes speaking as a
+former Air Force Aviator I can tell you
+even back then we didn't want the 200
+Page or 800 page Boeing written uh
+manual so it' be much better to have
+something what you're putting out there
+so what's this is a theme especially
+among companies with Innovative
+technological solutions like yours is
+taking advantage of the cber program the
+small business Innovative research
+program and that is how you got your
+foot in the door and started talking to
+some of these leaders why don't you
+describe that process and what you like
+about it and then we can maybe get into
+where we're at now you bet it'll be four
+years coming this summer when we said
+wow I think we're on to something here
+that could really serve the military and
+it it was four years ago that we decided
+to have a dual purpose one was deod
+government the other was Enterprise and
+we attended one of the cber conferences
+and I met a gentleman Brett sheren
+Housen who was just so helpful in
+guiding us and introducing us to people
+and process and the flow and all that so
+sure enough we we went and uh applied
+for our first CER phase one and we
+secured that and from that Journey that
+uh sent us to The cver Phase 2 process
+and I'll be gosh darn if we didn't get
+that one and our client there was the
+Air Force Space Force where our mission
+was to help with astronaut rescue and
+that was fascinating to go down to
+Florida go to the bases go to the
+training meet with the the rescue teams
+and to build out these training
+Solutions because as you could imagine
+like many situations with Warf Fighters
+they have to be trained on situations
+they've never been in before right yeah
+and so how many of these people have
+actually rescued an astronaut from a
+ship that's landed in the ocean before
+it's funny even if and this is what was
+resonating it's one of the things I
+really love about the product is it is
+on your phone right so when we're
+talking about something like virtual
+reality or even augmented reality if
+you're thinking about the glass is for
+everyone
+listening forget about that even though
+your product can work on those things
+think about the fact that everyone has a
+phone and we were talking about coom
+commanders we were talking at General
+officers and all the way down to the
+users and a good especially at that
+conference but a good example of this
+would be a pilot right an Air Force
+pilot who flies the airplane knows how
+to fly the airplane gets trained on
+maybe refueling the aircraft or hooking
+up a power car to the air crap but
+typically Pilots Navigators or flight
+Crews they don't have to do that
+typically there's a ground crew that
+does it a maintenance crew but sometimes
+you'll landing at a unfamiliar Airfield
+or an auster location where you don't
+have that ground crew the pilot often or
+the Navigator whoever's on there they
+need to look up okay got to look at the
+manual how do I do this again but now if
+they have an virtual reality app on
+their phone they can just pull it out
+and all of a sudden if you just look at
+the screen on your phone it could build
+a 3D model if it's it's already loaded
+on there you don't need internet right
+of the power cart of I can show you
+detailed instructions on how to refuel
+the aircraft there's situations where it
+can recognize what it's looking at and
+provide details and labels and video and
+it's the power of this is not that it's
+extremely complex it's I think that it's
+in its Simplicity that you can be
+somewhere where you're disconnected that
+you can just pull something out that's
+on your pocket that's in your pocket hit
+a button and now you have instu for
+something that could be very complicated
+or could be dangerous like rescuing a as
+hey hit this button don't hit this
+button pull this lever don't pull this
+lever those are things that in the
+moment when you have to actually do it
+and there's stress and pressure you want
+something to reference to make sure
+you're doing it right and it's very
+powerful and most I would say most of
+the tools out there as far as VR no
+one's carrying these headsets around
+with them and and even AR if you're if
+you need a internet connection for
+military purpose that could either you
+could be prevented because you're
+disconnected you could be prevented
+because you're in a classified location
+that doesn't have or you can't even have
+a device like that there's lots of
+different scenarios that really make
+that an attractive
+offering Rick one thing that um Zach
+likes to say a lot is a single source of
+Truth and uh that's another way of
+looking at it um if it is a process if
+it's a piece of equipment if it's a
+dashboard if it's an engine if it's a
+fork Clift if it's a cheep whatever and
+there could be a single source of Truth
+where all the current information about
+that the latest video from the general
+the latest PDF the latest stu stuff it's
+all right there and the beauty of the
+platform is you could if something
+changed a new process a new part
+whatever you could just add that to the
+bundle and and then it's current and and
+not to cut you off but and because
+there's a big an to that right so a lot
+of maybe the government people listening
+might be thinking oh and the government
+has to pay for a team of Consultants to
+update the software and but that's with
+bundle AR that's I think that's one of
+the the other big selling factor is
+updating bundle AR is something that a
+troop can do or an Airman can do on
+their own they're right they're an
+administrator official user you showed
+me how to do it it's as simple as using
+any web application basically that you
+know you might be used to using and so
+you could go in there and update a step
+because a new check order checklist has
+come down or new tech order has come
+down the user the government or the
+commercial they don't have to
+necessarily go to bundle a and have you
+guys do it for him it's pretty simple to
+do a lot of that basic
+stuff it it and right now we actually
+with the Michigan International Guard
+we're training five people right now so
+they could do it themselves it's really
+up to our client what they choose to do
+but you are correct we built a no code
+drag and drop simple content management
+system so you can create you can update
+you can duplicate it's pretty pretty
+simple to to use and of course if you
+need the help we're there to help you so
+it's really what best for you no it's
+really awesome and so one of our po
+popular episodes both on YouTube and
+here is I and I don't even know if
+you've seen it John but I made a quick
+clip that I put on YouTube Just hey we
+found this for military sales op and
+went out to out to Eastern Europe to
+Ukraine and Poland and very fast but
+just showed like the how quickly if the
+government sees something that is that
+fits their need that solves their
+problem how quickly you can go from hey
+that makes sense let's get you in front
+of the right people so all of a sudden
+me you and another another gentleman in
+your employee ended up on a very
+interesting trip I thought to to show
+the Army bundle AR well was exciting
+Rick you knew the the right people and I
+guess they gave you a choice to either
+do a a zo call or you could come in
+person you're like we're going oh yeah
+oh yeah and I think you gave me maybe a
+five-day notice or something yeah and it
+was like wow I'm was super excited to go
+to Poland and we went to the US Army
+base pretty close to the Ukraine border
+and and it's like our team got together
+said we got to give a real example so we
+got a 3D model we augmented it put all
+sorts of knowledge we call it hotspots
+Point touch put a language switcher
+using a combin of Google Translation and
+Ai and for our AR enable next gen
+knowledge information for them and we
+did that all within a couple days so by
+the time we got to Poland and met you we
+were able to present this live at our
+meeting yeah all right I want to cover
+really
+quickly how we found the opportunity
+that we touch on so quickly to Europe
+for we were talking with the Army and
+some foreign military sales Partners so
+here's what we did right now
+gov close so first thing we did is we
+found a source of s I'm going to show
+you how to do that so we're going to go
+right to sam.gov
+and next you want to click on
+search under all domains we're clicking
+on contract
+opportunities I want and this is for you
+searching for sources of s you want to
+eliminate the noise you want things that
+are due I'm going to say in the next 3
+months
+and the notice type sources
+sought now for John at the time I typed
+in augmented reality you're going to
+type in whatever keywords or nakes codes
+that you're using then once we find the
+opportunity we go back into whatever
+system you're using to win government
+contracts I'm going into my sourcesa
+pipeline okay got to create the
+opportunity now I have an augmented
+reality M opportunity in here you're
+going to put in the contact the
+Government
+contact in the opportunity that you
+create your pipeline this is a source of
+sought what stage you in estimated value
+of the opportunity for this one half a
+million you can assign it to whatever
+salesperson this is important so
+whoever's going to if it's you if it's
+somebody else in your organization make
+sure you're assigning that to them you
+want to know where you got the
+opportunity from it's very important to
+track what Source you're getting your
+leads from because eventually you're
+going to know how many of those you're
+winning so are you winning things you're
+finding on sam.gov are you winning
+things you're creating with
+relationships conferences Etc there's a
+lot of other things that you're going to
+add in here like Federal Agency for this
+it was the US Army if you're going to
+have teaming Partners Etc but you want
+to make sure and of course the the link
+to the opportunity so you can always go
+to that and just quickly make sure your
+pipeline is going to reflect what you
+actually have to do we identified the
+source of s We Made It Go no go we
+called the P that's very important so
+I'm just walking you through we didn't
+need a teaming partner for this the
+government PC got back to me right away
+and said hey we want you to engage on
+this which is great so then it goes to
+write a response so something like this
+you're going to assign somebody to write
+the
+response once the response is written
+you are going to submit the RFI source
+of
+sought once it submits this is very
+important also you submit anything to
+the government via email make sure they
+confirm receipt because government email
+notoriously blocks emails from companies
+or anybody outside of the military or
+government organization now for instance
+if you're using gov cloes if you're a
+user of this system or even if you're
+not this will be helpful what I need to
+do is I need to know what I need to know
+is who is my
+lead for this
+particular opportunity right now this is
+not a real email address I just put this
+in here so you guys could see what I'm
+doing but we want to confirm or see now
+if you are using gov close what we can
+do is just go right to our templates for
+communicating with the
+government for this one I'm choosing
+source of s submission use template and
+here we have instructions of course cu
+the next very next thing you want to do
+is a demo which is what we requested in
+gu you'll see here that I said have
+please confirm receipt when able if they
+don't confirm receipt you reach back out
+to them the next day here are some parts
+of the email that you want to make sure
+you're using you're thanking them and
+you're mentioning the exact solicitation
+you're responding to you're not writing
+a paper but you are expressing the value
+of your company with some type of use
+case if you have a set aside that makes
+sense you can put it in there I usually
+avoid that but if you are AA you might
+throw that in there because that lets
+the government Soul Source contract to
+you same thing with if you're a cber
+winner see some of our other podcast
+episodes for what that really means and
+we'd love an in-person demonstration to
+showc the whole reason you're doing this
+is to set up a meeting you have to set
+up a meeting all right let's get back to
+John really amazing how fast you were
+able to do that and just for those
+companies that are listening right now I
+think a couple we pointed at a couple
+things here one is going some place in
+person is always going to be more
+profound than doing it virtually or just
+submitting a proposal on something right
+because they're not going to know who
+you are so now we made the effort to go
+there in person so now we see them face
+to face and could have real
+conversations but secondly we didn't go
+there with a generic slide deck on the
+company and blah blah blah blah blah we
+went there with a solution to their
+problem right and not the complete
+solution because we had limited details
+but you were able to build something
+thing very specific to their need and I
+think that is the really where the power
+is and that's not only because we're
+still talking to the government about
+that that may or may not come to
+fruition for we'll see what happens
+there but many other opportunities were
+created in that meeting because in that
+meeting we were talking with Contracting
+officers and program managers and users
+of the system and afterwards they pulled
+us aside like hey there's a couple other
+programs that this would be amazing for
+as well can we stay in touch this is
+just basically generating and I'm not
+instructing you John because we'll talk
+about how you're one of the best sales
+people I've ever met but you these
+opportunities create more opportunities
+is the point so you really want to seize
+them and squeeze as much out of them as
+you
+can and to your point you never know
+what you're going to learn from the
+process or how it might lead to a new
+relationship or wow I learned this pain
+problem they're having gosh what if I
+could do this on my next prototype or I
+remember meeting somebody at another
+convention who had a problem like that
+maybe I'll get back to them and share
+with them what we learned because I have
+found that there's a great commitment to
+wanting the absolute best for the warf
+Fighters and there's certain
+organizations out there like what the
+defense Innovation unit whose job it is
+to find commercially viable solutions
+that could help today not a 5e
+procurement process right some by the
+time you go through the procurement
+process that technology you started to
+pitch them on could be two generations
+behind yeah absolutely very common in
+the military procurement government
+procurement in general yeah there's some
+great ways to expedite especially if you
+have something Innovative where time is
+of the essence you can use cber you can
+use other transaction Authority there
+are some other ways to there's some soul
+Source methods what I I would like
+because we don't talk about this a ton
+but I want to make a small pivot because
+you mentioned how much you learned about
+the Department of Defense and the
+military and flying around application
+of things but I learned a lot from you
+just on sales and I think a lot of
+people don't think about kind of sales
+and marketing with Government
+Contracting the same way they think
+about it in like maybe a b Toc or B2B
+environment but it's extremely important
+so I'd like to know what and if by the
+way anyway if you so if you see John
+Martin in action at a conference or in
+front of the government you'd know what
+I was talking about here very personable
+very driven and methodical about how
+you're putting a quality solution in
+front of them but I'd like to get just
+some thoughts that you have what's your
+general sales philosophy where did you
+learn this did you learn this in the
+radio industry or so so where did this
+come from I guess it dates all the all
+the way back to to even the college days
+in regards to uh Dr kurs and the whole
+salees sequence but I think so much of
+it is you have to put yourself in the
+shoes of your client or uh whoever it
+might be in solving their problem
+problems one of the challenges I always
+have I'm very Market driven and
+sometimes when I'm dealing with mainly
+an engineering company they're very
+focused on the platform I'm very focused
+on solving problems for the customer
+right or military so I I would say a lot
+of it is a focus on serving their needs
+and hopefully paying attention to what
+the market is telling you what are our
+pain points or in the case of Microsoft
+where we work with the Xbox team they
+taught us about soling for the issue
+code and so that's part of what I'm
+always trying to focus on what are the
+issues that people are solving for in
+the case of the Department of Defense
+they taught us a lot three years ago
+which really guided our Direction on our
+Engineering in our product which was
+they said we like what you're doing a
+lot for Warf fighter Readiness and
+maintenance but for you to be a serious
+player one day as far as being like
+program a record you will need to
+containerize with your platform so when
+we tell you we what an instance of your
+platform on the glove Cloud on AWS can
+you do that three years ago the answer
+was like no but we can start working on
+that capability that guided us so that's
+an example of the market talking to us
+and then hopefully modifying your
+product to accomplish the needs of the
+market another one was Department of
+energy who's got these nuclear sites and
+one of them's a nuclear waste site and
+of course the training that was
+critically important they're actually
+going down 2,000 ft into a salt mine
+removing the salt and replacing it with
+nuclear waste can you imagine the
+training that's required to make sure
+those uh those uh workers there are safe
+so they wanted us to be able to do an
+instance of our platform on their
+servers on their site and then integrate
+it with their learning management system
+wow so it's wow okay so the market will
+give you Fe feedback on their needs and
+then sometimes you're like wow that's a
+heavy lift I can't do that then other
+times you go that is something we could
+do and does that mean it would be a
+solution that would be helpful to lots
+of other entities I think yes yeah no
+you're right I think solving the C
+that's a huge piece of it solving the
+customer problem and having that mindset
+also I think it's often a a conflict
+between the maybe sales executive we'll
+say and the engineer because the
+engineer they're concerned usually with
+building the product and building a
+quality product and the salesperson's I
+think they often feel pushed by the
+salesperson hey we can do it we can do
+it we can do it I think a good executive
+or good sales executive or account
+executive is always thinking how can I
+solve the customer's problem and how if
+I have to make a modification of what
+we're already doing to solve that then
+yeah let's do it no reason why we can't
+do it let's lean forward and that's what
+the that's what the customer wants to
+see too they want the solution to their
+problem I I I think you've identified a
+100y old constant battle between
+engineering and sales right that's
+that's just how it works I my
+engineering friends will kill me when I
+say something like this is if I live in
+Chicago a city north of me is Milwaukee
+a city south of me St Louis and I might
+have found out that the engineer side
+we're gonna go to Milwaukee we releas
+Chicago go to Milwaukee and go to St
+Louis I go there's a faster route you
+could just go from to to St Louis and
+not go north like no we already have our
+plan yeah not plan and I always say no
+we have a better plan but that's the
+sales guide coming from the market
+because sometimes the engineers they do
+have a plan and they want to stick to
+the plan even though there might be a
+better one and the sales guy always
+wanted to the better one for the client
+and that's that conflict and I
+understand that but that's probably one
+of my strengths and my weaknesses I'm
+very in tune with the market but I'm
+always trying to push the engineering to
+be responsive to the market in a timely
+manner and it's conflict and that's why
+product so good yeah I think that
+conflict exists for a reason too
+sometimes you're going to be and I've
+certainly been guilty of pushing too
+hard it happens on the government side
+too right you have program managers that
+are running the effort for the
+government right it could be a training
+effort that use a bundle AR but then you
+have a team of Engineers right and they
+might not be the engineers that built
+that bundle but they are also involved
+in managing these efforts and so you
+have people that are managing these
+efforts that may not necessarily want to
+add a delivery order to that or make a
+modification cuz that means a lot more
+work and maybe it means a timeline delay
+they might be thinking more about the
+program execution and the metrics versus
+what does the WARF fighter at the end of
+that whole process actually need he
+doesn't care if you're meeting your
+timeline on your Gant chart he cares if
+he has he cares if he has that button
+that he can hit as an option that might
+save his life or get the mission done
+faster so there is always a struggle I
+think between bureaucracy and doing
+something in a reg way and what needs to
+be done right now yeah really
+interesting and I also want to ask you
+what your thoughts were on because you
+are very good at followup and
+persistence and I think that it's a it's
+again it's something we don't cover very
+often on on this show if you want to
+call it show but one thing I do talk
+about is how long it takes to sell with
+the government you touched on it hey
+could take four years to get in a
+program of record it could take 12 to 18
+months to to win a traditional
+government contract could take longer
+than that right even the cber process
+from even though it's faster could be on
+contract four months after you submit a
+cber proposal but you also might have
+four months before you identify the cber
+that you're going after another four
+months for them to make a decision then
+you have to they have to put you on
+contract could still take you a year
+right so knowing those long timelines
+can give everybody an idea of what is
+your because I know your followup is
+really good in fact you bug me sometimes
+hey Rick if you followed up with but I'm
+like okay you're right I probably should
+throw something out there what's your
+philosophy on persistence and followup
+when you think you're doing it too much
+or what what do you think is like the
+right battle Rhythm for falling up on
+your needs obviously if we're if we
+truly are hearing their problems and
+pain points and you're following up and
+you're trying to be helpful most people
+are like oh damn thank you for following
+up so hope the rhythm is right and
+you're following up on ideas that were
+helping them they're normally
+appreciative and then sometimes you're
+maybe following up but sharing a new
+piece of information or a new idea from
+the first time you met them or in our
+case following up on Poland it might be
+sharing another example or a way for
+them to experience it or giving them a
+video link or something that's helpful
+for them to keep it going one thing I've
+learned with uh selling innovative ideas
+is there's not a budget for it from the
+prior year because they've never done it
+before right right so that's the other
+thing I've had multiple times where
+people go your timing is good we're
+actually not renewing that one contract
+it wasn't what we thought and we're
+going to slot you into that budget and
+if I wasn't persistent following up I
+they wouldn't have necessarily thought
+about putting me in that slot from that
+vendor they didn't like so absolutely if
+you're presenting new ideas we have no
+choice but to follow up because we're
+creating a new budget yeah it has
+existed before and that's the one thing
+that is wonderful about the cber program
+small business Innovation right research
+it's designed for new ideas right and
+Concepts and new problem solving
+Solutions so just the whole concept of
+it is wonderful for what all of us maybe
+do on through on this podcast yeah I
+know I think you're right and I honestly
+think that the persistence and followup
+is more important in government sales
+than it is in commercial and B2B sales
+not that it's not important there like
+even in the b2c B2B place I don't know
+what the saying is but it's something
+like the gold is in the followup and
+I've read statistics that have said hey
+it's not that first Outreach where you
+make the sale but it's in your third
+fourth or fifth followup where you are
+more likely to actually sell something
+to somebody right whether that's a lead
+from advertising or your seven or seven
+yeah or seven
+so and if you think about a business can
+buy something from you right now if it's
+a big business there might be a little
+bit of bureaucracy in that decision
+right if it's a Microsoft might take a
+little longer than the guy that is a
+single business owner but still that
+that timeline from finding out to making
+a decision to making a purchase is going
+to be smaller than it's going to take a
+government or organization to do
+something in my mind it it's all the
+more important to stay top of mind for
+the government right so now this might
+be something they want to do but they
+can't even do it for nine months you
+have a lot of people that'll follow up
+once and forget about it to keep up that
+repetition staying in front just like
+you were saying because it also might be
+if it's not in the budget that you just
+need to hit them up when Fallout funds
+are available which you know which for
+those listening that's every year every
+office in the government has a budget
+and the fiscal year ends at the end of
+September and right wrong or indifferent
+99% of the offices out there if they
+have a 10 Mill ion dollar budget they
+want to spend every dollar of that
+budget because they are afraid they
+won't get the same budget next year so
+around may we get Fallout funds so it's
+when they predict a shortfall in their
+budget and they say hey we're going to
+have an extra million bucks to spend on
+something this year what are we going to
+do and they start racking and stacking
+the ideas hey we're gonna maybe we put
+bundle AR on maybe we put this on there
+but they might not even think a bundle a
+if you don't if you're not hitting that
+program manager up if the right time it
+might not even make it on the list not
+because they're trying to do something
+nefarious or not help you but they just
+might not even be thinking about it
+correct and M of fact one of the command
+Chiefs we met together when I did follow
+up he was like John you got to be
+persistent don't give up yeah and so he
+almost gave me the motivation hey I was
+told by him don't give up yeah but not
+one person has ever said your followup
+is too much don't share information with
+me not one time not one not one time
+they like normally it's appreciative or
+can you come visit me in dating or
+whatever the answer would be yes I will
+that's right I'll see you next week joh
+I know we're coming to the end of the
+the hour here or the end of the
+interview but I just wanted to give you
+an opportunity did you have anything you
+wanted to put out there for everybody
+about bundle where you guys at now and
+where you going uh thank you for that I
+would say if there are folks that want
+to do a prototyp type man are we good at
+that fast turnaround you want to you do
+have an available budget of some sort to
+get rolling but I think if you're
+focused on truly war fighter Readiness
+and the absolute best tools and for
+maintenance I think that's been a big
+Focus for us we would love to engage in
+any way we possibly can and help solve
+problems and we're very loyal to to our
+Department of Defense uh co-workers or
+you know colleagues and we we we are
+honored to be of assist
+and we we do want you to know that um
+our
+platform based upon the feedback we've
+got is all it's modularly built so as
+there's new Innovations in the market
+Rick you might remember when we started
+it was image recognition right and so
+you point your camera at something see
+the image and it watches the experience
+then we built in what's called marker
+list where you could just Place The
+Experience wherever you're at then we
+added Geo fencing where you know the
+geography of where you're at the GPS
+coordinates can trigger the experience
+and then we always had a pipeline to
+wearables so we always had one iOS we
+had one to Android and one to wearables
+so this past year we've been focused on
+the wearables we've called the wearables
+market a little bit more of the Wild
+West regarding who's going to win it in
+the case of mobile yet IOS and Android
+in the case of wearables there's 25
+different companies all out there but we
+can polish to any one of them so it's
+awesome yeah so that's that's an
+exciting time for us as we got into
+wearables it started with a quick
+service restaurant chain that wanted it
+for handsfree training for the kitchen
+staff who was learning to make you know
+certain recipes and their hand full of
+oil and and
+flow oh that's awesome that's awesome
+John how do people reach you guys what's
+the best place probably johnjohn at.com
+b u n d l a r and of course I I even
+give out my phone number CU I'm 247 at
+847 452
+7664 and of course our website www.
+bundle bu ndl AR and the name bundle AR
+came because we bundle experiences that
+are AR enabled for nextg knowledge no
+that's awesome it's a great tool I have
+many of them on my phone right now that
+that we've gone through together John
+thanks for coming on the show today for
+anyone if you want to reach out to John
+you check out the show notes we'll put
+all of that in there even even gave you
+his phone number and his email address
+you the man himself you can reach out
+and he always answers the phone so I can
+attest to that thanks again for coming
+on here thanks for your team too John I
+know those guys are awesome to work with
+and so are you thank you I know Lewis
+Garner Zach and James and the whole team
+says hello and uh we welcome a
+conversation with all of your audience
+too all right take care now Al righty
+take care

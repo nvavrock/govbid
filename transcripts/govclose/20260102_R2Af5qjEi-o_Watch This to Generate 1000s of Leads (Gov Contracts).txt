@@ -1,0 +1,275 @@
+Kind: captions
+Language: en
+This one is all about finding RFIs,
+sources sought, but also requests for
+proposals, requests for quotes. The
+reason I'm lumping this one all together
+is it's all through SAM.gov. And there's
+other things you can find in here. So,
+let's go. First, we go to search. Okay,
+you don't even have to sign in in order
+to do this.
+Next thing we're going to do is click
+the plus sign next to all domains.
+Now, we're looking for contract
+opportunities. So, we're going to click
+on that. And then it's right here where
+it says notice type. This is where we
+can basically differentiate between the
+different things we're looking for. So,
+I'm going to click notice type
+and I'm going to look for sources
+sought. Now, sources sought and request
+for information are used pretty much for
+the same thing, but here it's listed as
+sources sought. You'll find RFIs under
+sources sought as well. Now, you have a
+lot of opportunities that came through
+here. Look at this. 3,874,
+but a lot of them are going to be past
+due, meaning the due date will be behind
+us. And you can see here, this one says
+it's due December 7th. So, the next
+thing we have to do after we click
+source is we're going to click dates.
+And I do this for everything I'm looking
+for. So, this it doesn't matter. Sources
+saw, RFI, RFP, RFQ. I want to say the
+responses are or due dates are due when
+you can choose whatever you want. I'm
+gonna say the next three months. Okay.
+So now there's 1,200 sources sought that
+are due over the next 3 months. Here's
+something you need to know about sources
+sought is that there's not going to be a
+source of sought that comes out before
+every solicitation.
+They'll be out before a lot of
+solicitations. This is a great way to
+find leads. This is a great way to find
+an opportunity before the solicitation
+comes out. Now, this training module is
+just on finding them. You'll learn more
+about how to respond to them in other
+training sessions. So, here there's a
+lot of things that are coming in here.
+They're they're not necessarily related.
+Look for an animal disease vaccines and
+fabricators, fabrication vendors, like
+two totally different things. So now
+you're going to need to filter this out
+based on what you're looking for. You
+can do it in a couple different ways.
+The less accurate way is to go by
+keyword.
+It may be necessary for you to use a
+keyword if you do not have a product
+service technology that is already being
+purchased by the government or that is
+routinely purchased by the government
+something new innovative or something
+that doesn't have a product service code
+or nakes code. So basically this applies
+to a lot of things that are newer or if
+you want to pair it down you can use a
+keywords. Let's try
+hyperspectral
+that is very specific.
+Here we go.
+I've got two hyperspectral
+opportunities. So this was actually
+probably the best example of when a
+keyword is going to help you. Augmented
+reality could have been a really great
+one to use if there were any sources
+sought out. And that's another good
+point. Just because you looking for
+sources sought doesn't mean you're going
+to find one. That's why we want to do
+this at least once a week. Make sure
+that we're staying on top of it. So if I
+was selling something in the realm of
+hyperspectral sensor or imaging or maybe
+some software tool associated with that,
+one of these might meet what I wanted to
+do. The other way to search, this
+applies to everything, okay, is we want
+to go by product service code or NAKES
+code. At this at this point, you are
+pretty familiar with what the NAKES code
+and PSC code are. Just for the heck of
+it, I'll click on
+one of these product service codes.
+Okay. And I did something to do with
+construction. So, it can be a bunch of
+sources. So, what else can we do? We can
+pair it down just like when we were
+using USAaspending.gov. I can look for,
+hey, is something set aside? Set aides
+are usually going to be more applicable
+to an RFP. When you get into the source
+of sought section, you're going to learn
+that, hey, all of these I'm finding
+these ahead of the solicitation. So, if
+I respond to one of these, I'm not
+winning a contract. I'm informing the
+government on something. I'm developing
+the relationship. I'm trying to
+influence.
+So I might respond to one. It might be
+for say this one for this truck mount
+coring. Eventually an RFP is going to
+come out and I need to make sure that I
+can search for that. So now same way
+that I searched for a source of saw it
+except I'm going to change the notice
+type.
+Okay. So now I'm going to look for a
+solicitation.
+Okay. So solicitation construction. My
+product service code is in there.
+I don't have any keywords. The other
+thing is still responses due in the next
+three months.
+Okay. So now these are going to be RFPs.
+They're not going to be or requests
+reports. These are not going to be
+sources sought. And so what is the
+difference? How do you know? Right here
+it says opportunity type solicitation
+date officer due 26th June. So that's
+good. That's ahead of me. It's giving me
+a description and this is thinking but
+there's going to be some attachments
+that pop up too. Sometimes you have to
+log in to get the attachments
+and that should be noticed. It has who
+the PC is. So there's a airman first
+class Jedodia
+and it also has a primary and secondary
+point of contact listed there. But when
+you respond to this with a proposal you
+could win a contract. Okay. So that's
+worth knowing. We want in the best case
+scenario is I've already talked to the
+government about this. Maybe they've
+they want to put me on contract. I've
+influenced it in some way. Now, if I'm
+going back, I'm going to go back and
+just look at a source of sort real quick
+just so you can see when I click on a
+source of sought.
+It says sources sought.
+And let's see here. There's some
+specific language I'm looking for. There
+we go. And you'll see this in almost
+every source site. This notice of intent
+is not a request for competitive quotes,
+but you may identify your interest and
+capability to respond to this
+requirement. Okay? And they have they're
+telling you in here what they want you
+to respond with. Capability statements
+going to tell you a little bit about the
+opportunity. Of course, you're going to
+put in a lot more which you'll see.
+Okay. So, now you know how to find a
+source of site. how to find a
+solicitation. And a solicitation again
+is usually called a request for proposal
+or request for quote. And that is
+something that you write a proposal for
+and you could win the contract. You
+submit that, you could win a contract.
+You win. You submit a source of sought.
+You're not winning a contract because
+the solicitation hasn't come out yet.
+Solicitation is going to come out. What
+the government's going to do is take
+your source of sought and see that first
+of all be familiarized with your
+company. See that maybe you have a set
+aside that you're recommending. They'll
+take everything that you put in there
+and potentially put it in the
+solicitation if you do your job well.
+Let's talk about some other things that
+you can look for here.
+It goes through presolicitations.
+It goes through solicitations, which we
+just talked about. Award notice, that's
+just going to be, hey, somebody was
+awarded this contract. Justification,
+sometimes that's if the government
+awards a soul source contract and
+they're justifying why they did that.
+Okay. Sometimes you can look at
+presolicitations and you'll get some
+interesting things there. I've seen the
+government put out presolicitations
+basically saying, "Hey, we're looking
+for people to speak at a conference." So
+sometimes looking at these
+presolicitations will give you some
+ideas for some interesting engagement
+opportunities. Don't ignore them. Just
+for the purposes of this, you're looking
+at sources sought and you're looking at
+solicitations just depending on where
+you are. One other thing I was going to
+say is
+if I'm looking at the solicitations,
+okay, now again, construction PSC code
+solicitation due next 3 months. The
+other thing I can do is I can see if
+anything's already set aside for my
+business. We looked at SDVOSBs before
+and we can see right here service
+disabled veteranowned business set
+aside.
+I click that.
+Now, look at this. Okay. So, I've got a
+solicitation from the VA that's set
+aside for something to do with an
+excavator. Okay. So, which means nobody
+except for a service disabled veteran
+owned small business can submit on this.
+So now if you're working with a company
+that's SDVOSB and you're looking for
+leads, you might try to filter through
+the noise, especially if there's a lot
+of them, you might try to filter by,
+hey, is anything already set aside?
+But what if you may be working for just
+an ADA or all of the set aides are in
+here. Woman owned small business
+veteranowned small business which is
+different than service disabled
+veteranowned small business partial
+small business set aside total small
+business. So these are going to be
+opportunities that large companies can't
+respond to. If a large business a
+corporation wanted to respond, they
+would have to partner with a small
+business. This is really good. This is
+how you find them. Okay. Now, there is a
+way if you sign in, there is a way to
+track these opportunities. You could set
+up searches as well, but you have to
+sign in to be able to do that. Okay,
+I didn't mention place of performance,
+but if you are looking for something
+where maybe it's construction since
+we're already looking at this type of
+thing and you only want to work in
+California, now you can put the state in
+there, put zip code, county. So you can
+look by where the location of the work
+is going to be performed. So that's
+another great tool to use. Okay, that is
+finding sources saw it RFIs, RFPs, and
+RFQS. That's how you can do it on
+sam.gov.
+And then I'll see you in the next
+training.

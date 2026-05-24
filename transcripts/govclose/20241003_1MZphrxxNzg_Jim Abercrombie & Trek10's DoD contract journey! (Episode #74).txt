@@ -1,0 +1,1403 @@
+Kind: captions
+Language: en
+[Music]
+all right well hey guys Ricky Howard
+here with the dod contract Academy and
+today I'm with Jim abacom he's president
+and founder of Trek 10 and TK 10 designs
+build supports highly scalable
+cloud-based systems Jim's going to tell
+us a lot about what that means but
+here's another example of a great uh
+company that is selling to the
+government selling to the dod and I
+think you're going to learn a lot today
+from Jim and and about his company and
+and maybe there's something there that
+you can do with them so hey Jim welcome
+to the podcast today hey Ricky great to
+see you yeah no good to talk to you
+again I know uh you know we had a I say
+this all the time but we had a great
+conversation the other day um and it
+actually I mean that could have been a
+podcast in in and of itself I think we
+talked for over an hour um just about
+all of the different efforts you guys
+had and kind of the value you're
+bringing the government and and it was a
+really interesting conversation so I
+think that you know everyone's going to
+has a lot to learn from uh what you can
+talk about today so thanks for coming on
+yeah absolutely great well hey let's
+before we get into Tre 10 and what that
+does why don't you tell us a little bit
+about you because you had an interesting
+background before getting into the
+public sector and it's the first time I
+heard uh something like this so um and
+you might even have to explain to me
+exactly what you were doing there
+because because I have like I have like
+The Wolf of Wall Street in my mind but
+maybe that's not quite
+accurate uh yeah that that that's
+certainly a vivid picture of Wall Street
+right uh but I graduated college I went
+to a grew up in Indiana I went to a
+small liberal arts school graduated
+college in 2002 and uh after college
+moved to Chicago and I got a job as a
+bond Trader at the Chicago Board of
+Trade and so you know you mentioned Wolf
+of Wall Street you think about you know
+some of the classic shows like uh
+trading places where you know they're in
+the pits on the floor everyone's yelling
+and screaming
+I was in that building but I was not
+down on the floor we actually traded
+cash uh treasury bonds so US Government
+debt which ironically around 2005 there
+was such a boom and we actually had
+budget surpluses that folks in my
+industry were worried that we were going
+to be out of business right obviously
+financial crisis happened we've been
+running deficits for a long time so that
+didn't really come to play but yeah I I
+was a bond Trader for 13 years and you
+know I really I was able to use my
+economics and liberal arts background to
+really get a a keen understanding of
+what was happening in the world economy
+and sort of the the inputs and outputs
+of of what happened um which is all
+reflected in in prices and so it was a
+really fascinating career uh it came to
+kind of a natural conclusion as we were
+starting up T 10 and as candally the
+tech Advanced so much that you know guys
+like me weren't really uh Traders
+anymore it was all math phds you know
+running algorithms and whatnot but I
+couldn't imagine a better sort of start
+to a career you know as someone that was
+really interested in kind of how the
+world work
+and no I was going to say that so while
+you were there and you were a bond
+Trader and and you're talking about US
+Government debt I would imagine you
+learned a little bit about how
+government procurement works and or at
+least how government debt works and
+funding is is that accurate or is am I
+am I off there um not as much as you
+would have thought right like I we
+certainly geopolitical events mattered
+because us interest rates are The
+Benchmark interest rates for the world
+and everything from US economic
+information to geopolitical challenges
+like I remember I wasn't trading in 911
+I started in 2002 but there were a
+number of scares that happened in the
+early years I remember the first time uh
+it came out over the wire that a you
+know envelope with white powder was
+opened at the capital and it got right
+that moves the market tremendously the
+second time it happens it moves a little
+bit by the time you know the third time
+it happens everyone just sort of yawns
+and moves on right markets react heavily
+to new information and they tend to
+Discount what they've learned so I I
+didn't learn as much about procurement I
+did gain a little bit more of an
+appreciation just for the size and scope
+of uh of the government right as a as a
+youth or a college student I don't think
+that's something you ever spent any time
+thinking about but just the the absolute
+numbers and the reach um of the US
+government became a little bit apparent
+there but I I just want to be clear
+clear there was no point in that career
+where I said man when I'm done with this
+I really want to go sell to the
+government like that just it it was
+totally you know when we look back on
+our lives it seems like there's this
+path that's mapped out but you know
+going forward it was just you know it
+was as random as you could get sure yeah
+no I agree I think that that seems true
+for a lot of folks certainly for me as
+well about you know just the random
+events happening and kind of yeah easy
+easy to look back versus uh look forward
+and say Here's the here's the path
+here's the plan so tell me a little bit
+about t 10 because I think I heard you
+say that you know as your career was
+dying down t 10 was scaling up so what
+was your idea for Tre 10 um you know
+before you actually started the business
+and what have they kind of become yeah
+that great great question so I've got to
+give all credit to one of my co-founders
+Shane uh he actually ran a data center
+in Southbend and he landed AWS that's
+Amazon web services so that's cloud
+provider we work with as a customer in
+2011 and it was one of the early
+Footprints of Midwest and you know Shane
+was running this sta Center he had a lot
+of big you know universities and Fortune
+500 companies as
+customers and he kept saying man this
+this AWS group they do it different than
+anyone else right and he's a curious guy
+so he dug in he understood why and he
+started to learn about this Global
+Network of you know assets basically
+cables fiber cables and data centers
+that they were building and it was an
+approach that and a scale that you know
+really no one had ever done before and
+so you know Shane being interested in
+that you know really dug in made some
+contacts at AWS to learn about their
+plans and and I don't know if I
+mentioned this at the top but we're in
+South Bend Indiana you know he ran into
+someone else uh who turned into the
+third co-founder in Southbend who was an
+early practitioner on AWS uh this other
+guy Andy had moved uh some of the
+business he was running to to the cloud
+in the late 2000s and he actually became
+one of the first thousand people in the
+world to get an AWS professional
+certification so he was he was a very
+early practitioner you know what I
+brought to the table really was some of
+my market Acumen and and uh you know I I
+felt like I was good at identifying
+Trends and so I did my research I I
+candidly didn't know too much about the
+cloud and what it was or certainly what
+it would become but I came across this
+case study with a company called visc
+case and visc case was the world's
+largest maker of sausage casings right
+so think of like hot dog Sprout worst
+whatever right you know
+uh appropriately they were based in
+Germany but had a big outfit in Chicago
+you know two things you think about you
+know in that industry and the case study
+said hey Vis case is moving their sap
+back up to AWS and I read that and I
+thought to myself if the sausage casing
+manufacturing company is a customer of
+the cloud there's not a business in the
+world that this isn't appropriate for so
+just before you go on so the the
+infrastructure that you were talking
+about so you were talking about chain
+kind of ran that data center and then
+AWS they were talking about you know all
+of the the fiber uh networks and the
+different repositories that they were
+building out this was the infrastructure
+for the cloud as we call the cloud now
+is that that's correct okay you want I'm
+sure most of my listeners at this point
+understand the cloud but maybe you could
+talk a little bit about what it is and
+why that was different than the way we
+would maybe store Data before absolutely
+so if we go back you know the very early
+sort of servers were based in company's
+data rooms right I'm sure we've seen
+pictures of these massive IBM machines
+from the 50s computers that took up you
+know rooms two or three size times the
+size of the conference room I'm sitting
+in right now sure um and those got
+condensed to you know uh companies that
+built these servers that could do pretty
+intensive processing and compute well
+these servers were pretty expensive
+right on the order of 50 to $100,000
+they had really long lead time so if you
+wanted to say start a business that
+required that you need upfront capital
+and you'd need several months to order
+them then you need to install and
+configure them
+excuse what the cloud did well what data
+centers did is they said or collocation
+facilities is a term often used they
+said hey you don't want to run this in
+some Closet in your office building will
+have a facility that all we do is run
+servers and you can rent from us and
+what data centers sell is space power
+and connectivity right they sell the
+basically always on ability of these
+compute and storage resources right and
+as you can imagine think about them you
+know maybe a good analogy would be
+thinking about all the retail mom and
+pop stores that existed and then think
+about Walmart and they came along and
+they said we're going to do everything
+you did but we're going to do a lot more
+and we're going to do it on a bigger
+scale and we're going to do it a lot
+cheaper and so what the cloud is today
+is on demand access to that storage and
+compute right and ultimately the cloud
+is a commodity similar to how you buy
+your power from a commodity provider
+like electricity what's interesting
+about electricity isn't that it's uh you
+know it isn't necessar what's
+interesting is the idea that it's
+ubiquitous that you can plug something
+into any Outlet anywhere and you're
+going to get constant power and only
+once that is true can you create things
+like the radio or the hairdryer or the
+television right they need that Baseline
+infrastructure to build on top of what
+we think is super interesting about the
+cloud is that when you have this
+Baseline storage Network and compute you
+then have the ability to build these
+really interesting things on top of them
+and so any digital business you see
+today whether it's a Netflix or whether
+it's maybe not quite a digital business
+but think of an app where you can buy
+cars you know that ultimately is
+becoming a digital business that could
+not be
+possible so that's kind of uh what the
+cloud is okay interesting so uh you guys
+were you identified this kind of early
+on it sounds like so so talk about the
+progression here so how does how does
+Trek 10 play into kind of this new um
+technology or the new way we're dealing
+with data yeah so we started the
+business in 2013 you know Cloud was was
+in its infancy I think uh AWS they have
+an annual conference it's actually the
+the week after Thanksgiving you know so
+it's coming up here and the very first
+one there were you know maybe 1500
+people at and the second one it was
+3,000 and by the time we started going
+maybe it was in the 4,000 range you know
+I think I think the last year before Co
+they had between 50 and 60,000 attendees
+to that so if attendees for the
+conference you know you can also look at
+AWS Revenue which they've broken out for
+many years and see how that's grown but
+you know we were in the relatively early
+days but like I said looking at the
+trend looking at the idea that every
+business in the world was going to be a
+customer we knew there was going to be a
+long Runway to go located here in the
+Midwest we said to ourselves you know
+candidly it might be a few years before
+a lot of folks at our region are are you
+know wanting to tap the cloud but the
+one thing we do know is that you're not
+going to go to the person that runs your
+data center or your it environment today
+and say hey we need you to build us a
+cloud environment they're just different
+skill sets right it's similar to in the
+Advent of the automobile you know those
+early buyers of automobiles weren't
+going to the person who managed their
+horses to take care of their new
+automobile even though it's still
+Transportation still getting you to the
+same place it's a different skill set so
+we saw this emerging need for cloud
+specific skill sets in order to help
+businesses Leverage What really is a you
+know we've seen customers get 51 15x
+benefit by moving to the cloud instead
+of a data center that's a combination of
+cost savings or performance Improvement
+and you don't get those kinds of gains
+without some specialization in order to
+help you get there okay awesome so you
+identified a need there with TK 10 and
+so your initial um push or your initial
+customer base from what I understand was
+commercial right so y commercial
+companies uh building some momentum
+there um you know we don't have to get
+too far into that but uh except to say
+it sounds like you guys are really
+successful you know with the services
+that you provided in your commercial
+customers could we talk a little bit
+about you know how did that pivot to the
+government like what were some of your
+first interactions with the government
+what made you start thinking about it
+and how did you get into public sector
+sales yeah great question and I'll I'll
+tell you the first story about how we
+tried and failed and then come back a
+couple years later and how we found some
+success so around
+2016 um there was an individual here
+locally that moved to town from DC uh
+he's an attorney and he had done a bunch
+of BD Federal BD and he really you know
+we became friends and he really laid out
+the argument of why we should be looking
+to sell into the government right and
+it's it's what we hear on your podcast
+all the time right all the benefits from
+doing it and but this was 2016 and when
+you looked at rfis you know they didn't
+use the word cloud they used hybrid it
+infrastructure and they certainly didn't
+call out AWS or you know Microsoft Azure
+which are the two big players today and
+as we got into it gosh there's a whole
+lot of compliance and paperwork and all
+sorts of things that need to be true for
+you to even consider going after a
+government contract yeah and frankly
+where we were as a company we were
+probably 15 people or so um we spent a I
+I personally spent a lot of time on it
+really trying to figure out a way in and
+basically realized that hey it's not the
+appropriate time for us to do this fast
+forward a couple years you know we had
+worked with a couple large Enterprises
+we had built you know really a strong
+reputation inside the AWS partner
+ecosystem as a company that could
+deliver on these kind of really scalable
+and complex technical challenges right
+and that's all well and good but what
+really happened is 2018 as you know is
+that's when after workk started right
+and appworks which I assume your
+listener base is is very familiar with
+but if they're not appworks took a
+program that had been around for 40 plus
+years the small business Innovative
+research program and its partner sttr
+small business technology transfer um it
+took that and it said hey this program
+traditionally has put out a lot of very
+specific topics that if you were being
+candid about it there really just
+weren't that many groups across the
+country that were well equipped to
+respond to those not because of the
+overhead burden but because of the
+specificity of the topics right we could
+be talking something like for a plane at
+a certain altitude and a certain speed
+the light refracts at a certain way and
+what we're looking for is to add
+something to that so that right you know
+it protects Pilot's eyes right something
+that hyp specific like think about the
+labs that have to be working on you know
+refractory technology plus you know gas
+or comp or glass or composite materials
+or just the vend diagram of folks that
+can respond intelligently into something
+like that was really small what appworks
+did in in my synopsis is it turned the
+entire process on its head it's instead
+of saying here's these very specific
+items like we're going to come after
+like a sniper to try to find someone to
+get we're gonna open the aperture and
+say hey if you are a successful
+commercial company and how do they
+define success you actually had to have
+commercial sales that you could prove
+right so there's businesses out there
+that are paying to buy your product so
+if you meet that criteria and what you
+sell is something you think the Air
+Force could benefit from tell us about
+it and by the way here's how we want you
+to tell us about it put together a 15
+page slide deck right put together a
+five-page paper this wasn't the you know
+New York fbook style Documents To Go in
+y um this was a lightweight way to get
+in the door and we were part of the
+second cohort I think 18.3 which was
+2018 and the third cycle for that year
+so it was around the uh the end of of
+fiscal 2018 MH and we were successful
+and our first technology we put in was
+uh a data ingestion engine and we took
+uh work we had done with a couple key uh
+commercial customers to really ingest
+and rapidly process data for business
+purposes and the example the enterprise
+we worked with that we really you know
+learned this they did a lot of
+automobile sales and whenever you buy a
+car you know imagine you go to a website
+you've got 50 60 70 images right of that
+vehicle well this company processed over
+half a million Vehicles a month multiply
+that by 50 to 70 images and you think
+about the high volume they were running
+all of that stuff in data center they
+were running out of storage room they
+were adding hundreds of thousands of
+dollars of storage arrays every month
+and came to us through AWS and said hey
+we there's got to be a cloud-based
+solution we put together something it
+was very successful for their business
+and you know we did similar projects for
+a couple different customers but the
+overlying theme was this highspeed data
+ingestion and processing so that's what
+we put our proposal in for app works and
+they said sounds great you're in right
+and we're like okay cool us and what 60
+70 other companies were in well we we we
+kind of learned together right they put
+us in a cohort they had weekly calls
+where we learned about finding customers
+the big charge with an afks phase one is
+to go find a customer right it's all
+about you know that contract in itself
+isn't that notable except it's that
+license to hunt as they say right and so
+we worked with a partner that we had
+developed that was also you know pushing
+people into the government space and we
+end up working with um a simulation
+agency across the Air Force and so we
+found them we took our Tech we adapted
+it to what they were doing and really
+ever since then we we've done a number
+of other projects but we're still
+working on the simulation ecosystem and
+still bringing kind of Innovations
+moving these things to the cloud uh but
+yeah that was the first kind of story of
+how we got in interesting so for those
+listening typically just to go through
+kind of the cber process from a you know
+100,000 foot view right so the cber and
+St Str TTR process for the most part
+looks like you have phases you have a
+phase one you typically have a phase two
+and then you potentially have a follow
+on from that phase two depending on what
+you're doing and then that phase one
+that you're talking about you're on
+contract with the government and you're
+you're getting paid but it's usually I
+mean it's my in a big scheme of things
+it's not a lot it's usually somewhere
+between 50 and 150 Grand it can be less
+it could be a little bit more but it's
+and you know you might owe and I don't
+know what you owed at the end but you
+might owe something like a feasibility
+study at the end of that but you're
+right your real the real reason you're
+on contract there is you know the the
+team thought that hey your solution has
+some Merit and and what we want to do
+now is see is there a fit in the
+government somewhere and depending on
+who the you know you did this with the
+Air Force so they probably wanted you to
+focus on the Air Force but is there a
+fit in the Air Force for your solution
+and kind of especially for companies
+that never done this before or don't
+have government relationships or
+understand like where the inner workings
+are they might help make introductions
+or they might you know kind of educate
+you on like hey uh where do you uh where
+do you want to go but that that that
+next piece
+is the reason they're making those
+introductions is your your whole goal is
+you want to get to a phase two and a
+phase two is that's where there's a
+little bit more money right so if it's
+uh develop usually it's either
+developing Your solution or potentially
+modifying something that already exists
+for a government purpose and those I
+think I think the limit's around $1.3
+million right now I thought that was
+around there the last one I saw yeah I
+they've typically ranged from 750 to one
+and a half million depending on the
+uh proposal cycle I think there's some
+statutory limits that are slightly above
+that that what could be put on a
+contract but yeah that's generally the
+range right so if you think about three
+months and basically enough money to do
+some trips in business development to
+you know 12 to 24 months and enough
+money to do a substantial project right
+like adaptation cers are all about
+adapting this technology to defense
+needs right so you know the Air Force
+certainly didn't need the exact
+technology we developed to serve up
+these images right but do they need
+something highly similar to that in
+order to make the simulations operate
+better yes they did and so our project
+was about adapting that to their
+specific needs okay interesting so and
+then you get Ju Just to be even more
+specific you're typically going to a
+phase two and you say get a customer
+usually what you're looking to do is get
+um we call it anou for just going City
+but a memorandum of understanding and
+and this is what's interesting this is
+why the cber process is so different
+from the rest of the Acquisitions
+processes in the government because
+typically in the government the and this
+is for our listeners I I realize you
+understand that but you know typically
+you've got about most people in the
+government can never make a purchase you
+know they could buy office supplies and
+stuff like that you know like the office
+level but um but for any purchase
+usually over $10,000 or so I mean now
+you're talking about an Acquisitions
+team putting you on contract and that's
+which is what I did while I was in the
+Air Force at least the last half of my
+career so that's a very small percentage
+of people in the government right but
+and this is what companies mistakenly do
+uh you know in the beginning often
+they'll go to like the user right
+they'll find uh hey I'm I developed
+something that can help maintainers on
+aircraft or I developed you know
+something that can help you know the
+army guys uh shoot better during weapons
+training uh whatever it is a lot of
+times they'll go to the user and then
+then they realize oh they can't actually
+make any purchases from me um because
+they don't have they don't they're not
+in control of the funding and they
+they're not Contracting officers so we
+need to find someone but with the cber
+program changes everything because and
+this is why sbir is an amazing
+opportunity is because you now can go to
+the user you don't have to go to an
+Acquisitions unit you can go to
+whoever's in your case I'm not sure who
+you went to but you know you could go to
+the maintainer in that case and maybe
+have their Ops group Commander sign anou
+all they need to do is think it's a good
+idea because it's usually not their
+money it's usually
+work so if it's not their money and they
+don't have to go through the effort of
+putting you on contract because usually
+the cber office does that in this case a
+works it's much easier for somebody to
+say hey if they like your Solution
+that's a great solution all they have to
+do is sign the memo which all they have
+to do that could still be a significant
+amount of work you need to know what
+you're yeah but um so I guess the bottom
+line is you went out and you got this
+mou signed by a customer or by a unit um
+what was that Pro
+like yeah so uh before I get into that
+detail like I think what you're
+describing the classic sales process
+right you need pain you need budget and
+you need decision-making Authority right
+and so in the example you gave about you
+know helping shoot on the Range or
+whatnot that user may have pain right
+and and you know that's great but
+without the other two and by the way in
+the corporate world often the same
+person or you know a small number of two
+people might have all three of those
+things sure in the government World they
+could have pain they could even have
+budget but if they don't have authority
+that's what comes from you know what you
+used to do right that's the Contracting
+officers and if you don't have that
+pathway it doesn't matter at all if
+someone has money if they like what you
+have if they want to buy from you there
+has to be a vehicle so what cber does is
+first of all they don't need the budget
+because the small business office is
+paying for it and second of all it
+handles that kind of authority to do it
+right so that's why it removes I think
+so much of the friction right you're
+just looking for that pain there um what
+our process looked like we worked with I
+told you we were working with a business
+development partner um and they
+introduced us to a number of customers
+right we went through our own Discovery
+you know F Works uh sets up cohorts
+there's a lot of help from a lot of the
+other companies in the cohort we're all
+kind of warning together sharing
+contacts there was a matchmaking
+component where aworks would uh give
+like d identified problem statements and
+if you select it and say hey I think my
+thing can you know address problem
+statement 37 they would reach out to the
+custo the owner of the problem statement
+if they wanted an intro they would then
+make that happen I think that's been a
+little harder for them to do as the
+program's gotten so much larger than it
+was in the early days um but yeah
+basically anything we could do right if
+if you listen to some of the other
+podcasts people just talk about kind of
+turning over every Rock there is because
+you have this limited window and you
+know that at the end of the window if
+you can find that customer you have this
+opportunity I mean our first deal was
+750k that was a huge deal uh for the
+size of company we were then yeah right
+and so you know we put a lot of effort
+into finding that we found this customer
+with the Air Force simulations office we
+we saw eye to ey they signed theou which
+again it's not just signing a document
+there is you know they basically commit
+to work with you and there is a whole
+list of information they need to fill in
+it's not overly honorous but security
+officers you know reporting structure
+all it it it has to be there because
+what AFF Works wants to see is is this
+just someone at the last minute that
+signed it because someone promised them
+they might get some money or is this
+someone who actually believes this is a
+solution that could translate into an
+operational capability they want to
+field which would come under a cber
+phase three which you alluded to right
+and I mean not only that I now the cber
+field has gotten a little bit more
+competitive and they really take a
+strong look at thatou to see who's
+signing it um you know what the use case
+is how closely does it match you know
+what they're trying to go after um and
+you're right so every cver Phase 2 is a
+little bit different but you're right
+typically they are committing to maybe
+it's a demonstration on the base maybe
+it's um you know a modification where
+they're going to work with you know
+their team to figure out you know what
+the nuts and bolts of that are going to
+look like and so interesting so you've
+done that now you've been pretty
+successful in the SBI process so why
+don't you walk me through you know what
+happened after that uh process what were
+some of the positives and negatives that
+you
+experienced after sorry just to be clear
+after what process contct so after that
+cber Phase 2 you won the cber phase 2
+and you went through probably adapting
+to government need there um you know did
+that go well and what were the next
+steps after that like what would your
+what was your assessment of the whole
+process yeah it it I would say we
+thought it really well and we thought we
+were going to be moving on to a super
+phase 3 kind of immediately
+afterwards um and that just didn't end
+up being the case right for for a number
+of reasons that I won't get into it just
+wasn't appropriate for that customer at
+that time which was came as a surprise
+to us looking back it it's not a
+surprise there were some telltale signs
+that I think we could see now with a
+little more experience um but what we
+did you know kind of
+as someone that was in the markets there
+was a saying that that I loved that that
+people used to say like we're in the
+business of doing more of what's working
+and less of what's not right and so the
+what's not was that first foray in 2016
+for us trying to crack into the
+government once we got once we realized
+this worked we took a real hard look at
+our business and said hey we actually do
+a lot of different things here and we're
+going to systematically go through and
+evaluate those for their appropriateness
+for this program and so we won our
+second phase one in the very next cycle
+in 19.1 with our Cloud support
+operations we call Cloud Ops and that's
+actually been our most successful one to
+date we hooked up with an Air Force
+software Factory early uh early in the
+process and won our second phase two in
+August of 2019 and we've partway that
+into multiple follow on contracts most
+currently uh an SBI phase three uh which
+we're under and so I I'm sure you'll get
+into the difference between phase twos
+and phase 3es but you know to go back to
+that
+question I think it was really important
+you know a key learning is that as we're
+executing on the contract for the second
+one those conversations about we're
+building this in service of something
+larger right and you know what's our
+plan for what might come next if this is
+successful and just having those
+conversations versus sort of being led
+by the process the first time we did it
+no I think no that's extreme important
+because there's a lot of assumption
+about what the government knows what the
+military knows and what they don't know
+and I think a lot of people are probably
+surprised to find out how few people
+actually do understand the entire
+process on the government side and are
+they even planning on taking your
+solution to the next side they because
+it's very common especially in the
+military I mean guys are stra moving
+every couple of years right so right
+there might be an assumption that
+someone's going to
+take that ball and run with it or
+they're just not even thinking about it
+because they have their own efforts that
+they're working on so um and they're
+there might be competition that's in
+place that you're not aware of right
+like a lot of what we do is that new a
+lot of what we build for our commercial
+customers and that we've done with the
+Air Force so far has been net new stuff
+so with net new there's you know there's
+just not the entrenched competition
+that's there but we've definitely run
+into situations where we thought we were
+in a lane that you know was pretty good
+and then as we've gone down the line
+realized hey there's there's a couple
+long-term players here that are are in
+it and if this thing is going to get any
+bigger like it's going to get on their
+radar and kendly they probably have a
+much better chance of of winning that
+deal or that relationship than we do so
+T taking a real hard look at you know is
+your Tech is your solution something
+that's net new or is it something that
+is trying to displace an incumbent which
+we need right we need that across the
+dod there's a lot of tech that needs to
+be displaced it's just a harder it's a
+harder fight right it's more not to slog
+when you're doing that no much harder
+can I can I pause for one moment
+absolutely thanks
+hey how's it going you there sorry about
+that no worries oh I can't hear you now
+I can't hear you can you hear me is this
+better yeah I can hear you okay perfect
+let me see here how far long are we 244
+okay great no uh sorry for the pause
+there so we were just talking about you
+know having your technology having a
+plan when you're in that Phase 2 area
+kind of knowing if there's an incumbent
+on the other side that you're trying to
+displace because that can be um that
+could be a huge process right and you
+could have an amazing Solution by the
+way and not be able to displace them
+right because there are a lot of fact at
+play with trying to do something like
+that but right now you are on a phase
+three as you mentioned so you know I
+don't I think it would be better for
+everyone to hear from your point of view
+hey what what did that look like what
+does that mean from a business point of
+view yeah absolutely so you know there's
+a couple different import important
+things between you know a cber phase 3
+and the other parts of the cber program
+uh the first and most glaring is that
+cber phase 3 the money comes from the
+Custer customer so phase one and phase
+two comes from the Air Force small
+business office phase three the customer
+needs to put their money where their
+mouth is or where their desires are
+right and so that's where we get back to
+that classic that's when you do have to
+you know qualify for Budget right
+someone could want what you have all day
+long but if they don't have the funds to
+pay for it you know probably not going
+to happen um the other thing that's
+really interesting about phase 3es is
+that statutorily you know it's a tech it
+needs to derive extend or logically
+conclude from your phase one or phase
+two
+technology um but contractually it is a
+soul Source non-contestable uncapped
+vehicle right so you know one thing that
+we found uh being part of the early
+cohorts is that there just weren't a lot
+of folks across the air force that were
+familiar with the cber program even
+folks that had been you know
+Acquisitions officers had been in
+various roles for many years it just you
+know it was kind of in its own little
+corner and
+so there was a big knowledge there was a
+big knowledge Gap and aworks has done a
+tremendous job you know both for the
+commercial world but also for government
+employees and really you know providing
+a lot of resources to understand what
+this is because you could imagine you
+know someone calls you up hey I've got
+this cool thing yeah great oh and by the
+way you don't have to pay for it I just
+need you to sign this letter and we can
+wait what are you talking about is this
+legal is you know we got that question
+all the time right I'm not sure this is
+legal I'm not so people rightly so want
+to stay on the right side of the law but
+getting that getting that education over
+the last couple years I think has been
+really helpful um the phase three the
+one we did it was with the customers
+Contracting shop so uh they I know they
+shared they had gone through a learning
+curve when they started setting up phase
+3es they kind of learned the power of
+them and uh you know really like that as
+a vehicle but for us it was all about
+continuing the momentum that had started
+right and we were with one of the
+software factories so it was an
+ecosystem and we weren't the only
+company to get phase three is I think
+there were five different companies that
+were working on different parts of the
+stack for the software Factory and all
+five of them were awarded F phase three
+so we kind of grew together so it
+definitely was an advantage of we
+weren't all out on our own we were
+learning with other partners with other
+like mining companies and with a really
+Progressive customer that was looking to
+build on the momentum that they had put
+together through the cber phase 2
+process I gotcha okay interesting so
+yeah cber phase that's an interesting um
+that that is another hard challenge I
+guess I guess each of the phases present
+their own challenge to the business and
+to the government right and one thing I
+guess just for anyone listening to this
+if you're in a phase two or you're
+graduated from a phase two one thing
+that you mentioned which I know is true
+is that even Contracting officers often
+don't understand that a cber phase 2
+graduate that gives certain capabilities
+to put somebody on contract very quickly
+that um you know you wouldn't normally
+have so that's something that and by you
+can you know get somebody to write
+something up for you and we've actually
+done that for some of our clients which
+is hey just hand this to the Contracting
+officer and this is step by step with
+the law like exactly what they can do
+because one of your goals is always how
+can I make it easy for the government to
+put me on contract and and I'll point
+out for the listeners one thing that you
+haven't really talked about is you know
+maybe aside from you know putting the
+application or the proposal in get into
+the cber program itself when you got
+into the phase three I'm assuming you
+didn't have a huge competition where you
+were battling it out with you know 200
+other people you were graduate of the
+phase two you had your um you know you
+had that and then you had a customer
+already aligned and you said use their
+Contracting shop so I'm assuming what
+they did is they you you through the
+cber process they were able to uh bring
+you to the next
+contract uh that's right yes so phase
+three so super phase one Andor phase two
+whichever you know way you enter because
+there is the concept of a director phase
+two right we follow the phase one then
+phase two then phase three route um but
+those are fair and open and those
+satisfy the competition requirements so
+cber phase 3 is our sole source and
+direct Awards right right so so once
+you're there that's why people call it
+kind of the Holy Grail right once you're
+there you have the ability if the
+customer wants you you know legally and
+statutorily have the ability to set up
+these contracts and really that's just
+all about during the early process
+proving that you can deliver on what you
+say you're going to do right like so
+many things in life it's you do what you
+say you're going to do and and you know
+good things tend to happen uh but this
+is where even when you're thinking about
+that phase two signer right I mean I
+know for us you know we used to joke
+who's your ideal customer when you start
+a business well anyone that wants to
+give you Revenue right anyone that wants
+to pay you to do something you know for
+our first phase too it was like oh hey
+someone's interested in signing it great
+um you know I think we had two parties
+and we ended up going with one that we
+thought had the better you know more
+mature prospects
+but you know for someone that's on their
+first phase one and they're looking for
+a phase two you're really going to be
+excited when someone says yeah I want to
+work with you I want to sign thatou
+absolutely like but I think it's worth
+as long as you have the time I think
+it's worth taking a step back and saying
+hey is this the kind of customer that
+really has the ability to move on to our
+next phase if we're done um you know
+there a lot more competition these days
+a lot of customers are more aware of
+this you know on on the dark side of
+things there are some folks probably
+that just use these repeatedly as ways
+of getting their you know checklist done
+with no intention of moving on to the
+next phase so as a small business owner
+or or leader you ow to yourself and your
+company to do your best to kind of
+qualify to say hey is this an
+opportunity or is this a good
+opportunity right because they're all
+not created equal no they're not and
+then I mean there's we could probably
+talk about this for the next two hours
+but um you know if you did find yourself
+in the phase 2 C cber realm and your
+customer didn't have the funds to take
+it to a next place you know there's
+certainly ways of finding fund funding
+from other agencies other offices um
+that could potentially go into that or
+finding another customer to use your
+cber Phase 2 graduate um status with um
+you know that might something similar
+that's a really interesting point right
+so you know trck 10 across our different
+C contracts you know 15 years down the
+line assuming we're still a small
+business we could you know all all our
+cers have been with the Air Force some
+Navy customer could say hey this thing
+about the simulation you know somehow we
+found out about this and we want to
+engage you to do this work our phase two
+require you know our phase two satisfies
+all the requirements they could on a
+phase three you know years from now to
+do something that derives extends or
+concludes from that right so you know
+you keep moment going when you go right
+from phase two to the next phase
+relatively quickly but just because the
+customer you had didn't work out doesn't
+mean the door's closed right like you
+definitely have the ability forever as
+long as your company owns that Tech and
+that that you know contract rights to
+continue to set up or or potentially set
+up phase 3es with other customers so the
+BD can can continue you know well after
+the the phase two uh expires no
+absolutely it's a great way to get your
+foot in the door and you know start
+making connection and and it does it's
+kind of like having a contract vehicle
+or even you know a set aside that you
+know allows for some soul Source
+Contracting work it just it gives the
+government other way other means to put
+you on contract that could potentially
+be a little easier and you know every
+office is different some offices would
+be open to it and some wouldn't but um
+you know just having that I think is
+extremely valuable okay so you've done a
+lot we've talked a ton about sbir and
+kind of your pathway here um where are
+you guys at right now and and what
+what's next for you as far as Government
+work is concerned um and then I have a
+couple fall on questions yeah sure so
+we've got a couple good opportunities
+we're working on right one is with that
+uh simulators group I mentioned there's
+there's some interest in taking some of
+what we've done which is really move a
+training simulation to the cloud uh
+moving it up to the classified side so
+we're in the works with uh with a group
+to get a contract stood up to do you
+know to really take this to scale so it
+can go out into the field and can go to
+the high side so we're really excited
+about that we have a number of folks on
+our staff that do have clearances former
+military you know I don't have that
+background I don't have a clearance as
+of today so we're learning a lot as we
+go through that process um but candally
+you know there's a lot there but it's
+also exciting right like that's kind of
+an exciting position to be in yeah the
+other thing that we're really focused on
+is you know when we started track 10 we
+thought this was going to be a 10 maybe
+15 20 year movements of the cloud we
+think it's going to be a 50-year
+movement at this point right like if it
+really started almost 12 12 13 years ago
+like Cloud you know we think it's got
+decades to go right I mean we're seeing
+major large Enterprises household names
+that are just within the last 12 months
+making big commitments to move to the
+crow I talked to the the third largest
+customer at AWS this was several years
+ago in a pre-co and event in New York
+they were they were one of the top five
+biggest customers that Amazon had and
+they were they were always you know laid
+out as this Spotlight customer that's
+doing everything right and Cloud native
+and whatnot right and I talked to their
+head of containers and devops and he
+said I think at best we're three years
+into a seven-year journey to get fully
+automated and I thought to myself like
+that's like I don't even have a good
+analogy for it was it blew my mind to
+think about how far away how far ahead
+they are and how much they still had to
+go to get to where they felt like was a
+real you know to harness the full
+capabilities and that tells me that you
+know there is just such a long tale if
+you look at you know obviously the The
+Joint War fighting Cloud now is a
+successor to um you know some of these
+other contracts that have been under
+major protest but Across The Individual
+Services you know Air Force is moving to
+Cloud one Army has the uh ecma you know
+Cloud modernization you know contract
+that's coming there's just there's been
+some movement but I think we're talking
+about single digit percentages of
+applications that have moved to the
+cloud across the dod so far yeah so we
+really feel like calendar year 23 and 24
+are the years where a lot of big moves
+are going to start happening and we feel
+like as a company because we've been
+working with these some of these clouds
+I mentioned before because we've built a
+lot of tools and processes to help
+government customers but to also help
+like cber type small businesses that
+need to deliver to the to the government
+and need to do it in the cloud we've
+built those chops and we think uh the
+next two years we're really bullish on
+the opportunity set so you know when
+we've kind of constructed this
+government practice it was kind of like
+a dog chasing squirrels right oh there's
+an opportunity oh oh no there's an
+opportunity someone's you like I said
+who's the best customer it's someone
+that willing to engage with you right
+what we've realized is that got us to
+where we are today but the way we're
+going to get to our next phase of growth
+with Focus so we're really really
+focusing on those two areas and pouring
+a lot of resources into you know
+developing those as much as we can
+because like I said in the very
+beginning about the sausage example
+Whole World's moving to the cloud you
+know they're going to need expertise and
+guidance and getting there and that's
+kind of the role we we are seeing
+ourselves play over the next several
+years yeah know I mean you've got youve
+got a ton of work ahead of you I know
+and you know in the government is
+usually lagging behind industry anyway
+right so so when you think about I mean
+we were just talking a little bit about
+the high side and security clearances
+and everything um you know there was
+hesitancy for the government to go you
+know even when I was in I was in until
+2019 and so you know talking about the
+cloud I think we knew that we needed to
+get there but if you look at the uh the
+mountain of cyber security requirements
+that uh the government imposes on just
+our you know on premise networks right
+to make sure that to just connect to
+that to put a software suite on it to to
+do whatever um now looking at the Cloud
+right and how do we ensure that the
+requirements are on there and everything
+you we don't need to have that
+conversation now but it's taken a long
+way for the government to start you know
+putting things into the cloud right and
+um and they are the Department of
+Defense is and you know there's a lot of
+different efforts where they're using
+the cloud there's government cloud
+services and there's Cloud one and
+there's a bunch of things uh going on
+that you know the different services are
+working on so um yeah no I feel like
+we're just getting started uh seeing
+what's going to happen there with the
+cloud um you know we're coming towards
+the end of our time here maybe we could
+um maybe we could kind of close this out
+by giving us your thoughts on you know
+pluses and minuses uh for you for your
+business working with the government
+selling to the government an advice that
+you'd give on a business that maybe is
+just started the process or struggling a
+little bit um you know what would you
+tell them about um you know hey focusing
+on government sales balancing that with
+commercial work um what would what would
+you say yeah so um as far as working
+with the government personally I've
+really enjoyed it um actually it was our
+CEO that kind of pushed me in this
+direction to say hey I think you know we
+have some critical mean Mass here I
+think you should be the one to take it
+and scale it and I think it suits my
+personality really well I'd rather work
+with a couple customers and get really
+in depth with them than work with you
+know a couple dozen or scores of them
+kind of on the other side you know I
+like the fact that our teams are
+organized around these like larger
+longer projects because they really can
+work as a unit and I think we can
+develop a lot of of really good results
+for the customers doing it that way so I
+I personally really like it um it
+definitely comes with headaches that are
+different but there's also a lot of
+positives right like are we in a
+recession right now maybe maybe not you
+know we've seen our big commercial
+customers actually lean in more but
+we've seen some of the smaller ones
+especially you know those exposed to
+some of the high flying spaces pull back
+a little bit you know the government's
+going all in right they're jumping in
+with both feet whether there's a
+recession in 23 or not they're still
+moving a whole bunch of stuff to the
+cloud right so the counter cyclicality
+of it is I think good just from like a
+business uh business leadership
+perspective but the advice I would give
+uh folks today is that it is a little
+bit of a different landscape right so a
+the bar to get in is much lower than it
+was prea works and not only that aworks
+was the leader um there was a recent
+announce ment that I think across the
+dod all of the services need to have an
+open topic you know at least once a year
+right so open topic was what I described
+earlier where if you have a attack that
+people tell us about it kind of thing
+they're all going to take their own
+little different spin on it right I
+think the Navy probably is going to
+bring in less companies but have put a
+lot more effort in making sure that the
+ones that do get in are you know do have
+a clear path to those phase 2os um but
+it's a great Channel innovation
+government are are words that usually
+you know don't go in the same sentence
+and it really does feel like that has
+changed in the last couple years so if
+someone's getting into it if they're
+considering it I'd say try it if you're
+in the process I'd say you know get
+excited about that first mou signer but
+you know qualify them and I would say
+there are a lot of companies out there
+that have gone through this there's
+probably three to four thousand at this
+point that have won at least a phase one
+through aworks and every cohort there's
+why I know in the early cohorts we would
+always start black rooms and invite
+people and collaborate so many people
+are in the position of hey we do
+something different we're trying to
+figure this out to better it's a great
+wide government right it's like we sell
+we say to we say we sell to the Air
+Force right that's like saying we sell
+to I don't know Massachusetts or
+something you know I mean it's so big
+it's not like because I'm because I'm
+getting something it's not hurting you
+and vice versa right it's like we can
+all win together and I think that you
+know the state of a lot of uh a lot of
+companies that have worked with the
+government for a long time I mean let's
+be candid they they aren't always on The
+Cutting Edge of technology so if you
+really do something that your customers
+value that you think can make a
+difference I think it's worth really
+leaning in to to explore that to its
+fullest extent yep no well said how can
+people contact you what if they want to
+uh you know work with TK 10 or or reach
+you personally what what would you uh
+what would you give them for contact
+information yeah I'd say head to the
+website trend.com uh we've got a great
+blog for those more technically minded
+it's it's one of the top 10 AWS blogs in
+the ecosystem that gets really into
+details uh but you can have contact info
+there info@ Tre 10.com and some phone
+numbers if you do want to reach out you
+know reference this podcast and it'll
+get routed to me directly um or if
+anyone wants to connect on on LinkedIn
+uh you can find me there Jim abber
+cromby on LinkedIn uh pretty easy to get
+a hold of and again get lots of random
+reach outs so if someone wants the
+message reference the podcast and and
+I'll put that one at the top of the
+response list arer that well hey thanks
+Jim Jim abomi founder president of tre
+10 thank you for coming on the podcast
+this has been great all right thank you
+sir I've enjoyed it all right and thanks
+everyone for listening head over to DOD
+contract.com if you're looking for any
+help selling to the government we have
+some free training there and a couple
+programs about to come out and other
+than that we will see you next time
+[Music]

@@ -1,0 +1,1346 @@
+Kind: captions
+Language: en
+[Music]
+all right thanks everyone for listening
+to the government sales momentum podcast
+today i've got a longtime friend david
+rothside
+on the show today dave's a vice
+president of shield capital and how i
+know him from is the air force you know
+dave and i worked together at hanscom we
+were both program managers together
+there and he's done a lot of really cool
+jobs from a ghost program which he'll
+talk about maybe if you're lucky he'll
+do talk about his pm experience and then
+he went on to diu which is really
+interesting organization and ultimately
+the abms pem advanced battle management
+system which was near near and dear to
+my heart and uh i'm sure david's to some
+degree so
+dave how you doing
+doing well you know life keeps bringing
+us back together i feel like you sort of
+undersold the way we work together i'm
+pretty sure i worked for you right you
+were signing my my performance reports
+and keeping well you know
+well you know we're we're all on the
+other side of that now right so uh now
+we can let our beards grow a little bit
+longer and uh and chill out but uh you
+know one thing i did leave out was that
+you were the lead singer for our band
+the merkel hash trees at him
+which uh which may be uh the legacy that
+lives on
+i don't think so
+i mean i think you should tell the uh
+our podcast listeners what a merkel hash
+tree is you know if i had to describe
+the the merkle hashtree algorithm or
+whatever the hell it is again it would
+probably uh probably put a lot of people
+to sleep but um maybe that's a story for
+when we do our next podcast how we came
+up with the the merkel hash trees as a
+name but
+um i believe that was related to an
+insider threat program we were working
+on so
+um we'll just say it was classified
+stick to acquisition here there we go
+that's classified i can't get into that
+i can't give you that today so how's
+everything going
+life is good uh you know so i separated
+officially in september of 2021
+uh but also was able to do a program
+called skill which i highly recommend to
+any transitioning military personnel
+allows you to do an internship with a
+company that you know you think you'd
+like to work at and so i was fortunate
+enough with shield capital and i'll talk
+a little bit about how i found myself in
+this this role which i find to be pretty
+unique but also maybe of wide interest
+to any military people that are
+listening or people that are familiar
+with the government acquisition space uh
+if they're trying to get into venture
+capital like how that all sort of came
+together
+um
+but yeah i mean life is good being a
+venture capitalist and kind of learning
+a new set of skills getting to interact
+with amazing entrepreneurs who are
+trying to build disruptive technology
+and make an impact not just on national
+security but in the broader world market
+right for whatever it is that they're
+doing and i can't complain you know it's
+really nice
+oh that's awesome i feel like you're you
+basically have took what
+maybe some of the stuff we were working
+on at hanscom in the air force together
+and kind of taking that to the next
+level on the uh on the non-government
+side uh with some of the companies i
+know that you know we were always trying
+to hire those uh companies that had
+innovative solutions and advanced
+technologies a lot of whom you know
+weren't used to working with the
+government or maybe didn't know how and
+we could we can hit a little bit of that
+today too i'm sure the audience would be
+interested in that but let's let's start
+with you man where are you from and kind
+of maybe walk us through how you
+landed in the air force as a pm and some
+of the jobs you had in there oh man what
+a
+i guess it's not so dissimilar from a
+lot of people but i grew up in ohio
+cincinnati so i'm a huge cincinnati
+bengals fan so finally had my first good
+year in life ever very rewarding
+um i went to miami university sort of
+stumbled into the rotc program i could
+not have told you the difference between
+an officer
+an enlisted person when i was
+until i joined rotc my sophomore year
+went to field training uh
+was really bad at it the first half did
+okay in the second half my field
+training officer she was like
+you know david i'm not going to lie
+pretty worried about you there uh but it
+turned out she was a contracting officer
+and when you're at field training you
+get to sort of see and hear from a lot
+of the different jobs that people are
+doing and at that point i thought i'm
+gonna be a fighter pilot right i have
+great vision i'm in pretty good shape
+right that's what you do
+and then you kind of learn about the
+rest of what the
+air force does and
+i really i was an economics major so i
+really gravitated towards that business
+side and was able to be a direct
+assession as an acquisition officer with
+my first duty assignment to peterson air
+force base
+and i kind of said i'm going to keep
+doing this job while it's fun
+and that's what exactly what i did so 13
+years of a lot of fun a lot of good
+memories got to live in a lot of cool
+bases locations met incredible leaders
+worked with incredible people
+and
+finished up at the pentagon but you know
+that first duty assignment at peterson
+air force base working on a very sleepy
+ground satellite control system called
+the air force satellite control network
+my first job was
+trying to remove and replace some
+windows 95 software and implement
+windows xp and that was in 2008 2009 uh
+as well as upgrading a few cisco routers
+that i think had also gone obsolete so
+it was an interesting
+place to sort of learn about the the
+variability of acquisition
+uh but after peterson i was dead set on
+getting to a city uh because i just love
+cities right and hanscom air force base
+being close to boston
+uh finagled my way into a green door
+assignment and that's how i got into
+special programs division and of course
+that's where that's where we met what's
+great greatest city on earth i know uh
+everyone you you may not agree with that
+but uh you know i was always trying to
+get back to boston it's interesting
+about the acquisitions path because i
+was kind of the same as you you know
+coming in like hey i'm gonna i did fly
+for the first part of my career but i
+remember going through officer training
+school you know as a 13-week wonder and
+and asking like hey you know because
+thinking about hey you know beyond
+flying and you know
+what is there and what you know what
+could be an interesting job you know not
+just in the air force but afterwards you
+know it's a skill set because you always
+hear about you know transitioning
+military that have a hard time finding a
+career afterwards but um one thing
+everyone told me was well hey if you
+want to be employed
+and actually have a lot of opportunity
+to provide value
+becoming an acquisitions officer is
+really you know an interesting pathway
+and it's something that i kind of kept
+in the back of my mind until i later
+joined the ranks but so fast forwarding
+to yeah we both ended up at handstand
+around the same time
+um what year did you get there
+i got there in 2012 so there there was a
+little bit of a
+internal crisis right as they were
+moving away from electronic system
+center and embracing air force life
+cycle management center so to me
+it all seemed fairly obvious like
+okay we don't have these centers anymore
+but we still have our programs that we
+have to execute on but hanscom air force
+base was going through a little bit of a
+crisis establishing the two peos there
+c3 in n which we both worked in right
+and then at the time peo battle
+management now known as peo digital and
+then they were standing up a third one
+on the nuclear side but it was it was an
+interesting time to get the hand scum uh
+it was
+i went from
+post milestone c acquisition so dealing
+with programs that are in sustainment
+dealing with a lot of obsolescence
+issues like how can we keep the
+operational mission going and then when
+it came to hanscom in a lot of cases we
+were sort of pre-milestone a so that
+early rnd
+trying to help shape what are the future
+requirements going to look like um what
+is this program going to to turn into
+when it grows up right once it gets its
+established budget which i'm sure we're
+going to hit on a little bit with the
+advanced battle management system abms
+um
+so that was kind of a culture shock for
+me and then of course i went from very
+much out in the open everybody knows
+about like the technology capabilities
+of the afscm to
+green door assignment where i'm getting
+read into these classified programs and
+you know some of them were interesting
+some of them i would go on to learn are
+not even relevant from a technology
+standpoint especially after spending a
+couple years in silicon valley and
+seeing the art of the possible the true
+art of the possible so
+you know it was weird uh kind of
+dealing with this this different frame
+of reference uh throughout my
+acquisition but you know something you
+touched on
+it's kind of a it's a little secret
+right about how fun and different
+acquisition could be and when i say
+acquisition i'm also lumping in
+not just program management but also
+like logistics contracting financial
+management you know science
+engineers uh engineering so it's this
+big broad and when i try to tell people
+like what is it it's like hey you're
+kind of like a businessman right and of
+course every organization is a little
+bit different in the way that they're
+trying to
+uh
+sell product by product right operate
+product uh and that's really the
+lifeline and the lifeblood of what
+acquisition does and so being a program
+manager you sort of have to learn all
+these different tricks of the trade and
+of course something that makes the dod
+fairly unique relative to a lot of
+industries although i'm sure in the
+healthcare center they'd like to argue
+with you about which one's more
+burdensome is there's just a ton of
+rules and regulations and policies and
+instructions and guides about how you
+should do things
+and then of course
+moving around to different organizations
+each one has their own little culture or
+the thing that they're more familiar
+with and so even if you're an
+acquisition officer at peterson air
+force base you might have a totally
+different lexicon for the way you
+explain
+doing the actual work when i went to
+hanscom and so
+it's a never-ending learning cycle i
+wouldn't say it's the most efficient
+thing ever uh but at the same time it
+keeps you on your toes yeah definitely
+there is a lot that goes into you know
+putting a company on contract and you
+know as i
+espouse on the podcast and with a lot of
+our clients is you know
+having focus with your company trying to
+sell to the government knowing who
+you're selling to
+is so important because you know what
+what you just touched on was everyone
+buys a little bit differently right so
+if i know that i'm selling to you know a
+unit at hanscom air force base you know
+and i know that their that unit might
+use gsa you know to put a company on
+contract for instance versus maybe at
+peterson they're using you know blank
+purchase agreements simplified
+acquisitions just a lot of faster
+lower dollar purchases maybe to get to
+the same thing and you just need to know
+who you're who you're selling to and
+understand their mission and understand
+their contracting uh means and uh
+i think it's interesting too something
+about hanscom when me and you were there
+there was a couple years where we were
+in the same unit we were trying to do
+things a little bit faster than the rest
+of the air force and
+not only within the unit but you
+actually got out uh you had a chance to
+go to the ghost program as well and i
+don't know how much you can actually
+talk about that but you know at least i
+could say it's an opportunity for an
+acquisitions officer to learn how to you
+know maybe do acquisitions with special
+forces and run a little bit faster and
+it seems like that you took that and
+kind of ran with it throughout the next
+few years of your career um you want to
+talk about that at all or i'd love to i
+mean the ghost program
+it it definitely like re-blued me and
+that term means like you know maybe
+you're getting a little bit downtrodden
+with your day-to-day work and then you
+go and you do something that's a little
+bit more exciting and different and it
+just re-energizes you and wants to makes
+you kind of want to stay in the military
+but also like
+bring change with you right to wherever
+you're you're at and so the ghost
+program i think does a phenomenal job of
+empowering
+young acquisition officers with a slate
+of missions that
+there is no there isn't like a right
+answer per se uh but somebody is
+depending on you to get something done
+asap and i got there in december of 2013
+and within a week was handed a
+requirement and a budget line
+around a
+urgent operational need
+in africa and needed to put a contract
+together
+asap so we could go track a bad guy
+and that's about the extent of what i
+can tell you
+but in that time frame you know i built
+out
+the justification approval for why it
+could only be this one vendor that could
+perform the duties of
+putting together the determination and
+findings putting together the statement
+of work putting the dd254 right the
+security documents the contract
+deliverables the contract line item
+like yes i had a contracting officer
+that i was sort of working with and yes
+i had a requirements person that i was
+trying to address their needs but as the
+ghost i mean this was christmas this is
+getting close to christmas break right
+they've just been on the thing and you
+know like thanksgiving to christmas at a
+headquarters position even if it's so
+calm people are sort of going into
+vacation mode
+but by
+like
+you know working over christmas like we
+got that contract on and we were able to
+fly missions in africa to do this thing
+that was
+critically important and it persisted
+for a couple years
+um
+and that was like a huge learning
+opportunity to basically take this
+requirement run it end to end and then
+see it in operation calling downrange to
+make sure that the contractor had the
+right type of facilities to be able to
+do what they needed to from an
+infrastructure standpoint and that was
+just the tip of the iceberg of what we
+were doing down at my ghost program and
+then you got to go down range
+i have one story where we were moving a
+scan eagle site from one base sebastian
+to kandahar
+and having to negotiate with
+uh the international
+service armed people right isaf and get
+the right type of frequency so we could
+operate from the base and then we were
+working with the the army the g4 right
+uh to help stand up this new
+location with connex containers they
+went home we had a forklift and we
+needed to be operational the next day
+and so
+fortunately i had gotten a forklift
+license back at peterson's augmentee
+duty and i was like well they left we
+got to get this done they're contractors
+they can't drive it
+there's just like a can-do attitude when
+you're dealing with the socom
+and so coming back to hanscom
+then
+colonel kligman at the time was like hey
+david there's this combat cloud
+initiative and i want you to own it and
+make sure that the air force has a seat
+at the table and don't let the army and
+navy dominate this thing and so the
+birth of the tactical cloud reference
+implementation tcri
+was born and i think without that socom
+experience i'm not sure
+you know how well that could have gone
+for us yeah you know i think a lot of
+people listening would be or probably
+are amazed because you're talking about
+your contracting effort it's so calm how
+long did it take you to actually put
+that company on contract
+less than 30 days and that's extremely
+fast extremely fast and was a sole
+source contract it was sole source so we
+had to justify right so i had to put
+together the body of work as to why this
+company was the only one that could
+possibly do it
+and you know socom everyone says they
+move fast they've got special
+authorities that's not true
+they don't have special stories what i
+would say is they do a much better job
+of linking their acquisition community
+their contract community their
+requirements community and their
+operational community and i think that's
+um thematically something that's super
+important for
+any small businesses that's listening to
+this right now
+right and if we want to dovetail a
+little bit into like how most small
+businesses get their foot in the door
+they're leveraging the sbir program
+right right
+having an sbir especially a phase two
+with a company
+that's great you know someone's there to
+provide you some sort of feedback around
+the utility of the thing that they're
+doing but as a small business owner as
+an entrepreneur
+depending on that end user or that
+program office to help you
+scale the
+fierce the feared value of death
+you can't depend on your government
+sponsor to do that for you you've got to
+bring together
+the person from the right the air force
+the referee the requisite major command
+right so in a lot of cases that could be
+air combat command or air mobility
+command or um global strike command or
+special operation air force special
+operations command and here we're
+talking about we're talking about
+someone with a requirement right in the
+probable environments yeah you might
+want to even
+be thinking about who's the combatant
+commander that's going to ultimately be
+using this thing how can they advocate
+that they're getting utility so ensuring
+that you're positioning yourself to
+participate in an exercise whether
+that's tried spectre or pacific rim or
+uh red flag right like how can you get
+your stuff in front of an operational
+community that's also going to vouch for
+it while you're building out the
+requirement and then if you're not
+dealing with a program office right
+maybe you're dealing with
+a research lab
+how can you make that connective handoff
+to the right peo so that the
+responsible stakeholder who's going to
+help you implement this into an existing
+program of record which i know everyone
+talks about i need to get i need to
+become my own program of record
+i would caution you and we'll talk about
+my time at the pentagon about what it
+means to stand up a new program of
+record because let me tell you
+you might be waiting a while but there
+are existing programs right that are
+probably doing something similar to you
+and how can you weave what you're doing
+into their current acquisition program
+baseline
+and make that program manager who's
+trying to be responsive to their
+requirement holder a hero because
+they're delivering something even better
+more joyful than the requirement called
+for in the first place
+so there's a lot of thing yeah
+i didn't want to cut you off i was going
+to say this is an interesting angle that
+i didn't intend to get into with you but
+i would say that i don't want to say
+it's the most common challenge but for
+companies that have gone and won their
+civer that have found the user the the
+end user like says that here's their
+software or tool and this is awesome and
+a lot of times they're able to sell it
+small scale you know to units that
+usually turns into a sipper or two right
+but scaling it from there what do you
+have to do and that's you know kind of
+what you're touching on there right you
+win it and then certainly there are some
+contracting um well the contracting is
+separate right right and we will
+definitely touch on
+the various channels of contracting and
+how what does that mean depending on
+where you are from the maturation
+standpoint i have a lot of opinions and
+thoughts um
+but i would just say the
+the way that you build advocacy for what
+you're doing
+you have to recognize that there is
+there is a status quo
+and to do something totally
+revolutionary is difficult
+what i would advise companies is how can
+you be evolutionary how can you build on
+the programs that exist today right and
+just make them a little bit better
+because your solution solves a pain
+point and you and everybody who needs to
+be an advocate is aware of it and you're
+sort of being that central focal point
+bringing them all together so when we
+talk about bringing them together it's
+it's the program office of course it's
+the requirements owner right the match
+comps it's the users maybe they're at an
+operational unit or maybe they're
+actually at the combat command
+themselves and then at a certain point
+you'll want to get the pentagon involved
+too right that stakeholder because
+that's the person who's going to ensure
+that that existing program continues to
+carry forward their budget and can even
+potentially put a small line item in the
+in the in the justification books the j
+books right so that's the ardox pdocks
+so that your
+niche thing can get established
+nestled inside of an existing program
+sure no that's uh that's great advice
+and you're right i mean there's plenty
+of programs that exist you know training
+comes to mind right where you might have
+a training program in a certain field in
+the military
+and you have maybe you even do have a
+revolutionary technology but it's
+centered around training you might not
+need your own program of record you
+could fit squarely into this training uh
+training bucket and then like you said
+eventually um talking with the pentagon
+we talked more
+around hey program office requirements
+and then user but you're right there is
+a time when talking with the pentagon
+is what you need to do we have someone
+else on um uh who is a oh six there that
+did a lot of the congressional work and
+you know he he discussed you know
+um and you guys can check out i'll put
+in the show notes where you can find
+that podcast but you know when is the
+right time to
+be a lobbyist and when is the right time
+to you know be talking to the pentagon
+so but there are different stages to
+this and it's just kind of knowing where
+you're at and you know what's
+appropriate for the time
+yeah and i think it depends on what you
+want for your business so if you're
+looking to become
+if you want to become like the next
+anderl right field ai
+then at a certain point you're going to
+need to engage in some sort of lobbying
+effort right and establish your own
+programs of record because they're
+trying to go up against the your
+traditional defense primes
+who own a lot of the
+programs of record and the the channels
+and access points but
+if you're trying to be a small business
+medium-sized business
+you know maybe you're not going to be
+venture-backed and we can talk a little
+bit about how i think about the
+the defense industry base and venture
+capital writ large
+but
+i would advise those companies to look
+at from a contracting standpoint look at
+gsa schedule right because that can be
+an easy button that you can continue to
+refer your dod customer to buy
+capability but of course not every dod
+entity is familiar with gsa schedule or
+maybe they don't have the right waivers
+in place and so the timelines can drag
+on super long
+another opportunity is to partner with
+the primes um right and then and access
+the programs of record that way and i
+know a lot of people can be very
+skittish about
+working with the primes they're going to
+take my intellectual property or they're
+going to cut me on the margins right i
+mean i would say you need to develop the
+right relationships with the right
+primes because that's what it comes down
+to it like contracts are very impersonal
+but if you can get the right types of
+advocates at the prime they will take
+care of you and do right by you and i've
+seen that time and time again it's when
+you don't take the time to build those
+relationships and ensure and it just
+becomes a transaction
+then it starts to get a little bit
+you know unwieldy and maybe not as
+friendly to the entrepreneur or the
+small business medium-sized business
+owner themselves sure
+yeah no that makes a lot of sense
+interesting so relationships is
+something we talk a bit about what's
+your opinion on the importance of
+relationships not with maybe primes but
+let's take small business and the
+program office
+in your opinion
+where does the relationship fall and the
+level of importance there
+so i mean if you're dealing with a
+research lab i would say their
+familiarity and understanding of the
+small business and wanting to tinker
+with the technology and make it great is
+probably very high
+but
+is the research lab person that you're
+working with understanding what sort of
+like business goals you have and are
+they going to help you scale and grow
+your company to whatever your dream and
+vision is
+probably not and then on the program
+office side you know i hate to say it
+but at least when i was
+a lieutenant a captain
+one we didn't touch sbir
+sure you know that was kind of a oddball
+side job it basically just looked like a
+three and a half percent tax to our rdt
+and e budget line and we didn't expect
+much good to come from it
+i have to admit what afworks has done in
+the last five
+years now in revamping it to try to
+build out the defense industry base and
+try to bring successes to the forefront
+i think the program has changed
+dramatically
+i don't think we'll know about its
+successes for several years because it
+takes time for these things to sort of
+work through the systems uh another
+civer program that i was pretty
+impressed with and just got a recent
+briefing from down at austin is the army
+application lab and their spartan
+program
+where they bring a very nice white glove
+approach to
+bringing in the user
+bringing in the program office so that
+when you hit success you've already got
+advocates trying to plan for that
+transition pathway
+but that's that's uh that's very
+difficult to set up it's very difficult
+to scale it and so i find that
+there's a lot of super phase twos
+happening
+but if you're lucky enough to win one of
+those and you've you know you cannot
+just solely rely on your the program
+manager on the other side to do all of
+your heavy lifting to ensure that you
+transition
+no and i mean
+what you talk about it's interesting
+because a lot of the you know you
+mentioned being a program manager is
+almost like being a jack of all trades
+and you know what we talk about with a
+lot of our clients and you know just
+people that give us a call for a consult
+or
+you know interviewing people on a
+podcast is
+you know the easier you can make it for
+your contracting team the better right
+so if you can come in and link together
+hey
+you're already talking with the
+requirements people and maybe you have
+an idea of where there's some funding
+that can go on contract and you know
+make it easier for them to put you on
+contract so if you have those uh
+relationships in place those teaming
+agreements with companies that have
+maybe contract vehicles whether it's gsa
+or something else that allows us to to
+get to you i say us like i'm still in
+the government but it allows the
+government to get to you a little bit
+easier
+because there were certainly times where
+indoor companies i wanted to hire that i
+just i had no idea like how to get to
+them because there was nothing you know
+you had to be really creative to get
+them there so um there's certainly some
+work there that they can do
+and just um because i want to get to
+shield capital but there's two more
+pieces to your air force career i wanted
+to jump on um you know i'm extremely
+familiar with abms because it's
+something i worked on a lot but i know
+in the in the beginnings in the birthing
+of abms i guess you could say you are um
+you are in the unit when uh for instance
+the capabilities based assessment was
+written for abms and we got to see that
+program which is you know suppose and
+you you ended up becoming the pim of
+this uh this could be an extremely large
+program uh we'll see you know where it
+goes but you know this started as the um
+you know replacement for aywax and you
+know then you know we have j stars and
+then you know recently in the news uh of
+course that turned into an aoa later on
+and then it became a program of record
+and you became the pem for that uh
+recently we saw that you know we've got
+the uh it looked like the wedgetail uh
+is going to be uh providing some uh
+you know some support to uh a wax that
+are being retired so
+why don't you give us you know kind of
+an overview of you know your experience
+as first of all tell everybody what a
+pem is because everyone doesn't know
+what a pem is you became the abms pam
+and then a little bit about you know
+your time there and where you think abs
+is going
+okay well so we did skip over diu so all
+day like when you did the when you were
+doing the condition capabilities based
+assessment for
+what was supposed to be the original
+abms that was 2016. i went to diu and
+then got to the pentagon in 2019
+just as abms had sort of evolved to
+become not a platform not a sensor
+replacement
+but what dr roper at the time coined the
+internet of things and then what
+followed was all the product lines the
+famous and infamous ones i think at this
+point right
+and it was this idea around should we be
+constrained
+to just a platform or is it really how
+do we move
+data around the battlefield so that the
+decision makers have access to the right
+information at the right time at the
+right level
+yeah so we had uh
+an unexpected power interruption
+which caused my entire office to go out
+but uh i'm sure through some creative
+editing we will uh we'll get back on
+track here so
+just for everybody if i were trying to
+resync you
+in here um just walked through
+almost
+all of david's air force career very
+obviously briefly we hit on not we
+touch points um and start talking about
+abms and you know that program and what
+it entails and we're going to touch on
+diu
+i skipped over that um he touched on a
+little bit but let's continue uh where
+you left off with uh advanced cloud
+management system yeah so thanks um you
+know so i was hitting on data becoming
+like the new oil and we see it happening
+in our everyday lives right so anything
+around social media somehow that is
+being monetized and then pushed back at
+us for selling products
+on the government side like how can we
+leverage all of this incredible data
+that we're getting off of our exquisite
+sensors off commercial sensors and paint
+a picture of the of the battle space so
+that commanders have
+the best awareness to so they can deploy
+the right asset at the right time based
+on whatever our rules of engagement is
+and so by the time i got to the pentagon
+abms had started to morph into that but
+what was difficult is
+decoupling what it had been which was a
+replacement platform for the aging a wax
+and then the aging j stars and that
+brought in a lot of political issues
+right because nobody wants to retire
+jets because there's a lot of jobs
+associated with that there's a lot of
+heritage and history
+and and so we're trying to like
+talk through the narrative of like how
+you know why we need programs to be
+architected differently to enable the
+data to move across the battlefield and
+it shouldn't matter whether it's going
+off of military satcom or line of sight
+across military sensors or leveraging
+commercial satellites right in the case
+of like something like starlink
+and so it was an exciting time to be in
+the pentagon it was very difficult to
+explain this sort of
+revolutionary concept because you know
+traditionally your weapon systems again
+are very much a stove pipe and they're
+wholly contained and you've got
+you know the technology is going to
+probably be awarded some sort of an
+integrator and they're going to do it
+all for you and we are taking just a
+very different approach
+now by the time that i left the pentagon
+we had successfully transitioned the
+program to the rapid capability office
+and they've they've definitely taken
+some of the tenants of what was started
+but they've also
+i think from what i can tell refined it
+a little bit more to
+how can we build out certain
+capabilities extremely well to do
+specific functions
+but i think what the lasting legacy of
+that iteration of abms will be
+is to call out a lot of our
+c2 weapon systems that were once upon a
+time built in a vacuum and no longer
+allow that to happen so that the systems
+are not dramatically different because
+what they're trying to do is command and
+control and what they need to be able to
+do is communicate with one another right
+regardless of where you are
+so i think that'll be a very good
+lasting legacy and what we've seen then
+at the osd level is this embrace of jad
+c2 right joint all domain command and
+control and so how can the services
+better partner together
+now specific to abms and the cda that
+you wrote and then the aoa that it
+entailed i think it has led the air
+force to say you know we still need an
+asset in the sky being able to do
+certain components of command and
+control we still need those types of
+sensor capabilities because of the
+military advantage that it provides and
+of course this is something you could
+probably speak to way better than i
+could but it does seem like the
+wedgetail is uh is the direction that
+the air force is going
+yeah we'll see you know it hasn't
+happened yet you know i think one theme
+i mean you you've basically touched on
+it which is
+that i think abms and eventually jc2 and
+even other things that we were working
+on
+um in some different areas because we
+had the opportunity to work in a lot of
+different uh places uh you know back in
+hanscom and beyond is that idea of hey
+how do we actually communicate correctly
+right how do we get the right data to
+the right person so they can make a
+decision and it's not just command and
+control and abms it's it's everything
+when you think of it business
+intelligence right like this is
+something that companies
+are struggling with and i think you've
+seen this
+you know with with the amount of money
+that's willing to invest in startups
+right that are that are digitally native
+right so built on the backbone of the
+internet
+they're not beholden to some of the
+legacy systems
+of how they were doing decision making
+in the past and they're just able to
+operate at a much faster rate that's why
+you're seeing just so much disruption in
+the marketplace with these new
+you know internet-born type companies
+and that was really something that i
+took away from my time out in silicon
+valley with defense innovation unit
+when i got there it was still diux right
+it was at the change of the guard when
+we went from the 1.0 to the 2.0 and
+managing partner at the time was was
+then raj shah and that's who i now work
+for at shield capital so kind of that's
+sort of my linkedin connection field
+uh but build you know my my role at
+biux was helping to build the business
+model right that we now know as the
+commercial solutions opening and
+leveraging the underutilized acquisition
+authority otas right other transaction
+authorities
+and it was just an awesome time right
+and
+this
+nobody was talking about how can we
+leverage commercial technology to solve
+military pain points maybe in small
+circles inside of special operations
+command this was this was going on
+because they've always just sort of been
+a little bit ahead of the curve
+but by and large from the big services
+it was
+we've got these requirements
+we have assumed that we are the creator
+of the next generation of advanced
+technology and we're going to pay
+somebody to build it to our
+specification
+but on the flip side of that same world
+in our personal lives we're seeing the
+evolution of technology just get better
+and better and better and the ability to
+communicate and see things and and
+interact was just
+far surpassing right the technology that
+we were seeing on the military side and
+that's why defense innovation unit was
+stood up in the first place right as
+secretary then secretary of defense
+ashland carter
+just saw this
+screaming bullet train of commercial
+tech and being like uh oh
+if it's being developed on the
+commercial side that means our
+adversaries at the click of an amazon
+button can get this technology in their
+hands and use it against us and provide
+themselves an asymmetric advantage
+we need to become
+more reactive and flexible in embracing
+this technology so that our own
+warfighters can enjoy the benefit of it
+and
+you know following biux you've seen this
+encouraging sign of venture-backed
+startups building technology that you
+would see on the commercial side also be
+fairly interested in the department of
+defense and that's where the shield
+capital thing comes into play right so
+we're certainly not the first
+venture capital firm to be interested in
+this dual use technology space and by
+dual use i know it's it's probably a
+i've talked to some people they hate the
+term because you know a stapler is dual
+use i can use it in the military i can
+use in the civilian sector right but
+what we mean is
+more advanced technology that has some
+sort of a intended military capability
+that is
+fairly unique to the mission set but
+also the basic same tenants can be
+applied
+on the commercial sector
+and and
+for us when we invest in a company
+their dna has to be that of i'm trying
+to build technology that is disruptive
+or innovative or unique
+and i have the intent
+to sell and grow in both the national
+security marketplace
+and non-national security right whether
+that's in the financial systems whether
+that's health care whether that's in
+consumer tech right you name it and the
+technology by and large can be
+applicable to multiple industries sure
+and to some degree some are easier than
+others
+but that's what shield capital is
+looking at is how who can we invest in
+and help them build
+the national security marketplace as
+maybe a secondary or tertiary market
+because by and large you know venture
+capital we are judged by the returns
+that we get on the investments that we
+make right we've got that fiduciary
+responsibility to our limited partners
+right but we need to sell into large
+markets and
+while the dod right is 770
+billion dollar marketplace
+uh most of that is constru you know as
+in milpers
+and then another large majority of that
+is in healthcare and then another large
+majority of that is in
+uh programs and sustainment so when you
+look at what is the actual addressable
+market of the dod it's significantly
+smaller than i think a lot of people say
+and so for a venture capital firm you
+know by and large
+your company that you're investing in
+has to have some sort of an addressable
+market in the commercial because that's
+where
+the real what we call the tam total
+addressable marketplace uh resides
+when do you think a you know a company
+that's listening to this because there
+are a lot of
+companies that either have developed a
+technology that they would consider
+disruptive or maybe they're in the
+process of it
+when would a company like that be ready
+for this type of investment
+well so there's different investors at
+different stages right so you've got
+your angel investors and they're just
+willing to take a flyer on a slide deck
+right maybe just the idea and concept
+and so they're like hey you know i like
+the cut of your jib here's a fifty
+thousand dollar check to get started um
+you've got seed investors so maybe
+you've got a
+couple people on the team and you're
+building your first prototype maybe
+you've even got a minimum viable product
+on vp that you can show them that gets
+them excited uh for shield capital we're
+still considered we're still an early
+stage investor but we're looking at that
+late seed series a so you've probably
+got some customer traction already
+maybe you don't have a ton of recurring
+revenue um but you certainly if we're
+talking about like dod parlance like
+you've definitely at least got a phase
+two sbir
+or maybe you're
+maybe you've got a diu ota or you're in
+a consortium a different consortium or
+you're partnering with a prime and
+selling through them like you've got to
+have a customer reference call that i
+can make to validate that your
+technology is bringing joy to somebody
+right uh that we're not building the
+technology from scratch that this isn't
+some aspirational thing but what we're
+going to do is invest in you to help
+build out your team so you can hire the
+right business development people the
+right marketing people maybe augment
+your engineering team so that you can
+start to scale right and start to turn
+this bespoke product into something that
+hopefully becomes ubiquitous across a
+number of different use cases and
+and selling in and set and scaling
+inside defense is difficult
+and so
+we recognize that the sales cycles are
+longer they're more difficult
+but you know a couple things that shield
+brings to the table is one we've got an
+incredible board of people that are just
+highly connected so we can get meetings
+in the right places with the right
+people um
+obviously i've
+lived my life inside this acquisition
+system so while there is no silver
+bullet to growing and scaling
+as an entrepreneur there are a thousand
+dead ends that you can walk into and the
+goal is to minimize and limit the dead
+ends because time is the most precious
+resource for a startup so how can you
+most judiciously spend your time
+trying to work through the bureaucratic
+dod procurement system
+the other thing that shield capital
+brings to the table is we have a
+strategic partnership with l3 harris
+and it's been incredible right and when
+we make an investment in a company they
+take a very proactive response to
+okay what is it that this company does
+and how can it potentially augment
+the things that we're doing inside our
+business so that we can provide a better
+experience inside the programs that
+we're running on behalf of our dod
+clients and so that becomes a great
+sales channel partnership for an
+aspiring technology company
+so there's a lot of different ways to
+sort of slice the onion but shield
+capital where we sit
+um is in that late seed series a and our
+intention is to lead that that um that
+raise so we're gonna take a board seat
+uh which means we're going to be very
+involved with you as a founder so you
+gotta kind of have to want
+somebody with national security chops uh
+coming onto your board uh but at the
+same time our partners at shield capital
+have all led and run successful startups
+themselves so they've been in the
+trenches they can empathize with you
+they can help provide and bring that
+type of advice so you can continue to
+also grow in the commercial side as well
+and that's just something that's i think
+fairly unique about shield capital what
+we're bringing to the table
+yeah i know i think that's a very
+interesting formula um you know you
+certainly have a lot of companies out
+there that
+are looking for some type of investment
+but you know anyone looking to sell to
+the government this is you know what we
+go over a lot is typically a company is
+going to end up starting to hire people
+that have a background of a david
+rothside right or ricky howard or
+somebody that has maybe a network
+initially but usually it ends up being a
+little bit more than that you know
+former contracting officers program
+managers that could really
+you know
+help navigate i guess you could say the
+far and you know the different
+contractual options and get them in
+there so it sounds like with shield
+capital first of all you're there which
+is which is an amazing uh you know bonus
+but you kind of have that mixture of the
+funding and you know the david rothsides
+and the other um you know the people in
+the company that you mentioned that have
+those backgrounds
+and that can be um i mean that's a
+recipe for success and i mean l3 which
+is one of the big primes um you know
+almost always when you look at a
+successful bigger company
+they're subcontracting all over the
+place they'll be subs themselves they'll
+have people subcontracting to them and
+you know getting started having somebody
+that already has the contract vehicles
+the contracts the different programs you
+know with the government if you fit into
+that that's going to make it a lot
+easier to get you know get some of those
+initial uh contracts so or subcontract
+so no that is um that is really
+interesting
+so dave i've had you on the line here
+for an hour we've had a power outage and
+uh you know we've had some good back and
+forth is there anything that you would
+like to leave uh the audience with
+well i mean so to the entrepreneurs out
+there um i can't empathize with you
+because i haven't necessarily been on my
+myself although i've led and started a
+few different programs inside the dod so
+from that standpoint i can sympathize
+but
+you know
+the dod is a tough and challenging but
+also a rewarding customer
+and i just advise you to find
+partnerships with the types of firms
+that have the same values as you and can
+help you grow and prosper this should
+not necessarily be a journey that's on
+your own but it's certainly one that you
+have to lead if you want to be
+successful and so i wish you good luck
+uh if you're a transitioning military
+person you know please feel free to
+reach out to me i'd love to to help
+where i can and then if you're also
+trying to raise
+some funding for your own startup you
+know shield capital as long as you're
+dual use as long as you're that late
+seed series a
+and you're in either space
+artificial intelligence autonomy or
+cyber security uh i'm interested right
+but uh really you know it's just been a
+pleasure and an honor talking with you
+and catching up and you know maybe we
+need to you need to dust off the guitar
+and i'll i don't think i can really sing
+like that anymore but uh maybe we can
+have a jam session maybe maybe your
+voice is a little bit lower in scratch
+here we can do some uh we could do some
+z top or something um no that's that's
+great will said uh really appreciate
+having you on and and how can people uh
+find you if they want to reach out
+yeah so i mean linkedin is probably the
+best just i ask that you send me a note
+uh i can be a little bit discerning in
+who i actually connect with so
+um you know a little context
+goes goes a long way all right sounds
+good well we will put a link to your uh
+profile in the show notes thanks again
+for having me on man uh this has been a
+great uh talk i'm sure people are going
+to be very interested and hopefully uh
+first of many
+awesome well all the best to you and the
+family alright man take care
+[Music]

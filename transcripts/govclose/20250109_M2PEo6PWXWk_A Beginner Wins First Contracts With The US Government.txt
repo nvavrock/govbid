@@ -1,0 +1,787 @@
+Kind: captions
+Language: en
+I wanted higher pay clients I wanted
+clients that are higher value clients
+and that's what really triggered you to
+go to Government Contracting my name is
+Kenny I'm from Texas Houston and my
+company is facility management surise
+and people in and you just really got
+into this recently is that correct yes I
+would say I probably got into it in June
+this year and I did some research Serge
+I used a lot of your videos that's I
+would say that's something I've I've
+seen it on LinkedIn for a while and I
+was like you know let me properly look
+at this and I started go getting into it
+I bued for a few contracts and I started
+understanding the more I watched the
+more I learned I started understanding
+what I had to do to get results faster I
+also went this in trade conferences went
+around met people in the industry and I
+learned some more as I kept doing all
+this things dude that's awesome and I
+want to get into exactly what you did
+but want you tell me what what led you
+to Government Contracting I mean I know
+you you watch some of our videos but
+what was the initial thought for you as
+far as hey this might be a good customer
+or what was intriguing about Government
+Contracting so what I originally was
+doing at that time is I was doing POS
+management for companies so software
+bitsquare I had an agency right an
+agency so what we do we do software
+solutions for these agencies you out
+instead of up their like their phone
+system set up their accounting system
+whatever software they're required to
+help them run their business more
+efficiently and even optimize those off
+softwares to trigger marketing marketing
+functions and marketing triggers
+something like that so those are like
+that's what I was getting and I was like
+the government is the biggest buyer I
+think I S one is the biggest buyer in
+the countryes I decided to look at what
+they buy and that's when I realized they
+buy everything like they buy shoe
+strings they buy every single thing that
+you can think about they don't do most
+of the work themselves they buy them and
+I realized they also have set asides so
+sides St for small businesses I like no
+what's it's part it's already part of my
+program so to look for new
+customers I started getting into looking
+into and yeah I learned from videos when
+I saw online and started going deeper
+and deeper perfect you have a business
+and before getting into Government
+Contracting you had a business agency
+helping in the that area you mean you're
+talking about
+what person I don't want I don't want to
+butcher it but it sounded like is it
+help desk related or is it because
+you're talking about telephone Solutions
+and things like that so for an example
+like an example would be one of my
+clients right I want to take a quick
+second to talk to anybody watching this
+that's interested in starting a
+government contracting business or
+starting a new profession in Government
+Contracting our gov close certification
+program which I'm super passionate about
+is a rigorous training environment not a
+course a rigorous training environment
+that is teaching you the expertise of
+how to sell to the US government now
+this is based on my background as a
+former government procurement officer
+the work I've done as an account
+executive and Senior account Executives
+selling for big companies but even more
+importantly everything I've learned
+running a very successful consulting
+firm and helping over 500 clients sell
+to the government when you graduate from
+this program and it will take a lot of
+work and for you to graduate from this
+program you will be able to talk to any
+business analyze federal spending data
+contract data that's publicly available
+and build a step-by-step sales plan for
+that company you'll be able to execute
+that sales plan build a pipeline find
+early leads set up meetings with the
+government build relationships and most
+importantly close contracts the students
+that graduate our program they go on to
+start their own consulting firms winning
+high dollar Consulting clients they go
+on to land high paying salaried
+positions as account Executives with
+companies that sell to the government
+and by the way even kids just I call
+them kids right but 20s somethings just
+out of college with no background in
+Government Contracting they're beating
+out beating out seasoned professionals
+the last one that won a spot for
+satellite company won out 50 other
+applicants because he was able to walk
+in there after going through our program
+after the road mapping and Analysis the
+only one of all the applicants that
+could tell that company exactly how the
+government bought what they sold the
+exact offices that bought what they sold
+what contract Vehicles those offices
+used how much they spent and how to
+reverse engineer a sales pipeline that
+could actually land those contracts
+being able to have that expertise
+talking to a company for a job or a CEO
+for a consulting position is immense and
+very few people can do it I'm so proud
+of the people that have gone through our
+program and if you are considering
+either a job or a business and by the
+way some of our students are doing both
+as I did they're running a Consulting
+business and they'll have an account
+executive job it's transforming their
+lives it's bringing true wealth to them
+and their families okay back to the
+video we set up a solution where they
+speak to their customers but they're
+they speak to their patients so the
+issue here is when they speak to their
+patients everything stops at the
+software that they're using to speak to
+their patient patient contact everything
+so we have to integrate this software to
+bear Insurance checking sofware so you
+can check if the patients has insurance
+so you don't have to manually do that
+you have to basically that once you tag
+once you commit apis they will get the
+data of the patient it will send her a
+chance agency like hey this person has
+you want to check if this person has
+Insurance on you and if the insurance
+can be used to make treatment at our
+facility and it will give the feedback
+within a couple days when they get that
+feedback the software we will send an
+email because that feedback is as at
+their own discretion you will know when
+they give the feedback onless you're
+checking your email regular when you get
+P standing back that's kind of like an
+example of what we're doing basically
+optimizing your business operations I
+got I mean it's it's more than a
+communication tool it essentially I mean
+you're talking about connecting apis
+you're checking insurance which by the
+way seeing if you have medical insurance
+for different things I mean that's got
+to be a growing industry as the big
+boomers are getting older and I would
+expect more and more especially
+healthare anyone healthcare related
+probably would need something like that
+but okay so you had a great business
+doing this you're getting results and
+then you already have not only a
+business but you already have a sales
+machine essentially like you mentioned
+hey you're already have a process for
+going out identifying new customers
+because you know I'm a big fan of saying
+if you're you no matter how good you are
+your business if you're not selling you
+don't have a business right if you keep
+your service if you can't sell a product
+or solution then doesn't matter how good
+you have to be able to sell it and so
+you have this in place and now you're
+looking at different Government
+Contracting opportunities watch some
+videos um let's talk about that so when
+did you end up just starting from the
+beginning when did you register on
+sam.gov was that this year or before I
+registered on sam.gov a long
+time I think I'm following you say Cod
+so initially I had that SAR part but I
+was just I had other things going wrong
+sure and it this is not as at that point
+where it was I remember what really
+triggered me to do is like I wanted
+higher pay clients I wanted clients that
+are higher value clients and that's what
+really triggered me to go on to
+government contract and it wasn't just
+looking for any CLI it was looking for
+higher value clients sure and so this
+year and I just want to walk through the
+process so You' already been registered
+in Sam for a while you've been listening
+to our content maybe some others and
+then at some point you decide to get
+serious about it once business started
+picking up do you have any set asides
+already did you have so before you
+started the actual process of looking
+for those clients uh just to get an idea
+of was it just the registration did you
+have any type of uh set aside are you
+100% owned by yourself or is there wosb
+involved or anything else so initially I
+started by myself so my company is a
+soccer company and I really looking for
+soccer related contracts and it's own by
+me and I didn't really have any luck I
+didn't have any I wasn't getting the
+kind of feedback or I was like what am I
+doing wrong at least I wanted to get
+sometimes want to get in to get some
+feedback okay how was this proposal done
+wasn't not done correctly mhm who the
+just saw I know you preach a lot about
+that so I went to that process through
+and I just realized like I'm not getting
+any
+traction so I that's when I went to a
+couple shows went to an expo I also do
+some local Texas Mar VI so like the
+local state government so I went to that
+and I met some friends or I met some
+people that over there that is a friend
+of a friend that I seen him for he was
+all right what are you doing he told me
+gu what he does we eventually sat down
+and he told told me how he does it how
+he gets contracts the whole 360 what's
+easier to get and what's not easier to
+get I already have a process I have a
+team why don't we do a
+partnership and he was like okay no
+problem we went got it together did a
+partnership and that's when we started
+winning cuz now he kind of gave me like
+he said first you mro products that's
+something he does m products are
+probably the easier ones to win and
+they're straightforward fine can you
+define Mr products for anyone watching
+that's not familiar m is like
+maintenance repair and operation so
+light lights in your in the or something
+like a remote like a remote something
+like that they need 2,000 remotes for
+something they need a mouse th000 mouse
+or they need phones I remember we did
+one with the Texas water board and they
+needed
+like 16 iPads these are the kind of
+things that I would say are mro products
+or easier to replace but mro essentially
+are usually like facility products so
+lights light bulbs um like cleaning
+stuff like the cleaning
+chemical having products that you were
+specialized in awesome and okay so you
+teamed up with him then when you teamed
+up was it a joint venture was he the
+prime and you the sub how was that
+relationship so he's the prime and what
+we we teamed up basically is a joint
+Ender we teamed up to basically he has
+his process he has what he gets his
+contracts from what I was supposed to do
+was supplement his business because we
+had the processing system what I do is
+we well what me my team does is we go
+around my contracts and they can build
+within the vendor system like they have
+of vendors what can your vendors do what
+can your vendors to buy and we go look
+for those contracts
+and you find you discuss like okay
+what's the percentage that we're going
+to BU like the markup and yeah basically
+that's what we do like on a daily basis
+you probably spend like an hour to two
+hours a day on this and yeah that's
+that's basically it excellent so that's
+great so you partner and this is really
+valuable because subcontracting I think
+a lot of people either it goes in one
+year and right off the other or maybe
+they don't take it seriously right but
+the reason whether it's a joint venture
+or subcontracting especially for your
+first contract or two like partnering
+with another business gives you so much
+of an advantage because a you're
+partnering with a business that has past
+performance right they have a process if
+they won multiple contracts they have a
+process that works it's a great way for
+you to get experience right and kind of
+start getting your fingers wet and just
+getting a little bit more experience in
+the public sector so you partnered with
+him you won your first contract
+and it sounds like you're continuing to
+do this type of thing right and it
+sounds like you're is it mainly product
+so far then for facilities or have there
+been some other things that youve won so
+in the process of us doing this you've
+started going into dold caric products
+well specific to DOD or basically any
+product that has is a military related
+product I'm not to I would say we just
+started this like a month and a half ago
+so I can't say I can't speak too much on
+it but these are products that there are
+a couple licenses you need to buy or
+there couple requirements he need to be
+able to Pure this prod from the military
+I would say that's what we've been
+getting into you so the reason why we're
+getting into that is because there's
+less competition there are a few
+businesses in it and it's a good
+opportunity to partner vendors that are
+in that space great and so up to now so
+now you've been doing the process for a
+while You've Won some contracts what's
+your thinking what would be your
+positives and negatives uh that you've
+experience so far I would say the number
+one thing is your process I think the
+more we F tun your process the more the
+more the more specific too like you have
+to go specific on specific things when I
+first started we were apply for
+everything I would not in software you
+were apply for everything and say ter of
+software but like the the more you
+specialize the more time you have to
+understand contract the more time you
+have to the DAT and Al you have to
+another thing is like the agencies are
+going for like you I would say like so
+one of the agencies that my team focus
+on is the the ship Naval Shipyard in Bon
+Washington I don't know I think they're
+building something there I have no idea
+but like they pull out contracts every
+day like and it's like like two days
+they want you to getp they want some
+they want to rep within two days or a
+day it's like it turns down the
+opportunity it Wes it weaves out like
+some of the people that wouldn't have
+the time to get for those contract but I
+think like bu the kind of op like you
+need to find your process to avoid
+competition and make more money or or
+harder to execute contracts sure yeah no
+I think you're right and especially if
+we're talking about selling products
+versus maybe you know if you have a
+consulting firm or you're providing
+Services of some kind it's important for
+people to understand because I think a
+lot of people get the wrong idea when
+they like oh I'm just going to find a
+solicitation for anything and then for a
+product and go find buy it at Walmart
+and uh sell to the government doesn't
+work that way right it often as you're
+realizing it often comes down to price
+and it also often comes down to hey do
+you even have the ability to react in a
+couple of days and provide that
+really um because if you win a contract
+with the government you're now on the
+hook to provide that thing or service to
+the government it's a misleading if you
+hear someone say something like oh hey I
+won a $200,000 contract selling golf
+balls to the government whatever it is
+okay well how what was the actual profit
+margin on that right oh was it 1% did
+you mess up and when you read the
+contract itself is it 0% did you
+actually lose money on the transaction
+so it's incredibly important and you
+said this earlier and I just wanted to
+restate it maybe in a different way is
+that you and your partners already have
+agreements with manufacturers or people
+that you are selling for right you
+already have and what happens when you
+have those agreements with companies is
+you're you have a negotiated rate
+typically so they might give you a break
+on the price which allows you to squeeze
+some more profit into the contract would
+you say that is an accurate statement of
+of what you guys are doing because he
+said that if you don't have Rel ship
+with the supper manufacturer you you Mo
+you most likely would get a a retail
+price and a retail price I don't think
+the government somebody's going to
+always beat that somebody you have to be
+really to win a bit out on the retail
+price
+as yeah and I mean how you know at some
+point it's I think you have to get to a
+certain point profit wise for actually
+to be worth your while to sell to the
+government one of the misconceptions out
+there when some people just out watching
+or in looking at the information on
+Government Contracting is thinking oh
+here's maybe somebody easier to sell to
+than another business or a consumer but
+in reality that's not the case I find
+that it's actually much easier to sell
+B2B or B Toc the reason you want to sell
+to the government is because you could
+have some very like you mentioned
+earlier you can find some the government
+is the biggest purchaser of goods and
+services so now you can find someone
+with Deep Pockets and you're looking at
+bigger contracts sometimes you're
+looking at long-term contracts that will
+be recurring right you know you develop
+a I think you mentioned doing well with
+d defense Logistics agency in our
+LinkedIn conversation you know when you
+develop a relationship with a government
+and they're buying from you and you've
+you have past performance you deliver
+what you say you're going to they tend
+to keep coming back and if you make if
+you make it a point to keep that
+relationship alive that can be repeat
+big contracts with the government and
+it's worth I think putting up with maybe
+some of the policies and the procedures
+that you don't normally have to deal
+with do you think that's accurate or you
+have a different take on it I agree with
+you I haven't gone that far I haven't
+gone that far to experience like their
+requirements a lot of their requirements
+are like it's not really that big of a
+deal to me might in saying the invoicing
+is not something that's like a hard
+thing to do you you can finish it up
+within a day or less having to get the
+bit so you can be able to go to the
+military base to deliver a product those
+are requirements that are like those are
+part of business if you're not ready to
+do something like that then so I don't
+think I've gone to the level where the
+requirements is so huge I would say
+there is two things that I we been
+looking into so the long-term contracts
+like you said we're trying to get into
+stuff like that so for example I no this
+I I realize I don't know this is with
+the federal but contracts expl
+$10,000 and
+$24,000 or $10,000 and $25,000 it
+depends on the agenes the government
+doesn't need to put out a
+solicitation they can just see they know
+you you're past the former hey we want
+to buy this and they can buy it there's
+no Contracting process they just tell
+you what they want give them a quote and
+they'll buy it from I just recently
+spoke to somebody about this in the
+Texas where Texas agency saying like
+this is how it is for all agency now he
+didn't tell me tell me like it change
+10,000 from agencies and $24.99
+9,9
+24,900 10,000 5,000 so we're trying to
+go for those Ty of contracts because
+could you believe it's solely based on
+ability is a deler you don't need to go
+through fighting with a lot of people to
+window those contracts and lock gr
+that's one the second one is software
+I'm BAS basically my background is fully
+software
+soft how can I give it to those those
+podcasts require very strong football
+rule your ability to and the people that
+are actually going for those contracts
+with you are like they're they're set
+aside they're small businesses but their
+clientele is out of this world like they
+have Microsoft and their clientele they
+have and you don't want to ride on your
+res like how do you confute with both
+people two different things I
+have been on my mind as far as I could
+create contract how to move forward or
+grow in this Stace yeah no I mean that's
+good point and so if I was advising you
+and we could talk about whether or not
+you're comfortable keeping this in the
+YouTube video or not what I would say is
+a few things one is you've got a great
+ster first of all right you've got some
+again it's you're selling products and
+so it's a little bit different than
+maybe what you initially intended right
+with software but at least look a lot of
+people get into this or try to get into
+it and don't win anything unable to
+create a successful partnership so you
+guys have already you already could kind
+of smell blood in the water in a good
+way meaning that there's some money out
+there to be made now it's okay how do
+you pivot and do so successfully and
+there's a couple things that I would
+make sure of one is I don't know the the
+nature the legal nature of your teaming
+relationship but I know there's another
+company involved when you partner with
+somebody there is an official joint
+venture that gets filed that you can do
+and if if you don't have that are you
+named in the contracts that you're
+winning is your company named as a
+subcontractor in there I I would want to
+make sure that without getting into like
+a huge conversation about this that that
+you are officially receiving past
+performance that your company is
+receiving past performance for some of
+these and if you're unsure or you don't
+know I would maybe see if your partner
+would agree to uh try to win one under
+your company name so you have some of
+that past performance um so that's
+number one number one is I would want to
+make sure sure that you are officially
+getting some type of past performance in
+the system registered now you can always
+message it you can always message it in
+your marketing and everything but again
+I would want some of it officially so
+now we're talking about something that's
+a little not just a little bit different
+right it's I would ask you a few things
+first of all are you reselling software
+is that the goal selling software from
+other companies that they put together
+are you selling your own software okay
+that's a question no I'm not selling my
+own software the type of software we're
+s the type of the selling of sofware
+soluion so we're not selling our old
+software selling custom sofware you want
+to know what your problem is and we will
+uh basically build a software or build
+Sol losing around thatter I have
+engineers in my team that will build
+know B on exactly what you are and yeah
+that's what we're going to press and
+develop here the way that I would handle
+it if I was trying to sell that for you
+or advise you how to sell it is I would
+first of all you the fact that you have
+a business that's done this before and
+you have commercial clients is a big
+thing right and I would try to stick
+with what you've done already like
+something that you could show the
+government hey I've built this I've
+built this for maybe these three
+companies right so what types of things
+you mentioned talked a little bit about
+the type of things that you're solving
+you're connecting with apis for I mean
+Healthcare is I would imagine you guys
+had to meet Hippa requirements
+potentially if you were connecting with
+insurance companies the the one
+stumbling block with with software aware
+is that the government does have some
+pretty significant cyber security
+policies so familiarizing yourself with
+nist looking at I would not Target
+classified systems in the beginning
+anything classified because the for
+instance in the Department of Defense
+and really with the other agencies as
+well if you're building a software
+that's going to go either on premise
+like they're going to host it or is it
+going to go into the cloud that's
+probably the first thing we need to know
+it's going to go on premise it needs
+something called an at which is an
+approval to operate if it's going to go
+in the
+cloud what's being asked for more and
+more often these days is something
+called fedramp Fed rmp so I would go to
+the FED ramp website and what's
+happening is I want to say there's
+around 500 companies that are certified
+bed ramp it's basically a list of cyber
+SEC parameters that you need to meet to
+be hosted in like the gov Cloud right so
+you have a solution that's going to be
+hosted there so depending on where the
+solution is going to sit May determine
+if fed ramp is required and fed ramp's
+not cheap and it's so you want to look
+into those uh requirements and I would
+say you want to see if the government
+has a need for that solution before you
+start walking down that road we one of
+the easier ways what what I would be
+doing if you can custom build the
+software I would really take a strong
+look at the SBI program um are you
+familiar with that I know you've
+listened to some of our content uh
+before because I think the
+to sell a software solution to the
+government that will go on a government
+system because they're looking so much
+at things like fed ramp the nist
+requirements getting an atto have you
+ever had one before if we start with
+sbir now we're talking about something
+that you're developing that may
+eventually sit on a government system
+but you're typically building it to demo
+to the government right I would go to
+the sb.gov site and would look through
+the topic areas but my advice would you
+be for the software thing is check out
+the cber topics and see if there's
+something there that you could develop
+to going in in a phase one what how this
+will help you is essentially you're
+getting paid to modify or develop a
+unique solution for the government it
+doesn't have to have necessar you want
+to cook in all the cyber security
+requirements but the bridge to getting
+onto an actual government system is
+going to be EAS easier and there's going
+to be some grace period there typically
+resulting in doing a demo that may be in
+a contained environment they're not all
+the same they're not all going to be
+like that but that would be one piece of
+advice that I'd give you and then as far
+as the other contracts you mentioned
+going after some things between 10 and
+$25,000 I would imagine you have a way
+of identifying those if they're not
+coming out on sam.gov which is great I
+don't are you finding them on dibs or
+another system maybe so we are basically
+contacting the directly to the vendors
+so the people that we've sold to before
+be like hey what you guys have that's a
+quick need cuz people don't know about
+this is not general knowledge so we
+contact them and they already do this
+but this is the Texas state I don't know
+if this is federal but this
+is Texas state thing so we contact them
+and they tell us oh this person is
+already buying this for us or this is
+this person but the more you build that
+relationship the more you're likely to
+if eventually get something it's no
+question I will say that is all the
+states are different with the government
+if it's 10,000 or less that number may
+have gone up they can use a government
+Purchase Card to make a purchase not a
+big deal but regardless of that there's
+a simplified Acquisitions process that
+the government has and I've done all of
+my selling to the government on on this
+side of the aisle built on relationships
+just like you're doing so even for big
+contracts 200 300 $400,000 exact same
+way hey Rick we need 50 licenses okay
+well let's figure it out so this is
+where I've worked for other companies in
+Sal so I would say when you're when you
+have some government contracts on the
+software side you can sell like that
+it's a very powerful way yeah and then
+if I would start with SB maybe and also
+potentially look at other transaction
+Authority because they're both a little
+bit easier to get onto contract with the
+government provided you have the right
+thing we can have a much more in-depth
+uh conversation about this at another
+time but uh before I end the call
+because I do have a call right now how
+could people find you if they want to
+reach out and talk to you about maybe
+upcoming contracts or maybe get some
+advice R you you can find me on LinkedIn
+at K abana at that's basically it you
+can find me by my name ekk NE abana on
+LinkedIn company is called
+tabs.com as tabs.com and those are the
+two places I believe like easily contact
+me through excellent well what I'll do
+is I'll leave the those links in the
+show notes and so anyone will be able to
+get in touch with you hey thanks for
+coming on man like it's really exciting
+I know you you've just started but the
+fact that you're getting some wns and
+now you're looking at expanding in some
+other areas I think it's
+great thank you so much man I appreciate
+the time the Dov clo certification is
+generating tremendous results so 27
+years old you've never worked in
+Government Contracting you've never
+worked as a consultant and you just uh
+closed your first deal is that correct
+that's fa and I got a couple small
+projects on the side as well so
+definitely something probably my best
+investment I've made all year it would
+be my second post on how a cold call
+landed a N9 figure government contract
+my name's Gavin T so my name is Ethan
+Mart when I was able to uh enroll into
+the go CL program it just exceeded All
+my expectations it really has provided a
+lot of valuable learnings and insights
+that I would not have found on my own I
+was able to get a Consulting gig with a
+uh software company that currently works
+with the intelligence Community hi I'm
+Deb Diller Harris if you want to learn
+how to sell to the government if you
+want to learn how to start your own
+Consulting business if you want to learn
+the skills that you need to go land a
+six fig plus Plus+ Plus account
+executive job with big companies selling
+to the government the certification
+program is for you head on over to
+golo.com check out our certification
+program talk to the team you won't
+regret it

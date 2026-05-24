@@ -1,0 +1,280 @@
+Kind: captions
+Language: en
+hey guys Ricky here owner of
+dodcontract.com you know the US
+government is the single biggest
+purchaser of goods and services from
+small businesses and they buy just about
+everything if you want to discover what
+your Niche is see how much the
+government's spending in your category
+head on over to dodcontract.com
+I would send that article out actually
+every unit I was in in the Air Force
+just to kind of get a rise out of people
+but whether it's true or not I I can't
+speak to it so why don't we start with
+what is kef robotics what problem are
+you guys uh trying to solve and what are
+you doing in the world so I usually
+describe kef at a high levels we're
+trying to use cameras to fly aircraft so
+um they're challenging to use because
+they actually bring in so much data and
+then you have to interpret it with
+algorithms so I mean it looks like you
+have a a really uh great past history
+Carnegie Mellon maybe we could talk a
+little bit about you know coming out of
+school
+um in your experience
+um you know in the world and what led
+you to create uh kef yeah absolutely so
+so kef we have our name because it's
+Carrie Eric and Frazier they're just the
+first initials of the three co-founders
+names so
+um so that's through that we actually
+started using drones and kind of using
+cameras as well I want to have like an
+adventure basically with my career so I
+was working with engineers
+and my role in kef is to manage our
+engineering team and try and guide our
+strategy and make sure we have a good
+product Market fit so none of my
+educational background kind of led to
+that uh that was the first half of my
+Air Force career so you you have this
+kind of epiphany with uh with robotics
+right did you start it afterwards and
+then just go full full force or I mean
+the lighting's very predictable years in
+advance so the closest out analog the
+cheapest analog is to fly a drone and
+we're um so we're using cameras we're
+flying drones we're turning the GPS off
+because we're not going to have GPS on
+the on the moon right and we're like
+well let's see who's doing the best work
+in this field so we had some friction
+with our upper management sure let's go
+do our own thing and not have the thing
+kind of sitting above us so it's like
+it's like being in the right place at
+the right time and just getting a little
+bit lucky and also just sticking our
+necks out so
+um we uh knew that our technology was
+mostly applicable to the dod we don't
+really actually even to this day believe
+in the commercial drone Market
+we we don't see a lot of people using
+autonomous drones we don't think the FAA
+is going to let you do that so um
+we uh somehow found out about Special
+Operations Command and
+um actually I went on a tour of
+softworks the latter half
+um traditional Acquisitions as you
+probably went on to discover typically
+takes a long time uh at least a lot
+compared to commercial timelines yeah so
+aftworks they release a open topic and
+then so
+um from that phase one we ended up
+getting a lot of meetings with people in
+the Air Force and we got a phase two
+um the phase twos are large I think ours
+was 1.5 million which for us it was like
+that that could support our whole team
+for two years at that point yeah we we
+knew it well from writing NASA sbirs at
+our old company I think it's extremely
+important and I'm not sure that we've
+talked about it on the on the podcast
+before which is when you actually start
+getting into the solicitation writing so
+it's our general belief that um
+almost every sbir is written with with
+I I hate to even say this but this is
+just my belief and you know a company
+you're all about minimizing your effort
+or like really streamlining your efforts
+you know we talked a lot about the
+um maybe the official away you know of
+uh writing a proposal based on a
+solicitation and but I tell everyone
+listening and I tell my clients is you
+got to spend you've got to live in the
+market research phase so when when the
+government wants to do something with
+autonomous flight or vertical uh lift uh
+aircraft right so they all kind of
+compete for uh you know what these
+topics are going to be they wanted to do
+a no Hardware upgrade of an aircraft and
+it had all these specific things that
+were like oh this is this is great but
+we were nervous because we hadn't seeded
+the topic and we know there's other
+teams out there that are competitive and
+we're like okay well the fact that this
+came out like we'll write to it we did
+write to it it was it I mean that's just
+one Parable but it kind of brought home
+to me like even if you're the perfect
+team with a perfect Tech don't expect to
+win unless you yeah unless you've done
+something absolutely you have to be able
+to organize in all those multiple
+friends sounds like so with the direct
+to phase two just for anyone listening
+you need to somebody usually in the dod
+it would probably be someone like an o6
+level
+um you know maybe a GS uh higher ranking
+government civilian but someone that can
+on the government side that will at
+least sign a memorandum of understanding
+saying hey will you know if you're
+recommending a demo then maybe they gave
+you a space to do the demo if they're
+you know they so they might be providing
+some type of facility or like you know
+some hours to donate to to what you're
+doing
+um one thing the sbai our office did
+under affworks which was smart was they
+gave you this small dollar phase one but
+it was an actual contract and they give
+you they tell you what to say to the the
+people you're reaching out to they say
+right I have a contract with the Air
+Force can I get 10 minutes of your time
+to talk about the technology I'm
+developing to get a letter of support
+for phase two okay some of those were in
+DC some of those were in Dayton Ohio so
+you had more than one sponsor for that
+his reach is really impressive and he's
+really figured that part of it out you
+don't just win by making a submission
+yeah I think I think roughly we think
+blind odds 10 so that means you have to
+write 10 proposals to win one that's
+just barely going to cover your costs I
+would I would say 10 is being generous
+actually I'm not just winging this and
+slapping it together last minute or
+somebody at the office that's going to
+be reviewing these and by the way
+somebody else isn't yep absolutely any
+not to exhaust the topic everybody's
+been more fiscally responsible
+um the biggest the biggest I can find in
+the U.S
+um you know we're trying to get letters
+of support or even just get like talking
+points from these people that we can say
+this is the the market that we're going
+to be addressing alongside the dod so
+that's
+um that's that's pretty Upfront for most
+people that's that's really great advice
+um actually including that with your
+proposal not something yeah a lot of
+companies are doing and you're right
+commercialization is extremely important
+um and just understanding that
+commercialization and dual use is part
+of this so and then I look at it as
+um actually we found the government to
+be so fast moving between softworks
+efforts and army applications lab that
+in my you know role as CEO I have to
+find the cheapest dollars
+um you pay us X thousand dollars for it
+and then you know if the aircraft now
+has a new performance upgrade that it
+didn't have before you can say you can
+navigate without GPS interesting so
+um yeah to date
+um we've just Advanced entirely on
+Research grants
+um but that that's the valley we want to
+get across and it's going to take us you
+know at least three years to get off
+sbirs and maybe we never fully do yeah
+because we could still use them to fund
+new advancements in our Tech in this key
+area or that key area and get you know
+kind of like that market validation
+before we do internal research and
+development so now you have all these
+customers both defense and you know
+government defense and Commercial which
+are putting money into your company and
+then by the time you get it you might
+need something else and it's like that
+you're constantly playing this game
+where
+um I feel like the benefits better for
+both the government and the business if
+you have this can dual use continuing
+model
+um and then the licensing model
+certainly
+um like I said that can provide you that
+sustained uh funding over years but you
+pick you know from the F-35 to you know
+kind of uh more of the ancient uh air uh
+aircraft that we've flown like the B-52
+coming to now but typically
+um an oem one of the big defense
+contractors would put that Air Credit
+when they contract they put it together
+and if the government wanted to make any
+change to that system put your software
+on for instance nope that might cost 10
+times as much to get a product that's
+not as good so they can they can build
+things according to those parameters and
+you should have a competitive market for
+vendors who can meet the needs of that
+interface I think there's a lot of
+different ways to do that
+um and then I just wanted to say one
+thing for anyone listening when you when
+you think about the licensing I think
+maybe you were alluding to it which is
+sometimes the government doesn't want to
+buy software licenses because
+if the government if it's not a program
+of record and it's not like this funding
+where hey I have five years of funding
+to put kef on contract right so let's
+say my office has 15 million in Fallout
+funds and I know that kef's at the top
+of my list I need to get this on a
+certain maybe whether it's a demo or
+whether it's on a weapon system or you
+know whatever whatever the exact project
+is I don't know if I'm going to have it
+next year
+um so we've talked a lot what's next for
+you guys is that that transition to our
+first licenses
+um so we hope to be doing that October
+Q4 of this year well I'll give you my
+email if that's if that's uh okay you
+know we don't we don't we don't have
+five million people listening um but
+yeah we're a small business we're easy
+to get hold of it looks it looks like an
+awesome website it's doing great I'll uh
+I'll put she needs a raise by the way
+all right well you do get your ice cream
+now buddy don't forget to like And
+subscribe to this episode please leave a
+review and we will see you next week

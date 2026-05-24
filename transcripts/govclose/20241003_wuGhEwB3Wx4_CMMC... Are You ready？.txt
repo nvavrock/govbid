@@ -1,0 +1,910 @@
+Kind: captions
+Language: en
+all right welcome everyone to this
+episode of D contract Academy we are
+back with a returning guest I think this
+is your third time Karan is that right I
+think this is my second time but you've
+had some friends of the cmmc ecosystem
+on at different times yeah no I I
+definitely have man I could have sworn
+this was your third time we've certainly
+taken our past interviews and cut them
+up and plastered them across the social
+media sites and YouTube I feel like I'm
+always seeing you pop up giving some
+advice and of course everything you're
+doing which is great on LinkedIn as well
+so it's good to see you again it's great
+to see you again now I guess there's
+some big things happening if if people
+don't remember you are the cmmc expert
+the other one I go to when I have cmmc
+questions and whether we're talking
+about getting certified or going over
+your system making sure everything's
+legit for Government Contracting why
+don't you give us an overview of just
+the specialty and then we'll get into
+kind of what's Happening currently and
+why this is a timely episode to put out
+there absolutely so my name is Karen wi
+and I am an assessor for the cmmc
+program with the Cyber ab and the dod
+and so I will be one of the assessors
+that performs the thirdparty assessments
+when the cmmc rule becomes final and I'm
+also an implementer and a and a secure
+architect so we help companies get ready
+and we build secure enclaves in GCC high
+and Azure goov as well as deal with
+complex on-prem situations that people
+are trying to tackle as they go down
+that road of getting compant with nists
+p800 171 and I guess that's a good place
+to to recap is about the program in
+general and where it's at so we still
+meet DOD contractors that you know you
+say CMC to them or you even say 8171 and
+and they they don't know what you're
+talking about we can walk around trade
+shows or different really important DOD
+conferences and people are largely
+unaware of this this thing that is about
+to really have a huge effect on business
+that you want to do with the Department
+of Defense the cmmc rule is in its final
+phases we actually expected it to come
+out about a week ago and it didn't so it
+will be out in the next 30 days the dod
+has definitely indicated that it's on
+its last Lake of its Journey before it
+hits the Federal Register reginfo Dogo
+and once that happens and it's published
+to the public it has a little less than
+a year more somewhere close to a year of
+red tape that it has to go through
+before we as DOD contractors and I
+didn't mention that part I'm also a DOD
+contractor before we see it show up to
+us as defar Clauses in our contracts
+we're all used to that that huge section
+of our contract where we see those defar
+Clauses and these defar Clauses have
+that that are related to cmmc the cyber
+security maturity model have actually
+been there and we've been required to be
+8171 compliance since December of 2017
+any contractor that has defarge claws
+252 204
+7012 7019 and
+7020 is required to be compliant with
+nist SP 8171 if their contract exposes
+them to controlled unclassified
+information or if they create controlled
+unclassified information as a result of
+the product good or service uh that
+they're doing for the dod and so that's
+the short and skinny of it is that
+people think cmmc is something new but
+they don't realize that they've been
+required for a long time to be compliant
+with nist sp800 171 if they are dealing
+with controlled and classified
+information and you and I have seen this
+year oh we sure have and this is
+probably a good place to just stop and
+for those not familiar with cmmc or
+wondering what a def's clause is so when
+you have a government contract in
+particular with the Department of
+Defense uh but you're going to have
+Clauses in there that are basically
+these if you're not familiar with the
+far and most people aren't and even the
+people are some of them wish they
+weren't but it thousands of pages of
+regulations and policies basically that
+govern how the government buys stuff
+right and so when Contracting officers
+get into the mix and start putting
+something on Contracting they're going
+to put these fire def fires Clauses in
+lot of times it's just a number right
+and there might be a little bit of
+verbiage afterwards but a lot of
+companies don't even know what they're
+signing up for with these Clauses that
+are added to the contract and you
+mention and so you can look those up you
+can go online look at the D fires the
+fire and you know you can look up those
+numbers but what Karen is specifically
+talking about what you're specifically
+talking about is cmmc which essentially
+as I understand it is the cyber security
+requirements that companies are now
+going to be beholden to so when you talk
+about nist 800 171 that's a document
+with a bunch of security things that you
+would have to look at and you talked
+about cui which is controlled
+unclassified information do I have the
+acronym right perfect you are passing
+the test oh we've worked together so let
+me let me just said so obviously you've
+been on the show before and we both work
+in the Government Contracting space I
+work more with clients that are selling
+to the government but so we had a we had
+an issue just a few months ago where one
+of my clients who's been selling to the
+government forever all of a sudden got
+an email from the Contracting officer
+and said that basically said hey I can't
+put he already had a contract I can't
+put another delivery order on this
+contract it was a big contract unless
+you do your see self inspections you get
+everything uploaded into sprs that you
+have a plan going forward he didn't know
+what any of it meant so he reached out
+to me of course I reached out to you and
+we got him squared away really fast by
+the way so thank you for that he's very
+grateful why don't we why don't we start
+there and maybe under the premise of hey
+even if you're not on a classified
+contract this cui that has been that has
+been defined this controlled
+unclassified information that that can
+exist and you might not even know it it
+might be just combined
+a bunch of information that you have
+right can can you walk through that a
+little bit and then maybe we
+go this example that you brought up is
+just such a perfect example of so many
+different things and like you said let's
+walk it back a little bit just to the
+basics so the cui program and sorry and
+you know this whole controlled
+unclassified Information Program is
+defined in title 32 of the code of
+Federal Regulation that's what CFR
+stands for and that's what we're waiting
+for some updates to with this with this
+rule is going to change some of the
+wording in that and then we end up
+seeing the results of that that CFR is
+actually written to executive branch
+agencies not us but it tells them you
+must flow all of this down to everyone
+else through contracts and they do that
+through title 48 of the CFR Which is far
+Clauses and defs or sorry far and defar
+clauses and the defense Federal
+acquisition regulation um has three
+important Clauses that that affected
+your client that day and it's really
+important that everyone listening who
+has a contractor who's going to win a
+future contract looks at these and
+understands the implication of them it's
+huge and it's affecting everybody right
+now so I'm just going to call it 7012
+7019 and 7020 but understand that
+they're really 252 204 712 and then 252
+204 7019 and then 7020 nobody nobody's
+confused yet so
+needless to say you know what all of
+that means and that's why I go to you
+whenever I have these questions right so
+they've got these Street Clauses and
+they want to understand what they're
+required to do or they could actually
+land in false claims land and I'm going
+to tie this back to your client he was
+not in false claims land but it ends up
+affecting people that aren't expecting
+it and if you don't understand how to
+deal with this type of information or
+how much it cost to deal with this
+information you could accidentally mess
+up your pricing on a contract so it's
+really important to understand these
+three Clauses so 7012 says a lot of
+things but what it says for today what
+we're talking about today is that if you
+have a contract that has controlled and
+classified information you have to be uh
+doing the 110 requirements that are
+listed in a document called nist sp800
+171 and those 110 requirements are
+actually broken down even further into
+320 objectives or checklist items that
+you really usually need someone to help
+you with to make sure you're doing all
+those things and it's it it really boils
+down to building a physical wall and a
+logical wall around data and and it's
+how you create what we call a covered
+system for sensitive data so the dod has
+to share sensitive data with a lot of
+people that it wants to do business with
+and it's asked that they protected using
+these 110 requirements that tell you how
+to protect the information and so that
+712 Clause is in your contract and it
+just says says Incorporated by reference
+and that means that you don't really
+know what it says unless you go look it
+up and it also means that if it changes
+tomorrow and it says a lot more than
+just that you need to be compliant with
+8171 but if it changes tomorrow you're
+still required to do whatever it says at
+any given time because it's Incorporated
+by reference I was GNA say could you
+give just an example of like maybe a
+couple of those controls so maybe one
+thing that's simple and maybe something
+that's maybe a little more complex
+absolutely so there's 14 families and
+they range from everything from how you
+authorize people into your environment
+to how you train people and keep them
+trained for the roles that they have
+within your environment to things like
+separation of Duties where you make sure
+that no one person has too much power in
+your environment and could use that in a
+abusive way to gain access to data as an
+adversary or as an unauthorized person
+so there's a lot of different
+Protections in there and those are kind
+of complex ones and there's a really
+straightforward physical domain that
+says hey you've got to have locks on
+your doors and a very secure physical
+boundary around this environment and
+talks about things like or has
+implications for things like security
+cameras and escorting visitors and all
+types of very tangible physical things
+and then right there's another domain
+that talks about how to build a logical
+boundary around the data with things
+like with gateways and firewalls and
+networking devices and how to build your
+rule sets on those devices and all types
+of things that can get pretty technical
+for the average person so this has been
+a tall order for the dib and it's
+overwhelming them they're just really
+taken a back and truly didn't seem to
+understand a lot of them that this is
+what they were signing up for when they
+got into the contract so what I love
+about the example you brought up is
+sometimes people will sign a c's
+contract meaning they're selling
+something to the dod that they sell
+every day commercially all over the
+world or all over the country and so
+they say oh I can't have controlled and
+classified information I'm just a c
+Fender to the dod I'm not even one of
+these complicated people that deals with
+sensitive data I'm just a simple old CS
+vendor but that too can even get pretty
+tricky as it did for our friend where
+the government in order to receive your
+C's product may share drawings or may
+put their part numbers on what you
+normally sell with a completely
+different part number and that part
+number alone can be controlled and
+classified information so the way that
+you figure out if you got it controlled
+and classified information is with the
+norara registry so there's something
+called the Nara archives and it's where
+all of the controlled and classified
+information definitions exist that would
+be the hard way to go figure it out the
+more straight forward and simple way to
+do it is to go to your Contracting
+officer to go to your Prime and to
+hopefully figure this stuff out before
+you ever even get started to know that I
+will be dealing with controlled and
+classified information um of this type
+during this contract maybe it'll be itar
+or export controlled or control
+technical information and that you're
+very clear of of the type of work you're
+doing and when it will involve this type
+of information or if you would ever be
+creating it you should ask these
+questions from the start where is this
+going to happen what type is it and then
+that you would relate that to the
+contracts that you've won for any given
+cage code that you have that's where you
+start that's where you start with this
+whole thing is figuring out when your
+company is exposed to controll and
+classified information because that part
+alone is catching a lot of people by
+surprise even C vendors now do you have
+to have those Clauses in the contract to
+be responsible for the cmmc requirements
+I can tell you right now that almost
+everybody has those Clauses in their
+contract and even if they don't have
+controll and classified information it
+says if you
+so they put it in almost all contracts
+as and we found in that example they
+were able to come back and say hey after
+all it looks like you do have uh
+controlled and classified information
+and you will need to and here goes the
+next step is that 79 Clause it says You
+must self assess using
+8171 and see if you're doing the 110
+requirements properly and then calculate
+your score and put it up in the sprs
+system which is a supplier perform
+performance risk system and so 7019
+these are active right now today and
+that's why they came to your to our
+friend and said hey we noticed you don't
+have an sprs score up in the sprs system
+this must be a mistake we're going to go
+ahead and stop orders until you
+straighten that out and we'll let us
+know when you got it taken care of right
+so if you're a company then and you
+probably have this clause in one of your
+contracts I brought it up because even
+if it's for some reason not in there I
+can imagine a lot of scenarios where you
+probably have this type of information
+or data and if you're selling to the
+government it's going to be this is
+coming up this is going to be up play so
+is the first step then for someone that
+thinks or sees the clause in there that
+you know hasn't done anything yet is the
+first step start taking a look at the
+self- inspection checklist absolutely so
+so we have I'll go ahead and let us just
+say that every Friday I teach sprs
+Friday it's the supplier performance
+risk system lesson where I tell
+contractors this is it's free you just
+come for an hour we'll put it in the
+comments of this show but you come for
+an hour and we just tell you this is the
+documents that you need to self assess
+the 110 requirements and the 320
+objectives and this is how you calculate
+your score and this is how you get into
+the sprs system if you're not if you
+have this type of information and you're
+not doing that now you're then you're
+already not compliant right and cmmc is
+really just an extension of all of this
+what the dod found is that those scores
+those very scores that you and I are
+discussing that they were wildly
+inaccurate where people were the highest
+score is 110 the lowest score is
+actually - 203 and they found that the
+average score a contractor was giving
+themselves was 56 or something like that
+but when they came out and did that's
+the last thing I was going to say is
+that they do their own assessments right
+now not that you don't have to wait for
+cmmc they can call you any day and come
+and check things out because that's
+Clause 7020 it says that they can and
+when they did when they went out and
+started checking they found that the
+contractors on average gave themselves a
+56 and their average the dipac the dcma
+was 100 points below that at least
+average so these it wasn't that people
+were being dishonest it was really just
+a lack of understanding about what how
+to properly self assess what tools to
+use yeah and that type of thing just had
+a a conversation know if Michael isun
+but he was on here and we were just
+talking about how on one hand the
+government says we want small businesses
+to sell to the government and we want to
+make it easier especially in the face of
+a declining small business sector every
+year it seems like fewer and fewer small
+businesses are selling to the government
+yet they come up with these requirements
+that make it like a lot of companies
+throw their hand even big companies are
+like holy crap am I supposed to really
+make a million dollar investment in
+putting these requirements in place now
+I don't think it's that much for cmmc in
+some cases I guess it really is it
+depends on what you're doing but you
+know what kind of investment do people
+actually have to make in this right is
+it something that they can do themselves
+do they have to hire somebody to do it
+and then you know if they do want help
+who can they reach out to obviously they
+can reach out to you maybe you could
+talk a little bit about the three paos
+and how many of them there are and what
+is it look like for a small business
+that's approaching this right so we said
+that right now you're required to do
+these self assessments and if you go to
+SPS Friday or you look into how to do it
+yourself and you're not even able to
+understand what those documents are
+saying and how to self assess then you
+definitely need help so that you can get
+an accurate score it's more important
+that it's accurate you don't want to be
+in false claims land and you don't want
+to you don't want to put something up
+there inflated like 110 when you're
+nowhere close so that's the first thing
+cmmc will not that Clause will be called
+7021 and it will not show up in contract
+for at least a year and when it does it
+will only show up in a few contracts at
+that first year and then each year
+you'll see more and more contracts that
+just like a secret clearance or a some
+type of facility clearance requirement
+it'll be just like that it'll say you
+can't win this work unless you are cmmc
+level two certified when that time comes
+your self assessment will need to be
+accompanied every 3 years by a
+thirdparty assessment from a C3PO so
+they come in in and check to see where
+you're at on your 8171 compliance and
+you're going to have to pay for it so
+that's one of the first most obvious
+costs that this program is going to
+introduce to people and it really will
+depend on the size of the organization I
+think they're going to range anywhere
+from right now the the price is a bit
+inflated because there's not that many
+c3pos and people are paying for early
+assessments by the way there's an early
+Assessment program called The Joint
+surveillance Voluntary Assessment
+program and companies are lining up in
+droves to assessed early because they
+see it as a competitive advantage and
+they're paying anywhere from 20,000 for
+the smallest companies up to I don't
+even know what the upper I would say
+probably somewhere near 880,000 or
+something like that for much larger
+companies that would be a huge
+assessment yeah to pay that much but it
+is a lot of work on the part of the C3PO
+and their team and and they come out for
+they do a few week engagement only
+usually one of those weeks is live on
+site and a lot of the other parts are
+looking through paperwork so you can
+actually contact these C3 paos and ask
+questions and learn what you need to do
+to get ready and there's a lot of
+different ways to learn how to get ready
+not just by by reaching out and starting
+to interview see through paos for the
+future but then figuring out what you
+need to do to get to the point that you
+could ever call one and actually be
+ready to be assessed which takes about a
+year and so for most companies it's
+taking about a year to get all this
+together they may have to we have
+something called scope they may have to
+because of the nature of their work have
+their entire Enterprise environment in
+scope because maybe they're a
+manufacturing environment or a warehouse
+environment and they have cui everywhere
+all over the place or some of them may
+choke it back to little tiny enclaves on
+Prem in their building or they may have
+an enclave up in the cloud they may be
+able to work at cloudon atmosphere
+because of the way that they interact
+with the controlled and classified
+information and so the cost the reason
+I'm bring that all up is the cost can
+vary depending on your scope and how far
+away you are from being 8171 compliant
+and then it can also vary just based on
+the way you interact with cui if you're
+if you can put it all up in the cloud
+although GCC high and Azure goov are
+expensive we build enclaves up there and
+and support them and do all of the the
+different compliance steps for people
+and when you compare it to the cost of
+running an on-prem Network it's very
+similar people think it's so expensive
+but I don't think they're really
+thinking about how much it cost to to
+run an on-prem Network and people say oh
+this is going to be so expensive but it
+is but it's really important it's an
+important expense when you think of the
+loss to to to a breach or to losing all
+of your DOD contracts because of some
+type of breach and yeah I'd say Okay so
+the answer your question is it really
+does depend but I would say if they were
+trying to budget let's say that the
+company that I just brought to a jsv
+they passed with a perfect 110 when I
+first met them a year ago they had
+nothing except for a GCC High license
+and that was it and they were as far
+away from compliance as most people are
+they had a good attitude and they were
+trying to do things right um but they
+didn't know a lot of the details of how
+to get this
+done and they spent an enclave to build
+it can cost around $20,000 to get it
+going uh but then after that you're
+going to need policies and procedures to
+match the implementation right of the
+technical and the personnel and all of
+the training and everything you could be
+looking at a lot of additional expenses
+Beyond just setting something up it's
+all of the uh getting the program strong
+and for it to truly be a program means
+it's repeatable and that it could be
+carried out by almost anybody and that
+and all those elements yeah a lot of
+companies especially when they get they
+grow in size if they anything related to
+things like software and data and all of
+that a lot of times they'll have someone
+dedicated to cyber security so I think
+that person being aware of this and
+knowing how to operate in that
+environment is a good thing I know that
+when we worked with our client and got
+him squared away you also set him up
+with a system that could manage this for
+him so it wasn't all going to hit them
+over the head every time there's going
+to be an inspection so it's just like
+probably like running a business and you
+might be using QuickBooks or a
+bookkeeper to help with all of your
+expenses make it because when it comes
+tax time if you haven't been doing that
+and keeping up with it filing for taxes
+I know my first year business I wasn't I
+wasn't prepared for how much work that
+was and then I made my investments for
+finan I bring this up just to maybe put
+this in a category people could
+understand running a business makes
+insane sense to have something like
+QuickBooks and a bookkeeper doing that
+all the way along so when it comes time
+to file your taxes everything's ready to
+go I think cyber security is especially
+as things get more complex it's you know
+it's turning into the same thing and
+having a especially if you're just
+starting out I think hearing this
+talking to you maybe attending your
+Friday event and making yourself aware
+of what is required from the outset is
+going to make it a lot easier as you
+move forward instead of just getting
+caught off guard and now having to
+figure out what you're going to do with
+the client of mine that we worked with
+it was nobra even though it's an
+investment it was a no-brainer because
+if you have a couple million dollars in
+contracts with the government that's
+worth a hell of a lot more than the
+investment of the time it's going to
+take and then of course then you do have
+a competitive Advantage right now I
+would say if absolutely the second we
+got done with that Js
+the reaction from primes towards the
+client was immediate they know the
+primes know that they need people who
+are going to be able to do this and you
+don't want everyone around you that's in
+your same uh nakes codes to to be all
+squared away and you're not and Def
+first Clauses start getting worked into
+contracts and you can't even win and
+that's and you have to the other thing
+that you and I saw this year is we had
+another friend who or customer who you
+know this the FED ramp implications for
+who we use as our cloud service
+providers so if you're putting data
+anywhere that's not on your property
+it's being hosted elsewhere the cloud
+isn't really just a cloud up in the sky
+right a cloud is just and and people say
+I love it when they say it it's just
+computers somewhere else someone else is
+hosting other people's data side by side
+in a multi-tenant environment and they
+are now needing to be fed ramp if you're
+going to be putting controlled and
+classified information into those
+environments and it could be software as
+a service it could be it could be
+Salesforce it could be all types of
+products that we're used to using on a
+daily basis and we take for granted that
+we're putting the government cui up in
+that cloud and it's going to have to be
+fed ramp equivalent based on 72 and what
+it's no that's huge fed ramp is just
+another one of those things where you
+know a lot of people are resisting it
+but I'm seeing it in a ton of
+solicitations as a requirement and also
+the government the people in the
+government are all rocket scientists
+there are some rocket scientists but
+most of them aren't and just I could
+speak as a former program manager I had
+a very loose understanding about what
+some of the requirements were I just
+knew that I needed them and I get it now
+when I'm talking with people on the
+other side of the aisle it's they'll say
+hey we need fed ramp they might not even
+completely understand what that means
+but they just know that if you don't
+have it they don't even want to talk to
+you because their boss told them that's
+a requirement so you can make excuses
+and talk about your security and
+everything else for that person you're
+talking to if in their mind you need fed
+ramp or you need cmmc and you don't have
+it then you're you've already been
+dismissed and that's part of why this
+competitive Advantage thing is in place
+so right wrong or indifferent it is
+going to give you a competitive
+advantage and it's going to be something
+you can use in your marketing as well
+that's right right no that's awesome
+Okay so we've got I've got just a couple
+more questions we're going to wrap it up
+shortly here but just one is so like
+right now if I have this clause which
+you said most people probably do and I
+suspect I have cui I can go out I can go
+to your Friday events I can look at the
+SS checklist we could do a self
+assessment maybe hire someone to help us
+with that maybe not depending we can
+input that score into sprs what you've
+told me in the past is hey you don't
+have to be passing with that score
+necessarily they want to see that you've
+done it and that you have these policies
+and everything in place to get to
+healthy my question is when cmmc goes
+into law first of all tell me that
+something's going into effect here in a
+week or so what how does that increase
+my requirement when that goes into
+effect and then what are the additional
+what does it mean when cmmc goes into
+effect does one of those mean that I
+have to have a score above a certain
+number on that in sprs or an assessment
+in order to be on contract or what does
+that exactly do these are such perfect
+questions that you just asked I'm so
+glad we didn't get off of here without
+the exact questions that most people
+have and in a week all that's going to
+happen is that for the first time ever
+we're going to get a glance glance at
+the official published cmmc
+documentation the changes to the code of
+Federal Regulation and what this dears
+Clause 25224 721 is going to look like
+so those of us that are like somebody
+like me work exited just to see what
+it's going to say but it won't go into
+effect for about another year we expect
+to start seeing it in early
+2025 where this goes in into some
+contracts and we don't know which ones
+and you don't want to gamble with is it
+going to be in the one that you want to
+bid on and it takes at least a year to
+get ready so the first thing is start
+just because I'm saying this isn't going
+to show up in contracts for another year
+start now and the second part of that
+question was today there is no minimum
+score that you have to have we have
+entered a negative 150 and then
+immediately the government started
+orders again the person didn't have an
+sprs score the government stopped orders
+cuz they have to under that clause that
+ends in 719 they have to have that score
+up there if they have controlled and
+classified information so once they they
+put that negative 150 up there which is
+a horrible score but it's honest they
+satisfi the requirement as it sits right
+now which is just have one up there but
+when cmmc comes there will be a minimum
+score and in order to get the level two
+certification which allows you to win a
+contract with that clause and we're
+expecting that minimum score to be
+around a
+80% and that you will be be able to fix
+certain types of problems with your
+implementation through the PM process
+and we're really excited to see the
+details of exactly is it 80% which items
+of these 110 might be eligible for
+problems that can be fixed uh and
+there'll be things like it what we call
+an interim level two certification if
+you are in that window where you're
+almost passing but you need to fix a few
+things and it'll last about 180 days and
+if you can fix them within that short
+time frame it turns into an official
+level two certification this is
+futuristic that I'm talking about and
+you will be able to bid during that time
+that you have that interum as long as
+you get to that minimum passing score
+during your level two assessment and the
+assessments aren't easy that's the last
+thing I want to say is as an assessor
+who's I've been on these jsb as an
+assessor with the dicak dcma and right
+now there we the assessor has to go
+through the 320 items that we discuss
+and there's no getting around that
+because they have to sign their name and
+say I found this evidence the the
+company provides their evidence that
+they're doing these things and it has to
+number one cover the scope of their
+environment and number two be the right
+kind of evidence and so the the
+assessments are thorough so if you think
+it's going to be anything like a sock 2
+or ISO or anything else you've ever been
+through it is not it's nothing like that
+you have to really look at those
+objectives and satisfy all of them or
+you're going to be number one you
+probably won't be able to get an
+assessment because normally the C3 Pao
+would turn you away but I just want to
+tell people that it is it is something
+that they want to take seriously and
+start ready for now okay no that is
+awesome and it's great advice so it
+sounds to me like if I understand
+everything correctly that everyone's on
+notice right now right so in a week
+you're not going to be required to have
+a 53 or whatever that score is going to
+be in a week we might find out what that
+score is going to be but in about a year
+when that gets cemented then there is
+going to be a score associated with it
+and you're going to have to meet it if
+that requirement is associated with a
+contract you're on or that you're going
+after so it will most likely be at 88
+will be the most likely 88 okay is that
+your
+bet so if it's above that is it like The
+Price is Right I can bet above that and
+we can bet drinks or whatever on that if
+you can get to 88 out of 110 you'll
+probably make it through yeah sound that
+sounds considering you can be like
+negative 150 I think you were saying it
+sounds like a pretty good to me no that
+is awesome okay so what's the best way
+to reach you so someone's listening to
+this hey I need to talk to Karen and and
+figure out what I'm going to do here
+where can they go great so our website
+is WTI networks.com and that's networks
+with an S one one of the most important
+things you could ever do on my website
+is sign up for the certified cmmc
+professional class people think that is
+there for assessors to get ready to be
+an assessor for CMC but it's turned out
+to be the cheapest way for any company
+to get ready for the cmmc program it is
+the best investment ever it'll save you
+money on Consultants on on being able to
+do half of the work yourself and it's
+worth the five days all day long
+everybody who takes it says that so we
+we're a licensed training provider for
+that and that is something I would
+really consider sending somebody on your
+IT staff your compliance person send
+somebody through that at wtin
+networks.com and then hopefully we'll
+put in the chat the link to my site
+where you can find me you can find me on
+LinkedIn Ken
+wise and hopefully we'll put a link to
+that SPS Friday which we get a really
+good turnout for that and it just helps
+folks get at least their sprs score up
+there into the sprs system the right way
+awesome that sounds good we'll
+definitely put all those links into the
+show notes and we'll put this out on
+YouTube most likely too so people'll be
+able to get it in a couple different
+ways Karen as usual thanks for coming in
+and and helping to save everybody here
+and I can personally vouch for the work
+that you've done cuz like I said we'
+worked together with that one client and
+that was he was under short notice and I
+want to say within a week or so we were
+squared away and then we had systems in
+place that was awesome working I highly
+recommend you to anyone that's listening
+right now to help them figure this out
+thank you thank you for having me today
+and thank you for helping me spread the
+word so that everybody can keep bidding
+and winning all right sounds good all
+right everyone that was Karen here
+talking about cmfc on the dod contract
+at Academy check out the show notes find
+the links go attend her Friday briefing
+buyer course do what you have to do to
+get right here so you can start winning
+more contracts and we'll see you next
+time

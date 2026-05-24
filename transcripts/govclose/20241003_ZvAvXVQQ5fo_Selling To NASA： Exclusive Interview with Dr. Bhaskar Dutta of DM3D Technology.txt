@@ -1,0 +1,706 @@
+Kind: captions
+Language: en
+well hey everyone Thanks for tuning in
+to the dod contract Academy podcast this
+week today I'm with poskar and he is
+with dm3d
+technology paskar how are you doing
+today I'm doing great uh thanks for
+joining by the way and you know one of
+the things that we like to do is have
+companies on that are selling in
+different sectors to the government and
+just talk to them a little bit about
+their Journey and how they've been doing
+it and it's interesting for the audience
+to hear you know practitioners in the
+art and just to hear you know The Good
+the Bad and the Ugly so but what I'd
+like to start off with is maybe a little
+bit about you if you could tell me a
+little bit about
+yourself yeah sure uh so I'm I'm a
+Metalist by background you know that's
+my my bachelors Masters PhD everything
+is on metery and metal processing and
+yeah I've been this for like 30 years
+now and so a long time to be dealing
+with Metals but it's been fun it's been
+fun I I love metals and metal processing
+and uh currently our company what we do
+additive manufacturing so I've been in
+this added manufacturing for about 20
+years now okay excellent so Metallurgy
+is that I mean I would assume that falls
+kind of under geology is that where you
+first started kind of learning about no
+so it's like met metallurgical
+engineering you know so now it's more
+called Material Science and Engineering
+but when we did our Bachelors back in
+those days in 80s it was metallurgical
+engineering fully focused on metals and
+then slowly it evolved and people
+started including like you know Ceramics
+and uh polymers into this so the subject
+is more called Material Science and
+Engineering now but it's metalogical
+engineering and the way metalogy was
+defined in our days was making shaping
+and treating of metals in three words
+three simple wordss making shipping and
+treating so we start where the mining
+people leave you know the geolog survey
+the ORS in the earth and then mining
+people digs it out and then hands it
+over to us and then we take it over from
+them and then start you know extracting
+metals from the ores and then eventually
+it you shape them like you know bar
+stock or round stock or forging or
+casting or Extrusion whatever like
+usable forms right that's really
+interesting what um what got you into
+that initially what got me into that
+that is a long
+story uh so you know when I was growing
+up as a child like I had an uncle and he
+he was a mechanical engineer and he
+always inspired me to go into
+engineering okay would give me like you
+know toys and things to build things
+always building things and that's how I
+got into more mechanical engineering and
+then uh eventually he was working and
+then he switched into areas where there
+was a lot of overlap between Metallurgy
+and mechanical engineering so when I
+graduated from high school he was like
+you know Metallurgy is a very nice place
+to be in at this time so maybe you
+should look into that and I'm like okay
+give get a try so that's how I that's
+kind of how I got into this and it has
+been ever since my life and you're well
+I can already tell you're you're highly
+intelligent the only thing I knew about
+Metals uh back in the 80s was Metallica
+and uh that is that is a different area
+that's a different that's definitely a
+different area but it's all good that's
+exciting too exactly they're fun too
+they're still going they're still doing
+great um very cool okay so you grew up
+with that and you kind of inspired in
+that area um and then you went to school
+for it and when did you come to uh
+dm3d uh it's been uh so dm3d is a
+relatively newer company started in
+2013 but it acquired an older company
+pom group pom group uh was formed in
+99 uh it was like a sort of offshoot
+from University of Michigan so that was
+early days of 3D printing an additive
+manufacturing area H so Professor JY
+mazunda from University of Michigan so
+he had a patented technology and P group
+was formed with that and he recruited me
+to work for them uh back in 2004 so I
+started with P group in
+2004 now you know uh PM group remained
+like R&amp;D business it did a lot of like
+Federal contracts and advancing the
+technology and so on but Jodi being a
+professor you know his mindset was uh
+very much into R&amp;D he loved it and he
+was a great guy I mean uh one of the
+phenomenal
+researchers you ever had here uh so but
+but you know it was always R&amp;D So
+eventually in 20
+2012 like the group then which was
+funding it kind of said oh we need to be
+more commercial so that's when it kind
+of transitioned into dmcd technology so
+it was a new group dmcd and the new
+investors they wanted to focus it
+towards commercialization of the
+technology okay and that's when I I took
+over the company from ji and he kind of
+uh left the business and um went back to
+University so okay interesting so right
+now what's your role in the business
+right now so I'm uh the president and uh
+chief Chief Operating Officer of the
+company yeah okay so overseeing the you
+know the development and the growth and
+all of that right that's that's a it's a
+hard job uh you know before we get into
+like the Government Contracting aspects
+of it you know just because we have a
+lot of people in similar positions you
+know on the business that are that are
+listening here I'm just curious kind of
+you know in the job that you have now
+running the business what do you
+consider kind of the most challenging
+aspects of it in the most
+rewarding uh the challenging aspect is
+you know so the additive manufacturing
+of metals that's what we do it's a
+relatively new technology and the
+markets that we are working in is
+typically like space Aerospace and
+defense right now these are great areas
+and great feat for our technology
+however
+however uh these critical applications
+have a very long qualif ification and
+certification lead time which means you
+know you you demonstrate a product but
+to get it to production takes a very
+very very long time and that's a
+very difficult thing for particularly
+for small businesses you know I mean
+it's one thing when General Electric
+Aviation for example I mean they design
+a new engine they work 10 years in
+advance I mean that's common for them
+right uh that's very common in space and
+Aerospace but but for a small
+business uh if you were in a new engine
+program and you have to wait for 10
+years that's a that's a significant
+challenge you know I mean there's uh
+cash flow and all kinds of things you
+have to right handle so yeah with all
+the certifications and approvals and yes
+all the spec everything involved with
+Aviation and yeah I mean without even I
+guess without even introducing the
+Government Contracting process which
+takes a long correct yeah uh just the
+approval process for you know part yeah
+technical approval process Correa I like
+all of that I would think are um are
+things that you takes a long long time
+yeah okay um interesting but so you're
+doing you have a commercial line of
+Revenue but you're also selling to the
+government could we talk a little bit
+about that I mean it sounds like you had
+some government contracts in the
+original instantiation of the business
+um back in the early uh 2000s but you
+know this one and this is how I found
+you just I was I was researching in this
+area we hadn't had any additive
+manufacturing companies on the podcast
+and so I could see some government
+contracts that you've put together um
+can you talk a little bit about um how
+you entered uh the space and maybe what
+some of the first contracts you know you
+don't have to go into too much detail
+but kind of the first couple things that
+you guys uh worked on sure so um you
+know like I said um P group group since
+it was more like R&amp;D business so started
+with R&amp;D and advancing the technology
+and we started with uh sbir programs so
+I think one of the first programs we had
+was SB program with US Army okay
+developing you know new machines for
+this technology and we developed
+designed built demonstrated and then
+installed finally the machine in an Army
+Depot um that was during P groups time
+and then several systems were built
+including for US Navy and um so we we
+have like several systems in the in the
+dod look your company can't afford to
+lose $2.3 million a year in Revenue
+that's the average that small businesses
+make selling to the government and in
+this economy when things are fluctuating
+you want to have that stable income so
+my clients through DD contract Academy
+are able to take our process and win
+government contracts without wasting
+time and money our systems focused easy
+to manage and customized for your
+business you know with with the academy
+you're not alone we have weekly coaching
+where we can get our eyes on your
+business we can answer your questions so
+you get the framework and you get to
+speak with us each week to make sure
+that you are successful now I believe
+that this is the best platform that
+exists in the world for teaching small
+businesses how to sell to the government
+I haven't seen anything like it and the
+advice and guidance that we can provide
+to you and work with you to help you be
+successful it's just simply unmatched
+and at the price point that DOD contract
+Academy's at you know I think that it's
+at least worth giving it a shot trying
+it out for a month all you got to do to
+get started is join dood contract
+Academy go to dodc contract.com to do
+that watch our short easy to follow
+training modules and then put your
+system in place for winning government
+contracts and you're going to work with
+our team to do that uh so that's how we
+kind of started it and then that evolved
+into you know other programs uh right
+now our major customer is NASA for
+example and a lot of it is still SBS but
+SBI 3s where you are more in the
+commercialization phase you know not
+ones and twos but more in the threes so
+more matur level of the technology and
+so that's uh currently we we are doing
+several cers with NASA and then there
+are other programs also sure NASA yeah
+it's it's interesting because and then
+then for those listening that don't know
+uh what SBI is small business Innovative
+research uh program it's it's great for
+businesses that have Innovative
+technological solutions the phase one
+that you mentioned that's usually the
+first one you win it's more of a low
+dollar technological feasibility study
+maybe but yes what you're really trying
+to do there right is get a government
+sponsor someone to sign a a memorandum
+and uh sponsor you for phase two right
+which helps you to actually develop the
+solution now what I find interesting and
+in right now I mean that could be
+between one and 1.9 million um I saw one
+for 1.9 million just a couple days ago
+it keeps going up each year uh and of
+course you can win multiple phase 2os
+and we've talked to people that have
+done that Y what is interesting though
+about what you're were saying is the
+phase three right because a lot of uh
+people will refer to that is you know
+the Valley of Death getting between the
+phase two and the phase three a lot of
+companies struggle there struggle to
+ever go uh Beyond pH two can you talk a
+little bit about that and maybe how you
+leveraged your cber experience and and
+turned those into phase
+3es
+yeah it's all about so phase three is
+like exactly like you said uh phase one
+is basic level R&amp;D right just proving
+the concept and then two is more more
+proving the uh entire thing like not
+just the feasibility but demonstrating
+the whole concept and three is the
+commercialization of that so when you
+are actually making these machines for
+example some of the programs we built
+machines for US Army under
+commercialization program and
+demonstrated some of the earlier concept
+developed in Phase to so built parts and
+demonstrated that you can make
+manufacture these parts to the Quality
+needed using the phase three
+funding it just simply allows you to
+work towards more uh real life
+components and things you know uh that
+an user can actually use it it's not
+just a demonstration but a real piece of
+Hardware or anything else uh you know uh
+Design Concepts or whatever it is uh but
+more ready for the end user to use it
+and test it out so you could do even
+field testing under uh such
+commercialization programs yeah the the
+cber program offers some benefits as far
+as being able to eliminate competition
+and sell directly were you able to take
+advantage of those
+or we did some some uh Soul sourcing yes
+uh we we were able to do some soul
+sourcing because uh these Solutions were
+developed specifically for the end user
+you know by our company and our alone so
+yeah if that justifies then you can take
+advantage of Soul Source okay it has to
+be justified you know it's it's not just
+because somebody likes somebody else but
+it has to be properly Justified that
+there's no other solution exists and
+things like that yeah it's one of the
+it's one of the nice things about sbirs
+it does there is language that allows
+for the soul Source contract like you
+said it has to be justified however the
+um without the cber a soul Source
+contract can be a lot harder for the
+government to award um versus having a
+cber under your build if that's the
+solution the government is looking for
+so um no that's great could we talk a
+little bit about maybe some of the other
+ways that you've sold to the government
+or um Contracting mechanisms you know
+have have you guys ever been involved
+with subcontracting with larger
+businesses or maybe competing on you
+know one of the like a NASA soup or GSA
+yeah so not GSA but we we have done you
+know we we work with uh defense quite a
+bit so part of it is like directly some
+of the cim programs but
+also for some of the Prime contractors
+for government like for dod you know so
+there are multiple like you will go to
+our website and see Huntington Engles
+for example ba
+systems uh then aoet rocket D so these
+are different uh company that are prime
+government contractors or DOD
+contractors sure and we do subcontracts
+for them uh in in some some of the
+programs you know yeah and that's it's
+pretty common uh to have a mixture of
+you know primes and subcontracts and of
+course the big defense contractors I
+mean they sub contract to a lot of
+different businesses do you have any
+advice for a company that you know maybe
+they have their foot in the door maybe
+they've want a siber but they haven't
+subcontracted yet with a larger business
+business you know maybe you know things
+to watch out for and maybe some best
+practices um I I didn't get the question
+quite uh so you're saying sbirs are
+strictly for small businesses right what
+I was saying is some small business
+owners that are listening to the podcast
+may have their foot in the door they may
+have a sbir maybe they have a contract
+as a prime but a lot of them are
+thinking about subcontracting with some
+of the big defense contractors but
+haven't done it yet and I was wondering
+if you had any best practices or or
+cautions to somebody that hasn't
+approached that
+yet well uh you know I mean the best way
+is just simply to to reach out to them
+and uh you know demonstrate what
+technology you have and then start uh
+discussing but what cber does is it's a
+it's a funding opportunity uh you know
+so you can fund some of the research
+through this IAL phase of work that
+nobody else wants to fund typically you
+know uh so you can take advantage of
+that and do a demonstrable solution and
+ideal is you know while going into phase
+three if you can connect through
+government um to one of those Prime
+contractors who are actually having
+service contracts for government for
+that kind of uh jobs you know so let's
+say taking an examp example I mean we
+are doing uh uh engine component rocket
+engine component for government right so
+there's already some of the contracts
+are given to you know these big Prime
+contractors so in phase three when
+you're going in if you talk to your DOD
+partner and request them to connect with
+the actual uh prime contractor for that
+piece of business they'll be happy to do
+that because at the end it's also there
+goal to transition this newly developed
+technology to a regular you know
+production channel for them it's not
+just for the purpose of doing some R&amp;D
+right so if you reach out to them and
+that's what we have done you know they
+have been extremely helping always to
+connect us with the prime contractors
+and we all work together funding may
+come from government D but we all work
+together because it's great for them to
+see what's happening and for government
+as well uh to connect uh the prime
+contractors and the sub potential sub
+subcontractors you know right now that's
+that's interesting I don't think we've
+talked about that meaning using a a
+Government contact maybe the program
+manager or Contracting officer engineer
+someone you working with on the
+government side or user through the
+civer program and and having them link
+you to a prime contractor uh or a larger
+defense company which you know as you're
+saying it it's it's pretty it's obvious
+to me like I'm thinking about all the
+times that you know I would I would link
+companies together hey we're using we're
+working with northri on this one working
+with right you know uh Boeing or locked
+on this other one maybe or Bae like
+you're you're talking about so and
+making that connection for them that's
+that is a good question maybe to ask if
+you're in that position as a small
+business yeah yeah absolutely you know I
+mean I I I think like this is a win-win
+for everybody right I mean it's good for
+government good for the prime and good
+for the small business as well yeah
+because government typically does not
+order one piece of component two pieces
+and here and there I mean it's a whole
+engine they're going to buy they're not
+going to buy components by itself at the
+end of the day you know sure but so you
+have to work with whoever has the
+contract for the engine you know uh if
+you want to go into that route and
+Supply product parts that's that's a
+good that's a good point because you
+know a lot of companies when they first
+approach this maybe aren't thinking
+along those lines where I mean and it
+doesn't have to be something uh as um
+you know sophisticated as building a
+rocket engine it could just be someone
+who has a you know a software or
+technology that is an API connector or
+you know something to do with uh if
+human resources or user interface you
+know the government typically buys the
+solution they want to purchase just the
+if I was the government and I wanted a
+human resources solution my solicitation
+probably wouldn't be for the a the
+company that does the API interfacing
+and you know kind of connecting
+everything I want the total solution so
+that company may have to partner with
+you know you pick your you pick your uh
+company your software business that has
+that solution and they can integrate
+with them um and of course sometimes
+there's there's subcontracting
+requirements for small businesses that
+the government puts out so that's that's
+something else I guess to keep in mind
+yeah sure absolutely now part of sbir
+typically on most sbirs that I've seen
+there's a requirement or a at least a
+government intent that technologies have
+dual application dual use like you know
+if you if you develop something in the
+cber program a lot of the time you know
+they not only allow but want you to be
+able to sell that commercially uh have
+you guys been able to take advantage of
+the commercial uh line of Revenue in a
+you know I guess in association with
+some of the SBI work you've
+done yes indeed uh so again going back
+to the space industry because that's uh
+unfort that that's our biggest area so
+whenever I talk I I'll do multiple
+references of space uh so uh yeah what
+what what we're doing with for example
+um some of the development work with
+NASA so uh it's uh it's you can these
+are all dual Ed technology so you can
+use it uh for DOD for maybe in the
+missiles area but also in the commercial
+private space industry you know so we
+have uh we do have private space
+customers similar propulsion
+Technologies of course the designs are
+different there are some differences
+here and there but the base concept uh
+once the technology is developed I think
+you can use in dual use and that that's
+a big plus point in SBR programs yeah
+and you're in a really cool area too
+that really interesting I mean you must
+you're probably on a first name basis
+with Elon right now you guys uh uh we do
+not do any work with Spex I've been in
+their headquarters but we we do not uh
+they are not one of our cust okay I just
+they do most of the things inhouse so
+they don't Outsource a lot um as far as
+I know any yeah I was just taking a shot
+in the dark there yeah but we we do have
+other private space customers yeah okay
+oh no that's awesome that's I mean it
+sounds really really interesting what's
+what's next for you guys what's on the
+horizon as far as
+government work or maybe just you know
+where you think the company's going to
+be headed in the next 10
+years uh what we are focusing on uh Rick
+is uh large metal part manufacturing so
+uh typically additive manufacturing uh
+right now you know the most uh accepted
+or adapted version is powder bed Fusion
+it's called and people make parts that
+are about maybe 30 40 Ines in size but
+what we are targeting with our
+technology which is called like directed
+energy deposition technology this is a
+Asm category so with this uh process and
+Laser and powdered metal we are
+targeting printing large metal parts so
+we have printed some parts for NASA that
+are about 10 feet in size oh wow so
+you're printing a part that's taller
+than you know average human being and
+smaller and these are like rocket engine
+nozzles and uh so with this uh big part
+printing technology we're trying to push
+the envelope of additive metal
+printing uh so there are a lot of like
+space industry components that are very
+large and currently you know these are
+forged or cast uh we have trouble here
+right now getting forging and casting
+some of the suppli chains are affected
+because of the war in Europe and so
+there's a lot of supply chain issues so
+we're trying to fill in that area and
+produce some of this casting and forging
+Replacements with our technology cut the
+lead time I you know some some of the
+programs we are working on uh lead time
+is between 14 to 18 months and we're
+targeting to cut it down to like six
+seven months oh wow so you have less
+than 50% lead time for some of these
+large large Parts at the same time we
+are cutting cost of manufactur facturing
+that's amazing so Parts in the defense
+uh you know Navy programs some of the
+Navy programs and uh there there are
+multiple applications but we're
+targeting more like large metal Parts
+sure yeah uh extremely interesting and
+so let's let's pivot a little bit here
+so that's where we're going and by the
+way I think most people when I thought
+additive manufacturing I was definitely
+thinking you know small small parts
+right and those are the you know I've
+been that's the most popular today you
+you're absolutely right but our our
+parts I mean if somebody goes to our
+website uh dm3d tech.com uh you you will
+see like a large rs25 engine nozzle
+liner for NASA that we printed so this
+is the engine which powered the emus
+mission for NASA you know the space
+launch system so this is like when you
+see the space launch system I mean it's
+a tiny engine at the end but that engine
+is about uh 14 F feet tall the whole
+engine and the nozzle liner is 10 foot
+tall you know oh yeah one it's a
+significantly large piece of metal there
+one of my bucket list items is to see
+one of these space launches in person I
+haven't uh I haven't managed to do it
+yet but I hear it's uh really
+interesting NE neither did I you know so
+like last year um I I was in Johnson SP
+Center so I was um touring um I I took
+actually my daughter she was in a
+competition there so they were were
+hosting the competition so I went in
+there and I just walk in and then
+there's a model of rs25 engine right
+there as you walk in and I show my
+daughter and this is the part we are
+printing here at dm3d you know you
+should see this picture so yeah she was
+very excited seeing this me was more
+excited than her I was oh I bet it
+sounds like she might be uh she might be
+taking on the uh the family business
+here is she uh headed to be engineer or
+maybe an astronaut or something
+she might go into engineering but she is
+doing actually chemistry so in college
+so okay you uh I showed uh I showed you
+my ignorance to the different
+engineering fields and uh I got I got
+schooled a little bit when I uh about
+halfway through my Air Force career I I
+switched from flying to Acquisitions so
+now I had an engineering team that was
+uh working with
+me my chief of engineer uh I made a I
+made a comment about um I basically was
+saying all the engineers were you know
+you know kind of the same or had the
+same education he's like no Rick no he
+goes there is a pecking order of
+Engineers and at the bottom you have I I
+believe he said civil engineers in his
+mind were kind of at the bottom of the
+list he had but he had chemical
+Engineers way at the top of that list I
+remember and uh it was a it was a fun
+little uh competition among all the
+engineers to kind of claim who was the
+the smartest or best career right right
+yeah uh you mentioned your website uh
+dm3d tech.com for the audience if they
+want to reach out to you is that the
+best place to go if they're a small
+businesses or somebody interested in
+your technology on the government side
+absolutely yeah there's um email address
+and phone number so they can reach out
+directly there uh through that uh to to
+to us and we'll we'll get right back
+to Perfect all right well you guys heard
+it here first so we'll put the uh the
+address the website in the show notes so
+anyone can go in there and click on them
+if you're listening to this uh pgar
+thank you for coming on the show today
+this has been an awesome conversation
+probably one of the most interesting
+companies that we've talked to uh
+especially considering How Deeply you're
+involved with the space industry thank
+you Rick I I really appreciate this
+opportunity to talk to you and uh all
+the best for your program oh thanks
+again all right everyone Thanks for
+tuning in to this week's episode DOD
+contract Academy with dm3d if you want
+to learn more about selling to the US
+government head on over to DOD
+contract.com where you can check out our
+Academy our blog page and see some of
+our free training and until the next
+episode we'll see you next time

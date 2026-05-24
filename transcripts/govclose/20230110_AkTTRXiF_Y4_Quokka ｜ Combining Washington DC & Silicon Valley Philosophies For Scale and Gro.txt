@@ -1,0 +1,1074 @@
+Kind: captions
+Language: en
+[Music]
+um thanks everyone for listening today
+my name is Ricky Howard you're listening
+to the dod contract Academy podcast and
+today we have an amazing interview uh
+with you we have Angelos the founder of
+quoka here formerly crypto wire and uh
+we're going to uh delve into what quokka
+is a little bit of Angelo's background
+and you know just wherever the
+conversation takes us today you know we
+had a a little bit of a conversation
+prior to this uh you know I have a
+little bit of an understanding of you
+know why you started the business and
+how the government helped but maybe we
+could start with you sir maybe could
+introduce yourself to us tell us who you
+are
+hi I'm Angelo Stavro I'm a professor at
+Virginia Tech I used to be a professor
+at George Mason and I like to work with
+my students to create new companies and
+transition some of the technology that
+we have and we're building a very
+delicately at the University
+to practice and create uh environments
+where students take their ideas to the
+next level and become innovators and
+entrepreneurs and they can actually
+leverage some of their ideas to instead
+be you know working cogs inside the
+company to actually have their own
+companies and grow their own ideas well
+that's awesome and let me ask what did
+you teach
+uh actually uh this semester I'm not
+teaching anything because I am preparing
+a new
+um a new program within Virginia Tech
+that will allow us to teach
+um the next generation of
+Entrepreneurship uh Engineers uh how to
+basically think about sales about
+business plan about intellectual
+property and allow them basically to
+grow their ideas like I grew my idea
+when I was a faculty into a company sure
+we don't expect everybody to succeed but
+we expect them to get a formal training
+and allow them to interact with mentors
+and other industry experts that will
+help them save their ideas that's really
+interesting because you know you think
+of a lot of the you know the engineers I
+worked with in the Air Force or you know
+some of the companies not a lot of focus
+on the business side of things right
+through when they're going through your
+school but that they have some of the
+the best ideas I mean that's what
+they're doing they're solving problems
+so
+um
+we want to show them that the idea is
+the starting point but in order for the
+idea to grow into a company there has to
+be additional work to be done and and
+that sometimes that work is significant
+in terms of like market analysis uh what
+you're trying to solve is the con what
+is the customer expecting of you
+we as Engineers are mostly thinking
+about the end product and the Prototype
+but in reality you have to do a lot of
+marketing analysis market analysis
+intellectual property uh search because
+sometimes your idea you know has been
+done but you just don't know about it
+right and how do you create a business
+plan how do you approach the venture
+capitalist to raise your first funding
+who is going to give you your first
+funding it's going to be the government
+you know are you going to have a product
+that you will sell and we're teaching
+people how to think about these topics
+because you know if you give money to an
+engineer the engineer the first thing
+that he will do is when I try to create
+a prototype even though he doesn't know
+know if the customer really needs that
+prototype or not right
+so and the lessons that I've learned
+from quokka and crypto wire and how we
+cater to the customer the customer first
+and how do you make uh you know how do
+you make your idea be something that
+other people would like to use is what
+we're trying to teach here
+sure and that's
+um it's extremely interesting subject
+and you're right it's not the first
+thing people are thinking about they
+have a great idea and they're not
+thinking about the business angle of it
+and of course you know we focus on you
+know military and government uh sales
+and that process and that's a whole
+different uh skill set I guess you could
+say
+um well so maybe we could start back in
+the University right because I believe
+that's where you said the idea for
+crypto wire at the time came from
+working with a couple of students um
+yeah I was in sabbatical and we were
+working with couple of students on some
+of the ideas that we were brewing and
+then we realized that you know we have
+an idea for a mobile application
+security tool and the students were
+about to graduate and they wanted to
+start a company and I helped them while
+I was on sabbatical and then we
+basically uh picked it up from there and
+as I said uh the first important package
+for us was the DARPA the dod Branch for
+research as you probably know and they
+helped us basically with the initial
+funding and then we created them you
+know our first product that we actually
+sold to different uh you know agencies
+within the government plus
+Enterprises and then
+the second being the big push came from
+Department of Homeland Security the
+Science and Technology division where
+they trusted us with funding to build
+the next generation of the tool
+and then the company grew very
+organically without external funding
+until 2020 we then started bringing
+people from Silicon Valley because you
+reached that point where you know you
+need to scale and grow and then uh we
+brought people from Silicon Valley to
+help us with a primarily with a
+marketing business development and uh
+the market side of things which as an
+engineer myself at the basically
+underdeveloped over the years because we
+were selling the product but it was
+primarily due to work word of mouth and
+right not really a marketing strategy
+and uh you know the company then
+rebranded to quokka because we wanted to
+avoid you know the cryptocurrency
+association of crypto wire with the
+first part being crypto and then we we
+naturally grew and now we have received
+the 21 million dollar uh you know around
+a I would say later on day funding and
+then we are growing
+um and you know our sales are growing
+everything the company is scaling now
+so we are very healthy in that sense
+I I want to ask because I um you know
+public sector information is I always
+say is public which is nice about
+selling to the government and kind of
+see what what people are doing
+um could we talk about
+um maybe your initial because a lot of
+uh businesses listen to this web uh
+podcast and they're interested in how
+they get their first win with the
+government yes and others is certainly
+interested in how you scale but um so
+DARPA yes so so I will tell you
+um that uh at DARPA we we started as a
+university project but then DARPA showed
+the potential for a business out of this
+and as I said at that moment that was on
+sabbatical and then I took the
+opportunity to receive to create a
+company and help my students that were
+graduating to work on it I think that a
+lot of people don't know that but the
+government provides a lot of seed
+funding through uh approach a programs
+called sbir small business uh research
+Innovation grants and they can actually
+very very quickly receive a 150k for a
+phase one and then that's I think it's a
+Million Dollar Plus for second phase and
+then even more for third phase and that
+also provides a vehicle where the
+government for phase three can actually
+uh award up to 25 million in licensing
+without having to compete because it
+comes through that process this spir
+process that's very valuable for small
+businesses and people who have ideas and
+I think that the the process
+has uh you know I mean we don't have
+enough sbirs coming out but there is
+also open sbirs and usually if I would
+advise the people who are actually
+working with the government or intending
+to work with the government to approach
+the program managers because many of
+them have access to this sbir grant
+programs and solicitations and they can
+actually help them get through that
+process because that is what we call in
+in the parlance of Entrepreneurship
+non-dilutive funding which means that
+the government has some rights but they
+they you can keep the
+commercial rights for all your ideas
+without having to have someone owning
+part of your company right at the same
+time you have a prototype out of the
+process that you can Market yourself
+without any any uh you know any any red
+red tape from the government the other
+piece is that the government through
+this sbir process has a lot of training
+seminars and also helpful
+experts that can actually come and help
+you with your business plan and help you
+develop and go to market strategy which
+is actually something that in most of
+the people that I've seen working with
+the government we lack like we are very
+good at building something the
+government really likes it but if you
+don't make it a product then it becomes
+very hard to maintain update and
+integrate in at scale within the
+government so the important part and
+that's not happening easily is when you
+have the first product the com the
+government might buy it how do you
+convert that product now into a
+commercial product and then separate
+what you want to do for the government
+or at least create some sort of bridge
+between what you do from the government
+with entrepreneurship and Commercial
+piece while helping the government
+basically reduce the cost by having that
+commercial product which helps you also
+reduce your costs and of course survive
+as a company yeah you know what you're
+saying the companies especially
+technology companies that have been
+successful it's it's almost like a
+repeating uh podcast interview where
+they get their start with either sbir or
+maybe partnering with a university and
+going for an sttr quite it's very
+powerful program for a lot of businesses
+to get their foot in the door in and
+help them you know develop their
+relationships and get the vehicle like
+you said in the initial investment
+um but you uh you touched on something
+that I would say a lot of
+um I would call like the second phase
+companies that I talk to are having
+right where they've now been successful
+they've done super phase one they've
+done super phase two in some cases a lot
+of super phase twos
+um but they are now struggling to bridge
+that Gap and I think you just touched on
+it from it's great to have super funding
+and it's great to be able to sell using
+that mechanism but getting from there to
+a program of record especially if you
+have something that's really Innovative
+in it
+here's where the cuts is here a lot of
+people they're trying to is the program
+of record but I think that phase two
+should actually push you to do the
+commercialization on the piece more
+carefully in other words where you spend
+a lot of money in technology at the in
+phase two and this is a mind shift you
+have to now spend a lot of money in
+business development and marketing and a
+lot of these companies do not realize
+that this is the next step so you have
+now good enough product that has made it
+through the phase too it is as an
+engineer you have to fight your Natural
+Instincts to try to improve the product
+and instead freeze the product at a
+stage where you think it's good enough
+for the customer they will not never be
+a perfect product but important is does
+it meet the customer needs and then
+spend more time and energy by bringing
+people from the outside doesn't have to
+be someone that you have to hire you can
+have Consultants you can have a lot of
+companies do that and going a little bit
+into the Silicon Valley mentality where
+you bring in teams where they take your
+product and they help your sales people
+to get out of the government not have
+only government facing sales people but
+also have really commercially sales
+sales people where you now shift some of
+your government sales to be a small
+percentage the first you know quarter of
+commercial sales and as you see if then
+you blend your commercials versus
+government strategy
+you can actually grow and allow you to
+basically reduce your cost and also now
+be able to make a case of being a
+program of record to be a program of
+record you should you have to be able to
+support large scale and I will be very
+upfront right I don't think that many
+there is this gap between the phase two
+as you mentioned and the program of
+record and that Gap cannot be overcome
+if you do not have commercial sales that
+can show the viability of the company
+outside of the government space
+otherwise what happens is that you are
+trying to reach for the the because of
+the government is very slow to
+transition this hpir phase two and
+sometimes phase three to programs of
+record you are not getting the funds
+that you need to sustain that growth and
+then the companies they have to drop
+that product literally drop that product
+and then have to shoot for another sbir
+phase two which based on their track
+record they probably will get it but
+then basically they draw the map from
+scratch for another product which ends
+up having this bad cycle where it
+doesn't become a commercial product so
+you have this very good companies with
+very smart engineers
+but basically they keep restarting this
+productization effort because there is
+no trans real transition to
+commercialization but frankly creating
+custom solutions from the government
+which they never become a product
+right that's really smart and it's not
+something that I hear very often I think
+we talk about it
+um you know big picture so for like I
+will talk to people about having two
+streams of Revenue right a government
+stream of Revenue and a commercial
+stream of Revenue which I think is
+critically important because you can't
+make the government buy something from
+you the government you can't pressure
+them and like you said
+you can't drive that program of record
+right so where you cannot it's slow too
+so so by the time that you need a
+program of record it might be four or
+five years down the road but you will
+not have survived that cycle right the
+other thing is that it is very crucial
+to be able to have a marketing and go to
+strategy go to sales strategy the sales
+strategy for government and Commercial
+are completely different
+many many folks that I talk to we have
+the DC mentality which I am to blame too
+that basically if you do well within the
+government why do you need to look at
+commercial that's the mistake
+you need both I'm not saying you should
+drop one to get the other now Silicon
+Valley has the complete different
+approach why would you need the
+government right we can I mean oh put
+your program I mean sell your product to
+customers do commercialization why do we
+care about the government that's not a
+good mentality that I think that there
+are very few companies like palantiris
+one of them that they managed to do both
+and they're super successful
+I think the key here is that
+we can leverage uh the government to
+create to get the good ideas out there
+the products that they need which
+usually have high overlap with finance
+and other sectors that require high
+contrast or security but you need
+to change your mentality the moment that
+you have that product in a good shape to
+bring in another team to allow them to
+commercialize that product and talk to
+other than government you know entities
+large corporations Finance like
+different verticals and create a
+go-to-market strategy with a different
+sales team invest in that so you can
+create the necessary momentum for the
+product to cut outside of the government
+so you can go back to the government and
+say hey other people are buying my
+product outside of of the government so
+I mean I have legs now to to move
+common let's let's see what we can do
+for us we were lucky enough to have that
+Traction in the commercial space to
+allow us to survive long for the
+government to come back
+and now we have a very large sisa
+contract I mean we're going through um
+you know uh ato's authority to operate
+process and you know Federal process and
+all of that
+but they take a long time and if you do
+not have the breeds funding from the
+commercial VCS to allow you basically to
+you know survive that that Gap you won't
+be able to do it you won't like I mean
+I've seen a lot of smart people
+basically keeping pressing the restart
+button
+yeah it's uh there's also another good
+reason aside from just staying alive
+until you can get that extra Government
+funding which is you know one of the
+reasons the government likes dual use
+Technologies which is usually baked into
+sbir just you know if I put my
+Acquisitions head on you know we had
+certain software Suites that we had to
+keep alive for our weapon systems that
+weren't dual use which meant that every
+time we needed a software update every
+time we needed to do anything to it it
+was completely up to Government funding
+and it would cost more and it would just
+at the end it was never as good as a
+product that existed both commercially
+and on the government side that was
+constantly being updated whether we were
+kind of paying or not right so when it
+came time for us to buy the license
+we're buying the most current license or
+the most current iteration of whatever
+the tech is
+um yeah so I mean that's really smart so
+having you know the government funding
+and the commercial funding is is great
+for you know whether the economy is
+fluctuating or whether the government is
+taking a long time to get you the
+funding and so you took it to a point
+where the government came back around
+and in your focus from what I understand
+in our conversations which was really
+important is mainly on mobile technology
+and securing mobile services so we laser
+focused is important we tend to focus to
+a lot of different things that the
+product can do but you need to think
+about what is your first customer how do
+you make a product that makes a
+difference it is unfortunate that you
+know in DC we have a lot of people with
+good ideas but eventually they have what
+we call you know bats in seats like
+people put people inside organizations
+instead of actually productizing their
+ideas to the point that someone else now
+comes up with that product and then the
+license licensing which is you know what
+makes you real money is not happening
+from the people who might have already
+invented that idea but you know a
+commercial company managed to basically
+um leap from them and get them get them
+in front of them I think that the region
+that we are in has a very strong
+engineering and security especially in
+security and privacy and everything that
+is government related in terms of
+operations uh personnel and highly
+skilled workers it's just that we do not
+have the
+um I would say the proper background or
+training to take advantage of that to
+the next level and I see a lot of smart
+people as I said uh reaching a point
+where they have something that's mature
+but because they're trusting the
+original process which is Government
+funding Government funding Government
+funding to take them to the next level
+and that doesn't materialize as quickly
+or as timely as they would like then
+they create the Gap comes in and then
+they have to drop it whereas at you know
+if you think reverse that thinking and
+reached that point where you have an MVP
+and you say Hey you know why don't I go
+Pizza to uh venture capitalist see what
+he thinks and then you know with a
+mature idea you go we have some sales
+you get better valuation for your
+company you get better term sheet then
+you turn around you get that money and
+now guess what you can build that sales
+team that is not you know this you know
+customer facing in terms of commercial
+customer facing and
+and then have the other government work
+happen in parallel while it matures you
+grow your company from the commercial
+sector and then you switch back or
+continue basically supporting the
+government but without having to depend
+you know on the fiscal year or when is
+the budget gonna pass am I gonna get my
+next increment when is going to happen
+uh do I have to fire people because you
+know for you know if you fluctuate your
+Workforce it's very hard to regain
+people that you had to fire just because
+there was a downturn sure yeah no that's
+that's an important Point
+um could we talk a little bit about the
+the threat of mobile devices itself and
+kind of maybe why uh why you decide to
+focus there why your passion is kind of
+protecting these and where the where the
+problem set is that you solve
+so you know originally we started um as
+a company we tried to protect the
+War Fighters that were deployed in
+you know unknown or even hostile
+environments where they would have to
+carry their mobile devices these devices
+would connect to foreign networks uh
+data would be Target for example a
+photograph you would upload it to
+Facebook Facebook now had your GPS
+immediately if you have you know
+soldiers that were posting photos on
+Facebook all the US bases were actually
+on online for an adversary to mind the
+information and that's a real story it
+happened basically where back when
+people were deployed in Afghanistan and
+other places so for us we started by
+looking into okay what type of
+information are are these devices
+collecting where that information is
+stored what are the side effects can we
+identify apps that basically
+um have no bad permissions or
+permissions that are allowing third
+parties to exfiltrate information about
+it
+but the users and the devices for
+example you have a weather application
+that makes a call it reveals where you
+are in order for the application to
+actually get the forecast but does it
+have to be the exact position it can be
+the region right that's okay too
+and part of what we are trying to
+understand is how to protect the
+Warfighter of course if you think about
+it nowadays
+every user is worried about the mobile
+data the data basically with the phone
+collects has a lot of sensors
+from Health applications all the way to
+banking we store a lot of data on our
+mobile and the reason that we focused on
+mobile is because we have anticipated
+since back then that mobile is going to
+overtake the traditional compute in
+terms of things that the actual end user
+is doing and if you think about it you
+don't carry your laptop everywhere but
+you do carry your phone everywhere
+including your bed including like places
+that you would not carry other devices
+just because you want to have all your
+wearable forget even about your phone
+you have now a watch and you're wearing
+it yeah you might even wearing when
+you're sleeping right and you might just
+take it off to charge it in the future
+the charging is going to become less
+frequent which means that you will have
+it even more often so for us
+it's not about the device itself it's
+about the data and the person so we put
+the user first we need to understand how
+data collected by those devices like
+mobile wearable iot devices
+are affecting
+the ability of the user to perform
+specific uh tasks meaningful meaning
+that we do need the data to be able to
+basically you know if someone finds out
+that you have an irregular heartbeat you
+do want that data but who gets access to
+that data is the real question how do
+you integrate those devices to a
+work-life environment where you have a
+company that you work you go back home
+maybe your kid picks up the phone you
+want to have some sort of seamless
+integration of this technology with our
+everyday life and so far what we have
+been doing is that we try to separate
+the two by having a work phone and you
+have like a personal phone and then
+guess what uh the two of them have
+somehow to exchange information because
+like you do stuff on one phone or you
+don't want to do stuff on one phone and
+do stuff on the other phone but can we
+actually integrate these devices because
+guess what they're around us we're
+wearing them
+how can we do that so quokka is trying
+to address the problem of
+how can we trust how can we manage the
+data on our device and at the same time
+make a third party like a company trust
+that our device is not compromised or
+doesn't have you know applications that
+can compromise a back-end system or the
+documents that you have so we're trying
+to separate in the device what you do
+for work what you do for personal things
+and then if you want to have to wipe the
+device you don't wipe everything on the
+device basically you can just you know
+remove the company
+uh data so in other words you know you
+have photos
+you have some documents that you
+downloaded through email and now you
+were working for a company and you
+decide to change company you want
+somehow very easily to have your phone
+with you like bring your own device and
+the phone can be sanitized remotely by
+wiping the data that are relevant to the
+company that you work for so you can
+join another company right so part of
+what we are trying to do is basically
+create that environment like Vision our
+vision is that you you have to have one
+phone and you have to have iot devices
+but you are in control of your data
+people should not see your data should
+not inspect your data they should only
+be
+uh concerned about the apps that we have
+and how these apps are operating on your
+device because inherently the user is
+not malicious but and you cannot control
+the maliciousness of the user but you
+can control the maliciousness of the
+apps and how they handle data right yeah
+no that is really interesting especially
+and I can very distinctly remember you
+know being deployed as a military guy
+and being told hey
+don't post your pictures because they're
+going to know where you are or hey you
+are having to carry two phones right and
+inevitably you know two phones you lose
+You've Won and all of a sudden one
+phone's doing both you know because you
+have to
+um and when we talked a little bit too
+about how you know individuals don't
+want the companies they work for to own
+their data no they don't and and I mean
+I don't I like I personally don't want
+to because and I will tell you why
+because you never know when you will do
+something that's not going to be a
+corporate thing just because you have a
+phone in front of you and you just
+browse something yeah you don't want
+that information to be leaked and
+transported then worse now in European
+Union has these rules where you know the
+data provenance becomes a problem and
+the companies now have to be responsible
+for the data provenance of the devices
+that they issue to the users and also
+they have to have an Ops team that will
+look into that data to make sure that
+they're not transported to a cloud
+provider that's outside of the region
+there are a lot of hairy uh regulatory
+uh concerns and and you know another
+problem is that why would you want to
+care about the data of the user whereas
+you care about the behavior of that data
+that are pertaining to the company not
+the personal data so if you can
+Safeguard those data that are company
+related you don't have to worry about
+what the user does with the device on
+his own time no you're right that's it's
+really important so now it's very clear
+how that would be used uh commercially
+right for like you just use the example
+of people working with different
+companies so obviously you have a strong
+commercial armor of business and now
+you're you're back with the government
+or are you looking at using uh quokka in
+the same way with for instance you know
+iPhones that government employees
+military personnel right sure so I think
+that the government is wasting in quotes
+a lot of money by using all these
+managed devices that they have to issue
+to the to the soldiers to employees and
+yes there are some employees that they
+do not do need to have the protected
+highly protected device but there are
+many many others like 90 of the other
+people who they would be very happy to
+have their own device but that device
+have some sort of protection and
+notifications that is not the
+traditional out of this box uh software
+that we have but something additional to
+that that will allow us to understand
+how the data are being processed do we
+have any apps that are risky what is the
+risk that is up introduces where do my
+data go I want to know so for example if
+you take a quokup and you open the first
+thing that you see it's a map of where
+your data go so if you open that up and
+you see where the data go and you see
+some data for example going to Europe
+you will question which application is
+actually sending my data to Europe why
+is that happening
+what type of data is that so being I
+think the users are not really aware of
+what's happening on their devices and
+helping the user being aware you're
+actually arming him with enough
+information and enough knowledge to
+understand the risk and at the same time
+protect himself
+Beyond just the data that you have from
+the government or the military if you
+protect the user you're actually
+creating a protection and protect
+endpoint protection that's actually
+embracing
+more activities of the user instead of
+less activities including his personal
+life which reduces the risk for that
+person which is a benefit at the end
+because what if I can manage to get to
+your personal phone and then I either
+harass somewhere or find something
+that's embarrassing to you and try to
+Blackmail you but if you have that
+protection and that is avoided that's
+excellent right now we we talk about us
+offering a service to the end users as
+part of him being part of the you know
+military family we protect your device
+and then guess what you're also getting
+all the benefits that you would get if
+you have you know a military device but
+you get to bring your own device which I
+reduce my costs that would be uh that
+would be very convenient if I I'm just
+putting myself it wasn't that long ago
+having to carry those two devices with
+me everywhere or three sometimes three
+yeah being able to use one that I could
+keep and not have to worry about because
+you know just like in the commercial
+world people are you know maybe we'll
+spend a couple years at one company and
+move on you know the military personnel
+you know very often are moving every
+couple of years and you know you have to
+turn in the phone get a new one now your
+passwords everything else are on the old
+phone it could be
+um
+but it's also very difficult to manage
+because there is a lot of mobility in
+fact you want to be able to have
+seamless transition from one location to
+the other and you want to own your phone
+so you can actually have as we discussed
+you will use that's exactly what you
+will use you want to be able to have the
+ability to use your phone for personal
+and work use and I understand that there
+will be some cases where you know you
+have clearances or very very sensitive
+data sure that warrant we have a
+separate device and yes that is some
+these cases that coca is not going to be
+able to help but for the majority of the
+cases where you have literally people
+who sit on the front desk they don't
+have access to any sensitive data but
+they just want to use like their phone
+but because they're part of the
+organization now they have to have a
+managed phone and now they have to have
+a second phone or a third phone we want
+to actually try to avoid that and but
+also at the same time reassure the
+company or the government agency that
+they work that the phone is just not a
+rogue phone that someone brings in and
+you know they can just put any
+application and then anything that
+happens it becomes a back-end problem or
+an administrative problem but rather
+than it's a curated process where there
+is protection running on the device it's
+just that the protection is not an MDM
+protection where you know it's kind of a
+punishment you can either run something
+or not run something here there is an
+agreement between the user and the and
+the corporation that if you violate you
+know the trust then you lose access
+that's it and you know you bring your
+own device you own the data you leave
+the corporation you keep the data we
+remove the data from the corporation
+that's a clean separation absolutely
+absolutely so you describe your
+technology and I think a lot of us are
+probably also a little bit scared to see
+where our own data is going on our
+personal devices
+um what's next for Cuoco where do you
+see the company going from here so for
+us you know there is this web of
+information that you know
+iot devices like your car is collecting
+we want to extend that web of protection
+to everything that touches the user
+activities for example your TV your
+camera your iot device we want you to
+have an awareness of the type of
+information that you release that this
+guy this device collect who where does
+it go how is it managed and let me give
+you a concrete example right you have I
+mean I'm married I have two kids I want
+to know I don't want to control my kids
+devices but at the same time you know
+depending on their age I want to be able
+to know
+some of the activities that are involved
+and protect them in case someone is
+trying to put some sort of privacy
+violating application on their devices
+without actually uh peering what they're
+doing actually I want I want to you know
+this is a delicate balance between
+knowing what that the people are safe
+but without necessarily violating their
+privacy so I do want them to be able to
+play games but I do want to control the
+type of and which games they are playing
+so so they can be curated so here we're
+trying to reach a point where we create
+some sort of trust between the person
+who is actually using a device and the
+person who is allowing the device to be
+used or introducing the devices to the
+environment and that's something that I
+think for even for you know regular
+families or situations where we have you
+know elderly people you want to and all
+protected groups you want to do that
+that curation of data and awareness is
+important so making these people aware
+okay that now this device collects your
+data and let's see how they're being
+used and make them in control of that
+information is important
+yeah no I agree I have uh three little
+kids and and they're all on the devices
+I definitely resonate with uh with that
+piece of it and not to mention all that
+we talked a little bit about it with all
+of the things that are now connected to
+the internet that normally you wouldn't
+think about putting uh a cyber security
+uh you know requirement in place for or
+protecting like in everything from your
+garage door opener to your refrigerator
+right is now connected to the internet
+and like you mentioned sharing data with
+who knows who knows what data and who
+knows where it's going I guess exactly
+part of the problem is and you will see
+that in our app the number one uh tenant
+of our approach is user awareness under
+the user is in control of his device
+what happens in the device we are there
+to advise the user we are not trying to
+prevent the user from doing things but
+at the same time if we believe that if
+the user is aware of the privacy and
+security concerns that specific
+applications introduce he would make
+better choices and especially with that
+comes for example if someone tells you
+you know in order for you to connect to
+company X you need to remove that
+application because it does this and
+this and this then becomes a choice
+yeah sure got sure well this has been
+great you've really uh done a great job
+helping me too to understand some of
+this space you know I think people think
+about cyber security or think about
+securing a mobile device
+um you know in passing but they never
+really spend some time thinking about
+just how much of our personal
+information is in there and where it's
+going and how we could protect the
+military members too so you guys are
+really doing uh great work for our
+country
+um I will always ask this you know when
+I'm talking with a business owner that's
+been successful selling to the federal
+government you know for the the
+businesses out there maybe for the
+technology companies that are
+considering selling to the government
+would you have any advice for them on
+you know maybe first steps or you know
+um you know maybe how they could avoid
+some mistakes
+so I think the biggest mistake is that I
+made myself is not paying too much
+attention about as I said to sales go to
+market the commercial aspect of the the
+development of the technology and at the
+beginning it's easy to get small amounts
+of money from the government but as you
+grow and you're trying to get bigger and
+gear licenses and as we discussed like
+program of records and all of that the
+government becomes slower and slower and
+then the business owners don't realize
+how quickly that can dry up their
+pipeline of funding and they need to be
+able to diversify it with commercial
+sales as soon as they can because that
+will allow them to have a long longevity
+for their program to mature within the
+government to be able to come back and
+have more federal sales I mean other
+another advice is that they should
+definitely try to check the different
+vehicles for example sbir phase 3 and
+the GSA are two very good options for
+for the government to be able to do
+business because sometimes there's the
+government need you know you talk to the
+acquisition officer they want to buy it
+but there is no vehicle then you know
+you have seen probably that some of that
+yeah there's a lot of Need for this
+technology but there's just not vehicle
+to buy it like in the process going you
+know creating a product through GSA and
+all of that can be cumbersome or time
+consuming and by the time that they do
+that you know you have already moved on
+now the final thing is that the
+government works in cyclists fiscal year
+Cycles and the timing of how you will
+time your sales and approach people is
+important it's not unlike commercial
+which is flat throughout the year you
+know the fiscal year ends you know
+in September a new one starts in October
+and that you have to time your sales
+based on that no you're you're
+absolutely right we talked a lot about
+that so I'm not gonna jump on any of
+those uh too hard except to say and I
+guess if someone's just listening to
+this for the first time that when you're
+talking about vehicles I guess that's
+another big differentiator between the
+government and a company a company you
+can just go buy something from you me
+and you can go to whatever car
+dealership we want to and buy a car
+whether it's good or bad from our buddy
+government can't do that and they need a
+way to buy it from you so it could be
+the best solution on Earth but you know
+I can remember saying so many times all
+right how do I get to them how do I buy
+from them because also some offices
+don't
+um you might have GSA but my office
+might not use GSA you know so we need
+another one so I might use the sbir or I
+might use NASA that's that's important
+and that's something that people need to
+know ahead of time before they approach
+that they have to have some sort of
+thoughts on that sure no this has been
+great if anyone wanted to reach out to
+you or the business will be a great way
+to contact you just send me an email or
+connect with me on LinkedIn and I would
+be very happy to help out and answer
+questions I do that all the time as I
+said we have also tried to grow the
+entrepreneurship activities here in the
+Alexandria and Northern Virginia area
+okay no that's great so I will leave a
+link to your LinkedIn profile in the
+show notes here so people have a great
+way to reach out to Angelos thank you
+again for coming on the podcast this has
+been great for everyone listening uh
+thank you for uh tuning in or hitting
+the play button here you can check us
+out on dodcontract.com if you want to
+learn more check out the show notes and
+if you want we will have the links to uh
+to angelos's LinkedIn profile and to the
+website thanks again for listening and
+we'll see you next time
+thank you very much well hey uh great
+I'll turn the uh the recording off
+[Music]

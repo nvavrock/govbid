@@ -1,0 +1,1185 @@
+Kind: captions
+Language: en
+Most people don't think of Department of
+Homeland Security as a potential
+customer. Probably thinking about DHS
+and the various missions they have to
+protect the US, but we analyzed all of
+their contract awards over 34,000. So
+34,335
+contract awards over 32.9 billion
+dollars spent in fiscal year 25. We're
+going to break that down for you. We're
+going to show you who's buying, what are
+the actual offices buying, how
+competitive is it, what are they
+actually buying? All right, so if you're
+a business, you're going to want to
+stick around for this cuz you're going
+to understand how the DHS makes
+purchases, how you could sell to them.
+If you're in the public sector in any
+capacity, you'll learn at least how we
+do our analysis, how we analyze
+different agencies, how we can see what
+they're spending, what they're spending
+it on, how competitive it is, what
+offices are being purchased, what codes
+are used. We're going to go through all
+of that here today. So,
+let's get going. I'm going to make this
+a little bit bigger so everyone can
+actually see what what we're looking at
+here. Now,
+Department of Homeland Security, and by
+the way, let's take a step back.
+Everything that the US government buys
+is
+everything except for some classified
+contracting [snorts] actions is going to
+be public knowledge. And there's just
+under 300 different parameters for every
+contract that's awarded. So that's what
+we're looking at here. And if you come
+close, we have our
+analysis and aggregator tools that we
+use to analyze spending for different
+companies so they know exactly how to
+sell. So we give We cut through the
+noise and we're going to go into the
+exact process,
+I should say the exact spending data,
+which can give you a process for selling
+to In this case, it's DHS. We
+mentioned that we basically are looking
+at over 34,000 awards from DHS. So this
+is fiscal year 2025 and 32.9 billion
+that we
+analyzed. And this is data that we
+pulled right from USASpending. So you
+guys can check that out as well.
+And one of the things that always jumps
+out is, "Hey, how competitive is it to
+sell to a specific agency?" And so we
+saw here that under five is the average
+number of offers that were made for
+every contract that's awarded. So what
+does that mean? Well, what it means is
+every time the government puts a
+solicitation out, right? Let's say they
+do it publicly, you're going to have I
+shouldn't say every time, but
+solicitation goes out and then a certain
+number of companies will write a
+proposal, right? And then they'll submit
+those. Those proposals will be reviewed.
+So if the average was By the way, we've
+seen like huge numbers, right? I've seen
+like 30, 40, even higher
+average number of offers, depending on
+what the government's buying. Here,
+overall, this is everything that DHS is
+actually making purchases of, we've got
+a 3.59 average number of offers per
+solicitation. So on average,
+if you submitted a proposal to DHS, you
+would have between three and four
+companies that you were competing with.
+Now that's an average, and I will also
+say that the every every single contract
+award does not have a total number of
+offers,
+whether that's the government just
+forgetting to put it that number in
+there, or they didn't want to, or maybe
+it was a sole source and they just left
+it blank. So in this case, of See if you
+see this right here. See this number?
+We've got of the 34,000
+awards, I want to say it was about
+23,000 of them actually had the number
+of offers associated with them. So when
+I say average number of offers is 3.59,
+that's of the awards that have the
+number of offers associated with it,
+then we have that's the average right
+there. So now you know.
+All right.
+What else can we glean from the
+information that we saw? By the way,
+there's tons and tons of information
+with any agency spending that you do. So
+if anyone has questions on that, I may
+have that. We We have a pretty robust um
+analysis generator. So if you have
+questions on some of the awards or
+something that I'm not covering cuz I'm
+not There's a lot that I'm not going to
+cover here cuz I'd probably be talking
+for the next 6 hours if we talked about
+all of the information with DHS. But
+let's take a look at the competition
+landscape here. So of the contracts that
+we analyzed, we saw that just under 70%
+was full and open competition. That
+means that they weren't setting aside
+any of these contracts for, you know, of
+that 70%, it wasn't like you had to be
+8A or small business to put a proposal
+in. Full and open. That just means
+anyone can put the proposal in. They're
+not blocking anyone. That's what it
+should mean. Now, 18% was full and open
+after exclusion. Now an exclusion could
+be something like a set-aside, right? So
+if the government sets aside a contract
+for a small business, for instance, or a
+woman-owned small business, well, that
+means that only woman-owned small
+businesses can submit proposals on that
+and be awarded as the prime contractor.
+It's been set aside for a certain
+category. And the government makes those
+determinations, by the way, during the
+market research phase. So that's when
+they're determining if a small business
+or some other category can actually do
+the work. Usually there has to be more
+than two. Okay, that's typically what
+the algorithm is. They call it the rule
+of two.
+But by the way, there's different
+policies, even though all of the federal
+agencies work on the federal
+acquisitions regulations, just know that
+there are agency-specific policies and
+regulations as well. So like the
+military, for instance, the DFARS would
+also be applicable. So,
+let's take a look here. 5.7% not
+competed. Those could be sole source
+awards. Those could be There's a lot of
+reasons for why something might not be
+competed, okay? Like 8A, for instance,
+you could have a 8A sole source award.
+&gt;&gt; [snorts]
+&gt;&gt; Fiscal timing. It This is This was
+interesting to me is that we saw, if you
+can't see this, um in September, almost
+40% of the spending took place in
+September. Now,
+September's always going to be a big
+month for
+for spending from the government. And
+the reason for that is we call it, you
+know, there's a lot of reasons for that,
+but if you are in a acquisitions office
+and you have funding that expires at the
+end of the fiscal year, and the end of
+fiscal year is the end of September,
+right? So it's This is a difference
+between the calendar year and the fiscal
+year. Fiscal year starts October 1st,
+ends at the end of September. There's
+always a mad scramble in August and
+September to put everything on contract
+using the money that you have in these
+contracting offices. 40% is a large
+number. So to see 40% of the spending
+actually take place in um
+in September, that is interesting. And
+it's also a signal if I was, for
+instance, selling to DHS, if I'm a
+company or I'm an account executive, or
+a consultant helping a company, I need
+to know that so much is being awarded
+at the end of September, right? So it
+basically means all hands on duty in
+August and September um because that's
+when things are happening. At least
+that's what happened in fiscal year 25.
+Um
+so let's see here. So you could see the
+numbers for Q4. Um and it's really just
+positioning yourself. Something else, by
+the way, happens at the end of the
+fiscal year, just so you're if you're
+not aware. Um we call it fallout funds,
+right? So what this means is usually
+around March, April, May, um every
+agency, every office in these agencies,
+you know, you have funding you know, for
+the year. But often a office is going to
+realize that they're not going to spend
+all of the money that they've been given
+to spend, essentially. And so what they
+do is they rack and stack the different
+projects that they want to fund. And
+sometimes these are construction
+projects on the base. Sometimes, if
+you're in an acquisition shop, this may
+be a software tool the government wants
+to develop. Um it There's a lot of
+things that could go on this list, but
+savvy companies know that, you know,
+when you are in the spring, like mid to
+late spring, you want to start
+positioning yourself for these fallout
+funds. Possibly a project that the
+government office wants to fund, you
+could be the recipient of. They start
+racking and stacking. Usually by
+midsummer, they already know who's which
+companies and which projects they want
+to align this with, but the point is,
+these get awarded at the end of the
+fiscal year, right? So you're not only
+is it regular obligations that are
+aligning up, but also kind of a mad dash
+to spend everything cuz
+frankly, a lot of agencies are afraid
+that if they don't spend all of their
+money, that they'll get less the next
+year.
+Right, wrong, or indifferent, whether
+you love that or hate that, that's the
+way it works. And so you, especially in
+this case with DHS, you want to make
+sure you're aligning yourself up to be
+in position towards the end of the
+fiscal year. All right, moving on. The
+next piece we want to talk about is just
+top vendors, in case you're aware. And
+by the way, again, guys, if anybody is
+interested in getting their hands on
+this report, I will be posting it on
+LinkedIn tomorrow
+as an attachment, so you'll be able to
+get your hands on it there.
+Top vendors. Now, the way that my tool
+uh
+aggregates top vendors is by overall,
+who are the top five government
+contractors that won these awards. And
+then I look at small business
+set-asides. So that's what I'm going to
+be showing you here. So, overall market
+here,
+you could see
+BCCG is a joint venture with 3.1
+billion. By the way, there could
+certainly be more
+than I'm seeing here, subcontracts, so I
+wasn't analyzing subcontracting. Here we
+go. Fisher Sand and Gravel. That's
+interesting. A billion dollars, 10
+awards.
+Average number of offers. I always like
+to look at this cuz it tells me how much
+competition there is, right? We could
+see here that Uh,
+you know, this is just somebody's name,
+it's a JV 778 million, two awards.
+Um, and you could see also that we want
+to take a look at the vehicles, right?
+So, um, you know, the vehicle there's an
+art to identifying the contract vehicle
+when you're going through all of the
+spending and aggregating that. Um, you
+know, we could see I always like to look
+at GSA in particular cuz a lot of
+companies think that they need a GSA
+schedule, but we want to ensure that GSA
+is actually being used, right? And we'll
+talk about a little bit about what DHS
+is actually spending the money on a
+little bit later, but uh, we could see
+here that CACI, uh, which you've
+probably heard of, and Leidos down here,
+but CACI went through GSA. So, that's
+just an example. So, these are top
+vendors overall.
+Now, here's a small business set-aside
+vendors that were selling to DHS.
+And some of these you may have heard of,
+like ThunderCat, by the way, I hear
+about ThunderCats.
+Surprised that they're still considered
+a small business, but uh, you can see
+here Four Points, ThunderCat, Brilliant.
+112 million, so you can see 91 million.
+So, you can see the total amount spent
+here. This is
+just from DHS, okay? On these
+businesses. You can see the number of
+awards
+that they've won and the average number
+of offers coming in, right? Um,
+so here this so this um, I'll be in I'd
+be interested to see what E I'm I don't
+know, I'm probably going to butcher
+this, Ekagra. I don't know what they
+were selling cuz that uh, average number
+of offers there was 10, so that's uh, on
+the high side.
+And again, check out the vehicles
+they're using. This CBP one, I'm
+guessing this is a specific one to DHS,
+but we can see NASA Soup uh, pops up, so
+NASA Soup's a big one for especially
+software licenses.
+Uh, we can see CIO-SP3,
+right? There's another huge contract
+vehicle. If got If you guys don't know
+what contract vehicles are, go to the
+GovClose YouTube channel and um,
+I have plenty of videos on all of that.
+You can more than any human being would
+actually ever want to know.
+So, let's take a look at um,
+the analysis here of some of these
+contract vehicles, right?
+I just said go to the YouTube video and
+I'm I'm just about to deep dive into it.
+What's a contract vehicle?
+Well, a contract vehicle
+the the faster version of this is
+the government can't just buy something
+the way you buy something you buy
+something or I buy something, right? So,
+if I want to buy a car,
+I can go to the Toyota dealership,
+right? If you want to buy a car, you can
+go buy yourself a Porsche, you can go
+wherever you want. You can go buy a used
+car, you can get a
+um, you know, I don't think they have
+the want ads anymore, maybe they do.
+But, the government on the other hand
+can't just go buy it. They need a
+mechanism
+to make a purchase from a company. When
+I say a mechanism, contract vehicle is
+something that they can use, but that
+the mechanism is essentially to meet and
+there are thousands of pages of federal
+acquisitions regulations, but big
+picture is that the government wants
+fairness and competition when they're
+making purchases. And so, the government
+has to satisfy these competition
+requirements and one way to do this,
+right? Is to have a contract vehicle.
+And if one of these contract vehicles is
+in place and you may have heard of the
+government-wide acquisitions contracts,
+you may have heard of GSA.
+Instead of the government just putting a
+solicitation out and on sam.gov and now
+any company that's registered puts the
+proposal in.
+This is a long process, right? And so, I
+was an acquisitions officer uh, before I
+ended up here with GovClose. And so, if
+let's say that I wanted to put a company
+on contract, if I wanted to put your
+company on contract, I might have to put
+a solicitation out. I'd have to write
+that solicitation. It could take me
+months to write that solicitation. But,
+let's say just sake of argument, takes
+me 45 days
+to do that. Then we put the solicitation
+out and now we put a due date on it of
+45 days after that. So, now we're at 3
+months. Then we have to get all of the
+proposals in and they have to be
+reviewed. That could take 3 months right
+there. I mean, it could be 6 months,
+could be a lot longer than this, by the
+way. It could be 6 months to a year just
+to get the solicitation out, get a
+company awarded to start doing the work.
+Well, I don't want to wait that long.
+Government doesn't want to wait that
+long. So, what they do is they put these
+contract vehicles out. Contract vehicle,
+you have to write a proposal to get onto
+it, right? So, it's again, it's a long
+process. You might take you 6 months to
+a year to be awarded this contract
+vehicle, but there might be a hundred
+other companies on there, right? And if
+it's GSA, you can apply to be on it, but
+the timeline is usually 6 months or more
+also, prob- maybe even a year. And so,
+now that you're on this vehicle, all of
+these companies have competed to be on
+there. So, it satisfies some of the
+competition requirements, but you have
+to know it exists
+or else, for instance, if the government
+is buying what you sell, doesn't matter
+what you're selling. It could be um,
+could be con- if you're a construction
+company, it could be a construction
+project. If it's software, you might
+have a software program or tool that
+solves the DHS's exact problem set and
+then they you see a solicitation and
+it's like, yeah, we need software that
+does X, Y, and Z. You're like, this is
+awesome, it's exactly what we need.
+But, they're going to put it on GSA.
+Well, you're not on the GSA schedule,
+right? So, if you're not on GSA, you
+can't even apply you can't even put a
+proposal in. You're you're done. You're
+cooked, as my daughter would say. So,
+uh,
+you need it you would have needed the
+GSA schedule schedule. So, we need to
+understand how they buy so a company
+line up with how the government is
+making purchases. So, here they have
+this CBP contract vehicle. Wait, I said
+here like you could see what I'm looking
+at. Here's their number one. They have
+this border infrastructure contract
+vehicle.
+We can see how much is spent on it.
+Right? So, 10 billion dollars. We can
+see So, there's a lot of construction,
+facilities, infrastructure type things
+that are going in on this vehicle.
+Um, this unmapped IDV, this is just my I
+don't I don't have every single contract
+vehicle mapped. So, if I was doing this
+for a potential client, I would be
+digging into everything that I have
+unmapped and I would map it for them,
+right? But, for you, I'm just showing
+you, hey, there's 7.6 billion going on
+either one or various vehicles that are
+unmapped. And we can see number three is
+GSA,
+right? So, about just under 10% of
+spending. This is also good for people
+to see
+cuz a lot of people think you need a GSA
+schedule to sell to the government. The
+government does not have to use GSA. I
+didn't I never used GSA. Some agencies,
+some offices use GSA for everything.
+There are some uh, things the government
+buys that GSA is going to be heavily
+used for, like office supplies and
+things like that.
+&gt;&gt; [snorts]
+&gt;&gt; So, we can see 1,600 um,
+awards through GSA. And then there's a
+Coast Guard uh, looks like IDIQ and a
+TSA one also that are being used. So,
+again, you have to when you look at
+this, if you're looking at this from a
+company standpoint or from account
+executive standpoint, just know that
+this is a good first look at an agency,
+but you got to look at how
+the DHS buys what you sell, okay? Cuz
+this is everything for FY25. So, but
+it's good to know we we have now an idea
+of the type of vehicles that they use,
+right? So, top buying offices. Why does
+this matter? Well, these your Where's
+DHS? How do you sell to DHS, right? How
+do you sell to, you know, any of these
+agencies? Well, you got to know the
+actual acquisitions office, right? Cuz
+there's
+thousands and thousands and thousands of
+people and offices in any of these
+agencies. You need to know the one that
+buys what you sell, right? So, what
+we're looking at here is the exact
+offices that do most of the spending.
+And by the way, there's a hell of a lot
+more than the nine or so that I have on
+here.
+Um, these are just I'm showing you what
+you can actually
+uh, find when you dig through the data
+and aggregate it, okay? So,
+uh, we can see here here's a uh,
+administrate administration facilities
+training contracting division. And what
+do they do? So, they support um,
+operations by acquiring facilities
+related services, scaling operations.
+Again, detention, compliance, and
+removal. So, we can see this one, they
+spent 2.8 billion, 627 awards. Look at
+that, 9.5 is the average number of
+offers. That is high.
+Okay? I would say when I'm looking at
+the average number of offers
+per solicitation,
+anything anything over five, now I start
+looking a little bit closer, right? So,
+I want to know why the competition is so
+high. And if I'm working with a client
+or a company on that, I might be trying
+to get them into a niche that has less
+offers per solicitation, right? Cuz you
+don't want to turn into a proposal
+writing farm. Um, and by the way, we can
+also see where these offices located.
+Okay, this is ICE headquarters in
+Washington, D.C.
+This one is at the CBP headquarters
+contracting activity. I can get you can
+get way more precise, but for this I
+didn't I didn't go into it, but you can
+get the addresses and everything.
+Um, okay, here's the information
+technology and contracting division. And
+you can tell by the names of these
+offices, guys, that
+you can glean what these divisions, what
+these contracting offices actually buy,
+right? What If I didn't have any of this
+information, I just had the name, I'd
+say, hey, this is probably the
+contracting division that is responsible
+for buying information technology and
+maybe cybersecurity tools and things
+like that, right? Um, and we can see
+down here where it says emission IT
+systems, software, cybersecurity.
+Interesting, 3.3, so we can see it's
+under five number average number of
+offers, so moderate competition, I say
+moderate to low.
+Um, and that is interesting and that's
+we want to go It says agency, that's
+really the sub-agency. So, the US
+Customs and Border Protection. So, we
+want to know, you know, there's every
+federal agency kind of looks like a
+pyramid, right? Where you have,
+you know, at the top I might have the
+Department of Defense and then the next
+level down I have
+Air Force, Army, you know, Navy. These
+are going to be um, sub-agencies, right?
+And then in the Air Force, you know,
+which is where I came from uh, from my
+acquisitions background, there's going
+to be a bunch of acquisitions offices
+or in divisions. It's going to have
+divisions, going to PEOs, divisions, and
+branches underneath each. So, we don't
+have to understand all of that if this
+is uh, you know seems complicated to you
+you just need to understand how the
+government buys what you sell. So, you
+know you can see with startling accuracy
+down to the exact office and the people
+in that office how much they're
+spending. Look, I know this contracting
+office right here, right? What are they
+sell what are they buying?
+They're buying let's see immigration
+benefits processing they
+get they per let's see they procure
+IT systems, application processing,
+analytical platforms, professional
+services
+to adjudicate immigration. So, look this
+is a very specific mission, right? So,
+if your company did anything
+like that like this would be a good
+office for you to get in front of,
+right? You want to get meetings with
+that office. Like my goal would be get
+into this office and during the market
+research phase know who the program
+managers are let them know like the
+product or services that we provide.
+That's how you're going to move the
+needle in government contracting. And by
+the way if you have nothing to do with
+DHS like
+it doesn't matter because this is how
+you want to analyze the different
+federal agencies. You figure out what
+you're selling what specifically and
+then you reverse engineer it. Which
+agency should I be focused on sub
+agencies, offices, how competitive is
+it, what contract vehicles? You want to
+understand all that. So, I know this
+one's in
+Look, this one's in Vermont. That's an
+interesting place for an office it's not
+in DC, right?
+Air and marine contracting division.
+What do you think these guys are buying,
+right? Again, a lot of times not always
+but a lot of times the the title of the
+contracting office
+can tell you, right? And in this one 2.5
+competition that means 2.5 offers per
+solicitation on average is how so it's
+not that competitive.
+But they're buying aviation related you
+know product services. So,
+again there's usually a lot of
+restriction that comes along with that,
+right? So,
+I don't want the average number of
+offers to fool anybody to thinking that
+it's going to be easy.
+GSA this only this is if you see this
+this is actually good that this came up.
+This is not a DHS office. This is a GSA
+office, right? But this happens to be
+the GSA office
+that is coordinating a lot of the
+contracting actions.
+One thing I will say here GSA is the one
+putting the company on contract but
+they're not the buyer. The buyer's DHS.
+GSA is just a mechanism. And as somebody
+who has not only was I putting companies
+on contract in the Air Force when I was
+doing this but I went on to help
+hundreds of companies as a consultant
+but I actually one of them I sold
+software for one company as a W-2
+employee for a few years and I use GSA
+at that point I use GSA all the time
+almost everything that I put on contract
+went through GSA.
+I never sold to GSA though and I want
+you to understand this. If you have a
+GSA contract like contracts don't fall
+from money doesn't fall from the sky. I
+had to go out to the Air Force and
+Department of Energy. I had to go to all
+of the offices that I sold to and sell
+it. And once I coordinated the sale
+then it would get handed off to GSA and
+it would go through. So, that's a little
+bit more um
+on GSA just in case you care here. NAICS
+analysis this is what a lot of people
+want to see, right? So,
+for everyone watching
+NAICS code. If you don't know what an
+NAICS code is it's just a way the
+government classifies things that they
+purchase. So, they have a a code for
+like construction, right? It's a North
+American industry classification code.
+It's usually what is it five or six
+digit code six digit.
+They also have product service codes,
+right? Every contract award is going to
+have a NAICS code and a product service
+code. The difference NAICS just seems to
+be a little bit broader, okay? Where
+your product service code tends to be a
+little bit more specific.
+It can either it's it could be a broad
+classification like IT systems or it
+could be a specific really specific like
+bookkeeping or accounting services,
+right? So,
+looking at we want to look at the codes
+and I'll hold on let me share the screen
+here again.
+All right, so what am I actually looking
+at here?
+So, when I run the analysis through our
+GovClose road mapping tool
+it one of the tabs that comes up is
+going to be
+in order of spending it's going to list
+every NAICS code and product service
+code that the agency
+awards. So, and if you are depending on
+what you're watching this on
+you may have a hard time seeing this but
+let's go through some of the top codes.
+So, the number one code is commercial
+building and construction and by some of
+the other information that I saw that's
+not surprising to me. 61 billion 937
+awards 18% of the total.
+Number two is computer system design
+services and that was 3.8 billion
+dollars that went through there. 1133
+awards and that's 11% of the total
+spending.
+561612 security guards and patrol
+services interesting, right? But this is
+the Department of Homeland Security so
+it makes sense. So, security guards and
+patrol services if you have a company
+that was doing something along those
+lines or you're helping a company that
+was
+this would be good to know.
+In fact, I can't think of another agency
+that I've looked at that would have this
+particular NAICS code so high on the
+list. 3.3 Again, remember this is just
+one year. This is one fiscal year of
+spending FY25.
+3.38 billion
+2000 awards 10% of the spending is going
+to security guards and patrol services.
+By the way like that could have a lot of
+different
+there could be a lot of different things
+in there. So, I would any of these NAICS
+codes just so you're aware I've seen the
+same thing like you could have let's say
+a security guard contract providing
+security guard services for like three
+years.
+I bet that I could find that same
+contract award the DHS buying the exact
+same thing I bet I could find that under
+at least five other NAICS codes.
+That's only to say that you know
+this gives us NAICS codes give us a good
+idea, right? But it's not the end all be
+all, right? Contracting officers will
+use a lot of different um
+codes for the same things. Other
+computer services 2.4 billion.
+Shipbuilding and repairing engineering
+services, you know they reach around a
+little over a billion dollars between
+one and two billion.
+So, that's interesting.
+So, if you're in shipbuilding or
+repairing you might be
+you might be targeting this. They hit
+and there's a lot of awards there, too.
+So, again all of this you have to dig
+into it, right? You know any of these
+numbers they're a good starting point
+but it all comes down to the specific
+thing that you are trying to win
+and
+and going after it and really digging
+into the data. Facility support service
+travel arrangement services that's
+interesting. That's that is interesting.
+And customer computer programming. So, a
+lot of these I would
+I would see in any agency and some of
+these look really specific to DHS or you
+know unique like the security one.
+All right. Well, I mentioned product
+service codes earlier, right? Product
+service codes are going to get more
+specific. All right, so again it could
+be the difference between a NAICS code
+that just says accounting services and a
+product service code that says
+bookkeeping or tax preparation services
+something like that, right? So, again
+we're we're looking for more a little
+bit more specificity with the product
+service codes.
+And again guys this will all be
+available to you tomorrow on LinkedIn.
+So, if you want to get your hands on
+this
+you can just go to LinkedIn if you're
+not connected with me just connect with
+me on there and you'll see the post.
+All right, so let's look what do we now
+look some of the stuff
+it has to line up. So, whenever we're
+looking at federal data you always have
+to put your common sense hat on. We saw
+the NAICS code was the top NAICS code
+was a construction NAICS code if you
+recall. So, now I want to see the same
+thing for the product service code. This
+is going to tell me that I did my
+analysis correctly, right? So,
+&gt;&gt; [clears throat]
+&gt;&gt; what else do we got here? We've got
+housekeeping and guard services. That's
+interesting. So, that's number two
+housekeeping and guard services 3.69
+billion.
+2000 awards and I would bet a lot of the
+security guard stuff is wrapped up in
+there if I had to guess.
+And then we see some of the this is
+going to be a really common one across
+different federal agencies DA01. So,
+again FY25
+this is how much of their total spending
+that I analyzed
+went to IT and computer program services
+under this product service code.
+See 802 awards.
+Here's a program management professional
+services 1.1 billion 676 awards.
+Oh, interesting. You can see how when we
+go specific
+when you look at the product service
+code
+how we're going to get a little bit
+different information, right? Cuz you
+would think with Department of Homeland
+Security that you would get some
+ammunition
+related spending and here we get 933
+million.
+This is interesting though only 23
+awards. So, I wonder
+I wonder what the competition is and I I
+kind of I'm now I'm a little more
+curious about exactly what they're
+buying.
+Aircraft maintenance repair
+Okay, makes sense. Professional services
+IT annual support. Yeah, so I mean this
+is all this is all great stuff. So, it
+basically gives us that
+that landscape. What are they buying?
+How much are they spending? We looked at
+the awards the how many offers per
+solicitation were coming through.
+So, good and construction at the top of
+the list.
+Which I mean, construction is usually up
+there somewhere. I'm surprised it's
+number one. I wonder what Yeah, FY25
+might have been a interesting year, too.
+Like, if you have a big construction
+project one year, that could make one
+year's numbers different. So, I would
+look at if I was in construction, I
+would then go back and look at and
+analyze the spending for '23 and '24.
+All right. Where are we now?
+What are we looking at here? Well,
+I think that, you know, after taking a
+look at this, one thing that we know is
+that uh Department of Homeland Security
+does like to use certain contract
+vehicles, right? So, they do use GSA,
+they use um the CBP uh contract vehicle
+of theirs. And um
+and here I've just um
+basically segmented some of this so you
+could take a look at, you know, the
+different niche areas here um that they
+do tend to be spending in.
+This will apply to some of you and it
+won't apply to others, but uh you know,
+feel free when you get your hands
+actually on this document to uh deep
+dive on any of these areas, right? So,
+we do have a lot of Coast Guard
+spending, we didn't cut into that very
+much, but, you know, the Coast Guard has
+a difficult mission and also I would
+imagine with everything going on in the
+world right now that we're going to see
+more spending uh with the Coast Guard.
+Spending tends to go up anyway, but you
+got to keep your eye on what's happening
+in the world and especially if you're
+selling to the government because
+that can affect how funding moves one
+way or the other, okay? So, and
+especially if you're on contract with
+the government, you have to understand
+that funding can still move even though
+maybe you have a multi-year contract. Um
+as you've seen this year, we've had
+government closures and things like
+that. So, we always want to have a
+pipeline that's big enough
+to withstand funding movements and, you
+know, different things that could happen
+in the um
+in the political world and, you know,
+just as far as, you know, different
+contingencies and operations that are
+happening.
+Um
+&gt;&gt; [clears throat]
+&gt;&gt; Okay, yeah, and we did see um some a lot
+of ICE spending and
+um
+and that I would just say, again,
+approach cautiously. We saw uh 9.51
+average offers, that's pretty high.
+Okay, and by the way, like, what These
+are we're looking at big picture things
+here. You got to get way, way, way more
+specific when you're actually taking a
+look at these different segments.
+Um this is a bit another big takeaway. I
+mean, for me, the big takeaways here
+were the vehicles that they're using and
+also look at September spending. Like,
+it's
+it's it's a huge part of their budget. I
+think it was 40% or so the budget that
+all took place in September. So, you can
+see that. So, again, if we're selling to
+DHS, that means your sales team is on
+they're not taking vacation in August
+and September. Uh that's when, you know,
+they're going to be expected to be on
+the road, you know, working with these
+offices non-stop. And obviously leading
+up to that as well, right? Um cuz the
+contracting shops get pretty busy
+um in Q4 anyway.
+But, that's that's pretty large. What
+What am I thinking when I see this?
+One of the things that I would want to
+know is
+what do the years before this look like?
+Do we see this huge spike year over year
+in September or was last year just it
+was something
+um was last year unique? You know, what
+about the construction spending? Is it
+is that year over year construction's at
+the top of the list or, you know, what
+did they just have some, you know, a
+couple of large
+um construction projects that they were
+working on and maybe we don't see that
+replicated here on uh some of the
+uh years uh coming out. Um I I do want
+to mention, too,
+here
+I got to give you guys a disclaimer, of
+course, and tell you where this data
+came from. So, all public spending, all
+all the spending I use is public. You
+get publicly available, you can go to
+USASpending.gov, you can get it yourself
+and crunch the numbers. Um this is just
+the con number of contracts that I was
+able to analyze. So, I'm sure some
+things have happened, some been awarded
+by the way cuz sometimes there's a delay
+in contract award. So,
+I would imagine if I go back and take a
+look at FY25 spending that there's going
+to be more awards there, maybe the money
+is uh shifted a little bit.
+But,
+um yeah, I did want to give you that
+disclaimer. And again, this is my
+analysis tool, right? So, this is what I
+use, this is how I view federal
+spending. Um the analysis can only be as
+good as the data that we're taking a
+look at. Guys, there is a lot of nuance
+to federal spending and to government
+contracting. It's not easy, it takes a
+long time to sell to the US government,
+but if you master
+the art of selling to the government,
+this can be a very rewarding profession
+and it can be very financially rewarding
+as well. Whether you're a business
+selling to the government, you could be
+a consultant helping companies sell to
+the government. You be an account
+executive working for a company that
+These are all very, very highly paid if
+you're doing it right. Um
+it's a highly paid skill set to have and
+it is a difficult one to master. If
+anybody's interested, you could always
+go to uh govclose.com.
+We also tend to see in January everybody
+comes back from vacation and hits the
+ground running. So, right now is the
+time. Okay, so if you're in government
+contracting, if you're interested, now
+is a great time to really push your foot
+down on the gas pedal if you're a
+company and start building that pipeline
+out. Um remember market research phase,
+so we're not looking for proposals or
+solicitations for proposals, RFPs, RFQs,
+we're looking for sources sought, we're
+looking
+for to establish relationships with the
+offices that buy what we sell. We can
+find that out by analyzing the federal
+spending. If uh you want to learn
+government contracting, come on into
+GovClose, we teach everyone that goes
+through our one-year program. Um we have
+companies that come through, both them
+and their sales teams. We have
+individuals that want to learn
+government contracting and then start
+their own consulting business. And we
+have individuals, like, this is probably
+the smallest category that come through
+and they want to get an account
+executive job. Which by the way, those
+are like some of the highest paid sales
+jobs that you can get. Often they come
+with a salary and commission. So, um
+just check it out on check out some of
+the job postings on LinkedIn if you're
+curious. If you're a veteran coming out
+of the military, if you have federal
+experience, uh I think that you could be
+very well aligned for those jobs. Um you
+know, again, I I've done those jobs and
+I teach people how to uh get them and
+how to uh sell to the government. So,
+um if you need any help, just let me
+know.
+And with that, I am out of here. Let me
+know in the comments if you want us to
+cover anything else in the future that
+we
+uh did not currently cover uh here or
+that you haven't seen me cover. And uh
+we'll see you next time. Cheers.
+After going through the course, I was
+able to land a client that pays me a
+monthly retainer to actually help them
+develop their business and go after
+these federal contracts.
+I was able to get a consulting gig with
+a uh software company that currently
+works with the intelligence community.
+Within 2 months, I have my first client.
+So, the initial contract was for a
+3-month uh contract for 4,000 a month.
+So, 27 years old,
+you've never worked in government
+contracting, you've never worked as a
+consultant, and you just uh closed your
+first deal, is that correct?
+That's correct. And I've got a couple
+small projects on the side as well. So,
+definitely something probably the best
+investment I've made uh all year. cold
+called in a nine-figure
+government contract.
+Start a consulting business
+and a high-salaried position as a
+account executive in public sales. So,
+you're doing both of those things.
+&gt;&gt; I'm living the best of both worlds right
+now. So, my name is uh Mike
+Knickerbocker. I am a naval officer
+that's getting ready to retire. Right
+now, I have three firm clients and two
+more perspectives.
+I'm able to provide value across
+different industries cuz the skill set
+that I learned through the course, I was
+able to apply my own experience.
+GovClose came and it was a no-brainer. I
+I wanted some uh secret sauce. This has
+allowed me to live in Germany. It's a
+little hazy today, but
+we can do that. You see it? Oh, yeah,
+dude, that's beautiful. The content, the
+training,
+it's invaluable. It's written
+And Deb, what motivated you to join the
+GovClose certification program? Wow.
+Well, I think that wanting to work with
+a leader in the field, someone who
+understands government contracting on a
+deep basis and has the reputation, the
+experience working with you and your
+company was a natural. The students that
+graduate our program,
+they go on to start their own consulting
+firms,
+winning high-dollar consulting clients.
+They go on to land high-paying salaried
+positions as account executives with
+companies that sell to the government.
+I'm so proud of the people that have
+gone through our program.
+And if you are considering
+either a job or a business, and by the
+way, some of our students are doing
+both,
+as I did, they're running a consulting
+business and they'll have an account
+executive job.
+It's transforming their lives. It's
+bringing true wealth to them and their
+families.
+Back to the video.
+&gt;&gt; This is how you want to analyze the
+different federal agencies. You figure
+out what you're selling, what
+specifically, and then you reverse
+engineer it. Which agency should I be
+focused on? Sub agencies, offices, how
+competitive is it? What contract
+vehicles? You want to understand all of
+that. But, let's take a look at the
+competition uh landscape here. So, of
+the contracts that we analyzed, we saw
+that just under 70% was full and open
+competition. That means that they
+weren't setting aside any of these
+contracts for, you know, of that 70%, it
+wasn't like you had to be 8A or small
+business [music]
+to uh put a proposal in. Full and open.
+That just means anyone can put the
+proposal in. Uh they're not blocking
+anyone. That's what it should mean.
+Let's take a look at the analysis here
+of some of these contract vehicles,
+right? Here's their number one. They
+have this border infrastructure contract
+vehicle. We could see how much is spent
+on it, right? So, $10 billion. We could
+see, so there's a lot of construction,
+facilities, infrastructure type things
+that are going in on this vehicle. This
+unmapped IDV, this is just my I don't I
+don't have every single contract vehicle
+mapped. So, if I was doing this for a
+potential client, I would be digging
+into everything that I have unmapped and
+I would [music] map it for them, right?
+But, for you, I'm just showing you, hey,
+there's 7.6 billion going on either one
+or various vehicles that are unmapped.
+Shipbuilding and repair and engineering
+services, you know, they reach around a
+little over a billion dollars between
+one and two billion. Facility support
+service, travel arrangement services.
+That's interesting. That's that is
+interesting. So, a lot of these I would
+see in any agency and some of these look
+really specific to DHS uh or you know,
+unique like the security one.

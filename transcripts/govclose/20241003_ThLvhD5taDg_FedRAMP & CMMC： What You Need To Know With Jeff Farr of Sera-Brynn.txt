@@ -1,0 +1,1277 @@
+Kind: captions
+Language: en
+well hey everyone welcome to this week
+episode of DOD contract Academy we have
+an awesome episode for you today we have
+uh Jeff and Lisa from Sarah BR am I
+saying that correctly Jeff you are Sarah
+BR that's right and uh really I think
+it's really appropriate to have them on
+here today because we've been you know
+anyone that's been listening and most of
+our audien is either selling or trying
+to sell to the government there's been
+so much talk about fed ramp and cmmc and
+you know we've had a mutual friend on
+with Karen wise um on talking about
+cmmc and she told me she's like hey you
+know there is nobody that knows more
+about fed ramp than Jeff fire and his
+team so we had to have you on uh to talk
+fed ramp talk about what you guys do so
+thanks for coming on the show today
+we're we're honored to be here and um
+you know Karan is fantastic and just
+absolutely love what she brings um you
+know she's she's really one of the good
+ones yeah no no doubt about that um so
+why don't we start off you know you have
+a business called Sarah Brin and the
+audience at this point at least knows
+you do something with fed ramp and cmmc
+they're probably guessing cyber security
+um if we could maybe start off with a
+brief overview of what what does Sarah
+Bren do what what is your expertise and
+you know as we help companies sell to
+the government maybe how you maybe Focus
+that towards what you do for company
+selling to the government sure sure sure
+so um Sarah Bren was founded roughly 14
+years ago um you know former military um
+specifically Air Force some Navy um
+those guys and then of course you know
+the natural routine they end up in the
+in the intelligence
+agencies um and then after that it was
+hey it's time to start a cyber company
+and um um so Sarah Bren was
+formed and um you know over
+the the the last 14
+years um really built up a a very nice
+clientele U very good reputation in in
+the space um and so it was started by um
+gu Rob and and a couple other guys Sam
+and John uh these these guys did a good
+job building the foundation about a year
+ago I purchased uh Sarah bread and so I
+come from you know big Enterprise it and
+uh cyber and compliance background and
+um you know they wanted to focus on a a
+product but I wanted the services side
+so I bought that and um so Sarah brand
+were based out of um Chesapeake uh
+Virginia and our our there's two sides
+of our business there's the cyber
+security side and then there's the
+compliance side we'll start with the
+Cyber side it is what you would normally
+think kind of Outsourcing cyber
+security um ceso
+Services uh we do instant response uh so
+critical instant response when somebody
+gets hacked you know ransomware whatever
+digital forensics expert testimony uh
+penetration testing so you know a full
+cyber true cyber
+security um company on that side on the
+compliance side um you know we're we're
+heavy in cmmc which is you know the
+getting a lot of press of course right
+now and something that kin works with a
+lot um and then fed ramp we're we're a
+3pao for
+fedramp and that's a third party
+assessor
+organization on behalf of the of the US
+government and then we're also PCI
+assessors so that's the pen card
+information
+industry uh and then we do work around
+compliance whether it be you know fsma
+or um ISO or nist or you know several
+others Graham leech Bley a bunch of them
+Hippa so we really do have a strong uh
+two two strong sides of our business
+both the compli side and the Cyber side
+okay and that's that's really the inter
+nutshell that's what we did now are your
+clients mainly than companies is it
+mainly a B2B business or do you work
+with the government at all outside
+certifi work with the government um you
+know a little bit I wouldn't call us a
+heavy contractor we work mostly with
+contractors who contract with the
+government okay so like in the cmmc
+world right these are um you know we'll
+work with some of the primes but in
+general we're working with the
+subcontractors to um you know help them
+get compliant help them just get a
+better um you know
+profile uh so that's really I would say
+most of it is in commercial and I'd give
+it maybe 10 or 15% is government okay
+gotcha and then so okay so that's what
+your your business does let's go back a
+little bit though so I'm always uh
+interested in kind of where you came
+from and mentioned the Air Force that's
+that's where I spent uh quite a bit of
+time what did you do in the Air Force I
+wasn't I wasn't military I'm not forign
+military my guy are all my guys are okay
+so yeah they they they sort of let me in
+the club a little bit sort of you know
+it's you know that's a fraternity right
+there and
+sure but uh you know the the business
+was founded by by former military and we
+still have several um that are closely
+associated we try to do the skills
+Bridge you know we
+we're uh big supporters um but no I
+didn't I didn't have the opportunity to
+do that um I'm not sure that I could
+have conformed enough they probably
+would have kicked me out like the second
+day oh I doubt it I doubt it
+yeah I was I always have big respect for
+um the people who serve and you know
+it's just
+um I wish we had a a you know my my my
+grandfather served and you know from
+that generation to now um we just have a
+different attitude in the country I wish
+we' go back to yeah no that that's for
+sure I know I know very well what you're
+what you're talking about there um let's
+start uh I'd like to know a little bit
+about you so where did you grow up um
+you know where did you cut your teeth uh
+prior to you know as far as your career
+before Sarah
+Bren so uh I grew up in Texas so I'm I'm
+a Big Texan big boy six7 you know so um
+oh that's that is big boy that's big boy
+and so um I didn't miss a meal ever
+um still haven't missed a meal
+unfortunately but uh I grew up in mosqu
+Texas which is outside of Dallas and um
+you know all my life I spent a little
+bit of time in Florida a little bit of
+time in Colorado but in general I'm I'm
+I'm a Texas Guy and um when I came out
+of school I went to Texas A&amp;M okay and
+when I naggie yeah I'm naggie which you
+know don't hold that too much against me
+you know we're we're a cult too um but
+uh when I came out of school it was I
+you know I went into technology and um I
+worked for EDS and you know um sap and
+erston young and so it was in big IT
+consulting was my my where where I cut
+my teeth right and um you know not too
+long after that in the I call at the
+middle part of my career my father and I
+started a consulting firm uh out of
+Dallas called far group um my dad had
+had a big a big reputation in the IT
+world and um basically our clients were
+the biggest companies on the planet you
+know the Burlington Northerns the Dr
+Peppers American Airlines Southwest
+Airlines Interstate batters you get the
+point
+big yeah and we did a lot of it strategy
+um it was it was a lot about you know
+how you run an Department how you find
+good people how do you get funded uh CI
+struggle with you know how do you get a
+seat at the table on the executive table
+and not get kicked out sure um and so we
+we had we had a good run we ran for
+about 13
+years um and then you know uh I got
+introduced to what I would call small
+and mediumsized business
+it um at a private Equity friend called
+and say hey we've got this investment I
+think it's going down the toilet and can
+you go just look at it so I said I don't
+know anything about a small it you know
+what am I going to do right so I I drive
+out there um East
+Texas and you know sure enough even
+small businesses need all the same stuff
+the big businesses need they just need
+it in a much smaller quantity right and
+I was really intrigued by that like you
+know there was some there was some real
+sophistication down there and I was
+expecting a bunch of dummies
+so um I got I was hooked and so I spent
+three years with that company turned
+them around and really grew them and
+then we we grew them and and sold them
+to um another a bigger private equity
+and I went to work for a much bigger man
+service provider um same thing it's
+spent a couple years there turned them
+around um and then I got in you know it
+was a heavy cyber company
+then I got into compliance when cmmc was
+really starting to you know it was a
+baby but it was getting some momentum
+sure um and I had I had a heavy security
+background so a friend of mine who's a
+broker business broker calls and says
+hey I've got this business it's an odd
+duck it's cyber and compliance and these
+things um and you're one of the only
+guys I can think of that this would make
+sense we hit it off bought the business
+and um you know we're we're going to
+Triple this year so we're just blowing
+and going wow that is that is awesome
+there's a ton I want to ask you about
+but I don't want to I don't want to skip
+ahead here because anyone that's
+watching this on YouTube will know
+there's a third person on uh we Lisa's
+on here Lisa maybe you could just
+introduce yourself really quickly just
+so we can uh and I can see that you know
+you have a great team Jeff and I know
+you've been uh keeping and check also
+Lisa to make sure that this uh this
+episode took place when it was supposed
+to so we could introduce you as well yes
+sir my name is Lisa hottie and I am the
+client success manager I I kind of just
+follow um Jeff around I actually worked
+with him at one of the first msps that
+he came to and uh when he started with
+Sarah brand and took it over I gladly um
+jumped on board with him so I've been in
+the MS p in this space about eight years
+now and learned a ton but I love it well
+that's that's a good sign that you uh
+that you followed them over there and I
+can see why you're so successful just uh
+because you were very persistent and you
+have your ducks in a row so um I think
+that that speaks a lot about your
+business and so I just want to make sure
+everyone knew who we were dealing with
+on the call today so maybe we could get
+into a couple things um in case you know
+we have listeners that aren't familiar
+with cmmc and fed ramp sure maybe we
+could get an overview of you know what
+it is and kind of where we are today
+with that sure let's let's start with
+let's start with fed the bigger one
+right so if you're a business and um you
+have decided that um you've gotten into
+the cloud space so you sell a cloud
+product so I'm going to use something
+like Zoom because most people know what
+Zoom is right that is a cloud-based
+product
+and let's say Zoom has decided they want
+to sell to one of any anybody in the
+federal government so they're going to
+sell to the Department of energy for for
+instance right the department of energy
+cannot buy that product unless that
+cloud product has achieved a certain
+level of fed ramp um certification
+there's there's low moderate and high
+most people are fed moderate that's the
+that's the most common um so so Zoom has
+to go through a process where they um go
+through a you for moderate it's about
+325 security
+controls and they put that in place um
+the department of energy will sponsor
+them and say hey we need this product
+the government needs it and then they
+will call in a third-party assessor
+organization like Sarah Bren um and then
+we will would do uh essentially their
+assessment on behalf of the federal
+government and we would either say okay
+you know these they meet these uh
+controls or they don't or they're close
+and these are what they're missing is
+that an acceptable risk and so forth so
+think of it like a financial audit you
+know like you give you know CPAs that do
+auditing and so uh it's it's kind of a
+that's the best parallel I can come up
+with really that's interesting so you're
+so the three paos that you taught the
+third party assessors which I know they
+have them for cmmc as well that means
+that the government has actually vetted
+you your business and certified you to
+do
+that assessment very rigorous process um
+you know uh it is there's an extensive
+amount of money and time that goes into
+that
+certification and um as you said this
+we're we're doing this on behalf of
+federal government and each year we have
+to you know
+recertify uh if you're not doing the
+right things you can be put into
+remediation if you don't remediate then
+you can be taken off the the list
+there's there's literally a federal
+Marketplace a Fed Marketplace that lists
+I think right now there's 39 fed ramp
+processors in the country oh that's not
+a lot not a lot and so you know that
+number goes up and down um you know
+there are some of the bigger players in
+that space but um you know it's a it's a
+very important function that if our
+federal government is going to put
+sensitive data in a piece of
+software um then that data needs to be
+protected and that's what the FED
+program is is really designed for
+absolutely and it's it's I could tell
+over the years this is got a lot more
+momentum I retired in 2019 and you know
+I was familiar with what we were doing
+then and I've talked kind of useum about
+the problem with putting a company on
+contract from the government's point of
+view and then not being able to get an
+ATO because they don't meet the security
+requirements and there's a lot that goes
+into that but um one question that
+always comes up with my clients for
+instance is I want to get fed ramp
+certified but what does it mean to get a
+government sponsored does that mean I
+need to win a contract first or will the
+government sponsor me before I have a
+contract so I can get the
+certification great question so there's
+really two ways to go about this right
+you if let's say that the department of
+energy needs a very specific product
+that's really for them right something
+to do with energy and it doesn't have
+broad appeal so in other words the
+Army's not going to be interested you
+know the IRS is not interested then that
+is an agency atto authority to operate
+and that's really a onetoone situation
+where um you're you're not looking for a
+broad certification called a jab right
+and so if you get a jab then you're more
+like what Zoom would be which is several
+agencies or uh would be
+interested so those are two different
+processes one if you're going directly
+to an agency they will sponsor you um
+oftentimes you can put your product in
+with a provisional you can you can go a
+certain period of time and then you have
+to go through the formal
+process flip side let's talk about
+somebody who who has broad appeal and
+you want to be fed ramp certified so
+that you can sell to 30
+agencies that process you have to be uh
+approved there's roughly 10 to 12 um
+products that are approved a year and so
+the FED rent program is constantly
+looking for who's going to who do we
+need right more than just who do we want
+okay and so if there's a technology that
+really has brought appeal they will move
+that up the list so that it can be um so
+that it can go through the FED
+processess will be approved okay so if I
+have a product then that is in so when I
+go to fedramp I can look and I can see
+there are companies listed in there that
+have federant moderate so I'm assuming
+that those are the companies that are
+approved to sell to all the agencies
+that have the broad appeal is that
+correct that's right yeah and so you'll
+you'll see in there if it says fed ramp
+authorized then you know what that has
+um oftentimes if it's just for an agency
+you won't necessarily see that in the
+marketplace okay interesting so you
+won't even see it on there but can they
+still be fed ramp certified if they're
+not in that agency how would I call it's
+a Fed ramp process but it's just an
+different atto okay gotcha I've also
+heard and I've been asked about a Fed
+ramp equivalency like you're not fed
+ramp certified but if you're not on
+contract you get an
+equivalent um
+certification so we get we get a lot of
+those calls actually and so the
+situation is so I don't know if your
+audience understands the term cui or
+controlled and classified information I
+don't be worth talking about because
+it's you know pii they are classified
+but cui I want to say it's new but it's
+it's getting a lot of press right so yes
+a lot of press been around for a few
+years um uh the National Archives is in
+charge of of classifying cui from the
+the categorization and so forth um but
+cui is if you think about the the the uh
+uh classification system you know top
+secret secret uh so forth then below
+that unclassified data that still needs
+to be controlled right and so cui um so
+I'll give you an example um the
+blueprints uh an army
+base okay you know is that top secret no
+is it because you can do an aerial and
+you can see but you don't really want
+that on the internet either right so
+that's one of those pieces of data that
+you need it to be controlled but it's
+not really top secret or secret um so uh
+in that
+situation cui is is the is the common
+denominator that
+determines whether or not
+a particular software system is in
+scope okay so if somebody says I think I
+need we'll get a call somebody say I
+think we need to be fed rent okay um
+tell me why and they'll they'll explain
+and then I'll ask them do you have cui
+data do you are you in control of that
+and is it in that
+system and they're say well no not
+really so what we do in that situation
+is we do a Fed ramp moderate equivalency
+but it's not really required it's more
+of a we're going to this level but we're
+not going through the FED ramp official
+process right well it's a you know if
+you're approaching the government so I'm
+more on the BD sales side of things
+right but the the government's first
+question a lot of times these days is
+are you fed if you have a software tool
+that's going to be in the cloud are you
+fed ramp or they might say are you
+Platform One or you know this some other
+you know each service has you know
+specific things but what they're really
+looking for is they want to have
+confidence that if they are working with
+your business that they can actually use
+the product right so right% if you're
+not and cmmc is another thing that they
+might ask about but so I look at that
+equivalency as hey no we're not in the
+FED ramp system maybe they they're not
+on contract but if it's a company that's
+trying to sell to the government that
+might be something they could do to
+build a lot of confidence on their end
+it's almost a marketing to all
+absolutely absolutely no the FED ramp is
+is is access to a Marketplace it is
+completely new the ability to sell to a
+new marketplace right so um so what you
+just said is is important the
+um uh the other thing that is maybe of
+note is that oftentimes people don't
+understand fed ramp is based on Nest
+800-53 special publication so uh nest
+800-53 three is what the federal
+government uses to um to protect their
+systems internally to the government and
+then those
+controls have then been put into the
+fedr
+program um and that's where you get
+people outside of the government needing
+to meet those
+levels uh to take that one step further
+you get into
+cmmc which is cyber security maturity
+model certification
+very
+new that is based on nist
+800-171 which by the way is based on 853
+so if you get the point of set of rules
+and then you have all these derivatives
+basically you uh just to for anyone
+listening could you give an example of
+maybe just a couple of the different
+types of controls that are found in
+let's say this 853 and maybe if they're
+the same as CMM it be interesting to
+hear how they are um cmmc which is based
+on 8171 takes its controls from 53 okay
+so those are you'll find a on to one so
+you know different families of controls
+Access Control right I mean uh something
+like do you have multiactor
+authentication that's a pretty simple
+one right what level of password is it
+complex is it not um there's instant
+response controls you do you have an
+instant response plan do you have
+someone who handles those are they
+investigated and then how do you
+remediate them right um so all of those
+controls if you really looked at them
+they're common sense I mean the these
+are things that most businesses and
+certainly governments need to be doing
+right it's just really somebody flat put
+it in a program and said okay now we've
+got a check list right and of course
+everything is as
+Nuance so for example let's take MFA
+which everybody multiactor
+authentication most people know what
+that is
+nowadays and I I get this all the time
+you know we'll say do you have
+multifactor and they'll say yes I'll say
+okay on on email they'll say yes how
+about uh VPN uh no okay what about on
+your cloud services uh some of them okay
+you know so you know not all the time is
+it just a yes no it is you have to dig
+in and and really understand their
+environment right also there's different
+types of MFA so you know are you using a
+cell phone with a with a a text you know
+code that's been texted to you that's
+actually wide open or are you using an
+authenticator app application you know
+so even though these
+controls at at first glance look like a
+yes no there's really actually a lot of
+nuance in them okay interesting U and
+that makes sense that makes sense one
+thing I want to just double back to cui
+for a minute because and again I'm I'm
+kind of giving you some of the the
+client questions I get that you know
+I've either either don't have an answer
+for or that I had to spend time
+researching and I think might help this
+is one of them which I think I know the
+answer to but I think might help the
+audience which is you know I'll have
+people come in that so there's a there's
+a Fed ramp certification that is is the
+lowest one I I don't remember what it's
+called
+well hey there there you go right um
+that makes sense and they were being
+asked to go to Fed rant moderate and
+their explanation to me was hey look we
+don't need to be moderate because we
+don't have cui but then I believe
+there's a place we can go to check and
+see what actually does classify a cui
+information and I think some companies
+might be surprised at some of the things
+that are listed there uh is there
+anything that that comes to mind for you
+that um that you immediately go to to
+see hey you know here's some or maybe
+some some types of information that
+companies don't think is cui but
+actually
+is yeah um a lot of times so let's talk
+about let me take it up a level and
+really
+understand cui and the ownership of cui
+okay so the federal
+government they see cui data as their
+data and that they are handing it to
+either a contractor or a
+subcontractor and you know think of that
+as like you know a bag of gold it has to
+be protected it is it is not yours to
+own it is yours to
+use so if I take this data and I give it
+to a you know a prime northr Grumman
+right and then northr Grumman is going
+to distribute it to 50 subcontractors
+and that data moves
+down all of that data is considered
+Federal data and you have the you have
+the responsibility to not only protect
+it but to prove that you have taken
+ownership and you have been a good
+Steward of that data and you have not
+let
+it right okay so with that concept of of
+cui um I just went down a rabbit hole
+and totally forgot what you asked but
+that's actually a really good overview
+of cui it's not really a way that I've
+thought about it
+either which is everything that the
+government gives you is their data right
+so even if a company takes it and thinks
+oh it's just an email address or it's
+just in in the case I was talking about
+oh it's just statistical data that's not
+something that needs to be you know
+protected at a certain level they may be
+wrong about that or might be the
+combination of different types of data
+but it's all federal data it's all
+federal data and you have been entrusted
+with it and they expect you to you know
+to and if you really rich if you really
+want to go up a level and think about
+okay people especially the smaller
+businesses where this is this is a very
+large expense and lift for
+them you know why are we doing this
+right and and the reality is I mean you
+know I hate to just be BL but it's it's
+China you know China basically has
+copied almost all of our weapons I their
+carrier looks like our carrier right and
+they they've made it actually better you
+know they did it half the money and half
+the time it's an unfair advantage and
+China didn't go steal those uh it didn't
+go steal a carrier from the Navy and
+they didn't go steal it from one of the
+Prime Contra they went down to the mom
+and pop shops you know Joe's cool and
+die and he's got a blueprint sitting on
+a card table next to the Lai you know
+making the barrel of the you know the of
+the tank right and there's no I mean
+there's absolutely no
+he's probably got 10 employees he's in
+some rural town he doesn't even know
+China exists and it's very easy to steal
+it they take all that data they re they
+reverse engineer it next thing you know
+They're copying all our weapons so
+ultimately at some point you have to
+stop that right because then it becomes
+you know we're
+we're you know we're losing that that
+that particular part of what I'm gonna
+call kind of a cold war sure that's
+probably too strong but you get the word
+you get idea but anyway that was that
+was the impetus for the dod to say
+okay several years ago we told everybody
+with Ds um
+72 that you have to start thinking about
+nist 8171 you have to put these controls
+in place yeah and just for everyone
+listening um this is this is a good good
+point and and a question I get a lot
+which is fed ramp when I think fed ramp
+I think cloud-based software tools
+essentially or SAS products that are
+going to be in the cloud but some people
+think cmmc is related just to technology
+or software but I don't believe that's
+the case is it and does it or does it
+apply to everybody who needs to be
+thinking about cmmc in N 800
+171 uh so the way you think about cmmc
+is you go back to the data okay so when
+whenever I get a phone call and they say
+Okay they've told me that we're going to
+have to we get a letter from our prime
+contractor right locky to sent me a
+letter and they want to know what our
+status is and there's something called a
+Spur score sprs
+score that is is when somebody has
+looked at Nest
+8171 and they have determined a score
+which is a very odd score it's it's the
+the best score is a positive
+110 the worst score is a -
+203 so I'll you know only I'm not sure
+who came up with that system but you
+know we that was bad um so anyway you
+you put that score into the Spurs system
+for the government to understand that
+you have where you stand on these
+controls the problem is that it was self
+attestation so they
+were attestation does not work right So
+eventually the the o said okay since
+you're not doing it we're going to
+create um cmmc and you're going to have
+to get certified and we're going to have
+three
+paos that are going to come look and
+they're you know we're going to validate
+that you're you're hitting one of the
+three levels of cmmc there's level one
+level two and level
+three so
+um so anyway we're we're back to the
+data is what matters when you
+when you come in and you have cui in
+your
+environment for example somebody emails
+you a piece of data that's considered
+cui all of a sudden your email system is
+in in boundary it's in
+scope Susie takes it out of email and
+she puts it in the
+Dropbox guess what Dropbox is now in
+scope so if you follow that data through
+that
+company everything it touches it's now
+on scope that is interesting so let me
+ask you this right just let me put it in
+a a different context how about I'm a
+construction
+company and the government sends me some
+plans or you know those uh the
+architectural design for the new
+building that's on base it's not
+classified but that may now count as cui
+it absolutely is so that means my email
+system needs to abide by now now you
+pulled your email system into scope so
+the what we what we tend to do with our
+clients when we're not on the assessor
+side if we're on the get you ready side
+Readiness Consulting what we're going to
+do is first do a data flow where is this
+stuff coming from where is it going both
+at rest and in transit right and then
+what we're going to do is we're going to
+say does it really have to come into
+email like is that
+required and they may say well what else
+would we do so what if we have them put
+it into box gov you know just have them
+put it into a a folder that's already
+fed ramp moderate bypass email and they
+if they say well that process will work
+just fine now we've taken one system out
+of
+scope and we're starting to shrink
+our our um environment and so what you
+want to do is you want to get it down to
+the the smallest environment you can
+one one mitigating Factor when I first
+talk to someone and then and one of the
+first questions I ask is how many
+contracts do you have that that have
+cui would would fall in that category
+and if they say one or two then that's
+one thing if they say I've got
+20 then if you have 20 most of the time
+you're entire organization is going to
+be affected it's there's too much going
+on but if I get a company and they call
+and they say look I've got two contracts
+then I'll say okay how much money is are
+those contracts worth to you and they'll
+say he $100,000 a year I'm like okay
+you're gonna spend hundred to $200,000
+getting cmmc certified so are those
+contracts actually worth it anymore
+right right do you even want to be in
+this game because if you do you're G to
+have to
+invest and so um so there's a lot of
+nuance in the those initial
+conversations about how much data how
+many contracts how many systems how
+complicated um how long have you been
+doing it and I'll even give you one more
+piece of data are is this particular
+part single Source or multiple you know
+you have multiple Source if you're the
+only person who makes a thing M you have
+a lot more leverage to say no I'm not
+going to do
+this the prime contractor is going to
+come back and say wait a minute I've got
+a billion dollar contract that's going
+to be held up on you no and they're
+going to send somebody to help them fix
+it if you're one of seven guys who make
+a
+part then you're out I mean it's a
+competitive Advantage for the guys who
+are willing to do
+it so when you really get into it how it
+actually operates it gets super
+interesting on the decisions that a
+business has to weigh
+and what whether or not this is is is
+worth their time and energy sure when is
+cmmc going to be required for the
+certification because there's different
+levels right there's a self assessment
+which we're seeing now um you know I've
+had clients recently that are on
+contract with the government have
+multi-million dollar idiqs and the
+Contracting officer caught this is an
+example that I worked with Karin on and
+it was hey we're not putting another
+delivery order on this contract until
+you get your self assessment score into
+SP RS I want your security plan and I
+want your poams and everything else
+associated with it we're going to review
+all of that that's not something that
+we've been seeing in the past but and
+this is already on contract Yeah it's
+you're starting to see it in um now
+remember what they can do now is they
+can ask anything about Nest 8171 so the
+Spur score is about
+Nest they can't do cmmc specifically it
+cannot go under contract yet because the
+final rule has not been issued right we
+don't ipate that till late in the year
+or early next year okay but that doesn't
+mean that the contractor can't come back
+and say wait a minute I want to know
+what your posture is on what you're
+supposed to be doing now right and so do
+I want a Spur score what is it and if
+it's you know Nega
+42 uh or negative 142 then okay now what
+you where is your poam plan of action
+and Milestones so show me me what you're
+doing to fix that right so back to the
+system security plan which is a key
+component of
+cmmc and then the poem being another key
+component uh an agency um Can can
+say well I get it you're you're sitting
+at negative
+40 but according to your poem in the
+next six months you should be much
+closer to
+110 that may acceptable for them as long
+as you're executing on that sure right
+so right now each agency has some
+control some of the agencies are much
+more rigid right you don't have a Spur
+score I'm not paying your invoice I've
+had plenty of those
+calls they they've been paying my
+invoice all of a sudden they just told
+me they won't pay it and I've got to
+have something called a spare score
+what's that
+see
+contract there's always risk aversion on
+the acquisition the government
+Acquisitions core for the most part but
+I think we're seeing some some I'm
+sensing some scared Contracting officers
+that you know maybe have let things go
+starting to realize things are you know
+chickens are coming home to roost so to
+speak and this CMC how is that going to
+change this because this is just a self
+assessment what's what changes when that
+if the CM cmfc goes through when C then
+it becomes a contractual item so you
+can't
+bid you can't even bid so uh and by the
+way it's not even you can't bid they can
+put it in the renewal so you can't even
+renew as of right now they can't do they
+can't keep that part they can they can
+hold you on nest and as long as you're
+self assessing you're improving but the
+minute CC becomes Rule now they can
+actually exclude you right um and so uh
+you just said something I thought it was
+I was going to add something but I've
+lost it already but we'll come back okay
+and I'm not sure we're talking about cui
+we're talking about uh companies uh the
+cmmc ruling companies getting oh I was
+talking about a contractor that had a
+contract and you just mentioned it also
+where they weren't going to give him any
+more delivery orders until he got that
+nist score and syst wouldn't pay the
+invoices those getting those were that's
+that's super interesting and new um but
+um yeah it'll come back to me this this
+makes it um and I like to Vector things
+back towards small medium-sized
+businesses which is is where I like to
+focus um and that's where I on the
+government side that's first of all
+that's where I saw the best Technologies
+coming from but it's also where I saw
+the biggest struggle selling to the
+government you know we see
+year-over-year we see fewer and fewer
+small businesses selling to the
+government it's less than half of 1% of
+us small businesses that are selling
+right now to the government um and this
+sounds like it's going to make it even
+harder for those companies so if if
+you're talking to me I have a service
+disabled better known small business and
+if you tell me I have to spend a couple
+hundred grand just to get the
+certifications needed to be able to bid
+on
+something you know you talked about hey
+is it is a youth worth worth a squeeze
+well you know something's got to pay for
+that right and if I can't even get a
+government contract and there's no
+guarantee Government Contracting is hard
+anyway it takes a long time so what
+would your advice be to a small business
+that's looking to get in the game yeah
+that's a that's a great question me
+because I get it so much basically you
+really have to take two perspectives
+one if I get this then that is a
+competitive the sooner I get it the
+faster I get it the more I'm ready and
+the faster I'm ready I am going to move
+up in the line in those contracts right
+so it's a competitive Advantage if
+you're going to go for
+it um if you don't if you are dabbling
+and I get a lot of calls where they have
+one or two contracts and that's it those
+guys are going away the minute you do
+cost justification analysis this is over
+because you know there's all kinds of
+numbers out there that say oh well you
+can do it this way and it's only
+$4,000 not true um you know this is A1
+to $200,000 minimum process it just is
+um and so and then the bigger the more
+locations the bigger you are the more
+expensive it is sure so I think that
+what you're going to find is it's
+actually going to thin out the
+subcontractor pool it's not what the dod
+wanted but ultimately that's that's
+what's going to end up happening yeah
+you know was there was CMC level
+basically version one and that ended um
+I don't know what last year kind of mid
+last year um and one of the reasons was
+that basically they just had too many
+small businesses that just said peace
+out not doing
+it so kind of branded regrouped came up
+with CC level two supposedly going to be
+easier not any easier by the way um uh
+in in in reality I'm not sure they move
+the needle that much yeah right but uh
+but they did have in my opinion totally
+my opinion I I think they had a PR
+Nightmare on their hands you can't go
+lose 60 or 70% of your subcontractors
+when you implement something like that
+they that just won't work
+weird conundrum right because it's on
+the one hand you have to protect the
+data you know we've got things happening
+just here in Massachusetts we had some
+kid walk out of a skiff with and started
+posting stuff on his video game channel
+right and um you know so I mean that
+that covers a lot of things beyond what
+we're talking about here but we have to
+protect the data and protect the country
+and on the other hand we we don't want
+to create an environment where and you
+could already make the argument that
+your the massive amount of spending that
+the government um is responsible for
+they're the number one purchaser of
+goods and services in the world um you
+know where in we in the Small Business
+Association has been complaining about
+the fact that fewer and fewer businesses
+have been selling this is going to make
+it even worse even harder right so you
+got these two things that don't um you
+know don't necessarily align with each
+other work opposite of each other
+actually it's true and you know it's
+like you said it's a true conundrum
+because we have to start protecting this
+stuff yeah
+uh on the other hand we're making it
+harder for smaller businesses where the
+margins are pretty thin anyway so then
+the question I get all the time is okay
+will the government pay for it and the
+answer from the federal government is
+technically DOD is technically yes but
+in reality it means it it it doesn't
+translate and I'll tell you what I mean
+yes you can put certain cmmc costs into
+your
+bid but your bid goes up and if the
+other ones don't do it it's a
+disadvantage yeah so in reality you
+can't really you can do it if you're
+single
+Source but you can't do it if you're in
+a competitive situation so that part
+didn't translate and didn't
+work I like I'll give you another one
+I'm going to flip back over to the
+fedramp side real quick in the FED ramp
+Marketplace we find this um it lists how
+many different products that you have
+currently um um you're the assessor on
+and so people will agencies will go out
+there and look and they'll say you know
+cfire is is one of the biggest players
+in in in the FED ramp space at one time
+on the F on the marketplace they had 500
+products or something it was just huge
+as of like yesterday they had 100 right
+so it goes up and down for various
+reasons well the small guys you know
+we're considered a small guy you know if
+we have zero or one or two
+then the agencies will look and say well
+I'm not sure they're as qualified as the
+guys who have done 100 or
+200 and so once again it's back to we
+spent a enormous amount of time and
+money and then we have to answer these
+questions about well are they really
+qualified the white house uh Office of
+Management and budget max.gov we did
+that fed ramp so if we can do a Fed ramp
+for the for the White House I I think we
+can probably do you know we're qualified
+sure and yet we still because we're
+small have to kind of
+fight you know that that thing and once
+what it does is it drives the small
+businesses out of that Marketplace yeah
+unintended consequences it it is hard uh
+we and I could talk about this for the
+next three hours because I have some
+thoughts different types of businesses
+different Industries how do we minimize
+the footprint because it sounds like you
+have some pretty specific thoughts on
+what we can do to at least make it you
+know depending on the type of business
+you know we may be able to like you said
+there's there's some maybe some tools
+out there where you're storing
+information in in a protected Cloud
+environment so now you don't have to you
+know maybe measures on your computer so
+um I I don't want to I don't want to
+give the impression to everyone out
+there that there's no hope because I
+think there is hope and and I think even
+beyond that right um I think you'd agree
+there's an amazingly big opportunity out
+here but you know you to take
+precautions you got to you got to
+approach things with your eyes wide open
+and I would hate to see companies
+wasting time or money you know going
+after something get getting their whole
+Federal team put together and then not
+realizing that this piece is here and
+it's real and it needs to be taken care
+of you know in the end I I tell people
+this you know you remember when Hippa
+kind of came out and it was starting and
+it buttered and it finally I really see
+cmmc the same way yes where there's all
+kinds of pickups and but but this is not
+going away this will absolutely happen
+we can't not do it right so you know I
+think in five years we're all going to
+look back say oh you remember that CMC
+CR you know but and then it'll be just
+like putting your seat belt on you just
+do it right right the playing field will
+level uh so back to your point of this
+is the positive side of this um it's
+critical that we make it happen
+businesses are starting to not only get
+this pressure from the
+dod what we're seeing is their insurance
+companies are now pushing them oh you
+don't have MFA oh you don't have your
+backups offsite oh you're not doing you
+know you don't have some kind of uh
+detection tool um you're not doing Bly
+BR management and so they're they'll
+either one won't insure them or their
+their cyber Insurance just skyrockets
+right so it's not just the dod saying
+hey you got to do these things in
+general you're I have have several
+clients call and say look my biggest
+customer has just asked me to fill out a
+cyber security
+form so when your customers start
+pushing on you and insurance starts
+pushing on you and the marketplace
+pushes
+on we're we're all going there yep no
+question no question about it is it um
+and then we we're going to have to wrap
+up here in a minute but I just wanted to
+because you mentioned the dod in
+specifically is this a applying to all
+federal agencies across the board yeah
+you're you're seeing across the board
+the the gramly Lee B blly act which is
+the FTC safeguards that affects the
+biggest one's all the car dealerships
+you know um non-banking financial
+institutions we're getting tons of those
+calls because they're basically saying
+put in these controls the SEC is coming
+out with their version so there's really
+not a a federal
+agency they're all doing some version of
+this in a in in different various Ways
+by the way it's all based on this
+usually
+853 um you we all go back to the same I
+mean that's really the standard for for
+this space but um this is pervasive
+um and and and it this this will never
+this Genie will never go back in the
+bottle it has to happen and so really
+how do you get your head right about how
+do I do this logically constructively
+how do I budget for it if I need to make
+an investment in my business you know
+where am I going to get that money and
+how am I going to make that you know
+really pay off for me okay those are the
+those are the business conversations
+that have to be had so let me ask you
+this in the last couple minutes here
+let's take let's take two different
+kinds of business and we're just going
+to focus on small and mediumsized
+companies um we've got companies that
+are selling to the government already
+they're on contract and they're hearing
+this and they they probably know it a
+little bit but they want to talk to you
+like what do you think of the next steps
+what and how would they work with you
+and then also same question for the
+small business that is just registering
+their company and they want to get
+started maybe now they're double
+thinking or getting a second guessing
+their thought to get into Government
+Contracting you know for the one that's
+already there um especially if you've
+got a decent amount of Revenue right if
+if you're
+doing half a million dollars or more in
+Revenue then this is worth doing right
+then I don't care how small you are and
+and it'll also strengthen your position
+in the market uh because there will be
+people that fall off so my my advice to
+them Embrace this hit the gas you know
+get a get a great consultant to help you
+um do it smart you know don't just get
+somebody who wants you to ride a huge
+check there's a lot of those guys out
+there get somebody who's actually trying
+to help you make good business decisions
+in this space if you're on the other
+side and you're thinking about getting
+into this I think it's just understand
+it's just you know it's just barrier to
+entry right it's just think about
+what like any other you know if you're
+going to be a cosmetologist or a person
+does hair you got to go get your license
+you got to pay your fees it's it's part
+of it and so as long as you know it
+upfront and it still has a strong
+business case for you then then you know
+it's like any other obstacle Just Gotta
+Get Around still could still make a lot
+of sense I agree what's the best way for
+them to reach out to you if they want to
+talk they want to schedule a consult
+what's the process uh Sarah brand.com
+which is s r a b r y NN so sbr.com
+and um there's there's all kinds of you
+know contact us for this forms and on
+that it's um uh that's probably the
+easiest way to get in touch with us and
+um you know we love to especially the
+small mediumsized business those are our
+favorites I don't know why we've got a
+soft spot for them we have big
+Enterprise clients and they're great but
+maybe because you know I've I love that
+world but um you
+know that that's just fun to me yeah no
+same here same here well you know Jeff
+Lisa this has got to be the best fed
+ramp discussion we've ever had on the
+podcast we had over 100 interviews 100
+episodes on here and uh this has been
+great I learned a lot sure our audience
+learned a lot uh and hey guys uh if
+you're listening to this you know now
+how to uh reach Jeff and Lisa at Sarah
+Brin go to the website uh check them out
+uh and and you know set yourself up for
+success I I think that they could do a
+lot to help you uh don't forget to
+subscribe leave a recommendation and uh
+anything you want to hear Let us know
+and we'll we'll have somebody on that
+can talk about what you want hear about
+for Federal Government Contracting
+thanks again thanks again Jeff and
+Lisa thank you

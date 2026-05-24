@@ -1,0 +1,560 @@
+Kind: captions
+Language: en
+hey guys Ricky here with DOD contract
+Academy and today is part two of walking
+you through how to build a pipeline how
+to identify opportunities close those
+contracts I want to give you actionable
+things to work on in this series of
+podcasts I don't promise that I won't
+intermingle some interviews with some
+great companies that we have coming up
+that are selling to the government in
+the last podcast we talked
+about basically building the pipeline on
+a spreadsheet which I don't like to do
+but I want to give you something like
+what are the types of things what are
+the columns where where can you actually
+record all of the opportunities that
+you're finding in manage them now you
+want to use a CRM tool we are developing
+one where we're almost there um and I
+can't wait to bring that to you guys I'm
+really excited about it but in the
+meantime just a few opportunities you
+can use your spreadsheet you can
+certainly use Salesforce you can use
+HubSpot you can use whatever CRM tool
+you're using they just require a lot of
+modification in order to get them
+because none of them are designed for
+selling to the government they're
+designed for B2B and BTC sales so even
+when you go to the website and it says
+government sector trust me I've used
+just about everything out there and I've
+never found anything set up with the
+steps that it takes to sell so hopefully
+this gives you some ideas of how you can
+modify the system you're currently using
+or if you're just using a spreadsheet to
+you know um lay that out and then when
+we have our tool we will uh we will
+offer that we'll launch it here on the
+website and you'll get to see what that
+looks like but today what we're going to
+talk about is finding those
+opportunities right because I get the
+question all the time Rick confused I'm
+lost I need to understand what I need to
+do start with a way to record the
+opportunity so you can build your
+pipeline okay next we're going to focus
+on finding the opportunities okay and
+we're going to use the systems and tools
+that are free that you're going to be
+able to find online so if you are
+listening to this in a podcast I'm going
+to describe what I'm doing but you may
+want to check out the YouTube channel
+because I will be putting it on YouTube
+so you can watch and follow me there as
+well if you want to see the actual
+things that I'm clicking on so the first
+thing that we are going to do we're
+going to go to sam.gov
+okay some of you have your websites or
+not your websites but your companies
+registered there this is the repository
+for Government Contracting it's run by
+GSA it's a government
+website it's they're making improvements
+I'm not a huge fan of it but it can work
+right it it can get you where you need
+to go this is where you register your
+business by the way and this is also
+where you're going to find Opportunities
+if you're not paying for a tool to find
+them for you and I've done other
+episodes on those tools so I'm now on
+sam.gov now what I want to do when I'm
+on the sam. of screen is at the top
+there's a couple of menu items home
+search data Bank data services I'm going
+to click on
+search and that's going to take me to a
+new screen now next when I am in this
+screen underneath the search bar which
+you could type something in there and
+just search for it but I what I want you
+to do is go to where it says select
+domain all domains I'm going to expand
+that and it's going to give me a variety
+of things that I could choose from
+contract opportunities assistance
+listings entity information which you
+know that's something you can use to
+look up other companies now you don't
+have to have an account because there's
+a signin tab here you don't have to have
+an account in sam.gov to look for
+opportunities these are made available
+to the public by and large so you can
+just click on contract opportunities in
+that drop-down menu that I just U
+mentioned and by the way I'm bringing
+this up because a lot of people don't
+even get to this screen they just start
+searching and they don't get to the
+screen where they can actually
+start being very precise in what they're
+searching for okay now that I'm in the
+screen that I want I have a variety of
+things that I can choose from federal
+organization so I could just search for
+things listed by the army or the VA
+dates meaning I could and and this does
+come into play I can choose the dates of
+maybe when a contract opportunity is
+active notice types and this we're going
+to play with this today U product or
+service information set aside like woman
+owned small business AA place of
+performance maybe you only work locally
+if you're in construction maybe you only
+want you know opportunities in Florida
+so you can do that you can segment those
+out here contract award this is more for
+research you know if you want to see
+look up incumbents or look up you know
+contracts from a certain company and
+then status and status you can choose
+active or
+inactive right now we are focused solely
+on finding opportunities and what I want
+to stress here is you are not looking
+for rfps meaning request for proposal
+you're not looking for RFQ request for
+quotes that those are the official
+solicitations that the government is
+sending out to ask you to write a
+proposal to win a contract and it's the
+biggest mistake companies make when
+they're first starting to do this is
+they're that's what they're looking for
+because it seems like it would make
+sense hey the government wants to buy
+I've got a guitar behind me the
+government wants to buy 20 guitars well
+here's the solicitation I'm going to put
+my proposal in now can you win a
+contract that way you could but it's
+going to be very hard for you to win
+anything if that's where you're starting
+if if that's the first time you're
+interacting with the government office
+that's doing the buying odds are and the
+odds are pretty good that there are a
+bunch of other companies that started
+engaging with that office months before
+if not if not longer this is how you do
+it this is how you find I'm about to
+show you how do you find find an
+opportunity before that solicitation
+comes out because that's where you want
+to engage in the market research phase
+so what I'm looking for what I'm going
+to do here is I'm going to go to notice
+type and in notice type there's another
+drop- down menu and this is where I can
+look for things and you can see here it
+says like solicitation right so if I
+click solicitation I'd be getting
+exactly what I don't want right now I'd
+be getting everything every solicitation
+from the government asking for a
+proposal remember handcuffs are on when
+the solicitation comes out you're not
+going to influence it if you're asking
+questions the only way they're going to
+answer you is in probably a actually a
+posting on sam.gov to all the companies
+right because the government's going to
+be very careful here about showing any
+preferential treatment you know once
+that once that solicitation comes out
+the requirement set the funding set but
+in the market research phase you have a
+tremendous opportunity to meet with the
+government and to actually influence how
+they're going to buy so in this drop
+down menu I'm going to click on one
+thing and one thing only and that is
+sources
+so the source saw is a notice that the
+government's going to send out maybe a
+couple months ahead of the
+solicitation and they're going to ask
+you questions what kind of business do
+you have how do you recommend we solve
+this problem depending on you know what
+industry you're in you know and maybe
+It'll ask for if you have a
+certification like a woman own small
+business or a you know and it's going to
+ask you maybe some other questions too
+it might even ask you for a ROM a rough
+order of magnitude cost estimate right
+so there's a few things they can ask
+there now you can put a lot into the
+sources s to help
+influence how the government buys and
+I've done entire episodes on that but
+this is about how do we find the sources
+sought so I've clicked on sources sought
+right so now immediately I'm going to be
+finding opportunities ahead of time the
+next thing that I want to do is now I
+have to sort through all of the sources
+sought out there right because you know
+if you're in construction you don't want
+to be see it related sources so there's
+there's a lot out there so there's a
+couple things I could do here I could
+put in a keyword but that can give you a
+lot of
+random results that don't necessarily
+apply to you I'm going to start with
+product or service information okay now
+I have a nakes code that pops up and I
+also have another drop down for product
+service code the NES code the North
+American industry classification code
+this is basically a broad code which
+categorizes products or services so in
+this example I am going to use finance
+and insurance so this could be anything
+that you're doing in finance and
+insurance it could be if you provide
+services or software related to that
+there's a lot of different things that
+could fall under finance and insurance
+healthcare insurance right there's G to
+be a lot that I know there's going to be
+a lot that falls under this now another
+way to do this is you can look under
+product service code that gives you
+product service code is is another way
+the government can classify the way they
+purchase different things but it's a
+little bit more precise right so it
+might you know if if we were looking at
+accounting services I might believe
+there's a PSC code or product service
+code for bookkeeping so it might give
+you something a lot more
+precise right now I'm sticking with
+finance and insurance so when I do that
+and I click search I've got 10 results
+and the first one is for escrow and
+investment fund manage management
+support services the response date is
+September 25th 2023 it's telling me this
+is from the Department of Agriculture
+okay now if I click on this and if you
+were if you built the spreadsheet that
+we talked about in the last episode or
+using another CRM tool a lot of the
+things that you are going to want to
+pull out of this source of s are going
+to be in here once you click on it you
+know obviously I want to know when it's
+due I want to know a little bit more
+about it so you're going to read through
+the description and decide if this makes
+sense for you for this example we're
+just going to say that it does it's
+talking about providing professional
+banking services and Reconciliation of
+investment and bank accounts yada yada
+there's an attachment here right that's
+going to give me a lot more
+information it says very specifically
+that this is not a request for proposal
+so you're not giving them a proposal but
+you are giving them something you are
+putting together you know a certain
+number of pages you know it's usually
+under five sometimes it's a little bit
+more depending on how big you know if
+this is like a $20 million contract then
+they're going to ask for more
+information than if it's a million
+dollar contract or $500,000 contract
+something else that's interesting in
+here and I'm not going to read the email
+addresses in the podcast but it gives
+you the government contacts in here to
+respond to this solicitation so you only
+want
+to send emails to these contacts when
+you respond to the solicitation
+initially that's my recommendation right
+because what your your goal here is you
+want to get a meeting with them you're
+not always going to get one but let's
+say this all makes sense I'm going to
+generate a response and then I am going
+to send that response to the contact so
+a lot of people ask well hey I don't
+even know who to talk to in the
+government well if you were going to
+sell Financial Services to the
+Department of Agriculture this is giving
+you two contacts that are looking for
+companies that do this right so this is
+a tremendous opportunity it's giving you
+a lot of information so you're going to
+and we're not going to talk about how
+you're going to construct the source of
+s in this episode but you're going to
+put that together low level of effort
+you're going to send that to them and
+then you're going to request a meeting
+and all of that's going to go into your
+CRM or spreadsheet depending on how
+you're tracking this now as a bonus if
+you are in financial or healthcare
+related industry what I I should say
+Financial or insurance but I just know
+that a lot of healthcare insurance is
+involved here
+what I'm going to do is show you how to
+find out how much the government's
+spending here right and so I've already
+done a little bit of homework so if
+you're following along there are two
+ways that you can go and you can check
+this out now right now I'm looking at
+gub tribe I subscribe to this I pay for
+this so you know you don't have to pay
+for G tribe and by the way I have no
+affiliation with them there's no
+affiliate deal there's no anything there
+should be considering how much I talk
+about them but so I can go into guv
+tribe and see EX exactly how much is
+being spent per the North American
+industry classification code and it's
+telling me that under finance and
+insurance2 billion doll over the past
+three which is a tremendous amount of
+money over the past three years but you
+probably don't have gov tribe so what
+you can do is you can go to
+usaspending.gov and I'm going to start
+this from scratch usaspending.gov is a
+it's a government website I can go in I
+can hit start searching
+Awards and the next thing I want to do
+is I'm going to look under fiscal year
+the government fiscal year remember
+starts October 1st ends at the end of
+September and we're in September of 2023
+right now so this is what we call
+Fallout fund season meaning government's
+trying to spend all their money before
+the next fiscal year um and this is this
+is an important time for anyone selling
+to the government and I've talked about
+that we'll uh we can address that you
+know in another episode if you guys want
+if you're interested in it just let me
+know but anyway I'm looking under fiscal
+years I'm going to go back just the past
+four years I don't don't really care
+what the government spent in 2008 I want
+to know what they're spending over the
+past couple of years and then I'm going
+to go to the exact same nakes code that
+we just talked about which is finance
+and insurance so I just clicked that
+there's a drop- down menu on the Le hand
+side of the screen when you're in
+usaspending.gov so this is real simple
+I'm fy20 to FY
+23 and the nakes code for which is which
+starts with 52 for finance and insurance
+and so if I'm doing things correctly
+this will show me similar numbers to
+what I saw with gup tribe or whatever
+paid tool that you're using now I can go
+to spending by time in USA spending and
+it's telling me it's giving me the same
+numbers I mean it's showing 18.3 billion
+in 20120 29.7 billion in 2021
+39.6 billion in
+2022 29.5 billion
+2023 these numbers are going to change
+almost on a daily basis because of
+government reporting and system lag and
+everything
+but I might want to know all right well
+what are they actually spending this
+money on right because you know this is
+a pretty broad category and just looking
+at the top you know USA spending usually
+categorizes it's it's showing me the
+contracts right now for those that are
+listening and it usually starts with the
+biggest ones and so I can look up here
+and I can see Huma you know $ 38.4
+billion dollar I mean this is a big
+Healthcare uh Insurance business right
+so I mean we know when I look there and
+I see okay
+human HealthNet United United Health I
+mean these are these are healthc care
+medical insurance companies opum you
+know I've and I've used a lot of these
+myself so for you you're probably a
+small business owner I want to know okay
+what are the small businesses selling so
+I go to recipient type and I can click
+under business and I could just click on
+small business and by the way you can go
+and just look at women own small
+businesses veteran owned small
+businesses so you can do a lot of
+differentiating and pairing down of this
+information to see what applies to you
+but for this I'm just going to click on
+small business and I'm going to click
+search
+again and I'm going to expect a dramatic
+decrease in the spending but still
+probably a
+lot okay so now we're in millions of
+dollars not billions of dollars but
+still so now I can see you know 261
+million spent in 2020 389 million 21 348
+million in 2022 338 so far in 2023
+almost at the end of the
+year and I can also go and I can take a
+look at you know what are some of the
+things that you know the government's
+buying here and it all same thing it's
+it's showing me you know from biggest
+contract to to lowest so you know for
+you if it was me if I had some type of
+like Financial software or something or
+Insurance software I might go down to
+like some one of the million-dollar
+contracts you know I can see there's
+something in here for pet insurance that
+I'm looking at it really boggles my mind
+how much the government spends on
+different things and I should probably
+just do an entire episode on pet
+insurance because almost no matter what
+you do the government is going to be
+buying it so you can go in here and see
+exactly you know what it's all about but
+point being I can click on any of these
+contracts and get a lot more information
+about the specific contract so that my
+friends is the episode for today short
+and sweet it's how you find sources
+sought is this the only way to find
+Opportunities before the solicitation no
+it's not but this is a great way to do
+it and it's a great way to get started
+what I would suggest today is that you
+take some time to go into sam.gov and
+just look for sources sought within your
+industry you know and try different
+nakes codes look for a different product
+service codes a lot of them will just
+drop down in the menu something else you
+can do uh is pair that with
+usaspending.gov like we just did and
+look through NES and psse codes there
+and you can go back and forth and start
+seeing different things you know if you
+try don't don't take one code right like
+one nakes code let's say that you were
+selling Financial software and you went
+in and were looking for source of sought
+under that finance and insurance snakes
+code well I can tell you that finance
+software that could there's probably 20
+different nakes codes that could be used
+I might be exaggerating a little bit but
+there's multiple NES codes that could be
+used to buy something like that so you
+want to play around and look under
+different things and you can use a
+keyword too so play around with that
+look for the source s and if you see
+something that makes sense that's due
+you know in the next month or two that
+you can engage on well put that in your
+pipeline and that's how we start
+building some of these opportunities you
+know once you've engaged you've
+responded to five or six of these for
+instance I just did one with the VA I
+sent my sources sought response in
+and now they're they've been reaching
+out to me making sure that I know that
+hey Rick the solicitation just came out
+like we want you to respond to this
+that's a really good sign so in you know
+there are they all going to work that
+way no sometimes they won't respond
+sometimes they'll respond and they'll
+call you and be like hey you're the only
+one that responded to this we want to
+talk but you want to reach out to them
+you're going to track that set up a
+meeting track when the next solicitation
+coming out this is a great way to get
+your balls rolling on
+the Govern I I could have put that a
+different way I should edit that but I
+probably won't I'll probably leave it in
+so get the ball rolling on your
+Government Contracting Pipeline and in
+the next few episodes we'll talk a
+little bit more about how we can
+influence these maybe some other ways
+that we can find those opportunities
+ahead of schedule and we're going to
+talk specifically about how big your
+pipeline should be so whether it's the
+spreadsheet or the CRM tool we have a
+very specific formula that we use to
+decide the value of these opportunities
+and how many should be in your CRM
+pipeline so thanks again for tuning in
+this week if you want more help go over
+to dodc contract.com we have the academy
+there you can sign up to the academy
+right now we are taking members and
+essentially what you're going to get
+there is you get all of our training
+immediately that's on demand access more
+importantly you get the weekly coaching
+so typically I'm hosting the weekly
+group coaching calls you'll get to meet
+the other students in the academy and
+learn about how they are winning
+contracts and how they're going after
+those contracts so hopefully I'll see
+you in the academy if not I'll see you
+or hear from you maybe uh on the next
+podcast leave a comment subscribe let us
+know what you want us to cover in the
+upcoming episodes all right thanks again
+guys take care

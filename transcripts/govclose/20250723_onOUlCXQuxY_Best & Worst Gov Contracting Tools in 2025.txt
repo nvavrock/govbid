@@ -1,0 +1,1211 @@
+Kind: captions
+Language: en
+We do get a lot of companies that reach
+out that are building tools for
+government contracting that have already
+built them, some that are new. So, today
+I'm going to look at a couple of things.
+First, we're going to take a look at one
+of those new tools. I'm just going to do
+it live. I've played with it a little
+bit. We'll take a look at some of the AI
+tools. Then, I'm also going to get into
+just some of the more traditional tools
+that aren't designed specifically for
+government contracting, but I use all
+the time. I'm Rick Howard, former
+government acquisitions officer. where I
+managed over $82 billion in contracts
+with the federal government. Then I
+started my consulting business in 2019
+helping companies sell to the government
+which led to me training sales teams and
+finally launching Gov Close. Granted, uh
+although the the theme of our channel is
+government contracting, I think you'll
+be able to use a lot of the tools that I
+present here um for other things as well
+uh just to help you with uh work. But
+I'm going to talk about how I use them
+in government contracting. So, there'll
+be a couple ones that are a little bit
+you wouldn't expect to see them uh
+during this review, but I'm going to get
+into them. And then towards the end, I'm
+going to talk a little bit about, okay,
+lots of new tools out there, lots of AI
+tools, but what are the ones that you
+just keep going back to, Rick, and what
+do you use them for? Because there's a
+few of those, too. There's a couple of
+foundational things, uh, applications
+tools that I think at least for the
+foreseeable future are going to be hard
+to get away from. First one's called
+Teaming Pro. So, I got an email here
+from the CEO of the company a couple
+weeks ago and wanted me to check it out
+and I said, "Hey, look, I'm going to go
+through my tech tech stack and different
+applications and tools." By the way, I'm
+currently
+not sponsored by any of the tools uh
+that I'm showing today, although I have
+had affiliate agreements with some of
+them and uh free accounts, things like
+that. So, um, this, uh, I was just given
+a trial, but I think anybody can go on
+to Teaming Crow and do a trial license
+of this if they want to, um, check it
+out, right? So,
+what I believe this tool is for is to
+help you team with other companies. So,
+again, now this one, guys, I'm just
+checking it out in real time with you. I
+have not used it uh, yet. So, we're just
+going to take a look at what some of the
+features are here and what uh what we
+think it can actually do. So, we've got
+this block here for referral networks
+and matches. And it looks like here we
+have a place for opportunities and
+contract value, right? So, I'm assuming
+that I can go in here and I can search
+through looks here. I can go through
+companies. I can go through
+opportunities.
+Let's just click on this. So, this is a
+opportunity here. It looks like I might
+be able to add that to my pipeline.
+And
+let's see here. I can view the con. This
+might be a contract with an actual
+company. So, I'm going to actually do
+this here. Let's look at what pops up
+when I'm looking at opportunities. And
+again, guys, this is called Teaming Pro.
+This is going to be the only one that
+I'm reviewing in real time. The other
+ones I have all used and I'm very
+familiar with. So this one, so this
+one's just going to be a little bit
+different here. And if I believe the
+premise here is it's going to um take a
+look, if I'm looking at an opportunity,
+it should be able to help me find
+companies a little bit faster that maybe
+have some experience in those companies.
+So let's see here. This is just looking
+at all agencies. So I could probably
+search for specific opportunities, I'm
+assuming. When is this one due? This one
+is due This is an NIH one. So maybe it
+um sometimes these NIH opportunities are
+just you know existing in real time here
+or or we'll have you know a sixmonth
+window where you can submit a proposal
+or something. So
+uh let's see what happens if I click on
+it.
+All right.
+So it's giving me the agency. It's
+giving me an IDV res uh reference here,
+I think. Okay. So, and it's giving me
+the company. So, I'm not sure it did
+what I thought it was going to do.
+So, and apologize if I'm uh if I'm
+butchering the way this works here, but
+looks like I can search through
+contracts as well. So, I would imagine
+this is going to actually pull up
+different companies.
+Let's see here. I can go Department of
+Defense. I can go contract type.
+That's not pulling anything up.
+Still not pulling anything up.
+Interesting. Well, guys, let's get back
+to that one. But it's called Teaming
+Pro. You can check it out. I'm sure that
+I'm uh kind of butchering this here.
+That's all right. That's all part of
+reviewing these applications and tools.
+Come back to that one. We're just going
+to keep this one flowing here. Next one
+is GVY.
+So,
+GVY, this is an interesting tool and
+this one ties right into some of what
+we've been talking about on our past
+live episodes. Govy, remember, or well,
+you may not remember if you didn't watch
+it, but I was talking about contract
+vehicles, right? And category
+management. So the government has these
+vehicles. Again, this isn't to help you.
+This is to help the government speed
+things up on their end. It actually
+takes a little bit longer on yours, but
+uh you know, you apply for GSA schedule,
+right? Takes you six months to a year.
+You uh want to get on something like
+NASA soup. Again, that could take you a
+year. You have to wait for an onboarding
+opportunity. These are contract
+vehicles. And the the thing is you don't
+see, this is the little secret about
+GSA. What the GSA opportunities, you're
+usually aren't going to see them on
+SAM.gov. You're going to see these GSA
+opportunities on one of the GSA bid
+boards, right? Or you'll get them sent
+to you from GSA. So, how do I find
+these? Same thing with some of these big
+contract vehicles. Remember, you've
+already technically competed to be on
+these contracts. And then a crapload of
+work probably my my fray, but a crapload
+of solicitations and contracts are going
+to go to these contract vehicles um that
+have already been competed. And you, the
+small business owner or the sales
+executive, you're not even going to see
+these unless unless you are already on
+that vehicle, right? So, how do I find
+those opportunities? Well, GVY actually
+does a really good job solving that, but
+this basically you can go in here as a
+small business and you can search
+through opportunities that are only
+going out to GSA schedule holders or
+going out to companies with NASA soup.
+Now, I only have a free account here.
+They're not sponsoring this or anything,
+but essentially you can see here there's
+a drop-own menu of these different
+contract vehicles, right? And so I could
+search by keyword and some other means.
+What's on capp port? What's on it, CIO3?
+I could see look GSA, Stars 3, Oasis,
+Vets 2, um, Polaris. So I can search
+through a lot of these contract
+vehicles. And that is not something
+these are opportunities that many of
+them you are not going to see on
+sim.gov.
+And the way they do this, if I
+understand correctly, is you are
+essentially being partnered with a prime
+through this site. And through that
+partnership, the prime is letting you in
+on the different opportunities to see if
+you could potentially partner with them
+and, you know, go after them because
+that's that's the whole key and that's
+what we have to remember here is, you
+know, if you don't have GSA and I find
+out that this, you know, there's a GSA
+uh there's a opportunity that just came
+out on the GSA contract that I could bid
+on. You can't even bid on it unless you
+have GSA, right? So, you actually going
+to need to partner with a company that
+has that. That's what this is really
+good for. So, again, this is more of a
+subcontracting
+um targeted uh website unless you're a
+prime because you can go on here as a
+prime too. So, you know, for instance,
+if you're a prime and you have multiple
+vehicles and you just need a way of
+being matched with quality
+subcontractors, I guess you could do the
+reverse here. But I believe the um the
+main target is going to be uh businesses
+that are subcontractors looking for
+primes and looking to maybe get on
+opportunities that are on some of these
+vehicles. And again, that's GovY.
+So, if you're a subcontractor, this
+could be a very powerful tool for you to
+use. Remember the first tool I looked at
+too, and again I don't want that to be a
+reflection of this. This is this is one
+I was trying to review in real time.
+It's a newer tool that someone reached
+out to me. Again, this is going to be
+used for subcontracting and teaming
+mainly, right? And so you're going to be
+searching uh whether it's for
+opportunities or you're going to be
+searching, you know, potentially for
+companies. And this is a way of um
+taking a look and seeing if uh you know
+potentially a company has past
+performance in the same agency that um
+that the opportunity came from. Because
+that's really what you're looking for
+folks. If you're trying to subcontract,
+you want to make sure that again let's
+just go through what would I do? What do
+I do when I am taking a client and I
+want them to team up with somebody or
+team up with a maybe a company that has
+some past performance that they don't
+own or you know try to draft them to win
+that contract. I'm finding the
+opportunity early and I'm establishing
+contact with a program office. That's
+the first thing I'm doing. And then the
+next thing I'm doing is I'm going to USA
+spending and which you've seen me do a
+billion of these videos on
+usaspending.gov, but I'm researching.
+I'm making I'm finding companies that
+have done work with let's say the
+opportunity was with like who's this
+what's this one right here? This one's
+with the department of interior. So I
+would find someone that has this survey
+software that already has contracts with
+department of uh interior and then I'd
+be reaching out to those companies and
+the message is look I've got an
+opportunity. I'm talking with the
+office. Uh I can do part of the work. I
+need someone else to do some of the work
+as well. That's going to set up a
+teameing agreement potentially and
+companies are going to want to meet with
+you if you're bringing them something,
+right? They're not going to want to meet
+with you if you're spamming them. So, if
+your strategy has been, hey, I'm going
+to look at all these companies that are
+selling to the government and I'm just
+going to like spam a thousand of them
+and see if they need what I'm selling,
+then you're not going to get very far.
+Okay? Nobody wants those emails. But if
+you do it this way, you're bringing
+opportunity. And um this teaming pro,
+this is going to be a faster way to do
+some of that research. Gouvly, I know
+you're going to see opportunities that
+you just wouldn't be able to find
+otherwise unless you actually had the
+contract vehicle. This is something that
+I'm using and it is not for government
+contracting, but since I'm using it so
+much,
+I thought I would just bring it up. And
+this one is called Whisper Flow. What
+Whisper Flow does is basically I can
+just click a button and it will record
+whatever I'm saying. And that to me is
+extremely extremely valuable and it
+saves me a lot of time. And I know
+there's like uh for instance there's
+there's some tools and stuff where you
+can like maybe click a button and maybe
+record something, but I can do this. I
+just have one button. It doesn't matter
+what I'm in it automatically. I'll just
+show you how it how it works, I suppose.
+Let me go to sam.gov. of Right. Um, so
+if I'm at SAM, again, this is not a
+government contracting tool. This is
+just something that helps me. I use it
+for everything. I use it for email. So,
+if I'm in SAM.gov, and let's just say,
+I'm just going to give you an example
+here. Um, this is probably not something
+I would search for, but I just clicked a
+button and B, you see that recording
+thing at the bottom of maybe you don't
+see it, but there's a there's a little
+bar on my screen and it's recording
+everything I say. I'm just going to lift
+it up now and you can see here just
+everything that I said. just plugged it
+in there, right? And I do the same thing
+if I'm, you know, if I am uh writing an
+email. I don't It's very rare that I
+actually type anything anymore. And it
+doesn't just take what you say and plug
+it in here. It actually does some of the
+editing and the context for you as well.
+And I think that's what's really
+valuable about this, right? Um,
+if I wanted to write a paragraph on on
+grammar as it's applied to government
+contracting, and I'm pressing the button
+for Whisper Flow right now, and I just
+leave the button up. See, it just put
+the whole thing right in there. So,
+again, uh, Whisper Flow for anyone that
+is interested in in that, it's not that
+much. I pay for it, but you can do a
+free trial if you do. I would tell you
+this again, I'm not affiliated with
+them. I will say though that if you use
+this, you're probably there's no way
+you're not going to buy it after you do
+the trial because it it does not matter
+what you're using. Doesn't matter what
+application. It doesn't matter what do
+you could be in Word, you could be in
+PowerPoint, you could be doing an email,
+you could be in sam.gov,
+whatever. You can just click a button
+and then it just records everything
+you're saying and puts it in there and
+it applies some limited grammar. It's
+not changing
+um it's not changing the meaning or the
+context of what you're saying but it's
+cleaning it up a little bit if that
+makes sense and it's just so easy that I
+don't know it's way easier than typing
+so for me anyway whisper flow another
+place for this is if you're using it and
+well hey I'm going to chat GBT right
+because this
+is chat GBT
+and again this is not a government
+contracting tool, right? Not
+specifically, but how many of you guys
+are actually using this for what you're
+doing in uh the government contracting
+space? I know I I certainly am. I'm
+using it for everything. It doesn't
+matter like if I'm, you know, one thing
+I would tell you not to do is don't just
+try to let it write you a proposal for
+you. But there are certainly proposal
+writing tools that um you can use chat
+GPT uh that it's kind of connected to
+chat GPT. A lot of them know that like
+meaning when I say a lot of them know
+that I mean a lot of government offices
+can tell if you're just chat GPTing your
+proposals. But there's so much more that
+you could do with this. You could do you
+know research for this. I could say, you
+know, I could take a typical question
+that might come in one of these like, u,
+hey, chat GBT, what tools should I use
+if I want to understand how much the
+Department of Defense spends on
+roofing contractors each year? And I
+also want to know what you think about
+the odds of a service disabled
+veteranowned small business succeeding
+selling roofing services to the DoD,
+you know. So you can, by the way, I
+clicked I just pressed whisperflow
+button. So I'm going to whisper flow
+this whole I should call I should have
+called this brief whisper flow. So
+again, I think I think everybody at this
+point is um is familiar with chat GBT.
+But look, so now it's giving me, hey,
+it's telling me to look at camera data
+system, USA spending, DoD office of
+small business, DoD spend on roofing
+contractors. Look at this. It's actually
+telling me
+what the FY23 obligations were. I don't
+believe that number, though.
+That's wrong. So look, hey guys, it
+ain't perfect, right? So, we have got to
+uh we've got to cross-ch checkck this.
+Meaning,
+okay, wait, no, they're not saying that
+DoD's total contract obligations in
+FY23.
+I think that's wrong. Roofing is one of
+one small portion. Okay, so they are
+telling you it's one small portion of
+the spend odds for SVOSB.
+Again,
+good or bad, what's it saying? Mandate
+3% of federal contracting goes to STV
+OSBs.
+and they're telling you that the DoD
+earned an A because they probably
+exceeded that. Um, they're telling you
+about the challenges.
+They're giving you some strategies.
+Smaller SDOSBs can succeed, joint
+ventures. They didn't quite tell me
+anything about um
+the VA, which is where they should be
+focusing, but I asked I again, that's
+me. I asked it about uh the DoD. I for
+anyone with the SDVOSB, I'm always
+looking at the VA. Um, and then you
+look, you can ask it. What would, you
+know, what kind of advice?
+What would retired Lieutenant Colonel
+Rick Howard tell a SDVOSB business that
+was selling construction services as far
+as agency focus and steps to take? I
+don't know if this is going to be able
+to answer that question or not, but
+it'll give me something.
+Focus on focus your efforts on these DoD
+agencies. US Army Corps of Engineers,
+not wrong, but it's still not uh telling
+me
+anything. The VA, but yeah, USA
+spending, sam.gov, go local first. Eh,
+it's okay. But look guys, again, don't
+overlook the tools that are tried and
+true, right? So, you can use this for a
+lot of different things. My only um real
+advice for you here is make sure that
+you are double-checking everything. Chat
+GBT gets it wrong a lot, but it is a
+great starting point and could be a
+great starting point for anything. Even
+if you're let's say you are writing a
+proposal, right? And you just can't get
+that opening um you know your executive
+summary correct uh you know take what
+you have put it into chat GPT or you
+could speak it in using whisper flow and
+see what it says. It can give you um a
+little bit of direction. I want to take
+a quick second to talk to anybody
+watching this that's interested in
+starting a government contracting
+business or starting a new profession in
+government contracting. The students
+that graduate our program, they go on to
+start their own consulting firms,
+winning high dollar consulting clients.
+They go on to land highpaying salaried
+positions as account executives with
+companies that sell to the government.
+I'm so proud of the people that have
+gone through our program. And if you are
+considering either a job or a business,
+and by the way, some of our students are
+doing both as I did. They're running a
+consulting business and they'll have an
+account executive job. It's transforming
+their lives, is bringing true wealth to
+them and their families. Back to the
+video. I would not go and plug
+solicitations into Chat GBT. you need to
+be really careful about what you put
+into chat GBT or any of these AI
+engines. Um, especially with the DoD
+getting, you know, CMMC is a topic is
+really big right now and controlled
+unclassified information. I if you just
+to understand taking you could take
+things that seem um unclassified and um
+you know maybe kind of arbitrary like
+the information that's in a solicitation
+and combine that with potentially
+something that your company does and
+combine that with maybe another piece of
+information from the government and you
+may be creating a document that has
+controlled unclassified information in
+it. So you do have to be careful but I
+do but I use this more not to you know
+teach me about you know a certain
+technology that the government wants but
+more to hey how do I how do I flow a
+little bit better? How can I be a little
+bit more concise? You know, one of the
+challenges with proposal writing, for
+instance, is for those of you that don't
+know, when a proposal comes in to the
+government,
+a lot of companies assume that the
+people reviewing it will read the
+proposal in its entirety. And I want you
+to understand that that is not always
+the case and often not the case. Meaning
+you're going to have different sections
+of that proposal and you're going
+typically you're going to be able to see
+when you're writing it uh what the
+grading criteria is going to be. You
+know uh what is going to be graded on
+there. You're going to have different
+sections. You'll have a technical
+section and even the technical section
+might be broken up into different parts.
+Right now you're going to address all of
+the questions that the government wants
+you to in that proposal. But here's the
+here's the thing that a lot of people
+don't get. you're writing an executive
+uh or maybe like a opening executive
+summary for the government. Maybe you
+have a closing paragraph or two um at
+the end of that proposal.
+You may have a section with your past
+performance in it or you may have a
+section where you're trying to build
+credibility.
+Often that proposal is going to get
+split seven ways from Sunday and given
+to different people to grade the
+specific sections that are going to be
+graded. Right? Right? So it might go to
+an engineer to grade one, the
+contracting officer might grade the
+other. So meaning that you need to treat
+each section almost like a mini proposal
+because if if it's necessary for me to
+read your opening summary and your
+closing to have the full context to
+understand your company's ability to
+solve a government problem, then you may
+be losing points. You may be losing that
+contract completely. Uh so my point is
+you might be able to take a section that
+um that you normally wouldn't put any of
+your executive uh your summarizing your
+past performance in say hey how can I
+work that into um a question like this
+how do I answer that and and make it so
+the person reviewing this gets the full
+context of the our company so they know
+that we're credible and we have past
+performance and we can really do this so
+again chat GBT is great with stuff like
+that but always double check It's made
+mistakes even as we have been reviewing
+it. Hey, what would this what would this
+review be without a sales pitch for gov
+close only only to say this is the CRM
+that I use for selling to the
+government. Um, you can use whatever CRM
+that you want. What I would say is just
+make sure you can know the total value
+of your pipeline. Know what your uh
+close rate is going to be. Know how many
+opportunities you are. Know where
+they're coming from. know what pipelines
+are generating the actual wins. Okay.
+And then you also you want to have um
+the steps built in to your CRM. And what
+I mean by that is if I look at here, see
+I have a GSA pipeline. If I go to my if
+I have a source of sought pipeline,
+right? I want to know I want specific
+steps that my sales team can follow. So,
+I know that, hey, okay, are we
+establishing teaming partners? Did you
+email the government POC?
+Um, did you write the response? Did you
+submit? Here's an important one that I
+don't know how many companies miss. Did
+you confirm receipt of the US
+government? One of our students, we just
+got off a Govclo uh sales call. Our
+govlo community is really the what
+really makes our certification program
+awesome in my opinion. um you know there
+we have professionals in there that are
+really smart and they're doing great
+things and one of them has a client and
+the client's like we don't know if we
+have to talk to a lawyer like we spended
+we submitted 20 proposals and you know
+we feel like we're not being seen
+they're not even responding to them and
+so what I would tell them is again by
+the way you can you can rebuild like
+this type of pipeline and whatever
+you're using now um if you submit an RFI
+or even a proposal to the government and
+you don't get a hey we got it which was
+the case with this company you have to
+assume that they never received it right
+so again this is just one of many many
+steps bottom line is you need to have a
+lot of opportunities when you build your
+that make sense that you can close when
+you're building your pipeline uh for the
+government and you need to be able to
+move those around and they need to be in
+steps that make sense and are sequential
+and if you have a team that team needs
+to be able to understand during your
+weekly call what comes next. You know,
+hey, I submitted a source of saw. It's
+not just on to the next thing. Now, I
+need a meeting. I want using that source
+of sought to get a meeting with the
+government. I'm trying to build that
+relationship, right? I'm trying to
+influence this opportunity legally in
+the market research phase and I need to
+be able to manage all this. So,
+have a CRM, but this is the one I use
+and I'm sure there's plenty of great
+ones out there. And now I'm going to
+talk about something that people are
+probably gonna be like, why are you
+talking about Canva
+for government contracting? Any guesses?
+Any any shots in the dark out there from
+anyone that are watching this on why I
+would be talking about Canva for
+government contracting?
+What possible value could Canva have?
+What do you think I could use Canva for
+in government contracting? Yeah. No,
+that's right. Yeah. So, for starters,
+yeah, capability statement, right?
+Canvas is great. Anything that is going
+to be graphic, right? Any graphical
+um you know, anything graphical that's
+going to represent your company, right?
+You can use this to build logos, you
+know, like so right now we're looking at
+I have a um my executive assistant helps
+me with some of our marketing. So you're
+looking at like our marketing I do now
+of course I'm doing constantly you know
+doing a lot of social media stuff in
+here but yep capability statements. Yep.
+You got it right. Marketing materials.
+Um
+Andre said cave statements as well.
+John. Yep. You're right. Absolutely.
+Yeah. So I mean you could see you're
+right. All that stuff is in here. Now,
+should a company, if you're a company
+selling to the government, do you need
+to be putting out things on LinkedIn or
+YouTube?
+I mean, I don't know why you wouldn't
+be. And let me Well, let me take a step
+back. Serious companies about selling to
+the government certainly are, and I can
+see it. I've been part of it. They've
+hired me to do some of it for them. Uh,
+you want to be, again, you're when
+you're marketing to the government, it's
+a little bit different, right? Right? We
+do a lot of things with conferences and
+whatnot, but uh there are some specific
+things here that whether you are a sales
+executive running a small bit, if you're
+running a small business, guys, whether
+you're a uh whether you're a consultant
+helping companies sell to the
+government, uh whether you are a company
+selling to the government, even or if
+you have a job working for a company,
+account executive, I'm telling you like
+Canva, by the way, like up until a
+couple weeks ago, I would say I use
+Canva more than anything else because no
+matter what you are doing, no matter
+what, let's take uh LinkedIn because
+LinkedIn is a huge huge part of federal
+sales. This is where our tribe is. Um
+here I'm going to get off my gov close
+CRM and I'm just going to go to LinkedIn
+for a second. I just want to point out a
+couple things. I'm going to go to my
+profile. You're optimizing. LinkedIn is
+where the government hangs out. It's
+where the public sector people hang out.
+It's a very professional place. So, if
+you're not if you're watching this on
+YouTube and you're not part of LinkedIn,
+like start your LinkedIn profile. You
+can connect with me on there. Um, I'll
+be your first connection if you're not
+on here, but you guys you guys I'm sure
+most of you have a profile. I just check
+just look at this. Okay, this is a
+banner, right? How do you get it to be
+this size? How do you design it? Well, I
+can go right into Canva and I can design
+that. What if I am, you know, you could
+see these are a lot of YouTube
+thumbnails. But if I wanted to take a a
+YouTube thumbnail for instance like this
+and I wanted to I wanted to take this
+and I wanted to um make it say um I want
+to use it as my backboard here. How
+would I do that? Well, with C with
+Canva, it's very easy. I can just resize
+it very very easily, right? I mean, this
+would tell me. Um, in fact, I don't even
+think I need I was going to try to get
+the dimensions off of LinkedIn, but I
+can just hit resize and I could probably
+just say LinkedIn.
+Yeah, look at this. I can turn it into a
+LinkedIn background photo, cover image,
+carousel, right? So, it'll automatically
+do just the fact that it will do the
+resizing for me, I think is pretty
+amazing. Um,
+yeah, look at that. Right. Obviously,
+now I can and you can drag and drop. You
+can do all this stuff here. There's a
+lot you can do, but so whether we're
+talking about just optimizing your
+LinkedIn profile, you know, if you want
+to take your picture, uh, you know,
+there's so much that we have to do as
+business owners from from just simple
+stuff like this to putting a post out
+there to advertising. Like if you're
+everyone at some point has to get
+involved with advertising and marketing.
+Business is about sales, right? Doesn't
+matter if you're selling to the
+government or anyone else. So if I'm
+selling to the government, I may just be
+putting together a my um my proposal for
+the government, right? So if I go into
+Canva here, I'm just going to go back up
+here. Uh it says here, what if I want
+what kind of design do I want? I'm going
+to just type in proposal and see if it
+says anything. P R O P O S A L.
+Um,
+searching for proposal.
+And if anybody's ever received a prop,
+well, you could see here these are
+private, right? But I designed my
+initial proposals all in Canva, right?
+So, you can design your proposals in
+here. You can put a nice um cover letter
+on there. It'll also give you templates.
+All right, see proposal. So, it's giving
+me a bunch of stuff. I mean, some of
+that stuff may not work for it, but you
+can redesign all this stuff. And that's
+kind of the beauty of it. So, um, again,
+if you're not using Canva, like I tell
+everybody in our program, like you
+really should at least be using figure
+out how to use the free account because
+you're going to be able to use it for so
+much um that you're doing. Everything
+with the government, like you know,
+you're sending sources saw it, but you
+can design something in there and put it
+in front of them. If you're going to do
+a social media ad and you're trying to
+get that in front of government
+contracting officers or program
+managers, Canva, just a picture, profile
+picture, right? You can upload a picture
+into Canva and you can here, let me go
+back to my my home and then I'm going to
+get off of here because I could really
+uh geek out about this stuff, right? But
+let's look at some of my recent uploads
+here. I'm at home. Oh, I might have to
+switch on click on something that I've
+actually done.
+Let's get rid of that. Let's say that I
+want to add something here.
+Get some of our former students. Okay,
+this stupid picture of me, right? If I
+want if I want this picture like let's
+say this is a it's not very let's say it
+was older and kind of blurry. I could
+click edit and I could click upscale
+this image and it's going to make this a
+high def image, right? So, this is going
+to remove the need for me to like have
+to go through and and retake these
+pictures and stuff. So, again, uh not to
+make this a total advertiser for Canva,
+but
+that's my that's my Canva pitch.
+Descript is a tool that you may not
+think of as something that you would use
+for government contracting. So, Descript
+is where I do a lot of my video editing.
+And I think this is if anybody out there
+is thinking about doing video. Well, by
+the way, why would you need to do video
+for government contracting? So,
+Tradewinds
+um acquisition ecosystem. Okay, so this
+is a tradewind solutions marketplace,
+but this marketplace for government
+contracting. This is look what it says
+here. You can post your competition
+pitch videos across a IML digital and
+data analytic space.
+Okay. So, this is a way. Yeah. Training
+video someone mentioned too. You can do
+Yeah. So, you can use descript for a lot
+of things. You could use video for a lot
+of things. Video is very powerful and
+it's not going away. And video is
+democratized now. Anyone can do it.
+Everyone is doing it. And so, but for
+government contracting, here's a very
+specific use case, right? If you're
+using the Tradewinds platform and
+they're asking you to post a competition
+pitch video, you do not need to spend
+$510,000 to have somebody put this video
+together for you. Uh you can use a tool
+like Descript. I'm going to go into my
+projects here and see if I can find one.
+Um, I have my uh my niece do a lot of my
+editing for me and she also just got a
+she went through Gov Close and she's now
+an intern with an aerospace company that
+sells to the government. Um, okay,
+here's one.
+Of course, it's telling me incompatible
+uh browser.
+It's uh it's telling me that because I
+um I'm using Safari
+works better with Google
+and you can also do a desktop. So I'm
+just going to move to the desktop app to
+show you. So this is the script again.
+Why video? We just showed you one place
+where like the government's asking you
+to put a pitch video in. And what I want
+you to look at is right here. See all
+these words?
+This is the script. I just I just
+automatically upload
+um the video that I shoot and it
+translates everything into words. And I
+know this looks a little bit um I would
+like to be able to increase this for
+you, but it's not um I can't zoom in on
+it since it's not the website. But to
+edit this, all I have to do is like for
+instance, if I wanted to delete this
+sentence, I just highlight it and
+delete. Okay. But what's even cooler is
+let's say that I want to put stock image
+on something. This has a ton of stock
+image on it. Um like this is AI
+generated. Um but if I wanted stock
+image, I can click over here and again
+you don't want you don't want to use a
+ton here, but if I wanted to put stock
+image from Dcript on here and it could
+say anything. Maybe I want it to maybe I
+want to put the you know um some video
+of the Pentagon on here which by the way
+all this stuff licensed from Dcript so
+you don't have to worry about things
+like um copyright and everything. These
+are all videos. So this is for instance
+a video of the Pentagon. I'm just going
+to grab it and put it on here so you can
+see. And so it's automatically going to
+put it into my video. I can also create
+chapters. I can, you know, uh, put
+captions just by since it automatically
+translates what I'm saying and puts it
+in here. If I want captions, I just
+click on style of caption, it puts it on
+there. This has got to be the most easy
+video editing tool um, out there. They
+have an AI tool that's built into this.
+Okay. And so this will do things like
+remove filler word. This says, you'll
+have to take my word for it because I
+can't zoom in on it right now, but this
+says remove filler words. So, what that
+means is if I'm going uh uh and I'm
+probably doing it right now, uh this is
+um going to be uh uh uh it'll take out
+all the uh okay, we used to when we were
+uh when I was a military officer coming
+up, especially as a company grade
+officer, you'd get graded on your
+briefings and we would sit in the back
+and count the us of our fellow aviators
+and we just thought that was a riot act
+to see, you know, especially guys out
+there get nervous and be like, "Uh, uh,
+uh, uh, uh, we're going to do this." Uh,
+so, but this automatically removes the
+You don't have to worry about it. It
+removes filler words. Uh, you can click
+on studio sound if your mic sucks. I did
+a really terrible video the other day
+where my mic was off. Um, you can click
+on studio sound and it will level all of
+the audio for you. That to me is like
+one of the the best things. This, just
+know this does a ton of stuff. I could
+hit I could say generate clips. it will
+generate little clips that I could put
+out there and I could send send out. But
+look for putting something like the
+trade winds
+um
+trade winds video together that we were
+just looking at uh uh trade winds the
+the marketplace for government
+contracting,
+right? This is a great tool that you
+could use for something like that. All
+right, so this is where we left off
+here. This is Tradewinds.
+And if I wanted to put the video
+together for my company for Tradewinds,
+then I would use Descript to do it and I
+would be able to do it really quickly
+and it would look professional and, you
+know, just you got to play with it a
+little bit. Like I said, uh I have my
+niece doing a lot of my editing on
+there. My kids can edit their stuff on
+there. It's it's really intuitive. It's
+really awesome. So, okay, that's the
+script
+and that's trade wins. Look, I'm not
+going to do anything in USA. I I promise
+I'm not going to do anything in USA
+spending today.
+I have hours and hours and hours and
+hours of video on USA spending, but I
+have got to put this up here because
+it's essential in government contracting
+and it is where the information comes
+from. And this combined with a couple
+other government tools, you're just
+going to have to have them. What I do is
+I have a bookmarked section of all the
+tools that I'm using and it's pretty
+lengthy, but I always go back to USA
+spending. Um, and anybody that has any
+questions on this, let me know. But I've
+got so many videos out on how we use
+this for things like road mapping and
+deciding what we're going to sell to the
+government, looking at the amount of
+competition, what agency, even pricing
+and things of that nature. There's a lot
+of information we can glean from USA
+spending. All right. Next, again,
+another tool that I am not going to
+touch a button on is SAM.gov. SAM.gov
+does a ton of stuff besides find
+opportunities. It's where you register
+your business. It's where opportunities
+come, you know, out where you're going
+to find opportunities. It's where you're
+going to find opportunities that come
+out, some of them before the
+solicitation, right? And again, if you
+uh if you want to see the ones that
+aren't coming out on SAM.gov,
+like the ones that are coming out on GSA
+or through some of those contract
+vehicles. Well, then you can go to know
+if you remember the tool GVY. If it's
+not on SAM.gov, you might be able to
+find it using GVY, but SAM does it's
+where you register your business. You
+can find source of sought notices of
+contract award. You can uh there's also
+SAM.gov
+SAM.gov of has these uh ad hoc services,
+meaning additional ways to research
+things is what that means. And it's not
+pretty, but there's a so much
+information that you can get from every
+single contract that the government
+awards. Um truly truly remarkable place.
+And by the way, you can also set up
+searches in here and you can get
+notified, you get emails when new things
+pop up. So, a lot of the features that
+you are going to pay other tools to do,
+you can do for free with SAM.gov. It's
+just more painful. Gov1iq,
+I love it. I'm not going to go into
+their whole system right now. Here's
+what I'll say about it. Everybody
+doesn't need this.
+Um,
+but for for me, for market research,
+I haven't seen anything that can do as
+good of a job as Govwin IQ. And it pains
+me to say that a little bit because it
+is so expensive.
+But if you are in the business of doing
+a lot of market research, and especially
+for me, like when I'm cranking out road
+maps, I have a ton of tools that I can
+use to do this. now, but especially when
+I first started, I paid the price and I
+I started using GovWin IQ. And look,
+it's GovWin IQ is really, really good.
+If you're going to be using it all the
+time and you know how to use it, um,
+then it can be worth the price that
+you're going to pay for it. What does it
+do?
+And what does it do that for for
+instance, say USA spending can't do? I'm
+just going to give you one example.
+Let's say I am trying to find out a
+niche for an accounting firm, right?
+Let's say they've hired me. I'm putting
+their go to market strategy together.
+I'm looking through the research. I'm
+telling them, hey, this is how much the
+government's spending. Now, look, I can
+use the free tools to do all of this.
+But what one of the things that
+something like GovWin can do really
+quickly is let's say I put a I find a
+PSC code for bookkeeping. Well, in USA
+spending, I can go look at the
+solicitations. Like, let's say there's
+1500 solicitations that came out or that
+were award contracts that were awarded
+last year. I can look at those and I can
+see how many proposals came in per
+solicitation, right? But I have to count
+them all up. I've got to, you know, kind
+of aggregate that with Govlin IQ. If you
+do a search using their federal
+analytics on a product service code or
+NAKES code, it'll tell you the average
+um across years of spending, it'll say,
+hey, average number of proposals that
+come in three. And you could check
+another code and you say average number
+that comes in 75. Average that come in,
+you know, 212. Now, what I would say is
+first of all, that is a great like big
+picture on how competitive something is.
+Um, and it also does a really good job
+of identifying the offices, not
+agencies, right? I can go to USA
+spending and see how much the Air Force
+spends on roofing services or software.
+But if I want to know which government
+office does the most spending on
+bookkeeping services in an accounting
+nakes code, you know, Government IQ is
+really good at telling me the exact
+office that is doing that and it'll rack
+and stack them all the way down. So
+there's some things it does it makes
+really fast. Um, I always take any any
+data point I take with a grain of salt
+because keep in mind they're pulling a a
+tool like this and there's other ones
+too. There's higher gov, which I'm gonna
+test out here soon.
+Um, these tools are only as good as a
+the engineers that built them and the
+data that they're receiving. That's
+pretty important. Remember, they're
+receiving the data from USA Spending,
+FPDS, SAM.gov. Um, so I'm always going
+back and checking. Even if I'm using a
+tool like this, I always especially for
+opportunities because you can find
+opportunities with this and set up
+searches and alerts and all that and
+there's a lot of they have a lot of
+people working there researchers. But um
+I think that what you're going to start
+seeing here as more tools come out the
+price for something like this will go
+down and um you know when it does it may
+be the right tool for you. It's um yeah
+it's really good. What can I say?
+Another paid for tool. It's been around
+for a while. gov tribe
+is good at a few things in my opinion.
+One of the things that this tool is
+really good at is if you're trying to
+determine
+how much spending goes on um you know
+not just from different agencies. It
+gives you a good snapshot of like say
+hey if I put that accounting code in
+it'll give me a good snapshot of which
+agencies are doing the spending what set
+aides receive the spending what big
+business for a small business small
+business for SDVOSB AA really good at
+that but there's a few other things
+and the one that I really love is it
+does gives me a breakdown of okay well
+if it was a hundred billion dollars
+spent this year how much of it goes on
+to GSA
+versus NASA soup versus any other
+contract vehicle. Category management
+does a really good job with that. So,
+um, yeah, that's Gribe. Again, I'm not
+going to I'm not going to click through
+that one, but that is a really good
+tool. There's a couple other tools that
+I use a lot. Now, we talked about I use
+the Gov Close CRM. I didn't bring that
+back up. Try out some of these new
+tools, right? you know, uh, a lot of the
+students in my program right now,
+they're talking about hire gov. Um, a
+lot of them are using that. So, look,
+um, I would check that one out and I
+just have I didn't want to put it on
+here because I don't haven't even opened
+it yet, but um, you know, eventually I'm
+going to and I'll let you know what I
+think. But I'm hearing good things about
+it. So,
+um, that is a good one. Oh, hey, and by
+the way, go to govclos.com if you're
+thinking about training uh for your
+sales team, for yourself. If you want to
+start a consulting business that helps
+companies sell to the government, we
+don't just train government contracting.
+We teach you how to build a consulting
+business, get clients, and get paid. You
+want an account executive job. Same
+thing, you know, we're teaching you the
+process and we're teaching you how to go
+get that job. And of course, the whole
+thing, if you have a company and you're
+selling to the government, you want to
+learn our philosophy and our process and
+not just to learn how to do it, but
+you're working with us, right? This is a
+year-long training program. It's a
+community and um you know, it's most
+people right now are telling me it's
+just the community would be worth the
+price of admission, never mind. Um let
+me know if there's specific topics you
+want me to cover in the future.
+Hopefully, this gave you some insight as
+to the things that I use. I think I
+talked more about Whisper Flow than
+anything else, but uh you know, next
+time we'll go into some uh topics and
+some tech maybe for how we manage
+contracts
+versus how we actually go after them and
+win

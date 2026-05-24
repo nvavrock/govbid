@@ -1,0 +1,1523 @@
+Kind: captions
+Language: en
+Do I need GSA, Rick? What is it? Is it a
+contract vehicle versus are we talking
+about a agency? But it's also a series
+of contract vehicles. I thought today
+what we would do is we'd get into a
+little bit of the history of GSAs. What
+are the contract vehicles that everybody
+talks about typically, at least in the
+government contracting space? And then
+we're going to go through, hey, how do I
+determine if I need a GSA schedule? Does
+this apply to me? And you know what are
+some of the latest movements in
+government to increase the use of GSA
+because that is a big topic right now
+you know since I should say March 20th
+which is when President Trump's
+executive order came out. We talked to
+Kevin Klin from GSA in one of the
+YouTube videos which you may have seen
+and of course he just came out of GSA
+and he is a great resource. All right so
+here we go. GSA essentially there have
+been since the birth of the country
+there have been many many many
+initiatives to reform the acquisitions
+process to make acquisitions more
+streamlined to take better um to I guess
+you could say enforce better stewardship
+of taxpayer dollars right because at the
+end of the day all federal procurement
+is that's spending our taxpayer dollars
+on things right and in the beginning
+especially those things were related to
+war. So they were guns and ammo and
+feeding soldiers and things like that.
+But there's throughout history always
+been also instances of abuse both on the
+contractor side and on the government
+side. And I think like any industry
+that's not the norm, but this is what we
+hear about these kind of extreme
+situations. So there has been uh a ton
+of policy and law making that has gone
+into trying to um ensure that there's
+things like fairness and competition to
+ensure that you know people in the
+government aren't lining their pockets
+to put a company on contract ensuring
+that contractors aren't say charging the
+government $500 for a hammer right
+because that's not a good use of our
+money if you look at it. I mean we have
+letters from like George Washington and
+presidents and founding fathers talking
+about you know some of the things that
+they were uh angry about in the
+acquisitions process. So what we have is
+you know after a war you know and you
+know we win the war or not then a bunch
+of politicians come to the scene they
+want or people that want to be
+politicians and some of them will base
+their or part of their campaign on hey
+I'm going to reform acquisitions. I'm
+not talking about now. I'm going back in
+time here, right? And then they come
+into office and they make a bunch of
+policy which is aimed at either trying
+to streamline what we're doing, spend
+less taxpayer money, whatever, ensure
+fairness. And what also happens, right,
+is that it makes the process longer. It
+takes longer to put a company on
+contract, right? So, I mean, we're going
+back going back to the 1800s, we could
+see this. And then we go to war again
+and then we realize, hey, we can't buy
+stuff fast enough to actually conduct
+warfare, defend ourselves uh from
+another country or an invader or
+whatever. So they make more policy and
+laws to that allow us to go faster. And
+then we have abuses again, right? And
+again, these are usually not common
+place, but they're the things we hear
+about. And then we have new politicians
+come in that probably didn't understand
+the process to begin with, and they make
+more law and policy. and in probably
+good, you know, with good intentions.
+But what that does again is it slows the
+process down. So now again, now we have
+even more policy and law and it takes us
+longer to buy things. We go to war
+again. We realize we can't buy things
+fast enough. More policy, more law, and
+this self-looking ice cream cone, right?
+until we get to, you know, in the 80s
+where there's 80,000 pages, I think it
+was 50,000 pages of contract law,
+policy, regulations that a contracting
+officer would actually have to go
+through in order to put a company on
+contract, right? And this is why we have
+such a long process in government
+contracting. Now, one of the efforts um
+to try to streamline things was
+establishing GSA. And you know if uh if
+my history is correct, GSA was intended
+to be the central procurement arm of the
+US government. But that's not how it
+actually ended up in practice. You know,
+in practice, GSA takes certain things,
+they buy certain things. So if you look
+at different categories of spending,
+you'll see that GSA is often involved.
+Um I tongue and cheek I refer to GSA as
+a middleman, right? Um, for those of you
+that follow our videos, you know, I talk
+about, you know, there's a lot of
+middleman stuff out there and I'll refer
+to GSA as a middleman because GSA and
+and keep in mind, you know, when I was
+an acquisitions officer, uh, for the Air
+Force, for instance, right? So, I would
+be managing money and requirement for
+the US Air Force and so it's my job to
+figure out, hey, what company's going to
+either develop or or give us the thing,
+the service that we need to solve the
+problem. But GSA would be a agency,
+another agency that would potentially
+get in the middle of me putting the
+company on contract. Now, for our
+office, that didn't work out very well.
+That's not what we wanted to do. And so,
+that's what we saw with GSA being
+established way back when. You had some
+agencies didn't have the manpower,
+welcomed having someone to actually put
+the companies on contract to buy the
+things, the stuff. Um, but others did
+not. Others wanted more direct
+involvement, right? because the more
+people you get involved with something,
+especially if it's complicated, the more
+difficult it could be and the longer it
+could take and already a long process,
+right? So that's just some of the
+thinking from the government side as far
+as um you know how they're looking at
+GSA. But aside from being an agency that
+runs and you know that does run
+procurement, a lot of office supplies,
+things like that, pharmaceuticals,
+you're going to see and we can look at
+what how much money is spent and what
+GSA is actually used for and it's used
+for things like software procurement and
+there's a variety of things that GSA is
+great at. Most people are referring to
+usually the contract vehicles associated
+with GSA, like the GSA multiple award
+schedule. And I know that, and I'm just
+giving you some context here, so when I
+actually get into showing you, you know,
+how you can uh do some research on your
+own about GSA, um just some of the very
+very common complaints I've gotten
+running my consulting business since
+I've retired from the Air Force and
+helping companies. I would get companies
+with a GSA schedule that would come to
+us and they would say things like, "Hey,
+Rick, I spent $30,000
+getting our GSA schedule." And not to
+mention how much time it takes because,
+you know, usually like with a schedule,
+you're typically applying and it is a,
+you know, it is a robust process that
+takes a long time. And so they get this
+GSA schedule. Maybe someone called them
+and told them they needed GSA to sell to
+the government. That's not true. and
+they get the schedule and they're
+waiting for all of the contracts to come
+in and nothing happens, right? Because
+GSA because getting the schedule getting
+the GSA schedule that just gives the
+government an option to buy from you.
+The government has to have some type of
+contract or contracting mechanism uh to
+give you money for a product or service.
+Now, the GSA schedule or one of the
+other GSA contracts, that is a way that
+they can do that. And if they use GSA,
+right, if their office uses GSA and it's
+a preferred method, then they may be
+able to use that to put you on contract.
+But you still got to do the work. You
+still got to find the opportunity. You
+still have to work with the office,
+figure out how they want to put you on
+contract. And if you have GSA, you're
+giving them a good option. So today,
+we're going to focus a little bit on
+whether or not you should be even
+looking at GSA. We'll dive in a little
+bit as to what they're saying. I thought
+we'd take a look at what the executive
+order um said as well. Now, the
+executive order, and by the way, the one
+of this is one of the reasons it's
+becoming, you know, more in the public
+eye right now is because the executive
+order was essentially saying, "Hey, we
+want to use GSA a bit more, right? But
+we want to use GSA more and um you know
+we want to expand their role uh in
+managing uh you know things like
+purchasing it and things of that nature
+and of course in the same breath they
+also reduce the manpower of GSA. So you
+know they want to increase how much GSA
+is being used but there's also less
+people to execute. What most companies
+that are successful at selling to the
+government do over time is they start
+collecting contract vehicles. Now, I did
+an episode, a live episode earlier this
+week on category management, and I lump
+GSA right into category management. So,
+it's essentially, and this is things
+like GSA and contract vehicles,
+governmentwide contract vehicles. These
+don't exist for your benefit, the the
+company's benefit. This exists for the
+government's benefit. So, if you
+remember, I started off by saying how
+all of the laws and policies we put in
+place make it take a long time to be
+able to put a company on contract, you
+know, for the government. Well, this
+does streamline it a bit because
+essentially, you know, whether it's GSA
+or any other vehicle, you're either
+applying to be on it or you're competing
+to be on it. Just like you'd write a
+normal proposal, solicitation comes out.
+They're due months later. you put in,
+you've been preparing for it. You put a
+lot of work in to get on to the uh, you
+know, whatever the vehicle is, NASA
+soup, Izz or GSA, and then, you know,
+months go by after you submit,
+everything's being looked at, and then,
+you know, in the case of a competed
+contract vehicle, maybe six months, it
+might take a year for you to actually
+win. And then you don't really win
+anything. You're just, you have a
+contract vehicle that you've competed to
+be on. And so from the government side,
+what I can do now is once you're on that
+vehicle or you're on GSA, um I can now
+if I need to put a company on contract
+to give us IT services, you know, when I
+was doing this with the Air Force, I
+didn't have 18 months or 12 months to
+compete these contracts every time. You
+know, things were going to come up where
+I needed services now, right? Right. So
+now I can turn to these vehicles where
+technically the companies have already
+been competed and I can now make a
+delivery order or an award to the
+companies on these contracts much
+faster, right? Because you've already
+competed. But here's the catch. You
+don't have those vehicles. You're not
+even you're probably not even going to
+see the opportunity. Um and even if you
+did, you wouldn't be able to compete for
+it because you don't have GSA or you
+don't have NASA soup. whatever the
+whatever the vehicle is, the mechanism
+that I'm going to put them on contract
+with. So again, very very important for
+you to understand if your buyer actually
+uses vehicles, which ones they use, and
+then you want to align yourself. So
+again, a lot of companies end up with a
+handful of these. They might have GSA
+and NASA soup and some Idiq that you
+know there's a lot of different
+contracts out there and then hopefully
+the office you're trying to sell to can
+utilize one of those to put you on
+contract quicker. This is the GSA
+website. Okay. And it really is great
+when you are researching something like
+GSA
+when you not just GSA any federal agency
+but they all have their own websites.
+You can get a lot of information uh from
+some of these and then I'm surprised
+sometimes how often it it gets ignored.
+But what I would tell you to do if
+you're interested, I'm going to zoom in
+on it a little bit here. Just click on
+sell to the government. We're just going
+to walk through this. All right.
+I'm not going to uh click on their step
+one right now, but they do have some
+information there. Ways you can sell to
+the government. Oh, hell. Let's just
+walk through it, right? Um okay.
+What they're showing you here is
+essentially a few things to think about,
+especially if you're new. There's
+contracts, there's contract vehicles.
+I've talked about contract vehicles
+already. These are pre-ompeted vehicles
+that you apply to be on or you compete
+to be on. It takes a while to get on to
+them, but once you have them, then the
+government can utilize them to be on
+contract faster. Um, they're commercial
+platforms. They're small business set
+aides. and they walk through a few
+things here about single award
+contracts, multiple award contracts, and
+those all exist. And I've talked a
+little bit about it before. I brought
+Colonel Ordorf on here, Lewis Orondorf.
+Uh he's a retired colonel. I used to
+work with him. He uh was a three-time
+commander within Defense Contract
+Management Agency. Just because the
+contracting officers really have a real
+deep understanding of federal
+acquisitions, regulations, and the
+different vehicles. And he's really a
+great one. Check out those episodes on
+YouTube if you want to a little bit more
+of a deep dive there. So, this talks
+about how to access contract
+opportunities. And of course, GSA is
+going to be not only they general
+services administration, the agency, but
+they also have these vehicles. And
+probably the most popular one is these
+multiple award schedules, right? And the
+multiple award schedules are in Oh,
+thanks, man. Uh they are
+essentially going to be split into
+different categories. There's a lot of
+variation, right? So, it depends on what
+you sell. And of course, what I would
+tell you to do is, you know, learn, you
+can learn about all of this, but we want
+to and check out my
+videos that are, you know, tons of
+videos on research on federal spending.
+The first step, guys, figure out what
+you sell and then what does the
+government uh use to buy what you sell,
+right? So, if you are selling accounting
+services, which I go back to and I'm
+going to make these numbers up, but if
+you're selling accounting services and
+you see that the US government spends
+$100 million a year on small business
+accounting services and you're like, I'm
+going to go get a GSA schedule. Well,
+the first thing you need to do is not
+get a GSA schedule. We need to see if
+the government even uses GSA to buy
+those services, right? So, and we can go
+in and we can see all of that
+information. So if I see that for
+instance the US government, federal
+government, not state, the federal
+government is spending is 10% let's say
+of that $und00 million a year, $10
+million a year is going through GSA. Do
+you need a GSA schedule to sell to the
+government? Well, then the answer is no,
+you don't. It might be a nice to have
+down the line, but if only 10% of the
+spending is going through there, you
+don't need it right now. Now, um,
+potential for that to increase,
+especially with a recent executive
+order. Yes. And, uh, what if I do that
+same drill, right? And Antonio seems to
+be a master here. He's telling us about
+the, uh, so you can check out the
+comments, um, that he's putting in here,
+the different categories within GSA. Um,
+but again, this right now, just deciding
+if you even need it. I want to know how
+much they're spending on what I'm
+selling. So, and this is what we do with
+clients. before you even think about it,
+let's see if you need it. If I go
+through and I see that 70% of the what
+you're selling, let's say it's office
+supplies, is going through different GSA
+schedules, then do you need GSA? I would
+say in that case, you absolutely do,
+right? Especially since they're going to
+increase what they're doing. So again,
+there's a lot that we can find out. You
+don't jump in GSA is a lot of work.
+Getting onto the schedule and then
+managing it once you have it can be a
+great resource, but it's not for every
+company, okay? So, make sure you do your
+homework.
+Even here they have uh they're talking
+about conducting market research. Now,
+they don't give you a lot of tips here,
+but they are giving you some different
+places where you can do some of that
+research. They're giving you SAM. Keep
+in mind also SAM.gov. You know who runs
+SAM.gov?
+GSA, right? And guess where you're not
+going to see the opportunities that are
+coming through on GSA? SAM.gov. at least
+for the most part, right? So, uh, GSA
+makes money off the GSA schedule. You
+should know that. And they actively
+market to companies to try to get them
+on the GSA schedule. All right? So, they
+a lot of their funding comes from
+companies using GSA. It's been in the
+news a lot. It's been in the news also,
+just just a side note, that GSA, a
+recent uh letter from GSA talks about
+potential, if you read between the
+lines, eliminating the value added
+reseller or working more directly with
+OEMs.
+If uh if you're familiar with companies
+like Karasoft, you'll know Carasoft
+resells things like software and they
+will hold a GSA schedule and they will
+essentially kind of be the middleman
+between the company selling and GSA.
+They'll hold now they have like all GWAX
+uh you know bunch of different contract
+vehicles. So they can kind of make it
+easier for a company as far as like
+getting gaining access to the vehicles,
+helping them out with that, maybe doing
+some of the paperwork, but they do they
+take a piece of the take a piece of the
+pie. So GSA is talking about eliminating
+them or working more directly with the
+OEMs. Just something to throw out there.
+Now, the list of websites they're giving
+you here, there's a lot there is a lot
+of data available on sam.gov that you
+can go through and check out. I might do
+an entire episode on that later. You do
+need to be able to log into sam.gov to
+use a lot of that. All right? Because
+there is a login. Really easy to do.
+Okay? You don't need to pay someone to
+get in there. You certainly don't need
+to pay someone to register your business
+either if you're if you're brand new and
+you're like, "Hey, do I need to
+register?" because a lot of people will
+try to sell you, hey, I'll register your
+business in sam.gov. Very easy. In fact,
+I went over yesterday like you can go
+right to the website and it has the
+checklist of all the things that you
+need to register and it's just, you
+know, kind of um take those things,
+prepare ahead of time, go in, spend an
+hour inputting everything and takes a
+couple weeks after everything's input
+usually. Sometimes there are, sometimes
+it can take a little bit longer. Um, now
+look, they're giving you the ceiling
+rates for GSA here. I'll link to that.
+Um, they are giving you and I'm going to
+show you GSA library. Very, very
+valuable for those out there that aren't
+aware of what's going on there. Um,
+they're showing you the I went through
+actually acquisitions gateway. I was
+yesterday, day before I was talking
+about acquisitions forecasts. This is a
+great link because this is where you can
+go to find out about opportunities that
+aren't on SAM.gov yet, right? Because
+and this is the again big picture
+selling to the government's hard.
+Selling to the government takes a long
+time. Can take six to 18 months to sell
+to the government, but it could take
+longer than that by the way. And it can
+be faster than that too if potentially
+if you're on one of these vehicles, it
+could be faster. But um you want to take
+advantage of the actual like pluses of
+government contracting which is all of
+these all the data points like something
+like over 300 data points for every
+contract that the government uh has with
+a company is published. You can look at
+it. Um you can also uh look at because
+the federal agencies forecast the things
+that they're going to buy. Not
+everything but it can give you a good
+head start on your pipeline. And
+remember, relationships are very
+important. So to the government, find
+opportunities early, build
+relationships, and understand what
+they're buying, how they buy.
+All right. So, they're also giving you
+FPDS. We we're not going to get into
+that today. GSA advantage. Okay. Great.
+Now, what if I want to get on to GSA?
+All right. Well, step two here, compete
+for a contract. See if it'll come open
+up here.
+Okay.
+So, it's going through um some of the
+basics that a lot of you probably
+already know, right? You have to be
+registered in sam.gov. You have to have
+your ueI. It's going through that. Um to
+be eligible to compete for small
+businesses, you need to certify as a
+small business. Now, here's what they're
+going to push is becoming a schedule
+holder. Okay? And again, keep again, I
+just want to foot stomp. Once you have
+the GSA schedule, that does not mean the
+government's just going to come to you
+and start buying, right? They you need
+to market yourself. You need to tell
+your buyers you have this. You're you're
+getting a schedule or any other vehicle
+to make it easier for the government to
+buy from you. And typically, the more
+options that you can present the
+government buyer, assuming that they use
+those options, um you can make it easier
+for them, right? But some offices aren't
+going to use GSA. You want to make sure
+you're, you know, you have the right
+vehicle for the offers you're trying to
+sell to. Again, we can see that it's all
+published. It's all published. We can
+see it on USA Spending. Uh, it's easier
+to see on other platforms.
+All right. Become a schedule holder.
+Now, I'm going to click on this one
+right here just to give you an idea of
+what you're going to be looking at.
+Okay. Okay. So, it says to become a
+multiple award schedule holder, which is
+um the GSA MAS, uh you need to submit an
+offer and be awarded the contract before
+you can pursue opportunities that are
+restricted. This is the key.
+You can see this restricted
+to MAS contract holders. Okay? Because
+it is a restriction. It's a long
+process. Um, it's going to probably take
+you a little bit of time and money. I've
+heard reports six to six months to 12
+months currently. Maybe it takes longer.
+Maybe you can get in there a little bit
+faster, but it's not an easy process.
+So, you want to make sure that you need
+it before you get it because you don't
+you don't have to have this to sell to
+the government. It depends on what you
+sell. And if you determine that you do
+need it, remember, you you compete or
+you apply to be on this. And once you
+have it, once they've determined your
+rates and everything, now it's you still
+have the same road mapping and
+pipelining process um that you'd have
+even if you didn't weren't using this
+with a government. You have to identify
+who buys what you sell. You have to find
+opportunities early. You have to get in
+front of them. You have to let them know
+you have this. You can and you need to
+do that before the solicitation comes
+out. In most cases, you want to get them
+because you can you can advise a
+government office to use GSA. And if
+they use GSA, this is the key, right?
+See, this is what I highlighted.
+Opportunities are restricted. If I'm
+selling anything, right, guitars, auto
+parts, uh, you know, nuclear scientist
+services, whatever it is, I'm providing
+the government. If I find out about the
+opportunity for, let's say, the nuclear
+scientists or maybe department of energy
+needs five nuclear scientists, right?
+Well, if I find out about that 6 months
+before the solicitation comes out, maybe
+I find a source that saw it or I and I
+rep I reply to that, they might not ask
+me anything about how the contracting is
+going to go down, but I'm going to tell
+them. I'm like, "Look, I have the best
+nuclear scientists in town and I have a
+GSA schedule. I recommend that you put
+this on that you use GSA to compete
+this." Right? So if you do that, if you
+get them to do that, then this will be
+restricted. GSA often it will just be
+not just the GSA schedule holders, just
+the GSA schedule holders that have a
+schedule like specific to the
+opportunity. So the only ones that might
+even know about this are going to be
+those with GSA. It's often not going to
+come out on SAM.gov. You might not even
+know about it by the time the
+solicitation gets here. So, it is a very
+effective way of selling to the
+government if you do collect a variety
+of these vehicles. Okay? And we're going
+to see more of them. This is where the
+government's going. It's called category
+management. Category management has been
+very effective. It's not just a trend.
+We're going to see more of it. And we
+are specifically going to see more use
+of GSA in certain areas. You know what
+those areas are? I may play uh some of
+the video I had with Kevin who recently
+transitioned out of a GSA recently. Um
+but what I would tell you is if you are
+providing something that's
+missionritical to the military, you
+could probably
+assume that GSA is not going to be
+dramatically increasing anything there,
+right? Especially often the more
+technical something is, a program
+manager on the government side is going
+to want to have their hands very deep on
+it. And just because GSA is involved
+doesn't mean that the program manager
+won't be working with a company either.
+I don't want you to have that
+impression. But um GSA is not going to
+take over acquisition for the
+government. They could they couldn't if
+they wanted to. They'd have to not be
+reducing people. They'd have to hire,
+you know, probably 100 times the staff
+that they have now. But we are going to
+see it increase in certain areas. And I
+think the best way to understand what
+areas is to look at the spending, the
+historical spending. If you see
+spending, if you see GSA's involved in
+certain areas, office supplies,
+pharmaceuticals, maybe software,
+whatever you know it is that you're
+selling, I would assume we're going to
+see more of it and then it may be a good
+idea. Where before I may have told
+someone if I saw a low involvement of
+GSA with their particular service, um I
+might say, "Hey, you can hold off." Now
+I might say, "You might want to apply
+for GSA just to hedge your bets, right?
+Because if we do get to increase, if
+GSA's use does increase dramatically,
+you could be left without a contract.
+You have to talk to the the office
+that's buying from you. Know if they're
+going to make any contracting changes.
+If it was a soul source, are they going
+to go to competing? Are they going to
+use a GWAC other than, you know,
+something other than uh GSA? So, know
+that. Now,
+how to apply to become a GSA member. So
+again, you this is all on the GSA
+website, but we're going to just go
+through this just so everyone can kind
+of get an idea. So, you know, and GSA
+does allude to they're not hiding
+anything here. I mean, they do say do
+your research. That's part of their
+messaging on these websites. Decide if
+getting a multiple award schedule is in
+your best interest.
+Uh you do you have to I've been through
+that agnosium here. You absolutely have
+to determine that first, right? Don't
+let somebody sell you on getting GSA.
+Plenty of people out there that are
+charging a watt. A watt. I mean, I've
+probably talked to God, how many
+consultations have I done? Believe I'm
+over 700 consultations with companies
+since I started our business, Gov Close,
+and our consulting company. Um,
+probably 50ish of them were people that
+were sold a GSA schedule by someone
+that, you know, was a GSA expert and
+they paid them 30 grand or something to
+get them on the schedule and a lot of
+them just didn't need it. Okay. So, but
+if you do have it, by the way, if
+anybody fits into that category, GSA,
+you didn't throw your money away because
+even if it's not used a lot, it could be
+used more. And it's a good um I think
+GSA is a good authority builder. Uh it
+gives me confidence like even though I
+never utilized a GSA when I was putting
+companies on contract for the Air Force
+back, you know, in um 201 I was a
+program manager, by the way, so I'd work
+with a contracting officer. I was more
+on the funding requirement side. Figure
+out the I would often figure out the
+company we needed to build the tool that
+we needed and then uh we would figure
+out how to get them on contract. But I
+used my own our agency, our office had
+our own contract vehicles, our own tools
+and mechanisms to put companies on
+contract. So you want to make sure that
+you understand the office you're talking
+to, what they're actually um using. So
+what it's saying here is uh contracting
+officers may set aside orders using
+this. Even if your company's more than
+two years old, you are they still qual.
+So there's something called startup
+springboard. I'm not going to go through
+each of these steps here uh folks, but
+just be aware that they're here.
+Um doing a readiness assessment. So if
+you click on that, and I have clicked
+through these, I know one of the tabs,
+but I'll open up another one here. So
+you could do a readiness assessment.
+They have a copy of a list of questions
+here that you can go through to see if
+you're ready for it. And just remember
+that there is work in managing this
+schedule. Okay? I have plenty of clients
+that went on to get these and utilize
+them very well, but you have to manage
+the schedule. There are say I often say
+that the real work doesn't come in uh
+getting the contract. It comes after you
+win the contract. Right? So now you
+actually have to provide the service,
+but you get all of the other stuff that
+comes with government contracting,
+right? There's a big accounting piece to
+this. There is managing these contract
+vehicles, making sure that um you're
+doing what you're supposed to on there.
+So, uh the questions, if you just click
+on it, I believe. Yeah, here we go. So,
+this will open it up and you guys can go
+through this if you're a business owner
+um and you want to learn, hey, is this
+something that is right for our company?
+Go through each of the questions. talk.
+Hey, who's the GSA administrator?
+They should. And there's b there's also
+a bunch of mandatory training in here
+that you have to go through. So, they're
+not leaving you high and dry. Uh, let me
+see if some of the training here.
+Pathway. Oh, here's one. Yeah. Have you
+completed the pathways to success
+training? So, there's some training
+here. There's also training that's not
+government related, but start with this
+because it's free and because this is
+what they want you to do. Um, they're
+asking take a look at the GSAE library
+and so they're asking for some things
+here.
+What about compliance,
+trade agreements, etc. So,
+lots of good tools here. So, take a look
+at the readiness assessment if you're
+actually thinking about getting this
+scheduled. You can al also, and by the
+way, I've reached out to GSA many times
+just doing research.
+Most of them will be more than happy to
+talk with you. For me, I like to talk to
+a live human being on the other side to
+see, hey, is this something that makes
+sense for me? And especially if you're
+even if you by the way if if you go
+through this and you see some
+requirements for your company like how
+long the company should be in business
+if you've been selling to the government
+like do you have existing contracts all
+all this stuff if you if it looks like
+you don't meet the requirements my but
+you think that you really would like the
+GSA schedule maybe an office an agency
+has told you that you know it' be great
+if you were on there reach out to GSA.
+Okay? Because my experience is there's a
+waiver for everything in the government.
+There's a waiver for most things in the
+government. So, uh there's typically a
+tremendous amount of gray area in the
+way policies and regulations are
+written. So, don't stop with especially
+if it's a question mark like talk to
+somebody and get the real answer and
+then and see if there's uh see if it
+makes sense for you. All right. Uh lots
+of different uh links here that you
+could go to um as you're going through
+the process. Um you have your readiness
+assessment here, but I thought what we
+do now is I just want to familiarize you
+with um some different websites um
+that you would be looking at if you had
+the GSA schedule. Okay.
+One is Ebby, right? So, if you're on
+GSA, and I wanted to like give you a
+visual representation of this because
+you're probably used to looking at
+SAM.gov, right, for opportunities. But
+this is this is something that I just
+want you to understand. If GSA is
+heavily used to buy products and
+services that you sell, you're not going
+to see that here. At least you're not
+going to see a lot of it here, right?
+Once you have the schedule now, you
+might be going here. Okay? And so then
+you'll have to have an account and you
+sign in and also when once you're on
+schedule, you may get notified, right,
+when different opportunities arise. So
+there's a different portal depending on
+what you're selling if you have a
+schedule. There's GSA advantage. This is
+more product related, but still a lot of
+good um information here that you can
+find on the website. Antonio says,
+"Sure." So maybe I can if I can bring it
+up, if I can remember um my login and
+password, maybe I can show you that.
+Um,
+look, there's a lot of information here,
+but just know and and by the way, like
+my if I when I'm talking with companies,
+like when I think about products, right,
+when I think about things like office
+supplies, when I think about things like
+this, like that walk, you know, for
+instance, I think GSA, right? When I
+think about products, when I think about
+even things that maybe you'll see in a
+grocery store, though, um, you know, the
+military has their own way of purchasing
+that type of thing. I do think products
+in GSA um and typically I see GSA is a
+lot more involved with the purchasing of
+those. If you see if you're not familiar
+with the term NSN,
+typically products are going to have NSN
+numbers associated with them, especially
+things like tools, right? So, uh,
+aircraft parts, tools, like all these
+are going to have their own specific NSN
+number. So, and then you can also see a
+little bit more on that like through
+Defense Logistics Agency for instance.
+Um, and another site where a lot of that
+stuff is purchased is called DIP, DSIP.
+Get back on this. So, as you can see,
+I'm always looking at these executive
+orders. This is just a rabbit trail,
+right? But we're selling to the
+government. We need to be aware of
+what's going on and we need to be aware
+of all the the acquisition reforms they
+want to make. Uh, typically what I see
+when we're talking about acquisition
+reform, not just this uh I mean what we
+know about this uh presidency. I don't I
+don't know how far this is going to go,
+but in past I've seen uh some new um
+administrations making significant
+headway with acquisitions reform and
+some making a little bit. Typically,
+it's never as much as they'd like to
+see. Um a lot of the standard procedures
+usually remain in place, but right now
+they're pushing increased use of GSA and
+increased use of other transaction
+authority, which is interesting and
+fast.
+and maybe not as separated from the
+federal acquisitions regulations as
+people think and I'm going to do an
+episode on that because what we're
+seeing and now I'm going down the OTAA
+uh rabbit trail but other transaction
+authority if you look at some of these
+OTAAS are coming out you're going to see
+fire clauses associated with them which
+OTAA is supposed to a lot of people
+think oh completely separate from the
+federal acquisitions regulations but not
+completely separate I have my own
+opinion on that let's take a look at the
+tool that I mentioned that can allow you
+to see opportunities
+that are coming out on things like GSA
+and the other contract vehicles even if
+you don't have those contracts.
+the premise of this is and I interviewed
+the CEO of GVY on
+um probably I don't know what episode
+number, but if you're on YouTube, you
+can go to our YouTube channel. It's gov
+closed. Just type in gov close. You'll
+get to the channel. Probably it was over
+a year ago when I interviewed him. But
+we went through as they were building
+this out uh what it looked like. And
+it's actually it's really great. I don't
+particularly want to log into this right
+now, but basically what happens is as a
+business, as a small business, you can
+get partnered with a kind a company
+that's a prime on one of these
+contracts. Okay? And so this is how they
+get around everything here. So, and then
+that that company that you're partnered
+with, maybe they have eight contracts.
+They might have GSA, MAS, they might
+have NASA soup, IT, they might have, and
+those are just the big ones that come to
+mind and some of the ones I've used in
+the past. But, uh, they then will
+populate this with the opportunities.
+So, when you go in here as a small
+business, you can then see opportunities
+like you type in what you're selling.
+Hey, I sell, you know, a user
+experience,
+you know, development for software
+portals or I sell again, I have three
+nuclear scientists that need to do X or
+I, you know, I'm providing IT services.
+You can put it in here and then it will
+show you the opportunities that are
+coming out on GSA and that are on some
+of the other platforms. And then if if
+you have something, you know, that meets
+those opportunities just like, you know,
+anytime you're building your pipeline,
+you can then get matched with a prime
+that has that. This is just a more
+streamlined version of subcontracting,
+right? So, I mean, normally if I'm going
+to if you're subcontracting, you can do
+a part of a um a solicitation or the
+requirements that the government's
+putting out, you're going to then reach
+out to a company that can do the rest of
+it. And ideally, that company is going
+to have past performance with the agency
+that you're trying to sell to, and
+that's going to make your um your
+subcontracting proposal more
+competitive, right? Um
+also, that's not the only time you want
+to consider a subcontracting agreement.
+You may consider subcontracting if you
+do find yourself in a situation where
+you know you're
+not on GSA, but you know an opportunity
+is coming up. Maybe you've been selling
+to an office for a while and they switch
+to one of these other GWAXs. Well, now
+you're since you can't submit a proposal
+on that, you're relegated to forming a
+teaming arrangement with a company that
+has that contract vehicle and then you
+know you would be a subcontractor to
+them. But this happens all the time. You
+know, people sub I know some of my
+clients are only subcontracting and
+doing really really well. So, you can do
+very well subcontracting and and if you
+do this long enough, you'll probably
+have primes and subcontracts. So, just
+throwing that out there. So, this is a
+good tool that you can use if you want
+to check it out. Uh they're not
+sponsoring me or anything, so I'm just
+making that available to you guys. So,
+I've used it. It's pretty good. Then as
+far as USA spending is concerned,
+there's a few things that you can do
+when you are searching for, you know,
+hey, how much is GSA going to be
+involved with uh the purchasing and I
+mentioned earlier that I feel like this
+tool is not as good as some of the other
+ones out there. If you guys aren't
+familiar with USA spending, it's a
+government website that GSA runs. And I
+talked to the guy that built this tool,
+by the way, about six weeks ago. So, um,
+they run it. It It's good. It's a
+prettier interface than like the, you
+know, the ad hoc stuff in SAM.gov
+or FPDS. All right. Um, I don't I'm not
+as confident when I'm looking at U GSA
+spending in here, but I can at least
+start to get a sense of if GSA is going
+to be involved in this simple search
+here, which I ran before I even started
+the live session just to make sure that
+it would work because sometimes it
+doesn't, sometimes it's really slow. Um,
+I just went back the past four years and
+clicked on IT services, right? So, it's
+a big spend. You can see here DoD spends
+$69 billion.
+First thing I look for is do I see any
+spending is does GSA pop up? Right?
+Some people would argue and again this
+is just however the system was built. If
+I if I don't see GSA in here, I'm I may
+start thinking that GSA is not involved.
+I don't necessarily know that that's
+true. But if I do see GSA here, either
+one of two things is happening.
+Uh somebody else is uh talking about
+Steam Steam Boo. I've never heard of it.
+There's a lot of places that are better
+to see this information. Uh I think
+Govlin IQ and Gov Tribe are two of the
+best. Um I haven't used the one in the
+comments, so I'm not going to comment on
+it, but um you know, check it out at
+your own expense. But if I see this, I
+think there's two there's two ways you
+could interpret GSA spending on US on
+USA spending, right? You could say,
+"Hey, GSA bought these
+IT services for themselves, right, as an
+agency or they were involved somehow in
+buying them for another agency." Because
+remember GSA is kind of a middleman,
+right? GSA is not when I'm using a GSA
+or an agent when a federal agency like
+the Air Force is using GSA schedules or
+the GSA contracting uh team to put
+something on for them. GSA is not the
+funding organization. They're not the
+end user. They would be the awarding
+organization, right? So, I could see
+here, all right, well, we've got GSA
+administration is just popping up as a
+federal agency. Now, another thing that
+I can do is I can look in here at the
+award type, right? And I didn't go
+through it on the GSA website, but GSA
+um does go through some of the
+contracts. And if you look at IDVs,
+right? Um the which are essentially
+contract types. If you look at the initi
+or the individual contracts, you can do
+this here to some extent, but we can
+also look at it on FPDS.
+Typically, if those IDBs start with a G
+or GS, we know that they're going
+because they each one has codes. We we
+know that um GSA is going to be
+involved. But GSA is certainly not the
+only um one of these. Now, federal
+supply schedule on the other hand, if I
+see that that popping up, well, now I
+have a pretty good indication, right?
+So, that's going to give me I don't know
+if you guys can even see that. It's
+probably you can see here this is one of
+the options, right? Right. So I could
+click that. See how much of this is on
+federal supply schedule.
+And you can see here this is where
+things get a little where you have to
+start navigating this a little bit
+differently. Right? So says zero, but
+remember now we have this contract IDV
+tab here. So I just think trying to look
+this up on USA spending a little bit
+clunky, but I've already seen enough to
+know that it's being used to some
+degree. It just means I need to do
+further research. And I'm probably going
+to use one of my paid tools to to do
+that just cuz it's going to be a lot
+faster. Um, you know, this is one of the
+um contracts that I clicked on. And you
+know, this one you can see the awarding
+agency is GSA. And as I start scrolling
+through here, I can see also I can see
+all right GSA. Then I see the BA, right?
+Like all right, what else is uh going on
+here? And I can, you know, it's giving
+you a lot of, by the way, this does give
+you a ton of information, which which I
+love. Now, I could see here that it's uh
+GSA, the Federal Acquisition Service. I
+can see the office and you know, we can
+keep on looking at things like
+competition details here. Look, now even
+so, this is a good point actually. Just
+because you're on GSA or any other
+RGWAC, that doesn't mean that there's
+not going to be a competition. often
+there is still a competition utilizing
+these vehicles, right? So you still have
+to do the same best practices
+that you would have to do going after
+any other contract. And so I've showed
+you the steps in the CRM that I use,
+right, from finding the opportunity
+early, right, to potentially
+recommending to the office to put it on
+GSA because that's going to remember if
+you get them to use a vehicle that
+restricts anybody that doesn't have that
+vehicle from going after it. and it also
+might restrict them from ever seeing it.
+But there's tons of other companies that
+do have these vehicles, right? So check
+it. Uh number of offers received here,
+nine. So um even though GSA is being
+used, there's still nine offers
+received, right? So he still had to
+compete. Uh no preference.
+Yeah. So again, you can go through that.
+you can spend a lot of time in GSA and
+um you know you can learn a lot about
+whether or not you should actually be
+going after one of these vehicles or
+not. Great. Well guys, hopefully this
+was informative. You know, there's a lot
+that we could talk about with GSA
+managing how do you manage the contract
+once you already have it? Um I can tell
+you that you know how I used it. So for
+instance, one of my clients I sold for I
+sold software for for years and so I
+managed their pipelines with different
+federal agencies and I used GSA all the
+time. So from a seller standpoint, from
+a sales executive standpoint, I used GSA
+and I don't mind telling you how I did
+it. I can tell you this. I never wrote a
+proposal
+and never wrote a single proposal. So
+what I did and this is this is the value
+of once you're already selling to the
+government
+one of the easiest ways the best way the
+thing to focus on is your government
+customer okay and what I would do is I
+would make sure that my government
+customer well is happy
+so you could walk in so once you have a
+set of customers so if you're a sales
+executive or if you're a consultant or
+if you have a business don't just sell
+it set it and forget it once they have
+I'm reaching out to the user, not GSA. I
+wasn't reaching out to GSA. I was
+reaching out to the government user, the
+program manager typically. Hey, um,
+ma'am sir, how is the product uh or tool
+that we gave you? How's it how's it
+functioning? How's everything going? If
+it's going great, awesome. Right?
+Sometimes it's not. And if it's not,
+well, hey, I'm going to get my team to
+work on it, right? And if I get my team
+to work on it, um, we're going to go in
+there until everything's going smoothly
+and until they are happy. That's what
+you should be doing anyway. And then,
+you know, the next time I reach out to
+them, like, hey, how's everything going?
+Great. Hey, by the way, do you need any
+other do you need any new licenses? Are
+you aware of these new products or
+features that we have? Oh, cool. Let's
+set up a demo. Right? That's that is the
+best way to actually in my opinion,
+that's the fastest way also to sell.
+you're already on once you're on
+contract, you're upselling, you're
+making sure you're taking care of them,
+and if they don't need what you have,
+hey, do you know anyone else that you
+know could potentially use our service
+or our product or feature? If they love
+what you have, they'll recommend you.
+And guess what? Acquisitions officers,
+they hang out with other acquisitions
+officers, program managers, engineers,
+contracting officers. So, um, it's
+actually a relatively small space and
+they kind of know what each other's
+doing. So you can always ask, upsell,
+get recommendations, get warm intros to
+other offices. This is this is how
+regular sales happens too, right? Just a
+lot of people get lost in the government
+contracting policies and regulations and
+don't think the relationship's as
+important, but it is. Um, I suppose the
+last thing that I could show you here is
+I'm going to bring it up a GSA pipeline
+strategy built into it and just give you
+an idea. If I walk
+the solicit the different opportunities
+I should say
+through the different steps. So when I
+use a when I pipeline I don't have like
+four columns where it's hey good better
+best or like lead opportunity. I have
+like find opportunity as early as
+possible, right? There could be a source
+of saw, RFI, whatever. Set up meeting
+with the government. You know, I have 22
+different steps depending on the
+strategy. And what that does that keeps
+my sales team in line, right? It keeps
+me say, it keeps me honest and them
+because you can't you're going to have a
+pipeline with in order to build your
+pipeline, guys, where you can actually
+hit your numbers every year. um meaning
+your quota if you're a sales executive
+or if you're own a business owner and
+you've done the research you know what
+you could potentially make each year you
+have to have enough opportunities in the
+pipeline to make up for the fact that
+the government's going to lose funding
+in certain areas things will get delayed
+right there are things that you will
+never be able to change on the
+government's part and the government
+doesn't care about your quarterly
+metrics right they're just concerned
+about hey they're fun they have their
+own metrics that they're concerned about
+so the way we make up for that is we
+make a we take opportunities that we can
+actually win and build a pipeline that
+makes sense. It's regimented
+knowing and understanding what our close
+rate is, knowing the strategy that we're
+using, make sure our sales team's
+trained and we walk through those steps
+and that's how we are going to win these
+contracts. And the exact same thing with
+GSA. You don't get GSA and um you know
+the the skies don't open and you have
+contracts and delivery orders and
+everything fall into your lab. That
+doesn't happen. It happens sometimes
+but but you cannot plan on that right.
+So if you have something unique, I have
+reached out to companies uh from the
+government uh side and I have been
+reached out to on the uh company side,
+but that's that's great when that
+happens, but that's not a plan, right?
+That's luck and timing. And they have to
+know in order for that to happen, you
+have to be constantly constantly in
+front of them. You guys probably have
+your own dashboards, right? Where you
+have um where you're managing contracts
+and opportunities, but I just wanted to
+give you a sense of how I look at it and
+how important it is to you're not just
+throwing crap against the wall and
+seeing if it sticks, right? We are we
+have a very regimented process for how
+we go after opportunities. Now,
+this is a smallish pipeline, right? This
+is just something I'm going to use as an
+example. Now, if I was managing GSA, I'm
+going to have my own GSA strategy. Okay?
+Uh here you're looking at a sources
+sought pipeline strategy and an ADA, but
+I'm going to show you the GSA one as
+well and an AA pipeline strategy. By the
+way, you can be 8A
+and have a GSA schedule. In fact, there
+are mechanisms specifically for that,
+right? Um and you could certainly
+utilize that. So again, having a a set
+aside or certification, we can we can
+you want to build a strategy that's
+specific to the type of company you have
+combined with what you're selling and
+who you're selling to. And all that is
+going to come into this grand master
+plan. If you've done your research, you
+know, if you find that it's the uh, you
+know, Army Corps of Engineers and three
+main offices are going to be in, you
+know, California or maybe a couple other
+places. And if you see that, hey, I'm an
+8A company and they use GSA. I'm just
+making that up, but we can see it. We
+can see if that's true. Well, then
+you're going to have this GSA 8A
+strategy, right? And you part of your
+strategy might be identifying companies
+that have contracts already that are
+going to be renewed and they have
+already graduated from the ADA program,
+right? So, you might be identifying
+those opportunities, then reaching out
+direct to the offices. That's a very
+specific strategy, but my point is
+understand your company, understand who
+you're selling to, build a focused
+strategy. In this case, I'm looking at a
+total pipeline. You just know that you
+want to know your conversion rate. This
+case, it's 11%. I have a $12 million
+pipeline. That's what I can probably
+expect, right? So, this is probably a
+good example of what a sales executive
+for a company is going to be looking at
+with the federal government. Now,
+personally, I would be building a much
+larger pipeline here. And that's kind of
+the beauty of So, we could build a $100
+million pipeline. Um, but you're going
+to have a lot of opportunities in there.
+And I have very specific strategies how
+I'm going to do it. I'm going to show
+you the steps here coming up. But this
+11% if you don't know what your close
+rate is, you can, as long as you're
+following best practices that I talk
+about on YouTube all the time. So, you
+can look at our free videos. By the way,
+you can always go to govclos.com
+and that's where, you know, our flagship
+training program is. It's a one-year
+training implementation program where I
+personally onboard everybody. We have
+almost 200 people in there. Now, we have
+a team. Um, we are not just training on
+going through all the information like
+we did. We're building strategies uh for
+specific companies and then pipeline and
+we help them execute on the back side.
+So whether you're a company or a lot of
+veterans and federal workers coming in
+learning GovCon and then starting
+careers, right? They're starting careers
+at starting their own consulting
+businesses. They're going out and
+getting high paid account executive
+jobs. You know, companies are paying uh
+I mean, I was paid over $300,000 a year
+for to be an account executive for a
+company. They fully knew I was running
+my consulting business. It's worth it
+for companies to pay a lot for sales
+executives that understand government
+contracting because there aren't that
+many that do and the amount of revenue
+you can bring in more than makes up for
+the salary. So, just be aware that
+that's out there uh for the the federal
+workers, uh veterans out there, National
+Guard Reserve, that's like it's a slam
+dunk. So, again, I I need to know what's
+working. I need to know what my close
+rate is. And then what I'm looking at is
+I want to know here. Let me go here and
+take a look at the actual
+opportunities.
+So this is a source of sought um list of
+opportunities. This is how I put it
+together, right? because I want to know
+what are the every strategy that you use
+selling to the government is going to
+have specific steps and they're and
+they're different some of them you know
+you some of these things are going to be
+the same meaning I want to find
+opportunities early I want to influence
+I want to build relationships provide
+value and also a lot of redundancy right
+and when I say redundancy so this is a
+source of sought pipeline but for
+instance if I'm and by the way when I
+have a sales team doing something like
+this. We're going right through each of
+these steps, right? So the Saigon noodle
+one there, like let's take this user
+interface opportunity 735,000, right? So
+I have them if I'm on a sales call, I'm
+like, "All right, so they at this point
+have already they found an RFI. We go
+no-go it, meaning they decided if they
+were going to go after it or not. Do I
+need teaming partners? Yes or no. Email
+the government." We're always, always,
+always trying to establish communication
+with the government office. We're asking
+them questions. Okay, if we're ahead of
+the solicitation, you're in the market
+research phase and we can find out a lot
+about these opportunities. A lot that
+might not be included in the
+solicitation itself, right? Solicitation
+is a request for proposal, request for
+quote, whether it's GSA or anything
+else. I'm finding it early. I'm talking
+with them. And again, if you have the
+steps laid out here, it's easier for you
+and your team not to forget a step.
+Write the response. You need to submit
+the Okay, did you write it? Did you
+submit it? Yeah, I submitted it, boss.
+Awesome. Great. Did you confirm receipt?
+Uh
+uh, no. Well, look, if they didn't
+confirm receipt, meaning if you sent a
+source of sod or a proposal, especially
+to a government office, because a lot of
+times you're just emailing it to them.
+And if you email it and you don't get a,
+"Hey, I got it. Thanks." You have to
+assume that they do not have it. Because
+when you put this happened to me, this
+happened when my wife would email me,
+you know, back on the uh back in my
+government days. Her email block had her
+email signature had a link in it. And so
+it would get flagged every time. I
+wouldn't get her emails. Uh people would
+send in responses. If you put an
+attachment on an email, guess what
+happens? More times than not, the
+government email system will block that
+email from hitting the inbox. So, if you
+send in a source of sod or a proposal
+and you don't hear back from the
+government, they didn't get it. Just
+assume that they didn't get it. Um,
+okay. And then again, you're managing
+your team. Did you request a meeting?
+Well, no, I didn't request a meeting. I
+didn't even get a confirmed receipt.
+Hey, I'm always requesting a meeting.
+And then I I want to get in there. So,
+there's a bunch of different things in
+here. I mentioned you got the same thing
+for this is my recommendation.
+Longwinded. I'm going to get off here.
+You're going to have the same thing for
+GSA. So, I have a pipeline built for GSA
+ADA integrators. Uh remember, check out
+govclos.com when you get a chance. Uh
+follow me on LinkedIn and hit the
+notification bell so you can uh get
+updates whenever we put out because we
+put out this. We put out the GovCon
+newsletter. Uh we do YouTube uh
+interviews with CEOs and subject matter
+experts, uh reviewing tools, all that
+stuff. We took a look at GVY today,
+right? Uh you remember? So that's a tool
+that where we can see the different um
+the different opportunities coming out
+on a GSA if we don't have GSA, right? So
+that might be something that you want to
+um take a look at. All right, guys. I'm
+out. Cheers.

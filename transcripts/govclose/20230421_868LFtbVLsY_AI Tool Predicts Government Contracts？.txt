@@ -1,0 +1,1139 @@
+Kind: captions
+Language: en
+Ricky here with DOD contract Academy
+podcast and today we have a return of
+sorts uh Oliver Taylor he himself was
+not on the podcast uh before but Oliver
+works for govly and uh we talk all the
+time about you know the different
+Technologies they have there and hey
+Oliver how you doing today
+doing pretty good how about you good
+excited to have you on I know you have a
+big announcement here for govly and you
+know for our listeners they know that
+you know I interviewed the CEO a few
+episodes back and I I really like
+golfway because it is a very unique way
+to search for opportunities that
+otherwise might not be there right so
+why don't we start a little bit with
+what you do for govly and then and
+describe Godly like hey what what is
+what is Godfrey just so I can quick
+recap for everybody yeah definitely well
+um or Godly I'm I'm the CEO and uh given
+that I hope that this podcast gets
+better ratings than Mike's uh podcast
+early yeah
+Mike's the CEO for those of you who
+don't know
+um and and what Godly is yeah I could
+use some marketing terms but just to
+explain it simply guffley is a platform
+that allows Prime contractors to
+aggregate all of their contract vehicles
+in a single place and then share those
+contract feeds so all of the rfqs and
+all the data associated with them
+flowing through those contract Vehicles
+it allows them to share that those with
+their partner Network
+so it's a it's a network of
+individual stakeholders in the federal
+procurement supply chain Arena that's
+kind of the easiest
+simplest way to think of coupling okay
+and then for everyone listening some of
+you are going to be more familiar with
+searching for government opportunities
+than others we know everything kind of
+originates with sam.gov which is where
+you register your business to sell the
+government there it's it's a clunky not
+amazing website which is why we also
+have a lot of research tools and search
+tools that are paid for right there's a
+whole list of them I've covered some of
+them on the podcast
+one thing that's interesting is that all
+federal opportunities despite all of the
+regulations right and this is often
+misunderstood all opportunities are not
+going to come through sam.gov and that's
+because the government has a way of
+pre-competing
+companies and putting them on these
+large contract Vehicles usually referred
+to as category management and we could
+probably spend hours talking about this
+and bore everyone but the end result is
+you have contract Vehicles like in GSA
+like NASA soup like itas like you know
+we could you could you could probably
+talk to them even better than I could
+and you have a bunch of companies on
+there that have already pre-competed and
+so now there's going to be opportunities
+that go just to those contract vehicles
+and they're often competed amongst the
+the primes and the subs that own that
+contract vehicle
+for those opportunities you either are
+not even going to see them if you don't
+own the contract vehicle or you might
+see something on sam.gov that's a notice
+like
+U.S Air Force intends to award
+you know 20 cyber security services blah
+blah blah on NASA soup or we intend to
+award on GSA right so you might see that
+but you might not even see that
+yeah so what Godly does is gives people
+a way that don't own those contract
+vehicles
+to actually find these opportunities
+with prime contractors that own the
+contract vehicle is that would you say
+that 100 100
+correct right so back to my earlier
+description of this platform that allows
+primes to ingest their contracts
+tactically what that means is that all
+of those rfqs are then on the godfly
+platform and are shareable and when I
+say they're shareable I mean they're
+searchable they're recordable
+um they're when I say search I mean you
+can filter them based on who the
+customer is you name the filter you can
+filter out all of these opportunities on
+The Godly platform we use what's called
+elasticsearch it's basically a keyword
+Search tool that would allow you to then
+filter all those private opportunities
+is what I'm going to refer to them as so
+those are the soup opportunities the
+itez opportunities that are really only
+shared with the primes on that contract
+you know as you as a user to search
+those and see those in real time
+because the primes are on our platform
+those primes are ingesting those
+contracts and so it's like a think of it
+as like a portal of visibility into
+these private contract feeds so you can
+then
+save searches right if you want to be
+notified the instant an opportunity
+mentioning Dell Inspiron lands you can
+do that in govly and one lands from the
+Army and you'll know about it and that's
+that's kind of the power because if
+you'd save that same search on sam.gov
+you're not going to see the itas 3H
+opportunity that comes out you're not
+that's private it's like you said
+pre-competed private definitely not I
+mean I talk a lot about you know being
+focused and having a plan selling to the
+government for for these small
+businesses so if you are you know when
+we're talking about Godly for now we're
+talking about companies that are kind of
+in that I.T cyber security
+[Music]
+maybe SAS space Maybe maybe a reseller
+but I think there's probably a lot of
+resellers that are you know primes on
+here
+but
+when you have your plan when you know
+who you're selling to and you know what
+your Niche is going to be you have to
+have a way of finding opportunities and
+you have to have a way of finding them
+before
+that contract comes out as well right so
+what govly what we were talking about in
+the first episode which is what was
+really intriguing to me is now this
+opens up the aperture for everybody that
+doesn't have these vehicles now I can
+find out about opportunities that that
+these companies will have
+right they're not all necessarily going
+to be like rfprfqs is that correct some
+of them will be correct like sources
+yep exactly so you know you'll find
+market research requests you'll find
+rfis coming through here
+um sources saw for example right you'll
+find all of that stuff uh here on
+definitely and again our idea is not
+only can you find it here but can we
+automate the identification of those
+opportunities for you so that you're not
+having to come into gupply every day and
+search like you would Google let's say
+right like how can we automate this deal
+identification for you and then when you
+when you start finding deals how can you
+dive a little deeper and understand
+who's really purchasing this product
+that I want to sell and half of their
+purchasing Trends changed over time and
+where might they be going right that's
+the whole idea
+no it's a very powerful tool for some
+small businesses subcontracting
+is their primary way of selling to the
+government and there's actually a lot of
+benefit to that whether we're talking
+about kind of building a history of past
+performance even as a sub or just
+utilizing these vehicles and the
+opportunities and the reputation of the
+companies you're working with there
+there's a lot of reasons to approach
+things this way
+now you guys have something pretty
+incredible coming up here which really
+speaks to how you identify opportunities
+before
+that solicitation right so we know if
+you've been doing this for a while you
+know that a source is sought is a way of
+identifying an opportunity that's the
+government saying hey I'm looking to do
+my research and kind of see what's
+available see what companies could
+participate
+but you know and what I do with my
+clients is we'll go a lot deeper than
+that and kind of look further out we'll
+use relationships we'll use expiring
+contracts kind of trying to figure out
+when a contract's going to be recompeded
+for instance would be an example of a
+tactic or strategy but you guys have
+developed something that's going to save
+an incredible amount of time
+as far as that's concerned and I think
+this needs to be a key part of anyone's
+approach to the government why don't you
+tell us what the big announcement is
+with govern what you guys are working on
+yeah yeah so you know you're you the
+approach that you outline there is
+absolutely right and we had to ask
+ourselves how can we make it easier for
+our business men business women trying
+to do this how can we make it easier for
+them to get it done and naturally you
+know your brain starts flowing to you
+know I've seen chat GPT in the news and
+I've seen Ai and how it's you know going
+to change things for us and and we we
+see the same news articles right and but
+we think about how do we apply those
+to The Godly tool or our customers for
+our customer segment and uh it
+eventually led us to uh our latest
+little slash feature that will be
+generally available later this month
+called govly predict
+um essentially what we have done is
+we've taken our unique database of
+public and private government rfqs and
+when I say private I'm talking back to
+those contract vehicles that were
+pre-competed right that's what I'm
+referring to when I say private we've
+taken that database we've then taken a
+large language model
+that uh the underlying model for chat
+GPT and tweaked it right you have to
+train these models on your specific
+application so we have a killer
+engineering team and they train that
+model on government procurement namely
+these big contracts and anson.gov that
+we focus on on their platform and have
+gotten it to a point at which it is
+predicting or projecting opportunities
+out into the future based on historical
+purchasing trends of federal customers
+you know if there's one thing that AI is
+good at and there's a lot that it's not
+good at
+um but if there's one thing it's good at
+it's finding trends
+um and leveraging those Trends to pull
+out useful information
+um and that's exact use case uh that
+that we have for it now so in simplest
+terms we give it this database of rfqs
+it looks at the rfqs it says okay what
+are some Trends we're seeing we then
+compare those Trends with what actually
+happened
+and the model begins to learn and get
+more and more accurate at projecting
+what is going to happen on the future
+um and so in in tactical speak that
+means it will be projecting when uh Fort
+Rucker will be procuring Dell laptops
+based on the historical procurement of
+Dell laptops for Fort Rucker for
+instance that's
+um it's pretty amazing yeah yeah it was
+you know I'll I'll tell you it's really
+easy to have good ideas but it's
+incredible when the good ideas come to
+life and obviously that comes down to
+our engineering's team ability to work
+but when we first saw it kind of give an
+output and then we tested the output and
+found that it was accurate it was like
+this is incredible you know this is this
+is it and I was
+honestly I was a little skeptical and I
+heard about this uh because you know AI
+can be flawed certainly right but I
+think probably at this point most of us
+have played with chat GPT and you know
+some of it's really good has some really
+incredible features
+um some of it does not right some of it
+is kind of blatantly false but when I
+started diving in because I'm like oh
+you're going to predict what the
+government's doing because there's so
+many moving pieces right
+but when you started talking about how
+for instance it will look at you know it
+knows that the Army maybe put a company
+maybe it was Dell you were just talking
+about Dell we can use them as an example
+maybe you put them on a contract for
+three years to provide a service right
+and we'll just take it off of the
+laptops for a second because I think
+that's a little bit different but if
+they put a three year Services contract
+with a certain company well now it can
+predict it's going to know that you know
+three years later that contract is
+either gonna have to be extended or
+recompeded and now it can also take some
+of the guesswork out because it will
+look at the trends and know all right
+well we know the contract expires on
+this date
+probably needs to be competed before
+that and historically how early are the
+agencies doing that how early is this
+agency doing that now we could say
+usually it's three months or four months
+or five months before that so now you're
+getting a predictor of these dates so
+for any small business that's in this
+space really any space right so whether
+you can or cannot use govly what govly
+does do is instead of me are you having
+to go through and slog through you know
+contracts that you found and okay it's
+going to expire in a year and a half we
+think it's going to be competed here
+which takes a lot of time now you can go
+to goverley and use this predict feature
+and it's just going to tell you we think
+X Y and Z so now that is a small
+business that gives you a lot of or or a
+large business frankly that gives you a
+lot of saves you a lot of time and it's
+giving you the opportunity to start
+engaging on these opportunities early so
+whether that's engaging with the prime
+on the recompete whether that's engaging
+with the agency itself there's a lot of
+different ways to go through that and I
+say the agency itself because I'm
+separating myself from govly a little
+bit here right so I know government is
+mainly you've got a bunch of primes in
+there
+um you know there's a business owner
+you're going to have to decide when it's
+appropriate for you to sub and when it's
+appropriate for you to Prime
+so let me ask you this
+maybe you could walk us through just a
+generic example of company goes into
+goverly and they like I'm looking at all
+the contract vehicles and they discover
+something's coming up on CIO uh CS or
+seaport and XG
+something that's a perfect fit for them
+what does the process look like once
+they see it on govly now how do they
+move forward yeah yeah so right now
+um the process is what I call a white
+glove process and that you'll probably
+be talking with me I do a lot of our
+onboarding so you'll be familiar with me
+you'll have my email all that stuff
+right
+um and you'll you'll come in you'll say
+hey Oliver I found this opportunity it
+came out on the small business set aside
+I don't know any primes on that contract
+right I don't have a business
+relationship with any or I should say a
+solidified business relationship with
+anyone
+um on that contract I've I've maybe met
+them right but I've never actually
+submitted a bid through them
+can you make some warm introductions for
+me and
+help me find someone whom I can work
+with and the the good thing about Godly
+the power of Godly and the network of
+times that we've created is that we can
+do just that right we have a virtual
+Rolodex of folks that we could introduce
+the small business to and the truth is
+the first introduction is going to come
+right when you join the platform because
+you can't even see cio-cs until you have
+some sort of a business relationship
+with the Prime on that contract so
+that's kind of the first step and if for
+whatever reason that first Prime who you
+met during primer primes I should say
+who you met during the onboarding
+process can't facilitate or doesn't want
+to facilitate the bid then you come back
+to me and we go make introductions to
+another
+right I mean the primes in the end of
+the day are looking to work with
+businesses who have a competitive
+advantage in one way or another maybe
+it's you come with prior experience in
+the commercial space or the long track
+record of success in XYZ implementations
+or services and and that's going to make
+you attractive to a prime who ultimately
+wants more business done on their
+contract
+and and we help you find those friends
+sure I mean it's
+you a small business may not be
+considering what goes on in the mind of
+a large business when they are on one of
+these vehicles you don't have to
+necessarily be a large business by the
+way to be a Prime on these contracts
+because there's a lot of small
+businesses on there so you may be
+dealing with a small or medium-sized
+company and they have to take a lot of
+considerations when they're deciding
+what they're going to engage on an
+opportunity right so they may see like
+you said there's so many different
+factors involved but the office you're
+dealing with maybe they're considering a
+small business award maybe they want to
+award it to a veteran-owned business
+maybe they have a requirement for
+subcontracting and something that you
+possess could kind of hit one of those
+requirements again or it could just be
+the relationships right I mean it might
+be you have a relationship with
+lifecycle Management Center at wrightpat
+or handsome Air Force Base and that's
+what they want to utilize your past
+performance so you just never know yeah
+yeah no you're you're 100 right and yeah
+just to be really clear
+um about kind of the process right when
+you're on boarded to Godly
+partner I should say Prime introductions
+are made at the very beginning because
+the only way you see these contracts is
+through a business relationship with the
+prime yet the primes on our platform
+have gotten so much value from all of
+the introductions the goblin platform
+has provided for them that it's it's
+kind of like it's kind of a loop in that
+you come on board you get visibility at
+the same time that you meet the primes
+because that's the only way you get this
+ability and eventually more folks will
+come on board meet the primes you will
+do more business with the primes your
+network expands
+um and obviously you become a more and
+more attractive sub
+um yeah I mean that's even more
+I think beneficial than what I was
+originally thinking so it's not a
+it I guess you could say
+a virtual environment completely where I
+just I pay for a govly I log in I see a
+bunch of opportunities just like sam.gov
+or government IQ or any of the other
+search platforms
+this is I join govly after whatever
+vetting process you have and you're
+making introductions between my business
+and some of these primes and that's very
+awful in itself and then it sounds like
+for the most part as long as you've got
+a solid business
+that you're going to now have access to
+the feed of opportunities that are
+coming in through some of these vehicles
+that they possess correct right right
+100 correct because legally I I can't
+and these primes they can't just share
+their private contract vehicles with
+anyone there has to be a business
+relationship and so that's the that's
+step 1A of onboarding and step one would
+be me creating an account for you and
+training you on it but 1A is those
+relationships and solidifying at least a
+few relationships right you mentioned
+small business and
+that's one set aside of a long list of
+set-asides right service disabled
+veteran owned small business and so
+chances are you you may need additional
+relationships down the line and again
+that's where definitely can come in
+because we have multiple sdb osbs on the
+platform multiple women on small
+businesses on a platform whom you may
+need to partner with in the future if an
+opportunity you're interested comes out
+on one of those set of sites
+um it's interesting yeah that that whole
+networking piece is it is the backbone
+roughly right
+do you need to be a small business to
+join government
+no no no not at all you you can be
+chew we have businesses from 100 000
+plus
+um all the way down to businesses of two
+people I think we even have businesses
+of one you know if you have yeah go
+ahead no I was just gonna say where I'm
+going with that is you might be a large
+business and you know a large business
+is defined by nake's code typically and
+yeah it's usually if you have over 500
+employees or you're making over a
+certain amount in annual revenue and
+that that varies depending on what
+you're selling but
+you could be a large business
+transitioning from being a small
+business I just did a podcast episode on
+this with uh tier one uh performance
+where okay well now you are all of a
+sudden a large business so you don't
+have that small business qualifier
+anymore certification
+but you're still not you're not a large
+defense contractor you know you could
+you might still be building your company
+and you're paying your employees and
+you're you're going after work so a lot
+of those large businesses are not going
+to have a whole list of government
+contracts right so they are probably
+interested in a lot of you know because
+you got a lot of uh contract Vehicles
+listed here maybe a company has GSA by
+the time they become a large business
+but they don't have Seaport they don't
+have CIO and some of these others and
+they want they want to see those and
+they need help building relationships so
+this would be a great tool for a company
+like that to kind of start getting
+access to some of that
+oh yeah absolutely absolutely and I know
+that as we're talking through this you
+know we're throwing out a ton of
+acronyms like I can't promise your
+listeners that if you if you join the
+tool we offer a free version okay where
+you can use all of our uh features to
+search sam.gov and uh you know just jump
+in take a look at it uh it's it's pretty
+self-explanatory
+um even if it sounds complicated based
+on all the acronyms are throwing around
+but yes to your point yes there is
+definite benefits for those large
+organizations as well and I know we've
+talked about crimes a lot but the truth
+is we have a lot of customers who are
+just resellers and are not primes for
+whatever reason they don't want to
+have the administrative burdens
+associated with being a prime contractor
+they just want to do what they're good
+at which is getting
+software Hardware services at a good
+price and working with someone who is a
+prime to provide the quotes and
+ultimately submit the bids so that
+that's also uh something very popular
+it's not just a platform for primes not
+even close oh sure and and that's a you
+know I just want to make sure that
+that I'm expressing what I'm thinking
+correctly because yeah to me this seems
+like an amazing tool for small
+businesses and Subs that don't have any
+of these vehicles right so maybe just
+stating out loud hey you do not have to
+be a prime in fact if you don't want to
+be a prime or you're new or you're a
+small business this is absolutely an
+amazing tool for you because you don't
+have to go out and get any of these
+contract Vehicles it's also a great tool
+for primes that have these vehicles that
+are looking for help with from subs for
+a variety of reasons and it's
+a lot of it is usually you can't do all
+of the work yourself because a lot of
+these contracts have a lot of different
+moving pieces do you think we could and
+I know for those watching the listening
+to the podcast this might not help but a
+lot of people are going to be watching
+this on YouTube also maybe we could
+switch to you sharing your screen and
+just doing a walk through of govalee
+does that work yeah yeah yeah no let's
+do it awesome yeah pull up my screen
+and while you're doing that I'll just
+kind of describe you know what I'm
+seeing on here and some things that I
+would like to talk about because
+in govly and I have a govly account that
+I use it lists contract Vehicles so when
+I use acronyms like Seaport or CIO these
+are acronyms that are just names think
+of them as names for these large
+contract vehicles that that already have
+companies on them and then the
+government sends those companies that
+are on a c port or a CIO any company
+that is on that contract vehicle they
+get maybe different opportunities to
+compete for contracts and something else
+that I think is in here but I haven't
+tested it out so maybe you can tell me
+is you have a workspace stage that talks
+about qualifying submitted quoted so it
+looks like there may be a a way to track
+some of the opportunities uh that you're
+working on in here and maybe you could
+answer that because now I'm looking at
+the screen awesome yeah no you you are
+right uh across the board
+um so for those of you who can see my
+screen here and I'm going to zoom in a
+little bit more
+um this is the govly landing page we
+call this our opportunities dashboard
+when you sign in whether it's through
+our free account or you end up moving
+into a paid account
+this is the page you'll land on you've
+got left hand side and the right hand
+side left hand third of your screen has
+all of the filters that allow you to
+filter the results you see on the right
+hand side of your screen okay
+there are a few really key filters to
+understand because I think they're the
+most powerful ones there's the date
+range filter which
+so it's really two purposes right it
+will keep you up to date the moment new
+rfqs are coming out on these public and
+private contracts but it also allows you
+to conduct historical research so you
+can go back in time and say you know
+when was the last time uh this
+organization this customer organization
+so maybe the doj purchase change
+Management Services right you can adjust
+the date range enter the term change
+Management Services in our elasticsearch
+dialog box and it will show you those
+things
+the other filters that I'll call out are
+obviously the contract vehicle so we've
+talked about CIS I think soup was
+mentioned at the beginning of the call
+supis s e w p not like not like the food
+um you can filter those
+results based on contract vehicle so if
+for instance you are only really
+interested in ciocs
+you can go ahead and just click ciocs
+and now we're looking at all ciocs
+opportunities that have been posted uh
+over the past three months and the
+reason I say three months is because
+that's a date range we had set right
+okay
+can we
+maybe try a search and see what pops up
+yeah let's do it let's can we try let's
+try metadata tagging
+all right yeah
+let's do this
+okay so those of you sometimes metadata
+is one word sometimes it's two I've seen
+it both ways okay all right and that's
+that's that's good to know and if uh
+folks are watching this online you might
+be wondering you know these terms and
+these this is called an operator you
+know I'm not sure how this works this is
+part of the onboarding process right
+um and even if you end up going with a
+free account you're always welcome to
+reach out to me and I can help you make
+sure that your Search terms are working
+um working correctly so let me just do
+this you mentioned sometimes and I'll
+describe what you're doing there so for
+anyone that's used another Search tool
+different contracts there's different
+ways to search through contracts
+sometimes you know if you're used to
+kind of a higher end or a system like a
+government IQ or you're using like a gov
+tribe A lot of them use similar methods
+so you can
+for instance you could put in what um
+Oliver just put in here is you could put
+metadata in quotes you could put or
+tagging it's ways of looking at
+different keywords so I can look through
+a bunch of contracts and see if anything
+is popping up you might be able to look
+for just a certain set of keywords that
+are all together so if I put
+tagging you don't want it if I put
+metadata tagging in some search engines
+it might give me contracts or
+opportunities that just have the word
+tagging in it right or you know if I use
+cyber security you know cyber security
+is going to be in a lot of different
+contracts I probably have nothing to do
+with you unless you qualify that with
+another word so just as a explanation
+here of what we're looking at
+yeah no that that that's 100 uh spot on
+and as soon as we search that our
+results were reduced from 10 000 plus to
+872. okay what that is telling us is
+that
+of those 10 000 plus results we were
+originally searching 872 of them
+contained one of these phrases so for
+those who are listening along our
+phrases are metadata and metadata
+tagging those are the two phrases we are
+looking for
+and those are what we are now seeing so
+there's a a Quantum maintenance
+opportunity that came out on soup uh
+earlier today uh whopping 30 minutes ago
+for The Goddard space flight center okay
+um there are some sam.gov opportunities
+there's kind of an interesting one down
+here so this is one that came out on GSA
+and it's for generation three technology
+Services it's a sources sot right so
+back to our conversation earlier this is
+something that's pretty early in the
+procurement process right then Godly you
+can see some of the other information
+right when it was received when it
+expires who requested it and this is the
+office of the Secretary of Defense who
+publish this now you can click on the
+title of the opportunity within buffley
+and this will give you access to all of
+those details
+and I'll say all of the details I mean
+all the important details right
+including attachments that really
+outline
+what is being requested
+now for those of you watching you might
+notice that hey
+the POC the point of contact for this
+opportunity their email is blurred out
+you know why is that and the reason is
+is because this opportunity is being
+shown to you via a Prime's contract
+therefore if you need to reach out to
+the customer contact for any reason you
+would need to do that through the prime
+we provide the prime and their contact
+information all here on the same screen
+within Dudley so that you can just reach
+out to one of the users of that
+organization
+and they then can you know submit
+clarifying questions on your behalf
+so again it's all about making it easier
+for you as a sub or a crime but you as a
+sub to collaborate with the prime who
+has access to to that contract
+that's a that's a good point because I
+would not look at this as a tool if
+you're a business owner too
+find Opportunities before
+the contract vehicle has been selected
+to see if you can slip your way in there
+right that's the reason that you know if
+they're coming out and they're just
+going to the the businesses that are
+listed as primes on these vehicles then
+they already know who they want to how
+they want to award the contract or you
+know at least for the most part so if
+it's GSA and by the way those those
+contacts that you blurred out that email
+is probably to somebody that's working
+at GSA so typically by the time at least
+my experience is you know in the
+government doing this type of work once
+you're kind of looking to pursue
+something through GSA what one of the
+values of that for an organization is
+that GSA handles a lot of that
+Contracting process for you and it and
+it it lifts the burden of the
+organization I guess you could say
+whereas others will have the the POC
+that's actually in the unit maybe the
+program manager or the Contracting
+officer at like a base if it's an army
+product but often if the Army is using
+GSA you're going to get a GSA contact
+and you want to go through the prime
+because the prime is the one that's
+going to have that relationship there
+and it was sent to them so
+um just I just want to kind of clarify
+that and maybe add some
+add a garnish to what you just said yeah
+no no that's that's spot on
+um and again the the core here
+to Godly is relationships we call them
+Partnerships uh but it's the idea that
+you come into Godly we help make
+introductions to the primes with access
+to these opportunities at that point
+once you guys have that business
+relationship
+you can then see the entirety of these
+contract vehicles and and the feeds the
+opportunities associated with those
+vehicles
+um and then partner with your partner
+all here within the Godly platform you
+mentioned workspaces
+I just clicked thumbs up on this
+opportunity there's a lot that that does
+on the back end but essentially it Keys
+our platform
+to
+where it triggers it that you as a user
+are interested in this RFQ and if
+anything changes if there are
+modifications released if there are q
+and A's answered you want to know about
+it immediately the second thing it does
+is it creates a workspace
+the workspace is a collaboration
+environment where you can attach pricing
+documentation you can write instructions
+you can adjust the stage of the
+opportunity so let's say you are a sub
+to a prime you are responsible for
+providing that Prime with a quote which
+then that Prime will go ahead and submit
+to the customer
+you can come into this workspace
+you can add that partner team member so
+maybe I really want to work this
+opportunity with digital Plaza direct
+okay I can add someone from digital
+Plaza Direct
+I can let them know that I have provided
+a quote by updating the status of this
+opportunity okay and they will be
+instantly notified that Oliver Taylor of
+Godly demo Enterprises has attached a
+quote to gsar q161-9369
+they will then come in togetherly pull
+down your quote and submit it in this
+case it would be through ebuy right
+because this is a GSA opportunity and in
+that way you can do all of that
+partnering all that collaboration the
+quoting
+um answering and asking questions across
+team you can do that all within Godly in
+a secure manner and how about all of
+that is incredible and this is a very
+you know it's a very focused way of
+trying to settle together because this
+is a I'm going to focus on this from
+like the subcontractor point of view
+right if you determine that
+subcontracting is a path it might be
+your primary path to selling to the
+government
+you could literally just focus on using
+govly to establish these relationships
+and to um start the bidding process on
+some of these items I mean one of the
+one of the benefits of being a sub is
+that the heavy burden's really on the
+prime to put a proposal together and to
+submit opportunities so you're
+eliminating burden for yourself you guys
+are facilitating meeting these
+businesses and also helping you automate
+your search for different opportunities
+you know there's a lot of value here
+what do you participate any or in any
+way with things like teaming agreements
+and uh that type of thing or is that
+Beyond kind of your awareness is that
+just between the prime and the sub
+yeah so great question it's when we get
+quite often and the answer to that is
+that's between the prime and the sub
+okay
+um we we keep our hands out of teaming
+in agreements ultimately we feel like
+it's up to the two business owners or
+business decision makers to come to uh
+an agreement on what their partnership
+is going to look like because at the end
+of the day uh they're all unique right
+um so that's that's how we approach that
+um that circumstance right now and I
+mean that that makes a lot of sense
+because usually there's lawyers involved
+especially if you're talking about
+bigger companies and that would be
+impossible I would think for you guys to
+manage
+although you may at some point in the
+future create just a generic like
+teaming agreement
+document that maybe people could access
+and you know start the start the process
+but you know a lot of you know I would
+say larger companies probably already
+have something that they use so
+interesting very interesting is there
+something else before we leave this
+screen is there anything else you wanted
+to kind of walk through
+um you know I no nothing's really
+jumping out to me I mean we I could
+obviously spend a whole hour on here
+like a like a typical demo sure uh but
+but this is this is kind of the core the
+only thing I didn't share was that you
+could save this search right so if I
+just click this save button it will save
+this search and then I as a user will be
+instantly notified when a new RFQ lands
+that matches the filters and Search
+terms I have set for the specific search
+so I could save it close out roughly and
+if a new opportunity comes across to
+later today that mentions metadata or
+metadata tagging I'll receive an instant
+email letting me know of that yeah
+that's kind of the core safe search you
+and then soon there'll also be a screen
+in here for the predictive
+opportunities right yes absolutely so
+essentially how how that will look is in
+the upper left-hand corner of this home
+screen if you will on roughly there will
+be a new drop down that will allow you
+to conduct a prediction search
+and what this is basically going to do
+is this is basically going to predict
+opportunities for specific Search terms
+and filters that you set right the
+reason we're probably not getting any
+results on these Search terms right now
+is because with this demo environment I
+only have the soup contract connected to
+it right now we don't have GSA connected
+to our demo environment we don't have
+ciocs connected it's not out yet right I
+thought it would just be nice to kind of
+show hey this is what's coming and dude
+what is the timeline on that again so
+it'll be out later this month
+um I would I would guess probably the
+week of the 17th possibly the week of
+the 24th
+um my engineering team will probably
+hate me uh for for mentioning those
+dates but that's that's when I feel very
+confident
+um it will be out and it'll be generally
+available to to all of our users okay
+and then at the time of this recording
+right now it's April 7th 2023 this will
+this may or may not be out before the
+17th so we'll see you know people may be
+hearing this for the first time and able
+to go in and see this predictive AI
+within Gully at the time of the
+recording
+Let's uh let's jump out of this screen
+for a second here and just as we're
+coming to the end of the hour I just
+wanted to wrap up with a few things
+one is that you know we've been talking
+about this for a while now but you
+actually have an incredible offer for
+DOD contract Academy listeners which is
+30 off of the normal govly price
+which is incredible considering the
+savings and the value that they would
+get with gobley so in order to do that
+all someone would have to do from my
+understanding is just when they reach
+out to you through goverly or set up a
+demo just mention that you heard it on
+the dod contract Academy and that'll set
+you up with a 30 off yep yep that's
+that's totally correct so
+um everyone on my sales team is aware of
+our relationship with DOD contract
+Academy
+um and so if you sign up for a demo you
+may very well get me on the demo uh you
+may also get one of my other team
+members on the demo and if you just
+mentioned you know hey Rick's podcast
+sent me in our DOD contract Academy sent
+me uh we'll know exactly what that means
+and and yeah you'll get that 30 that 30
+off mark
+okay no that's great and why don't you
+share with the listeners just where do
+they go so what website should they go
+to what are some of the initial steps
+they want to take if they want to either
+sign up or get a demo or what have you
+yeah yeah definitely so it's it's really
+easy you just go to
+www.govly.com or go on Google and just
+type in govly.com
+and you click it it'll land on our Godly
+home page it's you'll know you're in the
+right spot it's a pretty kind of dark
+screen with blue letters it says Gully
+all over there's a button in the middle
+uh that will allow you to request a demo
+there's also an overview video on our
+home screen so if you want to check out
+a video of it first you can watch that
+that video as well when you when you
+submit a demo request I receive a
+notification the entire actually the
+entire organization receives a
+notification that there's a new demo
+request
+um and and then you can either book it
+right there
+um or you can wait one of us will reach
+out to you we'll typically send some
+calendar links and then you can you can
+book a time with us to hop on give the
+platform a trial
+um yeah and and determine if if there's
+any value in it for your business
+excellent excellent well that's great
+hey everyone listening thanks for
+spending time with us today I think it's
+a powerful tool you obviously know
+starting to become biased towards
+governing or in favor of governing so
+check out the website if you have any
+questions about that platform or
+questions for Oliver you can either go
+to Godly or you know just leave them in
+the comments in the podcast or in
+YouTube wherever you're seeing this
+LinkedIn let me know what you think what
+maybe features you'd like to see in the
+future what successes you're having and
+we'll certainly address those Oliver
+thanks for coming on again and being
+interviewed and showing us a little bit
+of Gully I think this is going to
+provide a lot of value for our listeners
+awesome yeah well hey it's it's a
+pleasure thanks for having me on I'll
+add one additional way for approach to
+get questions answered they're welcome
+to shoot me an email my email is just
+Oliver
+govly.com so um yeah yeah watch out I
+know I know so uh if you have questions
+feel free to reach out I'm happy to
+answer them
+um and as you're looking through the
+tool I I'd love to hear any feedback
+that you have on the platform
+um constantly improving it so feedback
+is highly valued uh within lovely well
+and then you also threw the gauntlet
+down at the beginning of the episode uh
+you want to beat out Mike on his on
+podcast listen so share this with
+everyone you know so yes please can win
+a couple beers please this week here and
+beat his boss out on numbers send a
+couple thousand emails to Oliver's email
+address which he just gave you and yeah
+we'll we'll see you next week this is a
+great episode thanks for listening

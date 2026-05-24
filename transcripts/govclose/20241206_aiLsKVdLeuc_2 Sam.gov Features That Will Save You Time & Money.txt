@@ -1,0 +1,248 @@
+Kind: captions
+Language: en
+well today we're going to talk about CM
+dark and we've got a lot of questions
+about how to use the features inherent
+to sand go can you automate things can
+you make things a little bit more
+searchable we're going to talk about two
+features today that are inherent to S.G
+that almost nobody uses and these are
+things that people will pay hundreds if
+not thousands of dollars for third party
+tools to take advantage of and I just
+wanted to present those to you guys so
+you can save a lot of time and
+especially not lose any opportunities
+you're working on there's a way to get
+notifications uh make things a little
+bit faster so let's get into it here if
+I can share my screen so everyone should
+be seeing sam.gov screen that I'm using
+right
+now and in order for you to take
+advantage of these features you're going
+to have to be logged in so you don't
+have to be logged sam. to search okay
+and I've been through plenty of
+tutorials you can find them on the
+YouTube channel they free just go to the
+tutorials block but what I'm going to do
+now is show you something you have to be
+logged in for so if you're following
+along you are going to have to be logged
+in through this I'm already logged in
+you're going to do that right up here
+and it will take you through the
+government system that verifies who you
+are but what you are then and you go to
+search if you happen to be in an
+industry that just matches up perfectly
+with a product service code or NAIC code
+then your searches could be relatively
+simple but most people whether you're in
+our certification course or you're just
+working out there your company for
+another company a lot of things don't
+fit perfectly into those buckets right
+good example that would be augmented
+reality or anything to do with a drone
+but it doesn't have to be technology I
+bring those up because like newer
+Technologies typically don't have a
+service code or makes code dedicated to
+that so there's no drone nakes code for
+instance right now that makes it a lot
+harder to search for things so when I'm
+searching I'm going to go to contract
+opportunities here when I'm searching
+for something that is not perfectly
+matched up with a code I'm probably
+going to have to do a few things now I
+may be making a combination of NAIC and
+product service codes with keywords okay
+and that happens a lot so for instance
+if I was going to go up here and say
+that I wanted a and let's see if
+anything pops up but if I wanted an
+analyst certificate and that's what I
+was looking for now there's nothing
+that's just going to pop up there under
+n's code or product service code but if
+I put that those two terms together and
+I put exact phrase it's only going to
+show opportunities that have those two
+words right together and that's very
+important because if it just said any
+words then any opportunity anything
+within SG that had either of those words
+in would pop up and now I'm getting lost
+into things that I don't care about
+right you honestly Wast of my time and
+yours so now that we have the exact
+phrase in there I'm also going to put in
+a couple things I'm never a big fan of
+looking at solicitations unless I
+already worked that solicitation for
+months ahead of time if you have a sde
+you can plug it in there I'm going to
+look for a source of
+s right and also I want to look at the
+dates because I don't want to anything
+that's expire right so let's just look
+at anything in the next three
+months oh and of course I've got to type
+my my little phrase in there again all
+right okay so we got one thing right now
+let's say that I've worked on this
+because you guys are going to have to if
+you have something to search for that is
+a little bit more complicated or nuanced
+you'll probably have to do a bunch of
+searches until you start coming up with
+the right type of thing meaning the
+right responses like so if this is
+assuming this is perfect for me and it's
+something I'm going to and I'm not going
+go through the actual source of s right
+now but assuming this is something I
+really want to engage on and I've worked
+hard at this search I don't want to have
+to come into sam.gov every time and
+refigure out what my search is going to
+look like I want to make sure that my
+keywords are right I want to know what
+works and if I take a break from sam.gov
+I've been off for a week or more I want
+to be able to come back in here and
+really hit the ground running so one
+thing that I can do is you can see up
+here it says saved searches so you can
+save your search so that's the first
+thing it's actually this is very
+valuable so if I go in here and I hit
+save I could call this I'm going call
+this sech too so that r in it earlier
+today I'm gonna hit save so now I have
+this as a Sav search so whenever I come
+into sam.gov
+I can go right to my saved searches and
+I can grab any of these and now I have
+different searches that I've had in the
+past argumented reality up nothing oh
+here we go so we got a few things in
+here so I can come right in hit it up
+and now I've got the opportunities
+immediately and I don't have to screw
+around with trying to figure out what
+the keyword combination is and and we
+have to remember this part again about
+put an exact phrase in so that in of
+itself can save you a lot of time
+especially if most of you guys if you're
+doesn't matter sales executive if you're
+on your own business you don't have
+hours a day to spend in Sam doov I like
+to just make it one of those first
+things I do in my morning checklist so
+I'm going to hit it real quick hit the
+button bam I can see if there's three
+things in here okay now I might download
+them or I might just review them real
+quick see if it's something I need to
+engage on now what if there is something
+that I really want to engage on right so
+let's see this right here is due
+December 12th right now let's say that
+this was something this is the second
+thing I'm show
+you when you have it doesn't matter if
+it's a source of s or request for
+proposal request for
+quote often the government will put out
+multiple versions of these right and you
+want to make sure that if you're working
+especially you have a deliverable coming
+out you want to make sure you have the
+most current available
+information so what you can do is now
+let's say I'm going to click on this all
+right so I already followed it what you
+can do is you can follow this
+opportunity okay and now you can
+automatically receive the updates and
+the
+notifications when something changes so
+what what could potentially change well
+the government first of all just might
+have screwed up right so I've seen teams
+where they put out a solicitation and
+they forgot to put something in there so
+they have to put out a new verion often
+you've probably seen this what you'll
+see is that the government will change
+the due date that happens a lot around
+the holidays they'll be like hey we want
+to make this due and they weren't
+thinking and it was due this just
+happened to to me right before
+Thanksgiving thing was due two days
+before Thanksgiving well that was stupid
+the government is certainly doesn't want
+to be reviewing proposals the day before
+Thanksgiving so they're going to extend
+that past and you'll see that the week
+after so that's just something it just
+happened to me so it's top of mine but
+these things happen all the time now you
+can actually manipulate when you get
+notified on these things right so I can
+go to my workspace right now I'm not
+going to click on it and then you can
+decide when you receive emails email
+notifications it could tell you if hey
+do I want to be notified weekly do I
+want to be notified daily or it can give
+you immediate notification you can
+receive email immediately I just said
+immediately like five times you can get
+that email as soon as something happens
+that's usually how I set mine up so
+guess that would be my next uh
+recommendation is you go into your
+workspace and in your workspace you want
+to just massage that so you have all of
+your email set up so you're getting
+notified immediately whenever there's a
+change the dove close certification is
+generating tremendous results as so 27
+years old you've never worked in
+government contract
+you've never worked as a consultant and
+you just closed your first deal is that
+correct that's F and I got a couple
+small projects on the side as well so
+definitely something probably my best M
+I've made year it would be my second
+post P how called Paul a nine
+figure contract my name's Gavin T so my
+name is Ethan Mar when I was able to uh
+eroll into the go program it just
+exceeded All my expectations it really
+has provided a lot of valuable learnings
+and insights that I would not have found
+on my own I was able to get a Consulting
+gig with a uh software company that
+currently works with the intelligence
+Community hi I'm Deb Diller Harris if
+you want to learn how to sell to the
+government if you want to learn how to
+start your own Consulting business you
+want to learn the skills that you need
+to go land a six figure plus plus
+account executive job with big companies
+selling to the government the
+certification program is for you head on
+over to goose.com check out our
+certification program talk to the team
+you won't regret it

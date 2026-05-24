@@ -1,0 +1,720 @@
+Kind: captions
+Language: en
+all right well uh thanks for listening
+to the government sales momentum podcast
+today i've got graham plaster on he's
+the general partner of expeditionary
+ventures um he's done a ton of work in
+the federal sector helping national
+security working with different
+companies familiar with sivir
+more than familiar and it has a lot of
+great points i've been following him on
+linkedin for a while and want to welcome
+you to the show here graham
+pleasure to be with you today richard
+yeah i know thanks for coming on um you
+know i've seen i've been following you
+for a while now and uh i've i've taken a
+lot of information uh from your posts
+and some of your interactions and i know
+you do a lot but i wanted to keep the
+podcast focused uh today but you know
+before we get into some of the things i
+talked about in the intro uh maybe we
+could talk a little bit about your
+background
+sure yeah i went to the naval academy uh
+graduated right after 9 11 and served 11
+years active duty
+uh most of the the first half of that
+was surface warfare so i was on ships
+then was the assistant dean of students
+the naval war college in newport rhode
+island uh got a master's degree while i
+was there focused on
+the blogosphere in iran so really kind
+of had a background in academic
+background and social networking in the
+middle east
+and got picked up for the foreign area
+officer program from there went to go
+learn arabic in monterey and came back
+to the pentagon and served just one tour
+as a foreign air officer in uh the army
+staff doing you and peacekeeping
+operations
+and navy lee is on work in the middle
+east so that was a really interesting
+tour from 2010 to 2013 and then got out
+started a company called the
+intelligence community inc which is a
+social network for people in natural
+security and have used that network
+since then to do a lot of crowdsourcing
+of different things so we've
+crowdsourced tech solutions for
+government we've done a lot of staffing
+recruiting services for small businesses
+trying to bid a couple contracts and in
+general i do a lot of business
+development consulting and in the middle
+of there i've done some advisory work at
+the pentagon the state and reserves and
+also done a lot of hands-on bd
+consulting for
+uh small to medium-sized
+emerging tech companies
+okay no that's great
+also it just shows a lot of the
+credibility that you bring to the table
+here not only you know
+a lot often we'll grab and find business
+developers that do really well but when
+you combine that with your type of
+background that really
+it really shows a complete understanding
+especially when we're talking about
+the department of defense and some of
+the efforts that they're
+in need of how you go and you contract
+with them you know the right people to
+talk to but i thought you know right now
+for a lot it's uh january of 2022 and
+for a lot of the companies that they'll
+listen to this podcast it's siber season
+we have a couple servers coming up one
+with the air force that i know a lot of
+people are targeting
+um
+maybe you could talk a little bit about
+expeditionary ventures and we could
+pivot to sivir after that but when
+you're looking at companies for
+emerging technology um
+what are you looking for how do you
+take a look at the company and say hey
+you know
+what they have that solution might be
+perfect for a
+military department of defense or
+national security need
+what does the process go through and you
+know what would companies you know
+what do you think would benefit them was
+they're thinking about their offering if
+it would make sense for something like
+this
+sure and i'll give you a little bit more
+background on expeditionary ventures so
+a couple of years ago
+uh based on the social network that i've
+built up but i thought it'd be great to
+host an event
+in dc uh kind of like a shark tank event
+to allow
+emerging tech companies to pitch
+solutions to investors who are
+interested in uh growing uh the next um
+uh
+unicorn startup in the defense sector
+right
+and so i was getting ready to organize
+this event and then uh cove it happened
+uh so we backed away from doing it as a
+live event uh meanwhile
+uh another event that was based out of
+fort worth texas called america's future
+series which has been running for 10
+years was getting underway and they
+reached out to me and asked for some
+help and i basically pivoted all of my
+energy to help them run an online event
+which was similar
+and that was over a year ago
+we brought together over 100 startups
+and a bunch of investors online
+for a pretty pretty awesome event and
+america's future series continues to do
+uh wonderful events with military
+leaders in defense innovation but coming
+out of that event which was in 2020
+uh myself and jack ryan and nick
+breedlove who are both based in texas
+and both navy veterans also we said we
+really think there needs to be a new
+venture fund
+focused on early stage hardware
+companies that have dual use and
+national security and uh the commercial
+critical infrastructure
+and the reason why we think this needs
+to exist is because
+a lot of investors kind of cluster
+around uh cyber security and
+ai
+more pure software companies and more
+towards the growth phase after companies
+are already kind of
+through a lot of the what we call the
+valley of death
+so we saw across the innovation
+ecosystem a real gap of capital at the
+early stage in the hardware space
+because it's got several layers of
+complexity in there government
+contracting is complex hardware is hard
+and early stage is risky
+but we knew uh there were a lot of
+programs like the silver program and
+others that helped to de-risk some of
+that and we want to to educate the
+investors
+um across the country the the trusted
+capital so the u.s capital market about
+how to risk those investments and
+stimulate a lot of growth
+um at
+in those entrepreneurial circles so we
+we began the process of raising a 150
+million dollar fund
+for expeditionary ventures
+um in the meantime
+we also have already put about 20
+companies on term sheets to do direct
+deals with some of our
+potential limited partners for the
+larger fund
+so
+and then we're talking about in the next
+two months launching a mid-tier fund a
+rolling fund through angel list
+which i'll be able to get into more
+details with probably in february or
+march but
+essentially there's going to be by the
+end of the year probably three different
+options for investors to get involved
+with expeditionary ventures one through
+direct deals two through a rolling fund
+which is a subscription-based
+fund
+where you pay quarterly to join
+and then
+the the larger 150 million dollar fund
+will be you know for family offices and
+high net worth individuals to join but
+the thesis for that fund is
+like i said early stage startups with
+hardware
+already generating some revenue doesn't
+have to be a lot could just be a phase
+one suburb
+and
+with an interest in dual use so that
+means national security and commercial
+and we think increasingly
+that commercial use cases overlap with
+national security because technology is
+everywhere it's ubiquitous
+so you know in the past maybe there was
+more of a pure delineation between
+things that were military or national
+security and things that are
+in the private sector
+uh but but nowadays technology is
+everywhere so
+so we think that there's a lot of
+argument to be made for for most things
+that are in the national security
+interest to also have scalability
+commercially
+sure yeah i know those are uh those are
+great points what do you think you
+mentioned some other programs aside from
+sbir right so um sbir sounds like it
+lines up with uh what you're talking
+about especially when you're talking
+about um
+investing you know outside of the
+government there are some programs like
+stratify and tacfy where you can take
+some of that investment and couple that
+with government dollars what are some of
+the other programs that uh you think
+makes sense for these type of companies
+well for for an emerging tech company of
+course you can look at things like the
+national laboratories
+you can look at darpa and iarpa
+you can look at broad agency
+announcements
+uh which are the contracts that come out
+basically not looking for a specific
+solution but you know having kind of a
+bunch of general categories you can
+pitch ideas that of course you can work
+through national security innovation
+networking
+or a defense innovation unit they have a
+number of programs like hackathons and
+hacking for defense and things like that
+that are designed to bring in
+new ideas you could of course go through
+different innovation funnels like
+defense innovation
+you could look at
+needapedia at a defense intelligence
+agency
+or x with the navy
+uh softworks with special operations
+forces you know um there's there's a
+long list of them and i i curate a lot
+of them for my email
+uh distribution which is the defense
+intelligence innovation ecosystem
+newsletter d-i-i-e-d.substack.com
+um and every monday night i host a live
+uh virtual happy hour where we feature
+different um
+uh influencers across the defense
+innovation ecosystem so
+the the point is to try to bring people
+together for collaboration and then
+educate people on how to you know
+participate in a lot of these things
+yeah that's extremely important i think
+it's one of the things companies
+struggle with too you know as they start
+learning a little bit more about
+government sales and get past the point
+where you know they realize there's more
+to it than just seeing a solicitation
+and putting a proposal together
+especially with a new technology where a
+lot of times they're not going to see a
+solicitation because you know what they
+have may be groundbreaking or innovative
+and you know maybe the government
+doesn't know they even need that
+particular technology yet
+getting to the point where you're
+matching them with
+decision makers actually talking with
+the program managers and the engineers
+within the government and within some of
+these companies is extremely important
+so i can see how um you know attending
+your happy hours uh you know maybe
+subscribing to your newsletter things
+like that could really be informative
+for a lot of these companies that you
+know it could be really hard to do what
+you're doing right like curating that
+information um it takes a long time to
+even understand where where to pull it
+all from so it sounds like it is a great
+source for some of these companies that
+are interested in working with the
+government and developing their tech
+further
+well i appreciate that
+um i'd like to talk a little bit about
+virtual reality um you know we're seeing
+more and more efforts within the
+department of defense in particular
+being funded
+could you talk a little bit about where
+you see that going as far as maybe some
+of what you're looking at i know i've
+seen a lot of it um in training with the
+dod
+but maybe some maybe on that or some
+other areas where you're seeing uh
+vr and where you think it could go
+sure yeah from 2013 to 2019 i was the
+senior policy advisor for the pentagon
+on
+cultural training
+and one of the things i saw happening
+was
+that a lot of
+the language and culture training was
+was taking place in these um iso
+immersion villages
+uh where you'd have actors and role
+players and you know language speakers
+and these generally were pretty
+expensive to operate you know you'd have
+to fly a unit to the camp and have them
+you know put them up in hotels or on a
+base
+and have them run through scenarios
+uh sometimes you know in older days
+there were pyrotechnics involved and you
+know a lot of
+a lot of great experiences but yeah but
+in a lot of ways it was not real because
+it was it was basically manufactured
+um and and also it was hard to scale
+across the total force
+um so when you're talking about trying
+to give people contact hours
+hearing um other languages spoken around
+you
+um one of the great opportunities
+is uh 360 video
+and so i went to south by southwest in
+2018 and my goal was to
+see all of the different companies that
+might be able to offer
+uh 360 video experiences that could be
+integrated into a language learning
+environment language and culture
+learning environment to not necessarily
+replace the iso immersion villages
+but at least to augment it and scale it
+to units that couldn't necessarily take
+the time or the money to fly to one of
+these training experiences
+um and so
+one of the things i saw was that
+a lot of the ar vr solutions that uh
+companies were trying to sell into
+government
+first of all in order for arvr to really
+scale and be popularized uh it needs big
+enterprise clients
+um because of once again the the cost of
+getting hardware off the ground the
+hardware's hard
+and it's you know generally speaking
+arvr requires hardware purchases
+so you need enterprise clients like the
+government to buy in say yeah this is
+how we want to do it
+and
+um
+the problem is that the the companies
+that have the sales force to sell into a
+big enterprise client like government
+generally want to
+to sell something more expensive
+so if you have uh something that's a
+lower cost point
+on the scale of options like ar vr
+then the thing that's more expensive
+actually has a bigger sales force and
+you see that with something like uh
+aws
+right
+uh it's you know for the bigger the more
+expensive the price tag the larger the
+sales force you get and then you get to
+fill a whole event with a lot of sales
+people right and then you change the
+conversation right so what i saw
+happening at south by southwest was that
+some of the solutions that i thought
+were better for government were actually
+cheaper they didn't have sales people
+that would want to ever go after
+selling in the government right
+in particular i thought 360 video like
+authentic video was the best solution
+for authentic language immersion getting
+to hear for instance a lot of people
+speaking uh dari or arabic around you in
+a video i thought was better than having
+a game-like environment where you had
+like
+you know game characters come up to you
+and talk to you in arabic or something
+like that
+um but the price point for the game is
+much higher
+right
+so zoom out from that and you know the
+influencers really in defense and
+intelligence
+augmented reality and virtual reality
+are
+tyler gates and sophia mashacha
+who run the ar vr association
+chapter for national security
+tyler gates runs the company brightline
+interactive which is a great
+you know uh systems integrator for
+everything ar vr and mixed reality and
+sophia who was at at brightliner
+interactive networks at afworks
+um so for anyone who's interested in
+arvr for defense they should probably
+connect with tyler gates and sophia
+misha
+okay no those are those are great points
+one of the um
+and just working with clients and some
+companies on our side is you know the
+struggle from
+going from siber phase one phase two
+with and i'll talk specifically about
+virtual reality right you know in
+training because you know it's possible
+to do some uh to civil work um sell
+small scale kind of like you're talking
+about some of those innovative um
+technologies from smaller companies um
+that don't have a huge sales team right
+getting them into units within um the
+government but how do you transition
+that
+from hey some of these smaller sales or
+superface2
+to phase 3 and beyond to those longer
+term uh funded government contracts do
+you have any thoughts around um you know
+that that particular problem set or do
+you you mainly focus in the beginning
+kind of getting off the ground in some
+of the initial investment
+what you're describing what we call the
+valley of death uh you know getting out
+of kind of the r d uh flywheel and into
+a program record
+is something that is important to the
+thesis of expeditionary ventures
+we don't believe that every technology
+should be able to transition into a
+permanent
+uh you know program or palm
+on the other hand
+a lot of good things are left in the
+cutting room floor
+uh that that that war fighter might have
+loved to at least try
+right
+and so the question is how can you
+create that environment where
+you or myself when we were on active
+duty could have had an opportunity to
+try out things that were in development
+and say yes i want this and create a
+demand signal
+in general that's what every
+entrepreneur is looking for is that
+devops opportunities to get their thing
+that they have into the hands of an
+operator and get feedback right right
+and they also are looking for if it's a
+good product that uh end user to to
+not just provide feedback but to
+feedback to create a demand signal
+because as soon as they create that
+demand signal all kinds of doors can
+open
+as far as making it to the next step so
+if you're going through the zipper
+process one of the first you know one of
+the most important things is you got to
+get you know a letter of interest from a
+unit somewhere
+showing yeah if you make this or more of
+this i want it i might like to buy it
+right well how is an entrepreneur
+supposed to do that if they don't know
+anybody in the military
+right
+um so
+it's
+it's something that we do care about
+i think if you look at the success rate
+in silicon valley you know not every
+startup succeeds a very low uh you know
+number of startups actually succeed
+um if you look at the success rate at
+dartmouth
+it's a high risk high reward system not
+every innovation succeeds
+um
+and and they shouldn't but on the other
+hand we should create mechanisms that if
+something should succeed it does succeed
+you know
+yeah no absolutely um it's funny because
+you just talking about that one piece of
+hey how does the company get that letter
+of interest from the government right
+that doesn't know anybody in the
+government or or the military and just
+for those listening just one thing that
+we found useful
+is you know you have to be beyond the
+stage where it's just an idea but if you
+are you know selling commercially and
+looking to you know maybe modify or
+innovate to get it in the hands of the
+government um going to some of the
+military sponsored conferences
+um that is a great way to if you can
+actually bring your product there
+because you know as you're aware you
+know a lot of times these are they're
+not targeted towards industry i'm not
+talking about those conferences but
+something more like you know ata for
+instance which is targeted at the tanker
+airlift community um where you know
+they're going to be going through their
+um you know their officership building
+uh you know briefs through throughout
+the day but then at night they're gonna
+have a nice industry event where they'll
+be walking around with cocktails but you
+have all the industry books there that's
+a great place if you do have one of
+those technologies because you know now
+all of a sudden you have the user
+but you also might have the requirement
+uh generator like the wing commander
+someone on staff kernel level and you
+also have flag officers and contracting
+personnel walking around so it's a it's
+a great place if you have something hot
+or something that is really solving a
+solution you're going to see a lot of
+those different personnel circling their
+wagons and you know you can then from
+there turn that into you know letters of
+interest memorandums of um you know
+support for you know phase two etc so
+no those are great points i was
+wondering just on that note do you have
+because we were talking a little bit
+about events do you have and you were at
+south by southwest west do you have any
+conferences that you might recommend for
+the uh the tech company that's looking
+to go down this
+path yeah i mean there's a million of
+them really
+all the events that are hosted by
+america's future series are excellent
+they're all online
+so you can just google america's future
+series
+um i'm helping to put on a vip event at
+south by southwest this year
+uh in march and it's
+open for tech companies to come and
+participate or even sponsor
+um and you can find out more about that
+on on my list serve on dii.substack.com
+uh i'll be putting out a lot of
+information about it as we get closer to
+march
+and then of course different trade
+associations like you've kind of hinted
+at
+ndia was great
+um
+you know uh
+the uh associates of the army
+uh you know with their big event that
+they host and then also uh asea and insa
+of course the industry days if people
+want to go to those you can find out
+about those on
+sam.gov or you know or if you have a
+government account
+um there's more events to attend both
+virtual and live than anyone could ever
+do but there is some there's some
+goodness in just showing up to that
+stuff and pounding the pavement yep so
+you can get burned out real quick if
+you're a small business and you try to
+attend all of them and you're an
+introvert and you you know you hand out
+a couple cards you don't get anything
+back but once you become a known
+quantity and you attend those and you
+start to actually become friends with
+people in uniform
+at the events then uh the doors can
+start to open up yeah i agree it's a
+huge part of relationship building and
+putting in the effort you're right you
+can't you can't attend all of them but i
+think you know um you know picking a few
+to attend each year maybe on a regular
+basis it could be a great thing and then
+we'll also list in the show notes for
+anyone that wants to um
+uh check out anything that you've talked
+about uh during the podcast so they can
+make sure they uh they've got a link to
+all of that um just in closing want to
+know if you had any you know uh last uh
+last things to say about either
+expeditionary ventures or that you want
+to put out there to uh you know maybe
+the small tech startup community uh
+about uh dod sales
+yeah if anyone is looking to raise money
+for their company and they kind of fit
+that category of
+you know you've already made a little
+bit but you want to raise them to try to
+get over the valley of death and you're
+kind of you've got some sort of hardware
+component
+you can reach out to us through
+expeditionary.vc or you can connect with
+me on linkedin i'm happy to take a look
+at your pitch deck kind of point you in
+the right direction if we're not a good
+fit we can kind of vector you towards
+another venture fund
+you know taking venture isn't for
+everybody
+uh if you are really working on growing
+as for instance an suv osb or an 8a
+company
+um you know
+think about it like this as soon as you
+take venture investment then you're
+thinking in terms of selling your
+company eventually you're really you're
+diluting your equity and you're thinking
+in terms of exit strategies where you
+might you might want to get rolled up
+into another company in in five to ten
+years
+um because your investors are going to
+want to get their money back eventually
+right so venture is not for everybody
+uh maybe there's ways that you can just
+borrow money and hold on to all of your
+equity if you're if you're thinking in
+terms of passing your company down or
+something like that
+um but yeah happy to talk to companies
+that would like to take investment and
+help them scale
+no that's great and you answered my last
+question which is how can they contact
+you so
+we've got there as well if you do want
+to contact graham again this will all be
+in the show notes you guys can click on
+it graham plaster thank you for taking
+some time to talk a little bit about
+expeditionary ventures and go through
+your background a lot of insight i think
+not on just on my part but a lot of the
+people listening to this today
+thanks richard for the uh opportunity i
+really appreciate it awesome thanks
+again cheers
+cheers

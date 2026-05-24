@@ -1,0 +1,724 @@
+Kind: captions
+Language: en
+hey guys Ricky here and thanks for
+tuning in to this week's edition of the
+dod contract Academy this is the second
+time that I have attempted to record
+this
+episode and when I say that I will I
+will tell you I have a full-blown
+episode that's produced and ready to go
+but I just didn't feel good about
+releasing it and I'll tell you why if
+you listen to this podcast a lot you
+know that we spend a lot of time talking
+about strategy and about gaining Focus
+so you can eliminate wasted time and
+learn the steps that you actually have
+to take to win contracts so we spend a
+ton of time on how to win contracts and
+that's that's really almost the
+exclusive focus of this show you know
+maybe the exception to that would be
+when we're interviewing companies that
+are selling to the government you know
+we may go into some other
+areas but with all of the training
+and you know even the clear steps that
+we present there is one thing that and I
+provide that to our students and I
+provide it to the higher-end clients
+that were when I say higher-end I just
+mean companies that have been doing this
+for a while they're bringing in they
+have resources to pay someone like
+myself a larger consulting fee to work
+one-on-one with them but what what's
+striking is whether it's a big company
+or whether it's a small
+business the fact remains that managing
+all of the leads building a pipeline and
+then actually running and managing that
+pipeline in an efficient manner is
+always a challenge always it's it's a
+challenge for the you know the
+entrepreneur that's just starting out
+and it's a challenge for the 10 person
+sales team that's you know been doing
+this for a while why is that well when
+you're and by the way if you don't know
+what a CRM is it stands for customer
+relationship management it's a software
+tool if you haven't had a sales job you
+may not have used one of these I didn't
+i' I didn't use one until I retired from
+the Air Force my wife uses one she's in
+real estate I certainly use one I use
+multiple ones actually I use one for my
+business I use one for selling to the
+government now what's what's tricky
+about selling to the government is the
+process right we talk a lot about how
+the process is different and I have
+never seen a tool that was set up for
+selling to the government to help you
+manage all of those leads that's
+designed and that's where the focus
+comes from that's that's why we're we're
+having this episode today and kind of
+why I'm talking to
+you here's what I want you to have at
+the end of this episode I want you to
+have a concrete path forward for
+managing your pipeline of
+leads from leads to closed contract that
+will take you step by step through that
+entire
+process
+okay many businesses are using
+spreadsheets to do this others have
+taken sales force have taken which by
+the way I love Salesforce I use
+Salesforce all the
+time assana they've taken HubSpot and
+they're trying to manipulate those into
+something that makes sense for going
+after government contracts and it's
+never perfect and and often there's you
+know companies and people don't have a
+good system for this they're trying to
+take a sales process designed at selling
+commercially in B2B and squeeze Federal
+Contracting into that this is a long way
+of saying that we are so I guess I'm
+officially announcing that we are
+developing a CRM tool um a Launchpad a
+software that businesses entrepreneurs
+can take that's designed for selling to
+the government from scratch it's not
+designed for anything else we're not
+selling it for any other purpose we're
+not selling it yet but we're in the
+process we're close to having this and
+there's going to be some other things in
+addition to a CRM tool but basically a
+suite of things that that you need to to
+the government and honestly I got so
+sick of having to manipulate CRM tools
+to do what I wanted them to do or taking
+people's at worst spreadsheets and and
+doing that that we decided to build it
+so that's one announcement I just wanted
+to put that out there be on the lookout
+for that that's going to be coming out
+soon I will let you know when it will be
+available I am now I'm just thinking out
+loud but I am probably going to let the
+students in the academy test drive it
+for me before I release it for free uh
+just so we can work out any bugs or
+Kinks but um we're really excited about
+this I think this is going to be a game
+changer for everyone so that's what I
+want to talk about we are coming out
+with a a CRM tool design for selling to
+the government it's going to have some
+other features as well that I haven't
+brought up I haven't named it yet and
+it's not out yet but it's coming and
+you'll be the first to know when you
+will have access to that in the meantime
+here is the episode I planned on
+releasing
+today and this one talks about
+very very blatantly how to use a
+spreadsheet to manage some of the
+opportunities and the reason I want to
+put it out there is a lot of people
+don't know where to start right so
+you're going to start by finding an
+opportunity and putting key parameters
+into your either CRM or a spreadsheet
+I'm going to talk about what those
+things you need to think about are when
+you're selling to the government some of
+these are different than B2B b2c sales
+and so as you build that out you're now
+going to have a list of things that
+you're going to look at each day so when
+you want to know hey what am I supposed
+to be doing every day well if you have
+let's say 10 opportunities on here three
+of them are things that you need to
+write a response for coming up you know
+maybe five of them are you know
+something you just have to monitor until
+three months from now you know those are
+those are the type of things that are
+going to keep you honest and aware of
+the opportunities that as they change so
+you can track them down turn those into
+closed deals all right here's the
+original episode take
+[Music]
+care hey guys Ricky here with the dod
+contract Academy podcast where we teach
+and help small businesses sell their
+products and services to the biggest
+purchaser of goods and services in the
+world the US government okay so today we
+are going to have a great episode
+because we're going to do a six-part
+series where we are going to walk
+through how you are going to build your
+pipeline and start getting that momentum
+you're after so this is for you if you
+feel confused or you feel overwhelmed
+with all of the information out there
+about Government Contracting this could
+be for those seasoned professionals or
+those that are new to it we're going to
+show you how step by step you can build
+a pipeline that you can manage and take
+action
+on day by day each week each month that
+are going to hit your Revenue goals over
+the next couple of years so you can
+start winning those government contracts
+make the country a better place grow
+your business improve the lives of you
+and your family with the additional
+income that's going to be coming in from
+these contracts
+so let's get started I want this to be
+simple and easy for you guys here so if
+you are ready to get
+clarity on your Government Contracting
+process and to start making some
+progress then this is where we're going
+to start okay so this is a spreadsheet
+so if you have Windows you on your
+computer you probably have something
+like this this is Excel and if you have
+an apple so I do I use a Mac but I have
+the windows uh Suite the Microsoft Suite
+rather so I have access to you know Word
+and Excel and all of that if you don't
+have Excel that's fine if you're on a
+Mac you can use numbers I've used
+numbers
+before honestly you could use a Word
+document or anything you could write on
+okay but you want to be able to
+manipulate this I would use it digitally
+I would not have a a manual pipeline
+okay and why is it so important to
+have a spreadsheet or something to
+manage your pipeline well for those of
+you that have been in sales for a while
+or business you probably are familiar
+with the term CRM and a CRM I don't know
+what the acronym stands for but it's
+basically a software or a tool that
+helps you to manage leads that are
+coming in Opportunities so you can track
+them you can update it you can get
+notifications a good tool can automate
+some of this for you but you have got to
+have a way to find and track
+opportunities with the US government or
+any anybody that you're selling to so if
+you're B2B or B Toc you should be
+familiar with this doesn't matter what
+industry you're in you need something
+okay now
+eventually I would recommend you get off
+the spreadsheet I don't you I use
+Salesforce personally when I'm tracking
+opportunities I'm going to show you how
+to use a sale uh spreadsheet and start
+getting some of this um organization
+that you're going to need going forward
+so open up a spreadsheet first thing I'm
+going to do is start filling in some of
+the headers that I want at the top now
+you can edit as you want to if you don't
+like any of these but the first thing I
+start with is the opportunity
+name typing opportunity name in okay
+because we need a way of identifying
+each opportunity all right and the next
+one that I like to do is I'm going to
+put in
+agency and when I say agency I mean the
+federal agency who owns the project now
+I like to go a little bit deeper than
+that so any information you can get is
+what Acquisitions office is it is it you
+know because the dod Department of
+Defense you could say okay it's
+Department of Defense if it's an Air
+Force effort it's Air Force but is it
+Air Force material el command then you
+can put that in there is it with Air
+Force research lab you can put that in
+there so we want to be able to identify
+the opportunity and who we are selling
+to next we are going to put the Clos
+date and the reason I put this in here
+and there's a couple different ways to
+look at the close date
+but for this purpose I want to
+know when is the contract actually
+forecasted to close when do I think the
+government is going to close this deal
+when would it when's it going to be
+money in my bank account because that's
+important for you right we need to know
+when the money could potentially come in
+if you win this opportunity so for this
+date I'm not putting you know if you're
+if it's a sources sought submission
+that's not the data I'm putting in here
+that's a deliverable that's something
+you have due but that's not when the
+money's going to come in right so if you
+have a for instance a source is sought
+for those listening that don't know that
+term that's when the government puts out
+a basically a request for information
+they want to know what types of
+businesses can solve a problem set so I
+want to buy 500 cars or I want to put
+somebody on contract to do the
+bookkeeping for a government
+organization they might say hey we're
+wondering what kinds of businesses can
+do this what are the best maybe
+technology that accountants use for
+bookkeeping right now what they're
+trying to figure out what goes into the
+proposal now this is not an episode on
+source of sought I just want to give you
+an idea of what that is source of sought
+comes before the solicitation so if the
+source of sought was due October 1st of
+2023 which would be stupid because
+that's the first day of the fiscal new
+fiscal year then the solicitation is
+going to come out probably in calendar
+year 24 January time frame maybe maybe
+even after that and then you know
+there's going to be a due date for all
+the proposals then the government has to
+review everything so it could be
+somewhere of 2024 when it's going to
+close and they might tell you when they
+think the close date is going to be but
+again that's Clos date so I'll put the
+close date in
+here
+next again you can manipulate this any
+way that you want
+to for a lot of the students in DOD
+contract Academy they are going to have
+a mix of opportunities that they are
+priming on and subcontracting to right
+you might be in the same boat or you
+going to subcontract to somebody else or
+are you trying to sell are you selling
+something direct to the government and
+nobody else is involved this is where I
+just put Sub sub Prime because I want to
+know immediately am I partnering with a
+bigger company or another company to
+help get a deal one essentially to help
+get us across the finish line or is it
+something I'm doing on my own now I
+could be the prime and still have a
+teaming opportunity and I'm going to
+make a note about that if that's the
+case so subprime that's the next thing I
+want to
+do then I'm going to go
+to Stage I want to know what stage we're
+in this is where I might put something
+like hey the sources we're looking at a
+source of sought or this is a
+Acquisitions forecast and by the way
+we're going to go through in the
+following episodes how you're going to
+find these opportunities I'm going to go
+through the tools the free tools that
+you can use to find them the different
+types of opportunities so where and how
+to find sources sought for your type of
+business where are you going to find
+Acquisitions forast for your type of
+business I'm going to show you that and
+then we'll talk about execution some of
+the other stages as well okay now this
+is an important column here because this
+is where we're going to talk about the
+money right you're in business to make
+money I'm in business to make money we
+need to know how much money is in this
+spreadsheet I can tell you if I'm
+working with a client selling to the
+government they have a revenue goal in
+mind right you are going to need to
+develop a revenue goal Because unless we
+develop that Revenue goal we're not
+going to be able to build this pipeline
+out to something that is going to
+accomplish our objective right and this
+is important whether you're selling to
+the government or selling commercially
+so I do this in my B2B sales and my
+commercial sales so you know our clients
+that we're advising on you better
+believe I have and I use Salesforce but
+something like this and I know how much
+each one of those clients is worth right
+because I have my own Revenue targets
+and so I'm going to be able to plug that
+number in you want to have a number in
+here and I'll show you a little bit
+later why this is so important but here
+this is the money column
+next this is very important this is
+contacts some of you may feel lost
+because you're like ah Rick who do I
+reach out to and even start talking to I
+know how to sell but I can't just walk
+on a military base I can't I don't know
+who is the person that can make this
+purchase happen for me right and
+although there are are a lot of people
+in that chain in the government we are
+going to show you how and where to find
+some of the contact information who can
+you reach out to this is where contacts
+and I'm going to put those in there it's
+important you fill in each one because
+you're going to be going back to this
+over and over again and improving it
+making it better and eventually you'll
+move on to a CRM tool like Salesforce
+and I know I've mentioned them a few
+times they're not paying me trust me I'm
+paying them okay contacts next one is
+just notes because I want
+know again we can rearrange these if we
+want to but I'm going to have notes on
+each of these opportunities because
+again this is a a process I look at it
+as a work of art I I geek out about this
+stuff so I love as these start getting
+filled in and I start making my way
+closer and closer to that contract
+ending but this is going to really give
+you that sense of purpose moving forward
+and just a path to follow this I'm going
+to put
+incumbent and and incumbent all an
+incumbent is is that means that there's
+a contract out let's say it's that
+bookkeeping contract if the government
+has somebody on that contract right now
+you know the Air Force might have you
+know Ricky Howard's company doing the
+book Ricky Howard bookkeeping we'll call
+it if Ricky Ricky Howard bookkeeping has
+been doing this one service contract for
+three years it may be coming back out
+for recompetition okay you want to know
+if my company is on there because you're
+going to make a decision if you can go
+out after that contract or not and there
+are some things that you're going to
+want to think about
+there if it's my company you don't want
+to go against me though because I'm
+doing an awesome job government wants to
+keep me right um all right and then
+finally I'm just going to put next steps
+again there's a lot of other fields here
+that we can put in
+but I think this is good enough for now
+okay in next steps that's important
+because you need to know what to do with
+this opportunity and that needs to
+change so I'm going to make this a
+little bit easier to read
+I'm just making it pretty for anyone
+that's sitting here on the podcast
+wondering what they signed up for here
+okay now what I have is a spreadsheet
+and at the
+top I have a variety of
+columns starting with opportunity then
+agency then I have the close date is it
+a subber PR stage what stage are we in
+how much money is this worth contacts
+notes is there incumbent and Next Step
+okay simple enough right but now we have
+the beginning of what our pipeline's
+going to look like so I'm going to give
+you one example now I will get into in
+future episodes how we are going to find
+these opportunities but I just want to
+show you what it looks like to start
+populating something like this okay this
+is what I do now I've already got into
+sam.gov and I'm using construction as an
+example
+here okay so this what I'm looking at is
+sam.gov and this is a sources sought
+notice that's come out now sam.gov if
+you're new to the podcast is where you
+register your company to sell to the
+government it's also where a lot of the
+government opportunities not all but a
+lot of the government opportunities are
+going to be presented it's it is the
+repository for all of that so source of
+s request for proposals where you'll bid
+on some of this sam.gov and it's free
+now I use paid for tools as well I talk
+about those in other episodes but for
+anyone listening you can go to sam.gov
+right now you can register your business
+it's self-explanatory we can search for
+things like source of sort request for
+information from the government request
+for proposals this is where they're
+looking for you to help them solve
+problem and then they're going to pay
+you okay so now I have a source of s and
+we're using construction as an example
+now this source is sought
+okay so now I have a source of s up here
+it is due on August 30th okay and again
+it doesn't matter the date for this
+doesn't matter as long as you're finding
+a source of s that is due ahead of you
+know where you currently are so for me
+right now it's August 29th it's probably
+going to be August 30th or even
+September when I publish this episode
+epode but usually you want to give
+yourself at least a week or two on a
+source of s to uh write write one but
+for the sake of argument we are going to
+say that this source of sort makes sense
+for when it's due and for what
+our company does right that we are uh
+pretending to be today uh this is for
+maintenance of H hospitals and
+infirmaries okay this is with the
+VA and so I've read through all of this
+as a business and I know that okay this
+looks like something that I might be
+interested in there's a variety of
+documents down here and they're going to
+give you all the specifications you know
+it has pre-site visits a lot of
+different things here different drawings
+that you're going to go through but
+again we're just going to go and input
+this information into
+the pipeline
+spreadsheet because that is what we're
+going through today so I've gone through
+all this this is something I want to
+engage on so where do I pull the dates
+from so the first thing is what's the
+name of the opportunity so renovate
+building and then there's a bunch of
+codes out there but I'm just going to
+say I'm GNA and you can make up your own
+name I mean
+okay let's start filling out this
+spreadsheet so the first thing we are
+going to do name of this is renovate
+building and actually I'm going to add
+to that because there's going to be if
+I'm in construction there's a lot of
+building Renovations that I'm going to
+be doing so this one has a product
+service code that's maintenance of
+hospitals so we are going to go and
+maybe I've read through the documents
+already so I know this is going to be
+maintenance of hospital so I'm going to
+put Hospital
+renovation and we know it's with the VA
+but as I mentioned earlier we want to be
+as specific as possible so we know what
+office this is in it is in office number
+250 Network contract office and I'm
+going to put the whole code in there too
+that's okay you don't need to know
+necessarily what that is right now but
+you can Google these codes and find out
+exactly where and there's also location
+information and that might be important
+to you also as
+a construction firm you know if you want
+to work in a particular state that could
+be something that I add so I can go
+right in I can add that let's
+see it says place of
+performance is in an Arbor
+Michigan so I can go in right there I'm
+going to create my own new column
+here place of performance or location
+and AUB
+Michigan okay the close date it's right
+here 30 August so they give you all of
+this
+right 30
+August okay then you're going to make a
+decision a is this sub or prime now you
+would have reviewed all of this um but I
+know for this one I'm going to be the
+prime and I'm probably going to sub to
+some other
+organizations
+now one of the things in here as you're
+reading through it just in case you're
+following along with me online you'll
+see it starts off that this says this is
+a source of sought from the Department
+of the VA Veterans Affairs and we want
+to look at market research only which is
+what source of saw it RFI is and it says
+we're interested in service disabled
+veteran owned businesses veteran owned
+businesses hubzone businesses
+8A uh economically disadvantaged women
+owned small businesses and other non
+socioeconomic small business concerns
+who believe they have the experience and
+qualifications to respond so reading
+that I feel like I am cleared as a small
+business so whether you have a
+certification or not you can respond to
+this now how you respond to it is going
+to drastically change depending on
+whether you are you have a sdvosb an 8
+or if you're a small business right and
+that's going to be just recommending I
+recommend that you set this aside for my
+type of business or if you don't have a
+certification like hey I'm the best one
+that can do this job and do not set this
+aside okay so what else are we looking
+for here I want to know what stage this
+is in so this is a source of s how much
+is this worth it says it right in here
+right magnitude of construction 1
+million to 2 million I'm going to be
+conservative and put 1 million but it
+could be up to 2 million so you can put
+whatever you want now contacts where do
+I find
+those and let's see here oh here we go
+if you're following online I'm not going
+to say they're email address because I'm
+just giving an example but if you're
+finding a source of sought on sam.gov
+it's going to give you a primary point
+of contact so I have a primary point of
+contact this is probably either a
+Contracting officer maybe their
+assistant maybe a program manager I'm
+just going to take their name right off
+of this because that doesn't matter
+don't we only email the government if we
+are interested in an
+opportunity okay what notes do I want to
+uh discuss here it depends it depends on
+your small business right so I read
+through this earlier and I know that I
+am going to need maybe two different
+subs and I want them to work with a VA
+so two
+subs it could be for anything right
+we'll say I need an
+electrician and maybe
+Plumbing because that's not something
+that I do primarily and by the way and
+we can get into this later but I know
+because I do this all the time that the
+VA Awards a ton of work to service
+disabled better known small businesses
+and maybe this company that I'm
+representing as I write this is not a
+sdvosb maybe we're just a small business
+so what I want to do is I want to find
+two
+sdvosbs I've read through everything so
+I know there's no incumbent this is new
+work so that's good I don't have to do
+any research on that okay and next steps
+what am I doing for next steps well one
+is I have to write this source of sought
+and two is I want to if I don't already
+have it I am going to want to set up a
+teaming agreement with the two sdv USBS
+that I'm going to need what have we done
+here today well now and I'm going to
+populate this right so you're going to
+go out and I'll show you how to find the
+opportunities but what you end up
+having is potentially 10 to 20 different
+opportunities in here that you're going
+to be working and you're going to have
+dates that things are due and you're
+going to have next steps now if I know
+that I have a source of sought to write
+on this one and it's due in 5 days this
+might be the closest for me right so I
+might even highlight this in red because
+something's something's coming up do
+right but I need to know I need a way of
+tracking the opportunities and knowing
+what comes first where do I put my time
+by the way you might be paying somebody
+to assemble this for you this might be
+someone on your team needs to do this
+okay so lots of ways to manage it but
+this is the star so my challenge for you
+today is to open up a spreadsheet on
+your laptop or your computer fill in the
+columns just like I did by the way you
+can watch the Youtube video if you want
+to see what we're doing here I may offer
+this on the website too if if enough
+people want it um this isn't a big deal
+but it's very easy to produce and it's
+free so that's why we're using Excel hey
+guys thanks for tuning in this week to
+DOD contract Academy right now you
+should have a plan to start executing
+and moving forward to win those first
+government contracts
+next we're going to talk about how to
+find the opportunities that populate
+this spreadsheet that we just put
+together and look if you are looking for
+more help if you want to minimize the
+timeline on your side for winning those
+government contracts head over to dodc
+contract.com you can subscribe and
+become a member of DOD contract Academy
+where you'll receive the on demand
+training and weekly coaching with me the
+other students and other members that
+are subject matter experts in the dod
+contract Academy Community to help you
+win those first government contracts I
+hope to see you in the academy we'll see
+you on the next podcast take care

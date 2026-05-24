@@ -1,0 +1,1334 @@
+Kind: captions
+Language: en
+welcome to the dod contract podcast
+where we talk with businesses and
+subject matter experts that are selling
+to the US government and the Department
+of Defense we discuss strategies and
+tactics that are working for real
+businesses as well as give you a real
+sense of how your tax dollars are at
+work with these small business contracts
+in particular
+I'm Richard Howard owner of
+dodcontract.com I'm a retired lieutenant
+colonel from U.S Air Force and former
+Acquisitions officer for the Department
+of Defense now quick question for you
+before we get into today's episode is
+there something you want to see on the
+show that I haven't covered is there a
+business that you'd like us to interview
+that you think would be a good guest a
+technology area or industry that we
+haven't covered that may be involved
+with government procurement if so just
+leave your thoughts in the
+recommendations section if you're
+listening to the podcast or if you're on
+YouTube leave a comment and we'll take
+those and this is how we actually
+develop a lot of our episodes so your
+comments and suggestions mean a lot to
+me and to the other people that work on
+the podcast
+today we have a great episode
+my guest is Jacob Hill he's the owner
+and founder of GRC Academy
+now GRC Academy
+trains and researches governance risk
+and compliance and they have courses
+which are very
+I would say critical for any business
+that's selling to the government he
+covers things like cmmc and nist 800-171
+if you don't know what those are just
+listen to the episode but basically
+I would say I would put you in two
+different tiers if you are selling
+anything if your company does anything
+that would connect to a network if you
+have a software or a piece of equipment
+anything that's going to connect to a
+government equipment I would put you in
+the first tier category although cmmc
+can apply to businesses that are more
+involved than that this is a great
+episode because he's really good at
+explaining what you need to know about
+things like cmmc we touch on
+other
+things like fedramp and whatnot but I
+think this is going to be a good episode
+for all business owners to listen to now
+Jacob is also going to be giving us a
+course that we're going to put in the
+dod contract Academy so anyone that's in
+that is going to get a little preview of
+what cmmc is I think that's going to be
+really good now on to our sponsor for
+today's episode today's episode is
+brought to you by govly now Godly is a
+platform that you could subscribe to
+online there are a lot of different
+platforms you can go to to look for
+opportunities but Godly is extremely
+unique and this is one of the reasons
+that I've taken them on and they are
+working with me you can also listen to
+the episode I did with the founder of
+govly which is a few episodes back
+I'm going to read you a review of one of
+the people using Gully and then we can
+go from there
+and this is on the main page of their
+website govalee is the best software
+tool in the Federal Government
+Contracting space they ingest several of
+the large government contracts
+procurement requests for quotes in the
+it space along with your automated
+systems which makes your company's life
+easier when submitting bidding
+what this tool does the reason it's so
+unique is that they're not putting in
+front of you just all of the
+solicitations that you'd see on a
+sam.gov or another bid matching tool or
+government IQ or you know you pick the
+tool what they're doing is they have
+primes that own these larger contract
+vehicles and a lot of the opportunities
+that are set aside for these contract
+Vehicles aren't going to come out
+publicly on a sam.gov they just go to
+the primes same thing with GSA so a lot
+of the primes are in Dudley and they
+need subcontractors to work for them so
+they make these opportunities available
+within govly and then you can see them
+as a small business so if subcontracting
+is part of your approach to selling to
+the government and it is for most
+businesses even the large businesses
+then govly is a very unique tool that
+can make you aware of opportunities you
+wouldn't be aware of before
+now if you would like to investigate
+further you can go to the website
+govly.com tell them you heard about us
+on dodcontract.com you can also reach
+out to me through our dodcontract.com
+website and we can put you in touch with
+the right people there all right on to
+today's episode
+cool all right well hey everyone Thanks
+for tuning in this week's DOD contract
+academy uh today I'm with Jacob Hill
+Jacob how are you I'm doing well how
+about you thank you for having me on no
+thanks thanks for coming on man um so I
+think we first met on LinkedIn if I'm
+not mistaken right because you know we
+were going back and forth we have some
+common uh friends and cornwise is one of
+them uh she was on the program and and
+I'll talk about maybe how she's involved
+or was involved because it was like she
+peer reviewed some of your work yes um
+but that's really how we kind of came to
+started talking and we also started
+talking about how you might be able to
+provide we have a Academy at DOD so DOD
+contract Academy's the podcast we also
+have an academy for people interested in
+selling to the government and kind of
+working at it
+um and you know mainly we're doing
+things like more high-end Services I
+guess you could say done with you and
+done for you but right kind of the
+initial piece with the kids in there and
+you know we've talked about how you can
+help with some of the courses and some
+of the things that especially cyber
+security and I.T and Technology focused
+companies which is really our sweet spot
+you know I would say that's mainly the
+people that you're going to hear us
+interviewing not always but a lot of the
+companies on the podcast are in that
+space so
+why don't you I'm going to jump off my
+high horse why don't you telling us what
+you do first we'll start off with what
+you do kind of what your specialty is
+and then we'll start
+um you know maybe digging in from there
+yeah sure sure certainly so I've
+launched a platform about three months
+ago it is a side hustle I'll tell you
+about that first
+um it's a GRC Academy and
+um I saw a gap basically that needed to
+be filled the dod and the what's known
+as the Cyber ab and their their Keiko
+which is their training Organization for
+cmmc has been focused in on building out
+the ecosystem of consultants and
+assessors but there hasn't been as much
+focus on businesses and uh giving them
+uh you know a centralized spot of
+information uh that is
+um easily accessible and understandable
+there's a lot of great information that
+many companies are putting out the dod
+puts upgraded information as well
+however
+uh
+not everyone has that background right
+and uh not everybody understands cyber
+security compliance and so what my I
+built this course to provide an overview
+and give folks a great understanding of
+cmmc nist 800 171 the contractual
+requirements uh the whole bit so that
+they can make informed decisions and go
+from there it does not replace the need
+if a company is very small and they
+don't have an I.T guy a cyber security
+guy it doesn't replace that need but it
+will give them a solid point so that
+they're not fully Reliant and following
+blindly you know they're consultant and
+they can understand what's going on sure
+um we're going to dig into that too you
+know the I think the cyber security and
+I.T companies are probably going to get
+this to some extent right because that's
+their you know they should right yeah
+but companies that are maybe technology
+like SAS companies that aren't
+necessarily focused in something like
+cyber security are really going to need
+to pay attention to this because there
+are a lot of a lot of things that you
+need to understand when you're selling
+to the government when you're selling to
+the dod yeah you're trying to connect to
+a network there are a lot of and we've
+covered it a little bit on some episodes
+I try not to make that the focus but on
+this episode I think we really want to
+dive into that but before we get there
+why don't we tell us uh when we learn a
+little bit more about you like where are
+you from where'd you grow up where'd you
+go to school yeah yeah to learn all this
+yes
+well I was actually homeschooled back in
+the day and uh then I went to uh
+Community College transferred into
+George Mason University from there okay
+and I got my bachelor's in I.T back in
+2012 or something like that okay and uh
+I worked through uh most of my college I
+was able to get a part-time position
+doing it help desk work when I was uh
+the fresh young age of 18 and
+where was that it was uh I'm based out
+of Virginia uh and that's where I grew
+up and it was at a company called EG
+Technical Services okay back in the day
+they were acquired by URS now they're
+acquired by Ecom if I recall correctly I
+haven't kept up with his history there
+could have been another acquisition
+since then it's hard to track all all
+yes yes but my father he was actually in
+I.T like a land administrator over there
+and that's how I got my foot in the door
+which was awesome so thanks for that you
+know
+um but from there I I was actually
+supporting a program called mrap which
+no doubt you're familiar with and very
+interesting program and met a lot of
+people uh so that what is
+the Mind resistance
+and I'm blanking on them a and basically
+it was meant to counter the IED threat
+uh that our troops were facing back back
+in those Wars and it was it was very
+successful uh interesting program
+and if I I can get the the name for you
+here it's a mine resistant ambush
+protected Yes Yes mine resistant ambush
+protected yeah it was a very interesting
+program to support lots of uh
+interesting folks uh working on that
+program and then I moved over to a it
+position working on base and over at
+Marine Corps systems command supporting
+those folks and again met a lot of
+really interesting people what base was
+that at it was a Marine Corps based
+Quantico okay so you're at Quantico all
+right yes yes I'm an Air Force guy so
+like the Marine bases and the Navy and
+army like I always have to kind of dig
+in there so
+right right yeah but uh from there
+I actually jumped onto the government
+position a government position for about
+five years and Okay cool so you're a GS
+at that point and it happens like this a
+lot where you'll start off as a
+contractor and you know it's not a it's
+not a podcast necessarily about
+being a government employee but I do get
+a lot of questions about uh you know
+over the years about individuals that
+are looking to work for the government
+so I mean that that is an interest area
+for some people and in a lot of the ways
+they they get into it is they start off
+as a contractor and then they transition
+over to that GES how did you find that
+transition and it kind of maybe really
+quickly what did you like about it what
+didn't you like about it yeah well the
+first position the the culture there was
+uh probably quite toxic so we so when I
+came in uh they were losing people left
+and right which actually was great for
+me because I'm the young hungry guy
+energetic guy and you have all you know
+all these folks who are probably
+disengaged or maybe actively disengaged
+and so I got to do a lot of interesting
+things in that first position
+um I was able to be a a team lead over a
+team of procurement analysts we were
+working on a pro program called MCHS the
+Marine Corps common Hardware suite and
+then mixelms which the software piece
+and I think if I recall right that was
+just for the Tactical folks and
+um then I was able to be a project
+officer in the corps for a short time
+okay uh and so that was very interesting
+could you tell the audience what is a
+core what does that mean yeah
+Contracting officer representative so
+you are basically the middleman or the
+middle person behind between the
+contractor and the Contracting officer
+okay and sometimes a core is and this
+may have been your
+um experience when you hear about the
+larger Contracting Vehicles which I've
+covered on some of the episodes on this
+show like if you think of a NASA soup
+which is a big one right or just maybe
+an ID IQ a three to five year idiq that
+you can make orders off of for multiple
+businesses
+there's going to be a core that is
+managing a lot of the
+purchases I guess you could say with
+that contract vehicle now were you were
+you involved with anything like that or
+um I I was not in in that perspective
+because it was already an operating
+program it was for a web application
+which had already been going on uh
+although I will say is that the the
+Handover uh that I received from the
+previous uh core and project officer
+because it was combined that was the
+same thing for me was uh not great
+um that's uh that sounds familiar yeah
+yeah she actually told me she deleted
+everything so yeah my word yeah that's
+that's a job that I know
+well everyone I knew in the government
+did not want that job because you don't
+get paid more if you're in the core
+often is an additional responsibility
+yes right so and it is a it is a lot of
+work and you gotta get it right yeah so
+but it's a great learning experience
+right oh it was doing that job
+especially if you're a little bit
+younger that's great because you have it
+in your background now and you kind of
+understand it so good okay so you had
+that
+what happened next yeah so um from there
+and actually I was able to work with a
+source selection board and uh that
+process is where a SharePoint uh back in
+the day then SharePoint on-prem uh
+activity so that was that was really
+interesting how long was that how long
+did it take you to go through oh yeah it
+wasn't very long it was maybe a week or
+two it wasn't long yes it was very fast
+because it was a contract
+uh maybe it was less than two million um
+okay it was like maybe less than a
+million dollars so it's a small smaller
+contract yeah can you tell everyone what
+is that process uh look like because you
+know I I talk a lot about
+how to sell the government on this
+podcast right we talk a lot about what
+you have to do up to the point of
+submitting the proposal and maybe how
+important it is to get the proposal
+right yeah but we don't cover a lot of
+how does the government actually decide
+what company wins right so yeah because
+some sometimes often I'll hear Hey
+government contracts are rigged right
+and and I've even said I'm like I
+usually knew a company I wanted to hire
+a program manager but I didn't always
+get to hire that company and one of the
+reasons for that well there's lots of
+regulations and laws that prevent you
+from just hiring anybody yes but one of
+those one of the things that happens
+after you submit the proposals is often
+that's going to go to a review team to
+very that and they might not be involved
+with any of the conversations the
+program managers had and the program
+manager is probably not on that review
+team at all maybe is but probably not or
+she yeah so now what does that look like
+so you get what a bunch of proposals in
+and now you have to review them yes
+that's that's right so essentially I
+don't remember the criteria for that
+particular that contract um but I don't
+think it was lowest price technically
+acceptable which the government was
+using for quite a while I don't know if
+they still are hopefully every now and I
+mean it just depends right yeah I was
+never a fan of that and most people
+weren't but yeah okay so but you get it
+was not lowest price technically
+acceptable and so now you're on this
+team that has to review and it takes so
+and I mean a couple million dollar
+contracts not a big contract for the
+government so right I've seen these
+teams take months right on the big yes
+but so it's kind of lucky that you got
+the experience that you did on this one
+week Endeavor right one or two week
+Endeavor so what kind of things happen
+while you're on that team so and yeah
+don't talk about the specifics but like
+you get a bunch of contracts or you give
+in a set of rules that you have to
+follow or grading criteria yes we were
+given rules we were given grading
+criteria and again I don't remember the
+exact criteria yeah and but what was
+interesting about that one is we were
+looking at the different proposals and
+uh we saw the same names on them the
+same Personnel on them for about three
+three of the proposals
+I think they may have yes okay what was
+funny is that they weren't you you know
+you kind of expect if you have the same
+names that would be real similar but one
+was one didn't meet the requirements
+that we were asking for uh you know it
+was it was pretty pretty rough yeah and
+uh but two of them were pretty similar
+and I think another one maybe there were
+two others that were that were different
+from that
+um I I can't recall exactly who won but
+uh I thought that was pretty interesting
+just the teaming that goes on yeah
+somebody's gonna win especially as a
+subcontractor right like you have now
+the I guess you could do it either way
+but you know if you're a subcontractor a
+lot of Subs will partner with a couple
+different primes and yes so again it
+gives them a couple different
+opportunities to win right and
+especially if you are this I guess for
+anyone that's subbing a lot and I gotta
+do and we are we're gonna do some
+episodes um that go more in depth on
+subcontracting and teaming but typically
+the prime is the one that is going to
+write that that proposal and all
+proposal writers are not equal as you
+saw right so you know you so maybe you
+have one sub that is partnered with
+three different primes and one of the
+primes just was winging it and just put
+in a crappy proposal didn't do a
+compliance Matrix to do all the things
+you're supposed to and then you know the
+other two maybe did better okay so cool
+I don't I don't want to get too far down
+that rabbit hole but I think that's a
+really interesting experience
+um and and a nice little added bonus for
+those that thought this was all going to
+be about CMS cyber security so yeah cool
+okay so moving on from uh there so you
+got some great experience yeah so from
+there I went over into uh what was
+called
+um the certification authorities office
+um and back then it was under diacap
+that was the dod's authorization process
+how you get an ATO on the government
+Network what does that stand for an
+authorization to operate okay
+yeah yeah you definitely need that so
+you know I said why do you need that oh
+I see I see it got it yeah
+so we're just explaining to people that
+don't don't understand the acronyms or
+maybe hey why do I need an approval to
+operate yeah that's right so on the go
+and the government's uh network if you
+want to bring uh anything on to the
+operational side it has to go through a
+risk assessment we have to the
+government wants to understand
+what number one what is it that you're
+bringing on uh what can what are the
+pieces and parts of that what are the
+vulnerabilities and uh the ultimate
+output of that they have a number of
+security controls as well that you have
+to account for and the output of that is
+uh well part of this is a risk
+assessment that happens by the
+certifying Authority that was under die
+cap and then they route it to the uh
+designated authorization official if I
+recall correctly he was calling himself
+the authorizing official which is an RMF
+term back then so we didn't really use
+the term daa
+um but anyway uh we routed uh all of the
+Marine Corps systems command ATO
+packages up for the final uh risk
+decision and then from there ideally
+they would get their ATO and be able to
+operate right it doesn't always happen
+in a you know the way you describe it
+sounds very logical so streamlined I can
+tell you that my experience on in the
+Air Force as a program manager with ATO
+is it was one of my biggest areas of
+consternation not because I didn't think
+we needed it you definitely need it but
+sometimes it would be so painstaking it
+takes so long to get an ATO yes you know
+for assist on that
+that we put out that already takes a
+long time just to put somebody on
+contract and build whatever you're
+building or get the software yeah you
+can add six months a year longer than
+that just to go through this process to
+get an approval to operate
+it could be very frustrating oh yes yes
+and then you have different reviewers
+and they might get their hands on it at
+certain points and one might say well no
+uh well no one might say this is okay
+but the other guy might say well now you
+need to go back yeah yeah some of that
+is subjective you know it is and and
+varies wildly from an agency to another
+not to mention yes within the same
+agency because different everyone's
+different right everyone has their own
+are you going through a list of when
+you're because you handle it that ATO
+package up right
+but you're going through this risk
+assessment so that's a list of controls
+that you are looking at and making sure
+that that sound accurate or is it a
+little bit different yeah yeah so yeah
+so you have a few things uh one is the
+list of controls uh that the program
+office says okay this is how we believe
+we've implemented this is what we've
+inherited this is what is non-applicable
+to us uh to our system so you have to
+evaluate that and then there's the
+technical piece where they go through
+these what are called stigs security
+technical implementation guides from
+disa and they will basically it's a set
+of configuration guidance they have a
+lot of stigs for Windows for databases
+for Linux for web servers printers the
+list goes on and on right
+um so whatever your system is uh based
+uh you know whatever the pieces and
+parts of your system are you apply a set
+of stakes and so we review those also
+the stigs have a um a severity category
+so cat one is very very critical Cat 2
+is you know moderate medium cat 3 is
+what is called Low
+um and so the severities uh do matter
+um and a Stig check could be as simple
+as well this this registry key needs to
+be set to zero to disable Bluetooth or
+something like that right so and
+sometimes sticks can have hundreds of
+checks so it's it's very involved so are
+you going through this process for
+software Suites that want to get added
+are you going through this process for
+is it for equipment well typically what
+were you checking
+yeah
+um so really we were relying
+let me back up a little bit uh we have
+we kind of referenced their software
+list and we number one we want to make
+sure okay well you have this list of
+software and okay did you apply this in
+that Stig because if they missed it they
+have to go back you know and ideally you
+want to catch that up front so they
+don't have to go rework right
+um but yeah so we look at that software
+list and that tells us what stigs they
+should be applying which is kind of
+subjective as well unfortunately yeah um
+so that's another level of subjectivity
+does that answer the question no it did
+absolutely so you're learning a lot
+you're getting some great experience
+there right okay so what happens next in
+your career you're a government civilian
+for I think you said five years yes yes
+yeah and and actually when I when I came
+in um I was I was quite fresh quite new
+and into cyber security so I wasn't the
+guy doing the assessments at that point
+um it's kind of led into that I was
+doing some SharePoint work building some
+tools some dashboard and stuff like that
+while I uh kind of absorbed the
+information you know
+um uh but after that
+I went over into I decided that the
+money wasn't good enough in the
+government
+and I jumped out uh back into uh you
+know private defense contractor and I
+was not surprising yeah yeah we were at
+um what was it was it notice I was
+listening to the Chief Information
+officers from
+um so the time of this recording is what
+is it March 2023 so it notice in
+December of 2022
+the Chief Information officers from just
+about all of the services I think there
+was one where we didn't have a CIO or
+somebody else but one thing they all
+agreed on is a serious problem that they
+were having
+is keeping training and keeping
+Personnel in the military services yeah
+that actually understand cyber security
+and data management yes because once
+they get you know somebody to a certain
+level of training whether we're talking
+about something like cispy or you know
+the different certifications you have or
+just training them so they understand
+they do exactly what you did right which
+is look the government can't the
+government can't compete with what a
+company is going to pay somebody yeah
+with that knowledge they just can't so
+what's happening is a lot of them are
+exiting and then now the government has
+a problem how do we maintain people that
+actually have this knowledge base so
+sounds like you added to that problem
+and uh but by the way don't uh don't
+blame you at all so you spent five years
+there you served the country you were
+providing value and you're still doing
+that just from a different angle so
+the defense Contracting wrote after that
+yes yeah and I was working on a program
+had to do with missiles which was
+awesome you and we had a program that
+was transitioning from dicap to what's
+called risk management framework which
+is RMF yes yes and that's a federal
+standard the dod was doing their own
+thing under diacap and now they're
+acclimating to the Federal nist National
+Institute of Science and Technology
+uh standard for cyber security
+uh that was 2015. okay
+copy all right
+let's keep going man so what happens in
+2016 17 18 yeah yeah yeah so I spent
+some time over there I learned to
+learned a good bit about RMF and all the
+security controls
+um and uh with with RMF I don't remember
+so much under dicap but RMF depending on
+the
+categorization of your system you could
+have hundreds several hundred uh
+security controls so it's very stringent
+oh absolutely yeah yeah huge pain in the
+ass
+the lack of a better term and anyone
+involved with that like I give them
+tremendous amount of credit because
+they have a job to do that is very
+difficult and it's off competing with
+what leadership wants in the government
+side right because we want
+the thing that we bought that's going to
+help the Warfighter to be approved and
+used as fast as possible
+but that process can be a frustratingly
+slow Endeavor and the government and
+this may lead to what we're going to be
+talking about here the government knew
+that we needed to give industry away I
+say we like I'm still in the Air Force
+I'm not so but the government does and
+is trying right now they have a variety
+of things they're they're doing to give
+industry away to develop their software
+Suites so they are taking all of this
+into account
+which will then make it faster in theory
+to get these atos and get onto systems
+so I think we're going to probably talk
+about some of those but I want to take
+the words out of your mouth so let's
+keep going here so we've got some a
+frustrating RMF uh nist process
+yeah yeah it was a it was a very big
+program so I had to work with a lot of
+different folks to get the answers I
+needed
+um but very interesting for sure and
+then I moved uh from that position onto
+my current company uh which is my day
+job and uh I am now the director of
+cyber operations I came into the company
+to work on a Enterprise deployment of a
+security solution for the Marine Corps
+back to the Marine Corps and uh got
+their ATO for them and uh you know that
+was that was my first RMF ATO uh no
+small feat by the way oh yeah yeah yeah
+right yes yes
+um and then after that contract I
+shifted into the corporate side
+um so
+um there is something called nist 800
+171 and uh for several years that's what
+I've been focused on
+um I've I've shifted a little bit here
+and there to some customer engagement
+and some incident response and stuff
+like that but the majority of my time
+has been spent on 800 171 and then they
+came out with this thing called the cmmc
+which is uh wasn't well understood and
+probably still isn't uh cmmc is a
+household name right I would say most
+people know what that name uh they can
+you know some name recognition there
+however
+uh the security requirements come from
+something called nist 800 171 and if you
+go back into the dfar's contractual
+rules
+dfar stupid to 204 7012 specifically
+they required the implementation no
+later than December 31st of 2017.
+so a lot of you know a lot of folks I I
+honestly I don't know if people are
+looking at all of these d i I mean it
+would be difficult to with all of those
+uh references and contractual Clauses
+and stuff like that but it's something
+that folks need to be aware of is that
+when you get a contract with DOD and if
+they have that dfar 7012 Clause you're
+supposed to be accounting for all of
+these cyber security requirements right
+from a document called the state under
+171. well what the dod learned is that
+self attestation does not work the
+companies
+well it's it's like it's just like the
+companies are just like the government
+right when you're going through that ATO
+process depending on who you get they're
+gonna have a different opinion because
+there's some subjectivity in some just
+like a government RFP or proposal when
+you're writing something like that
+there's some subjectivity in some cases
+a lot of subjectivity in some cases less
+but so now it depends on the person
+right so if you have a company that's
+going through that self attestation
+process right it really depends on who
+is doing that and yes
+and depending on what their risk
+aversion uh sounds like how much they
+actually know about the topic there are
+so many things that can come into play
+there and oh yes cmmc is actually not
+required right now right is that it's
+that fair to say yeah that's correct
+that's correct they're going through
+their rule making process right now or
+and that will impact dfar's uh 252 204
+70 21. there are a few other Clauses
+that are in fact that regards uh
+contractor cyber security for the dod
+but 7021 is the one that's going to be
+impacted by the rulemaking process and
+so what's going on right now is like I
+said they're in rule making and if they
+release a proposed rule what will happen
+is likely we'll see cmmc requirements
+and contracts uh probably next year in
+2024. if we get an interim final rule
+we'll probably see it uh contracts
+requiring cmmc certification or
+compliance this year but yeah you know
+and so I think a lot a lot of companies
+are just kind of putting everything on
+hold uh yeah I think I think you're
+right it probably shouldn't be yes but
+there is a tremendous amount of work
+that goes into something like yes cmmc
+right yes um
+and
+well where am I going with this right
+it's a tremendous amount of work it's
+not required yet
+you also have businesses that have been
+authorized by the government to do some
+of these cmmc
+assessments right these third-party
+assessments right yes let's talk about
+that as I kind of formulate my thought I
+have a path I want to go down but yeah I
+think we need to talk about everything
+first sure sure so let me get there uh
+we have a so in addition to 7012
+requiring the implementation of the
+security controls that cmmc will uh
+bring a third party to assess you have a
+few other Clauses you have dfars 252 204
+70 19 and that requires the company to
+submit a a score into a system called
+sprs or some people call it Spurs the
+supplier performance risk system or
+something like that and uh they're
+trying to reduce some of the
+subjectivity that goes along with an
+assessment uh so they assign points to
+the controls and you submit your score
+uh the uh the calculation doesn't make
+any sense but I don't know who came up
+with the math but you know you start
+with a negative number it's kind of
+weird probably a committee yeah exactly
+so a lot of folks are actually
+submitting negative scores which sounds
+really bad but you know whatever
+um so you have and then you have another
+clause which this is interesting uh D
+far is 252 204 70 20. and what this one
+does is if if you have a contract with
+that Clause what you're saying is okay
+government at any time you can give me a
+ring and tell me that you are coming to
+assess me even before cmmc begins
+there's a government uh organization out
+of the dcma defense contract management
+management agency and called the dibcack
+and they have been conducting these
+assessments of organizations for I don't
+know how long maybe a year or two longer
+than a year but maybe two years maybe a
+little longer than that and so a lot of
+folks they don't know that that could
+happen uh you know so if you have all
+these contractual Clauses in your
+contracts you really need to be up to
+par and doing your best to you know meet
+these requirements uh there's let's
+pause for a second right because I'm
+just thinking about
+the business owner maybe they have a
+software technology they're not a cyber
+security they probably have smoke
+pouring out of their ears right now
+listening to all of the requirements
+that they're going to have to meet to
+sell anything to the government maybe
+even questioning if they should be even
+involved with the process right so
+when we're thinking about this and I'm
+sure you're going to get to it because
+we know you have training but there are
+people that can help them right so do
+you as a complex over a company that's
+listening to this maybe they're in the
+development process right now and
+they're trying to figure out what
+they're doing
+what's a good approach for them to take
+so they don't get caught by surprise
+when they're trying to win a government
+contract and now all of these controls
+are there or have you seen uh have you
+or have you worked with a company that's
+developing something and
+um either help them or seen a best
+practice for them to take all of this
+into account as they're developing their
+solution yes yes there are some really
+great companies out there if you go on a
+website I believe it's if you Google
+cyber a b it's
+cyberab.org there's a Marketplace full
+of Consultants who have been certified
+who can assist you to get to where you
+need to be are you one of these
+Consultants I'm not okay is core in one
+of these Consultants uh I don't know if
+she's a consultant but she's an assessor
+corn I know corn has you know whatever
+you need to work with a business too yes
+to getting there so she's an assessor
+are you an assessor I am not okay okay
+yeah so that's not you that's not your
+that's not your gig right now because I
+know you're yeah that's right we're
+gonna get to that but I just wanted to
+be clear with everybody you know what
+you're because you're obviously
+extremely knowledgeable you know what
+you're doing and you have a lot of
+experience you're also not trying to
+sell those Services yourself right so
+it's not right now we're just informing
+everybody of the process so right right
+but your in your opinion your
+professional opinion going and finding
+one of these companies that you just
+talked about is probably a good idea
+getting a consultation maybe on what
+you're doing yeah um getting you going
+in the right uh Direction I think one of
+the best companies out there they have
+so much content so much free content is
+Summit seven I would I would take a
+serious look at them take a serious look
+at their content if nothing else because
+they have excellent information a lot of
+podcasts a lot of just excellent
+information I feel like they're a great
+trusted Source okay great and then
+people can check out the corn wise
+episode when she was on I interviewed
+her we talked about this a little bit
+yes I think she has services that she
+offers that would also align with this
+they can also check out L2 Cyber
+Solutions that was I'm not sure yet when
+this episode is going to come out but I
+had them on recently and they also are
+involved with the CMM so that she leads
+to love and her entire team extremely
+knowledgeable so okay yeah okay just a
+couple other options for everyone so all
+right man so let's keep going here
+because this is leading up to something
+right it's kind of leading up to your
+you have you you're calling it a side
+Hustle but one of the reasons I reached
+out to you and wanted you on the podcast
+is because I looked at your training and
+it's done very very well and if you can
+explain it to someone like me then then
+you can explain it to anybody if I can
+get it anyone can get it so I I really
+like that so I want to jump in and make
+sure we talk a little little bit about
+your training right now where people can
+find it how it can help them yeah yeah
+yeah so the platform is called GRC
+Academy GRC Academy dot IO is the
+website and uh the training as I as I
+said at the beginning it goes through
+gives you a great overview and
+understanding of nist 800 171 the the
+defars contractual Clause that I just
+spoke about there's also a far Clause
+that applies as well and uh just you
+know just tries to give you that that
+understanding that groundwork so that
+you're not trusting blindly in a
+consultant and you know uh you know
+hoping that everything will be okay once
+you get to your certification sure so
+that's that's been the entire goal of
+that there are some things I would like
+to to qualify here though uh based on my
+previous statements about the
+contractual clauses
+you only have to apply nist 800 171 if
+you have systems that process store
+or
+um process store or I can't remember the
+other one sorry that's fine controlled
+and classified information okay so if
+you don't have cui nist 800 171 doesn't
+apply to you uh now the caveat is that
+everyone the thought is everyone has
+what's called Federal contract
+information when you get awarded a
+government contract your contract is
+considered Federal contract information
+FCI and the acronym is FCI so cmmc level
+one what that does is it has a set of 17
+requirements that has basically come
+from this 800 171 and you have to
+account for those if you have uh cui you
+have to account for cmmc level 2 which
+is all of the 110 controls from nist 800
+171 and I would say probably three to
+six months for cmmc level one I mean
+it's just a y wild guess you know
+because there's a lot of variables there
+I've seen estimates from for Zero to
+Hero I would say for cmmc level two
+we're probably looking at uh 12 to 18
+months oh wow yeah yeah it's a lot of
+it's a big investment a lot of a lot of
+work
+um so my course can give you that basic
+understanding uh the knowledge and save
+you save you a lot of time poking around
+on the internet yeah that's one of the
+hours so that's one of the things I like
+about it so I think one of the things
+that me and you are talking about doing
+is taking an overview of this topic yeah
+seeing it into our Academy so anyone
+that's a member there and is going
+through our courses they can take a look
+at it but I also like this as a
+reference where people could just go to
+your site and because the course is
+relatively inexpensive in the big scheme
+of things so you can go on there and you
+can check out you can get this overview
+and it in the way that you present the
+material is the I don't want to say it's
+simple because you cover technical
+details but you do it in a way where you
+can understand what what needs to be
+done what all of these terms mean what
+you need to be thinking about as a
+business owner or or somebody that works
+in a business that's going to be doing
+some of this work it's a great starting
+point to know what you're talking about
+yes right and and I think that's that is
+one of the real values of what you're
+doing here yeah thank you and the other
+thing I'd point out is that they're
+bite-sized lectures so three to five
+minutes is the norm nine minutes is
+quite a long one but yeah uh the thing I
+like about that is it's not a one hour
+lecture and you gotta find that one
+point where I talked about this
+particular topic very easy to go back
+and refresh if you need to mm-hmm yeah
+you know companies are there's a lot of
+different
+that for for the the non-cyber security
+guys out there right there are a lot of
+different Hoops that companies are
+talking about and they're almost these
+these terms are passed around
+with limited uh knowledge I would say
+myself included right but some of the
+terms that you hear all the time are
+cmmc yeah ATO
+fed ramp right fed ramp process yes you
+hear also about
+um the the Air Force and the different
+Services have different uh platforms
+that you can go through that you can
+kind of put your business in and like
+software development platforms and and
+different ways to to work and develop
+software under a you know a government
+curtain I guess where you're kind of
+putting controls in whether we're
+talking about cloud-based or on-prem so
+this is but this is one of the hottest
+things people are talking about and and
+look especially if you're on contract
+with the government and this is where I
+I start
+wondering right so you have a lot of
+companies that are on contract with the
+government they have these software
+Suites that are already hooked up yes
+that equipment that's hooked up
+and these controls aren't these the cmmc
+process hasn't happened right they
+probably struggle to actually put all of
+that into play so you know the
+government usually grandfathers people
+and and and gives them especially if
+it's a a mission critical need right but
+there's a lot of unknown there so just
+waiting and hoping it it's not going
+away like this stuff's not going away
+eventually it's going to be here so you
+really got to start thinking about it
+and working on it now yes yes and
+everyone involved with uh the dod except
+when they buy software you know those
+don't have any cmmc requirements for the
+acquisition of software but for everyone
+else including landscapers including uh
+you know your janitors and all those
+folks they'll need to be see either cmmc
+level one compliant or cmmc level two uh
+certified explain this to me right so
+what does the landscaping company that
+doesn't have any applications or
+anything they just have lawn mowers
+right so yeah what do they have to do to
+be cmmc compliant
+so level one uh those 17 controls to
+protect Federal contract information
+okay they're pretty basic uh but I mean
+basic to me is very difficult for others
+uh because if they don't have any I.T
+expertise they'll have to hire someone
+can you give me an example of a couple
+of those controls
+sure sure so I have a control Explorer
+on GRC academy uh that I'll pull up
+really quick here just one moment
+and I'll filter to the level one uh
+controls so an example uh would be
+verify and control limit or limit
+connections to and the use of external
+information systems and so what that
+means is you can't just connect every
+every little thing you need to
+understand what you're connecting to and
+limit to just what you know ideally
+what's needed and that's because you
+have a federal contract maybe you have a
+signed contract on your laptop which is
+probably where most companies have it
+right it's in the laptop maybe it's in a
+hard drive somewhere yes yes they also
+have some physical security uh basic
+physical security controls escort
+visitors monitor visitor activity I know
+a big concern of the government in
+general is contractors because they you
+know it's easier to compromise a
+contractor than it is the government
+Network
+um so that's that would be a way in so
+it's you know I I joked a little bit in
+that uh you know the dod their their
+trash is just going to be pile up their
+lawns are not going to be mowed and it's
+going to be a mess but I you know I
+it'll be interesting to see how this
+plays out because uh the dod really
+could impact the supply chain however we
+had foreign adversaries that are after
+us so we have to do something that's
+true and I also I'm sure this is just me
+having a lack of understanding I guess
+but when we talk about
+um I think you called it FCI yes
+talking about FCI like all public sector
+information like Contracting information
+for the most part there's some
+classified examples where this isn't the
+case but for the most part it's public
+right like I go in right now I've got a
+variety of tools I can go to yes tell
+you every single contract that a company
+has
+um won and I can see exactly and there's
+something like there's hundreds of
+pieces of information associated with
+these contracts that are published and
+then you can actually request the uh
+contract yeah from anyone they don't
+have to give it to you but you can use a
+mechanism for you to request like if I
+want right your contract with the
+government I can request that and as a a
+citizen of the United States and really
+why the fire exists I mean this goes
+back to the revolution which is
+preventing things like profiteering
+ensuring transparency all of that that's
+why we get that so I wonder how this is
+going to impact that availability of
+data yeah that's it very interesting I'm
+not exactly sure the the applicable for
+our Clause is bar
+52.204-21 and it talks about basic
+safeguarding
+um covered contractor information
+systems and you'll see the federal
+contract information defined there I
+wonder if um sorry not to cut you off
+yeah I'm getting into this but I wonder
+if a lot of that information is stuff
+that wouldn't be publicly available or
+would be redacted anyway like you know
+you talk about persons like pii for
+instance right so I can't I'm not going
+to see your social security number when
+I go looking up right your business
+contracts online right so there's going
+to be some things that I'm not seeing so
+I wonder if it's just going to maybe
+limit some of the data they would
+consider yeah and some some examples
+I've seen as programmatic charts and you
+know there's some Associated stuff that
+comes along with that now the one thing
+I will say is that it's it's interesting
+because the government I was given an
+example by a person who was in a meeting
+with the military guy and he said that
+well even if you bring porta potties you
+you're gonna have to be CMC level 2
+certified because we have a map that we
+give to you and it has cui on it and so
+the government is not gonna you know
+they may make poor decisions and they
+may just not be able to get a contractor
+you know so that's something to consider
+for uh future plans for contractors
+because a lot of them say okay I'll just
+go level one that'll be sufficient but
+we don't know how many level one
+contracts there truly will be so it's
+you know it's and it's going to be a big
+I think it'll be a partner
+differentiator as well for partnering
+yeah because if there's a cmmc level 2
+contract and you have a prime they may
+want to see all of their Subs bcmmc
+level two especially the big primes they
+might view it as a risk to have a cmmc
+level one partner even if they won't
+receive cui what if they do then we have
+an incident we have to respond you know
+it takes time it'll could cause problems
+so it's a big considerations yeah it's
+an Alexa off that's my that's my Alexa
+telling us that you have an appointment
+coming up Alexa off
+I don't know if anyone else listening
+lives their life by Alexa but I have
+alarms and reminders and everything else
+that go off all day that that keep me on
+track and and I've also been told I've
+had cyber security people on here like
+why are you using that Alexa is
+listening and recording everything that
+you're saying and you know your entire
+life is on there so that that may be uh
+that may be true but what is true is
+that that alarm was accurate so we're
+coming to a close here and I know we
+could probably talk for a couple more
+hours about this here's what I know is
+that it's a hard problem and
+you have a great understanding of this
+and you you understand the problem and
+you you can provide a solution and
+definitely some training and that's a
+great place to be at if you understand a
+hard to solve problem then uh that makes
+you sought after and so people are going
+to be uh seeking after your knowledge
+and wisdom where can they find you yeah
+uh I'm on LinkedIn Jacob Hill uh I just
+searched for me there I'll probably have
+a link in the description uh
+grccademy.io is the platform that we've
+been discussing with the cmmc course
+take a look at that and thank you so
+much for having me on I really
+appreciate it no cool man thanks for
+coming on for those in the academy
+they're probably going to start seeing
+you in the academy a little bit here
+yeah I'll have our video recording of
+This in our Academy but the as far as
+the podcast is concerned for all our
+listeners out there I'm gonna have all
+of the links in the notes pages of
+whatever platform you're listening to
+this on iTunes whatever uh make sure you
+like this episode because you know Jacob
+spent a long time here describing cmmc
+and it helps us leave a review tell us
+how awesome Jacob is we want to hear it
+go to his website get his course you can
+always go to our website at
+dodcontract.com and hook up with Jacob
+there too love having you on the show
+probably the first of many uh thanks for
+coming on man yeah thank you enjoyed it
+have a good one all right take care
+everyone see you next week all right

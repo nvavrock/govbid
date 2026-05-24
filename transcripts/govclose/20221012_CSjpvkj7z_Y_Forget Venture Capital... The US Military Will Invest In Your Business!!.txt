@@ -1,0 +1,930 @@
+Kind: captions
+Language: en
+foreign
+[Music]
+and honestly when I learned about the
+super program I remember I was floored
+by it I remember I was standing at the
+office of my mentor the guy named Warren
+who was running the program and I was
+just like what like what the hell are
+you talking about three times a year the
+government hands out like at the time I
+believed I thought it was like a 15
+chance of winning one million dollars
+like that is that is the best odds in
+the universe for winning like one
+million dollars hey guys Ricky here
+owner of dodcontract.com host of the dod
+contract Academy podcast you just heard
+from Brian who owns a company called
+Vermeer he's had amazing success with
+the sbir program which is the small
+business Innovative research program
+it's an amazing opportunity for small
+businesses that are either developing
+technology or looking to modify a
+product for government use or just
+trying to get your foot in the door in
+government or military sales for the
+first time and this is a special episode
+because not only are we focusing on sbir
+but we are going to bring in a few
+experts from past episodes that you're
+going to listen to so up next you're
+going to hear from Luke Robertson who's
+an amazing business developer in the
+defense and government space he's going
+to describe what sbir is the different
+phases how you can go about applying for
+those and you know achieving the sbir
+contracts with the government then we're
+going to listen to Brian so we'll jump
+right back into him he's going to talk a
+little bit about his story and how this
+has transformed his business and really
+allowed him to receive funding multiple
+times over for developing his technology
+and his business and then we're going to
+talk to Oliver at the end all of her
+notewear from Street smarts VR he's also
+had amazing success with the siber
+program it's allowed him to do something
+he calls Bottoms Up selling and if you
+want to learn more about any of these
+folks they're all in previous podcast
+episodes that you can listen to as
+always please subscribe to the podcast
+and leave a recommendation if you find
+any of this is helpful and you can head
+over to dodcontract.com if you're
+looking for additional help with sbir or
+any of your Government Contracting needs
+all right well on to the episode
+well a small business Innovation
+research program is a established in
+statute uh and fundamentally what it is
+is a way for the U.S government through
+various sponsoring agencies like the U.S
+Air Force the Department of Homeland
+Security they all kind of run their own
+uh programs within the the larger uh
+siber program and it's a way for the
+these these organizations to be able to
+uh take advantage of the Innovative uh
+uh
+just the the the Innovative talents of
+smaller companies uh oftentimes this
+small companies uh have fantastic ideas
+but they simply don't have the the
+capability to be able to bring these
+ideas to Bear they sometimes don't even
+aren't quite able to even productize it
+and they certainly aren't able to make
+it through what they describe as like
+the Valley of Death where it's you have
+one good idea maybe one good product but
+then it's a little bit more difficult to
+then be able to build that thing out at
+scale and be able to uh go under
+contract in a way that you can then
+become uh turn your company profitable
+and uh the small business Innovation
+research program is designed
+fundamentally to be able to bridge that
+Gap to be able to bring these Innovative
+resources into the government and and
+because it's designed for small
+businesses to be able to sell uh
+products and services it's designed to
+move quickly small businesses don't have
+a huge amount of time to you know they
+don't have 18 months potentially uh they
+need to turn a profit now they need to
+have a customer now
+so the program is it's an application
+process uh it's a contract not a grant
+although there are similar programs that
+are that are grants as well
+um where basically the government will
+put a small business on contract to uh
+uh build out uh what their product is
+and usually what the government is
+looking for is a kind of a modified
+commercial product so if the small
+business has a product and it's
+applicable to uh some commercial
+customer and it's proven it it's known
+that this thing is going to work but it
+may not exactly fit what the
+government's needs are but what the
+government will do is it will pay that
+company
+to modify that product so that it'll be
+fully applicable to the government's
+needs once proven and once it's a uh
+demonstrated uh success within this
+program then the government ranges and
+this is really is the main strength of
+the of this program is it will then
+arrange a simplified Contracting
+onboarding process to be able to move
+from the the prototyping stage to full
+on production sales and uh
+I've seen a variety of companies both
+you know the the company that I that I
+work for uh I guess full-time you can
+say and also uh the companies that I've
+uh worked with as uh uh uh as a
+consultant being able to land these
+contracts and then be able to productize
+uh their their idea and then be able to
+actually fully sell it sure yeah no that
+those those are great um there's some
+great wisdom there and some great tips I
+also do know that you know the
+government has sponsored some solutions
+that weren't already being sold
+commercially they were more they were a
+little bit past the idea stage but I do
+know a couple companies where they've
+they've won sivers and then that funding
+they were using to help develop that
+solution uh but it still would have a
+commercial and government in that case
+um you know perspectives let's talk a
+little bit about the phases of the sivir
+program right so this is something that
+um I discuss a lot with clients so you
+know phase one and we've we've kind of
+joked about this right so you find you
+have a great idea or a solution maybe
+like you said it's already a product
+that you're selling commercially and you
+think that it would be a great thing for
+maybe the Department of Defense and
+whether to say we find an open topic or
+a topic that it could fit under because
+sometimes these topics are very specific
+sometimes they're very broad right
+um base of the future was one in the
+past which I mean you could drive a
+truck through that thing um you know but
+let's say you find a topic and you
+submit your siber
+and what happens then so what are the
+three phases I know there's a phase one
+there's a phase two so and then it can
+go on uh from there what do you view the
+phase one server as
+let me answer that here in just one
+quick second but I guess I I think maybe
+we'll try to add a little bit of clarity
+to what you mean by like the topics and
+the submission and that's a great point
+so basically the uh super program like
+you say it's being they're run by
+different agencies uh so to discuss the
+the Air Force zipper program kind of in
+specifics what the Air Force will do is
+it will uh release topics that they that
+the some Air Force organization or user
+has stated that we we need something and
+there's some we don't know what exactly
+we need but it needs to we we know that
+that there is technology that's out
+there within a certain field like you
+said like maybe again base security uh
+you know some kind of smart camera thing
+uh and then what the government will do
+the Air Force will do is they will
+release a topic saying if you have a
+product that fits somewhere in this
+topic we can fund it under this
+particular like funding uh line you know
+and then oftentimes they have what's
+called an open topic which is government
+doesn't know what Innovative technology
+is necessarily out there they certainly
+don't know what great ideas are in some
+individual's uh mind and so they will
+say hey write a proposal and send it in
+and if we like it we'll we'll we'll put
+this under contract
+just to stop and ask you a quick
+question there because you know for
+companies that have maybe been writing
+proposals and a little bit more familiar
+with the government process some
+proposals can be extremely difficult
+together where would you rate the
+deceiver proposal I know they're all a
+little bit different but if you give us
+some of your perspective on that
+generally on on the easy side
+um the uh sipper program is designed
+it's a uh it's it many ways it kind of
+runs as like the Venture Capital uh arm
+of these different government
+organizations and so there's an
+understood risk uh to the government
+when it comes to uh funding these
+proposals and so
+um what they what the government
+fundamentally wants to know when it
+comes to doing a siber uh application is
+they want to know about the the
+proposing company they want to know that
+this company has like some skills so
+they're going to be looking for like
+bios of the people who are involved and
+then they're going to want to know what
+uh what the technology is in in
+generalities uh and so that they can
+judge is there a technical Merit to this
+like is does this have some values
+there's some application that that this
+company has identified
+um but generally looking at a few pages
+of uh like narrative write-up you know
+like a PowerPoint presentation and then
+um a a small uh but uh
+I guess you could say significant but
+but
+graspable amount of administrative
+documents you know like you know various
+cost volumes and you know cover sheets
+kind of stuff but in relation to a
+typical uh government uh like response
+to a proposal which may be a substantial
+lift especially for a small company to
+put together a proposal a super proposal
+is uh generally much much more simple
+and I think this leads us directly back
+to your question about these phases
+right the phase one phase two phase
+three
+um and so I'll finally get her how to
+answering that now oh it's all good so
+the the way that the the government
+once again I'll discuss uh on the Air
+Force so I can have a little bit more in
+the specifics although other agencies
+run in this way as well they fund uh
+Technologies based on a couple of
+different phases and uh phase one is
+something of more like market research
+so the government will fund a company up
+to fifty thousand dollars to basically
+to propose what their idea is and
+propose what they think the application
+to a certain government agency's mission
+may be
+um
+and this is a very simple application
+we're talking like a five page white
+paper a 15 slide PowerPoint deck that
+describes the technology describes the
+company describes the application and
+what's what's the deliverable usually so
+hey we put that together we're basically
+saying hey we have an idea or a product
+the government fits within your topic
+and then the government comes back and
+says yeah that's great we're going to
+award you a phase one what's typically
+the deliverable because you're not
+actually modifying the product usually
+with a phase one is that right yeah
+that's right yeah so the phase one
+fundamentally is uh that is they're
+putting a company on contract uh to give
+them the legitimacy to be able to like
+interface with those government
+organizations so you're on contract to
+deliver a technology let's say like you
+mentioned a cyber security product now
+what you have what you can do is that
+you can contact those government
+agencies and say hey this is what we
+think you need is this really kind of
+what you need or how would it be
+modified and then the deliverable is a
+report so fundamentally what it what it
+is is the government is paying a company
+to do the market research and not just
+paying them to do the market research
+but is then facilitating them to be able
+to do that market research right to make
+sure that you're not as a company just
+some Joe Blow who has no connection to
+the government whatsoever cold calling
+uh agencies within the the military
+saying I don't know who I'm talking to
+but maybe you're the guy I need need to
+ask if this is something of value an
+extremely difficult not to cut you off
+an extremely difficult subject for a lot
+of businesses trying to sell to the
+government right because what you end up
+realizing is it's a relationship game
+right so once you know companies get
+past the point where they figure out hey
+just responding to rfps isn't going to
+cut it there there's some there's
+something else that's missing and then
+it's usually the business development
+piece right so some some combination of
+knowing who you're selling to and then
+really establishing relationships
+talking to those agencies and with we've
+often joked that the sivir phase one
+you're almost getting paid to do
+business development so that that huge
+BD lift that is difficult for small
+businesses you're getting paid to do
+that with a phase one it's it's it is
+it's an amazing opportunity it is
+absolutely an amazing opportunity um and
+and it's a program that has demonstrated
+success so right literally thousands of
+small businesses have gone through this
+program's not new although it's uh
+become much more uh formalized and uh uh
+the the application processes have
+gotten uh uh more streamlined and
+simpler uh in recent years the program
+has been around for a long time right
+and thousands and thousands of small
+businesses have used this vehicle for
+its intended purpose you know and
+they're able to bring their products to
+the market in the US government in a way
+that they would never have been able to
+bridge that gap before so that phase one
+timeline wise so from the moment you put
+the application in what kind of timeline
+are you looking at assuming that you're
+going to win right so assuming you're
+going to win what does the timeline look
+like for being uncontractor to
+government
+about four months three to four months
+so uh every four months the uh the
+government will open up a round like an
+application round uh and so a company
+will build their application uh the
+proposal if you will uh and then submit
+it uh through uh the the the website
+according to the standard the the rules
+and uh uh format as required and then
+the government will review that and the
+other thousands of proposals that uh
+that go in and there's actually a pretty
+high selection right
+um and the selection rate depends
+entirely upon the round
+who gets selected and how and what's
+being selected depends based upon what
+uh uh the government needs at that
+moment specific funding amount uh but
+then what they'll generally do is reach
+out back to that company within three to
+four months there there's been a lot of
+movement within the the programs to try
+to shorten that they would like to get
+that down to two months or less and then
+um straight go straight to a contract
+the government will have the Contracting
+officer reach out to that company write
+the contract according to the The
+Proposal that the company put in and
+it's a uh extraordinarily painless
+process uh once again especially in
+comparison to uh other Contracting
+Alternatives sure so now let's talk
+about I think what the real point of
+this is right for any company and you
+know this is what I tell my clients I'm
+sure to tell yours is the point of siber
+isn't to win a phase one the point of
+sivir is really to win that phase two at
+least at least initially right because
+that's where the money is going to come
+to help you develop your product or
+solution right so once we have phase one
+right and now not only are we getting
+paid to do business development but as
+you point out just as importantly if not
+more importantly they're helping you
+facilitate some of your business
+development what is that for what do we
+need to get now in order to get to phase
+two
+yeah absolutely absolutely and you know
+if I if I could I guess even expand upon
+that I'd say you know the the point of
+this separate program really is to get
+to phase three which is the uh the the
+the production level contract well and
+in many ways in order to get to phase
+three you would go through a phase two
+although not necessarily you can go
+straight from phase one to phase three
+so to add a little bit of clarity phase
+one is that business development that
+market research that uh analysis of the
+of the marketplace phase two is once
+that analysis is complete and then
+there's been a a gap that's been
+identified and there's a specific uh
+government user organization that needs
+something
+and that thing is not available on the
+open market then phase two the
+government will pay up to seven hundred
+and fifty thousand dollars and there are
+times in which you can go up even uh
+beyond that but generally 750. they
+could be managed by the the agency that
+sponsors it correct
+it could be it doesn't necessarily have
+to be uh it it helps in in fact if you
+have matching funds you're the
+probability of selection for the program
+is
+I don't want to stay close to 100 but
+it's it it it it certainly helps you
+don't need matching funds so uh the the
+agency that wants your product so okay
+so
+you go through phase one and in the
+phase one you identify a particular
+organization some you know some majors
+and kernels some GS employee who is
+representing this organization who is
+able to say yes this is what you've
+proposed like what your technology has
+is has value to to our mission then
+that's a major that's one of the major
+accomplishments you need in a phase one
+right right just finding someone to say
+and I mean we've I've sponsored these on
+the uh my organization has on the Air
+Force side and the acquisition side
+which is really usually signing a memo
+of some sort
+um saying hey this is something that we
+would have benefit from it doesn't mean
+that you have they have to fund it but
+it does mean that they're saying they're
+signing a memo saying hey we think that
+there's benefit here and there's a need
+right yeah so I mean and obviously one
+way to prove that need is if they that
+organization puts their own money behind
+the request but once again it's not
+required but what uh is certainly
+important is to have someone who is of
+you know a
+has sufficient Authority within the
+organization to be able to speak for
+that organization to say yes we we need
+this thing right you can you can always
+go find somebody who's willing to say
+well that sounds interesting to me but
+if they're not in a position to then
+like affect the any sort of acquisition
+then it you know it's still helpful and
+it's wonderful but it's not necessarily
+uh yeah but because we're really looking
+at we're not talking about
+um you know if we were talking about
+security again we'll just kind of stick
+with that we're not necessarily talking
+about the user of that Security
+application and if it's
+um you know an Airman or a captain in a
+flight Squadron
+um that happens to be using the tool
+that's that's not probably going to fly
+right what we're really looking for is
+someone in an Acquisitions agency like a
+program manager maybe a Contracting
+officer they'll probably be the PM
+possibly a requirements person so it
+could be someone not in the Acquisitions
+meaning the Acquisitions being the field
+of putting companies on contract for the
+government and managing those programs
+that's what we call Acquisitions at
+least in the Department of Defense
+um but it could be you know Journal
+that's in charge of requirements for the
+flying unit we talked about earlier
+right that's uh you know up there on
+staff he could potentially be one of
+those signers on this
+right so you know I I and I you know I I
+I I fear that I actually haven't been
+like terribly clear like as I discussed
+this about like what would you what do
+we even mean by like what why are we
+talking about like a memo uh
+thing and so to back up just a touch uh
+the you know phase ones that market
+research phase two is the adaption of a
+a commercial technology to an Air
+Force's need or a r d to develop what
+you know a brilliant idea into uh a
+prototype
+and in order to get a phase two uh
+funding there needs to be a you know so
+phase one there's only the push it's
+basically you as the company saying hey
+I think this is a value let me let me
+articulate what the value is phase two
+requires a push and a pull so phase two
+requires that government organization or
+user or somebody within it to say
+we need this and then that that
+organization will then sign a memorandum
+of understanding not with the contractor
+not with the the company that wants to
+to build it but with the uh the Air
+Force's Subaru program saying this
+technology will benefit my uh
+organization's Mission and whoever signs
+that memo needs to be somebody who has
+some level of uh of authority program
+managed you know the program managers uh
+you know folks on staff absolutely great
+it doesn't necessarily have to be uh so
+the um
+the the way that the the Air Force
+breaks it down is there is a customer
+and an end user and usually like an end
+user would be like maybe a uh a squadron
+commander perhaps maybe somebody uh you
+know who is down on that unit level not
+necessarily like the like you know the
+tech sergeant but it could be it could
+be okay um and then the customer would
+be back everything I just said so okay
+so I thought it had to be someone a
+little bit higher up on the food chain
+but you're saying even an end user like
+that Tech Sergeant
+um might be able to sign off on
+something like this is the higher the
+rank and the more the authority that
+somebody has the more likely the the
+more weight that signature carries
+although for a phase two there are no
+specific restrictions to who can sign it
+uh there were there this goes to show
+too just how much detail is involved
+with this because these are constantly
+changing the Civil program and the
+requirements and so I learned something
+new every day as we as we move through
+this so that's that's interesting oh
+well and what you just described in
+terms of like who needs to be uh signing
+is kind of a there's a phase 2B a
+supplemental funding funding program in
+which you know as a phase two are in D
+program moves along nicely then the
+government will will pile on and say hey
+we're going to double down on this this
+is really working out well and that one
+requires the you know specific GS 15 or
+06 above to sign off but the the just
+the phase two mou usually the end user
+will be like maybe a squatter commander
+and then the customer will be somebody
+who's uh closer to a a position that
+they can uh scale the solution across
+the organization so that's when you're
+looking at somebody at staff or yeah
+once again not required you know so it
+is still possible to have uh and in fact
+I recently saw a successful phase two uh
+with the two squander commanders you
+know a a communication squadron
+commander and a maintenance group
+Commander or maintenance Quantum
+commander and both at the same base
+neither one has the authority to to to
+expand the solution across the entire
+Air Force but the uh the the Air Force
+saw the value of the technology and said
+hey we see that is something that's
+worth funding and then they did that's
+amazing too because you know one of the
+the biggest challenges for a lot of
+businesses is figuring out who to talk
+to because a lot of times they'll be
+talking to somebody you know in the army
+or the Air Force or you know one of the
+other government agencies that maybe
+could use the you know their solution
+but has no authority to make a purchase
+right and so they're like hey you know I
+just talked to this army colonel and
+this is a real example they brought a
+solution this army colonel who you know
+he was running an operational unit he
+was not never going to authorize a 20
+million dollar purchase for the Army
+right it just wasn't right there wasn't
+his responsibility they're like hey the
+Army knows about this and uh I'm just
+waiting for the sale to come in I'm like
+well you're gonna be waiting a long time
+because that army colonel said it's a
+good idea and it is but you get to
+picture it as you know thousands of
+offices within the Army and none of them
+talk to each other and only a few of
+them have that authority to purchase
+right so what's interesting about this
+is what you're saying hey you know with
+this program we can actually find a user
+that thinks this is a good idea and they
+could sponsor it and so now it just
+makes it a little bit easier to to go in
+and
+um and have a solution authorized by the
+government to start working on let's
+let's pivot and just talk a little bit
+about I don't want to spend too much
+time on it but phase two right so phase
+one we've won we've got the we found
+either a user or an acquirer to sponsor
+the program we submit the application
+which is a little bit more in depth for
+the phase two and then what happens then
+so what uh phase twos you usually have a
+you know two like or about a year you
+know 18 months it depends upon the the
+specific organization like period of
+performance generally generally around a
+year to year and a half uh so phase twos
+are pretty significant contracts they
+also get funded uh in the same timeline
+as the the phase one so a few months
+after the submission goes in uh a Air
+Force Contracting officer reaches out
+and says you know congratulations you've
+been uh you've been selected let's go
+ahead and put this thing under contract
+hey so back with Ricky here and you know
+Luke is extremely knowledgeable about
+this process of course and if you want
+to learn a little bit more about sbir
+about how to sell to the government you
+want to head over to
+dodcontract.com we have some amazing
+opportunities there for you to work with
+us and to learn at a pace that makes
+sense for you how to actually sell
+products and services to the government
+and how to win sbir contracts there are
+not a lot of resources out there that
+lay it out for you step by step from
+people that have actually done it right
+so head over there if you want to learn
+more now if you're thinking to yourself
+hey I've never sold to the military I
+don't have any relationships I've never
+done anything with the government at all
+then you know Brian is really a good
+case study for you he is who we at brine
+stream he's the one we listen to at the
+very beginning of the podcast now he's
+going to give you a couple minutes on
+just some of the things that he learned
+working with the military he had no
+prior government experience he had never
+actually talked to a military officer
+before applying for the sibra program
+and going out and winning one after the
+other after the other he did an amazing
+job networking and doing some of that
+work so listen to Brian he can talk a
+lot about what the process looks like
+and make sure to check out his episode
+so here is O'Brien people in uniform
+were trying to help you who are who are
+vouching for you they don't want to look
+like an idiot to you like they want they
+a lot of times they feel
+I mean this was like a Miley thing a lot
+of times the the majors who are kind of
+like the the vouchers or the colonels
+who are kind of like the like we want
+this Brian we're going to do this with
+you they they feel blessed they're like
+wow I'm so fortunate that you're giving
+me the opportunity the colonel the
+opportunity to go get this million
+dollars from these other people which is
+like crazy to me like that but that's
+like sometimes like the dynamic they
+feel so honored and you know BSI envious
+we've won a couple of them now
+um people feel like I'm like like a
+wizard expert so they feel like I can't
+you know like it will be once you get a
+little credibility you get more
+credibility you kind of like build off
+of that so we got uh so yes we got five
+phase two sibers
+um we we got a uh an OTA uh we got a
+we're a Prime on an ID IQ and like this
+was kind of part of my I have another
+very simple rule to sales which is you
+know you can't sell
+you can't sell crap to people if they
+don't know you exist if they know you
+exist if they know you exist you have a
+one percent chance and that's way bigger
+than zero percent if they don't know you
+exist so I just kind of let it be known
+I reached out to everyone I had you know
+setting up phone calls having hour-long
+meetings with the person that may or may
+not go anywhere is risky but you don't
+really I mean I build relationships with
+people like I was really I got
+relationships with some people that I
+met cold that I went to their retirement
+party in Kentucky you know guys
+transitioning out of Socom so so like I
+you know I really I really worked I mean
+I I the right word is hustle I hustle
+really hard hey guys back with Ricky
+again and you know that was really
+interesting listening to Brian and how
+he won you know he ended with hey he
+really hustled I mean look he went to
+someone's retirement party in Kentucky
+that he met and networked through he
+used LinkedIn he used a lot of different
+methods to find the right people to
+sponsor his sbir packages it's certainly
+something we can help you with but now I
+want to transition over to Oliver
+nowhere who we talked a little bit about
+at the beginning and again he has a full
+podcast episode here in the vault you
+know all of our won multiple sbirs and
+he also used them because once you're a
+phase two graduate you can use them to
+help win direct purchasing from the
+government or sole source purchasing so
+and he also use this Bottoms Up approach
+where he was selling to units this is
+very unusual but sbir can open up a lot
+of doors for you right you just got to
+make sure that you are using it the
+right way so without further Ado let's
+listen to Oliver
+phase one was basically afwork saying
+great you have this commercially
+available solution
+here's a little bit of money go do
+customer Discovery in the Air Force and
+so I think we went to six or seven
+different bases and it was sort of you
+know classic Business Development you
+talk to a bunch of people and out of 10
+people you talk to maybe one's
+interested and they become your champion
+and then they connect you with other
+people who are interested and you just
+you just pull the thread and see where
+it goes and after going to a handful of
+bases we've met some folks who said hey
+look we know this isn't ready for prime
+time yet but we like the direction it's
+heading we like your mentality we we see
+the future we're on board and that led
+to us applying for and then receiving a
+phase two contract gotcha so the phase
+one usually the and we don't have to get
+into what you guys are paid but
+typically in phase one like you said
+it's a small amount of money it's
+usually under a couple hundred grand
+where you might have a white paper or
+something or some type of report that's
+due but like you said typically you're
+going out and you're kind of looking for
+a customer right looking for hey is
+there somebody in the government where
+this fits their need and usually app
+works or whatever organization is going
+to have an idea that it does or fits
+within like a mission uh that they're
+focused on trying to provide solutions
+for then the phase two that's usually a
+much larger contract but you need a
+government sponsor and that's what you
+guys found so everything's a little bit
+more difficult with the phase two but so
+how did you find that phase two uh how
+did that go for you guys it went well
+all things considered um in the in the
+application part or process of the phase
+two we said hey here's what our existing
+technology is here's what we think the
+Warfighter needs based on our our
+conversations with those tactical units
+and here's what our proposal is to to
+adapt from commercial to DOD uh needs
+right that got approved and then we
+spent about 12 months working with the
+schoolhouse down in San Antonio to
+ensure that we could adapt some of our
+solutions to their needs uh it was a
+fascinating process it was just as new
+to us as it was to a lot of our defense
+stakeholders because they were like I
+said captains and Senior enlisted this
+was this was brand new territory for
+them uh and they were really excited
+which was great for us they they've
+leaned in uh in fact we had an Airman
+come hang out with us at our office in
+New York for a couple weeks along the
+unit let them go TDY specifically to
+help us make this transition it was
+phenomenal yeah no that's awesome and
+you're right it's uh it's something we
+focus on a lot in uh the dod contract
+Academy where you're one of your goals
+really if you're trying to sell the
+government in this case the Department
+of Defense is making it easy to make a
+purchase hey guys back with Ricky you
+know these were great interviews with
+both Oliver and Brian and Luke and you
+can check all of them out on prior
+episodes of this podcast one thing that
+they all have in common is they are both
+extremely all three of them are
+extremely hard workers and with Brian
+and Oliver they have amazing Solutions
+so really just understanding sbir and
+actually both of them it was brand new
+to both of them when they went after it
+and one of them uh Brian never even
+talked to anyone in the military or the
+government before it was his first time
+doing that so if you have never sold
+anything to the government if you've
+never thought about it I guess the point
+is that you can absolutely do that it
+does take work and you have to
+understand the process but you can
+absolutely win you can hit
+dodcontract.com if you want to learn a
+little bit more you want to go through
+our training our coaching program or we
+help our students and our clients you
+know go through not just Siva but
+selling products and solutions to the
+government because the government Buys
+in a lot of different ways and I would
+say whether you want to do that or not
+less than one percent of all small
+businesses ever try to sell to the
+government or to the US military so
+there's a customer base here it's an
+untapped resource and they're required
+to buy from small businesses so I would
+check out at least if the government is
+buying your product or solution you can
+go to dodcontract.com and get some free
+training on that you can find out I mean
+it literally takes two minutes you can
+see if they're buying what you sell
+and you can listen to our podcast it's a
+free resource to help you kind of
+navigate the way of selling to the
+government or selling to the U.S
+military we have a lot of free training
+and here with subject matter experts and
+small business owners that have done it
+themselves so hopefully we've inspired
+you to at least take a look at it and
+hopefully we can help you in some small
+Way start winning those contracts
+because it really can be transformative
+for your business and your life so this
+is Ricky Howard I'm out thank you for
+listening
+[Music]
+thank you

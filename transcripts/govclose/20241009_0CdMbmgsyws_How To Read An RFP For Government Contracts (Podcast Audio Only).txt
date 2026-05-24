@@ -1,0 +1,1085 @@
+Kind: captions
+Language: en
+if you've ever read a request for
+proposal for a government contract this
+episode is for
+you I have been in this for a long time
+and a lot of times I will be scratching
+my head after reading an RFP or an RFQ
+which is a request for quote in this
+episode Colonel orendorf returns he's a
+former Government Contracting officer 30
+years multiple commands he was a
+Contracting officer for defense contract
+management agency he managed contracts
+all over the United States and the
+Middle East I worked with him in the
+Middle East and up here in the
+Massachusetts area and now we work
+together he knows more about contracts
+than anyone I've ever met in my life so
+in this he's going to walk through what
+most people ignore when they're looking
+at an RFP or an RFQ and these are things
+like the fire Clauses and some of the
+cleanse if there's acronyms and and
+numbers in the RFP that you're not
+familiar with he's going to explain what
+some of those things are and how to go
+find out what you're really signing up
+for when you write a proposal for a
+government contract you know the devil's
+in the details with a lot of these
+things and you know he points out a
+couple sections where hey there's just a
+little code in this RFP but it means
+you're signing up for a very expensive
+accounting system where you're going to
+have to hire people
+here's another code this means you have
+a lot of work to do for cyber security
+requirements and a lot of companies
+ignore these or just don't understand
+them and they kind of fire and forget
+they write a proposal they send it in if
+they win they could be on the hook for a
+lot more expense than they bargain for
+so he's going to keep you safe on that
+he's going to show you what to look for
+this is a great episode because I don't
+think I've ever heard anybody actually
+go through these details now one thing I
+will point out is that this was a video
+recording that we did in our
+certification program so if you're
+interested in seeing the actual video
+where Colonel lorf is going through the
+rfps the rfqs that he's referencing hey
+go to gov close.com sign up for our
+certification program all right guys
+let's get into it here's Colonel
+orendorf with how to read an RFP our
+topic today is how to read an RFP and I
+think this is really important I don't
+know if some of you were on our last
+session where we were talking about some
+details of responding with your proposal
+but sometimes it's better to take a step
+back and say let's take a look at what
+the requirement is I have two documents
+that I have pulled up one's an RFQ and
+one's an RFP and the key on these is
+they come on two different forms that to
+drive a little bit of how we would look
+at something what I'm going to try to do
+is go through these two documents very
+quickly each one of them we could
+probably take 3 hours and just do a
+little bit more in depth we could
+probably take about two days and like
+really dissect it so I'll I'll use a
+Navy term we're going to just do the
+wave Toops uh and so I don't want to get
+into too much detail we only have about
+45 minutes so there's a couple of things
+that I think are really important when
+you are looking at a request for
+proposal or request for quote a
+solicitation and the most important
+thing is everybody goes straight to what
+is it that you want me to deliver in a
+ship or a part or Services whatever it
+may be but there are so many things that
+drive your effort and your cost and your
+risk so what I'd like to highlight today
+are those things other than what your
+technical expertise area is if you're a
+software developer or if you're a
+manufacturer or if you're whatever your
+role is um I don't want to get into that
+I want to get into those other things
+that people normally Overlook and don't
+really think about when they're making a
+decision to provided a proposal the
+first step
+is what other things are in there can
+you actually deliver what the
+government's asking for so part of that
+is you can look at and say yeah we can
+do that now you have to look at all the
+other stuff and it's the other stuff
+that I want to focus on today so I went
+out into Sam and I just got two
+completely random files they are Air
+Force and they're small business set
+aides that was the only filter that I
+put on them and they're not act these
+are not current solicitations there's
+one from 21 and one from 22 but the
+point is they've got that pieces in
+there that we want to look at this
+solicitation is 51 pages long and this
+is a full-blown solicitation and it
+comes on a standard form
+33 this is important a lot of people
+will Overlook that but this is important
+because this particular form has the
+standard contract format and if you look
+at lock 11 the table contents it you
+look in here it's going to have a check
+mark by each one of the parts of the
+solicitation and it should tell you what
+page number each one of these par these
+sections are in most people will go
+straight to section l and m and skip
+over a lot of the other stuff and that
+is that's fine because that's the
+instructions to the offer this is what I
+need to see and that's important it also
+tells you here's the criteria what we
+will use to select the uh successful
+award
+and that's important we're going to just
+take a a quick run through these other
+sections and some of the things that I
+think you should look at when you are
+doing
+that so the first one is you're going to
+see an item number you need to make sure
+that you're very clear for each one of
+the items if it's a cost what kind of
+money is associated if it's firm fixed
+price or if it's cost or Cost Plus or
+what is that structure of the Clin that
+gets you paid um if you're not familiar
+with this for example this one is a Cost
+Plus fixed fee immediately we know that
+this is going to be very complicated for
+administrative on the background so as a
+company you have to make sure that your
+cost accounting your your invoicing team
+is not one deep it's not your side job
+this is a full-time job depending on the
+scope of things that could be three four
+five 10 people you have to account for
+every penny so the level of effort there
+is pretty high
+okay you're going to have a few things
+that are tied to that particular Clan
+and you want to make sure you're looking
+at that it's not going to have just in
+my have details about where is your
+inspection Point where's your acceptance
+point this means that you have to pay to
+get it to the
+destination all that is on you so these
+are things that you want to make sure
+you understand by each one of those line
+items so go through and look at that hey
+make sure you understand every piece in
+there go ahead Rick yeah know I just
+want to go back cu the guys may not be
+familiar
+like when you said Cost Plus fixed fee
+just give an over you don't need to go
+into all the different types of
+contracts but I just a little bit of an
+overvie as hey why is it that type of
+contract would require special
+accounting and more attention more work
+maybe an example of a contract that
+would be be far less yeah so I that all
+by itself is a complete session but the
+way the government approaches things
+it's either going to be a firm fixed
+price where you say I'll do this for $10
+000 or they'll give you exactly what it
+cost you plus a specific fee on that uh
+the reason what the what drives the
+government's decision is a risk
+conversation for the
+government who owns a risk in a fixed
+price Gavin if you're going to sell that
+boat behind you for
+$10,000 you own all the risk of being
+able to deliver that for
+$10,000 but if the government says look
+we'll pay you whatever it costs then you
+own zero risk it doesn't matter if if
+they come out and say we want to change
+we need this or there's a delay the
+government pays for each one of those
+costs so so the type of contract will
+will be driven by either fixed price or
+Cost Plus and Rick honestly to go any
+further than that will spin off into a
+whole new conversation maybe we do a
+separate session yeah no worries I just
+wanted them to be aware that hey there's
+several different types of contracts out
+there and that's kind of what you mean
+by Cost Plus fixed fee Y when you look
+at these Clans you're looking at the the
+00006 0000 usually means it's a base
+year if there's a one in front of it
+that means there's a maybe an option
+year the first option year if there's a
+two in front of it probably the second
+option year so this kind of helps you
+break out that there's a multiple years
+for something and you want to read some
+of this because in some cases they'll
+have data not separately priced you
+might think that you're going to get
+something that you're going to provide
+something but the government has no
+intention of paying you for it so make
+sure you look through those details very
+carefully there's a lot of codes and
+secret stuff in there but make sure you
+understand what it is that's what's
+going on
+there um so each one of these sections
+remember up above uh I showed you all
+those sections this is where there's
+going to be specific details for like
+packaging and marking if they require it
+if it's not in the statement will work
+and then there's a part here in SE an e
+where
+you uh you know some of the Clauses in
+this particular case so there 's a
+clause here 522 4607 inspection of
+research and development fixed price go
+look at the Clauses nobody in the world
+actually likes to read Clauses but you
+have to understand what it is you're
+signing up for while this might be two
+lines a lot of times a clause has
+details inside the Clause that are huge
+cost drivers or huge risk drivers or
+huge effort drivers this particular
+contract I don't know if it has uh like
+some of the Cyber sec Clauses but a
+cyber security Clause is two lines but
+sometimes companies pay hundreds of
+thousands if not millions of dollars and
+a huge level of effort to adhere to that
+particular Clause the key on this one is
+make sure you at least understand the
+intent of the Clause so you know what
+you're signing up for this is very
+important responsibilities for supplies
+sounds simple those three words but go
+and understand the basis of what that
+Clause is and this is the whole point of
+uh when you're reading a contract don't
+just look at the requirement and how
+much money you can throw on the table
+when you read these Clauses and the
+reason people get so much money for
+government contracts is because if
+you're really mature about what you're
+doing here you'll go in and say oh this
+inspection of research and development
+actually requires a full-time employee
+and some infrastructure that I don't
+currently have and if I'm prudent I need
+to pass that c to the government so
+where you might say I can provide this
+particular support for a million dollar
+once you read the Clauses you're going
+to start you have to add cost or price
+you have to add that to your Bot the
+amount that you're charging to the
+government you have to add all those
+individual pieces and make sure you
+understand what they are so that your
+original offer it's like yeah we can do
+this for a million but if you look at
+all the requirements you may realize
+it's going to cost you $3 million to
+provide this to the government based on
+all that other stuff they're asking for
+or I'll pause and take your question
+thanks LS then and if you're going to
+get to this later then then I can hold
+but I'm curious what tools is the
+government using in order to estimate
+those costs or they can implement it
+into the firm fix price and then are
+there any other tools that you see in
+Industry that may you work a little bit
+better for estimating so for firm fix
+price the government will use a process
+basically comparing the price against
+against industry standard or other
+contract actions they'll basically say
+is this a fair price so like everybody
+knows fair price for a decent phone is
+$700 to $1,000 so you use on a price a
+fixed price is it doesn't make sense
+it's a fair and reasonable when it comes
+to cost it's extremely complicated your
+company has to actually show the
+government what your overhead your GNA
+how you calculate that how you apply it
+to the individual elements and then
+they'll use those uh methods on the
+government side to decide if it's your
+cost or your price is appropriate for
+you as a company ultimately you have to
+look at all the pieces that it actually
+cost you to do the business and you have
+to be somewhere north of that um I mean
+that's I there's 10 million ways or more
+that companies try to figure that out
+and I'm not going to go any further than
+that one yeah guys you can remind me
+later but in I may brought it up in one
+of the training modules but for things
+like services and things like that I
+mean you can go on to like for instance
+GSA and look at the publish schedules
+for like a ton of all the companies
+basically that are on there and see what
+at least they have listed for services
+and products and things they often
+underbid what they have on there but
+it's a good starting point and I'll stop
+talking yeah that that's part of how to
+respond to the requirement but in this
+case so I'm going to get through this
+you can see that I'm only a a couple
+pages into the 279 Pages we're not going
+to go through it all what I want to
+really focus on are those things that
+jump out like so so read the Clauses
+right immediately any reasonable
+business person is going to say oh how
+do I get paid you probably go through
+this particular clause in pretty good
+detail because you want to know how
+you're going to get paid so I'm not
+going to go over this one at all there's
+payment instructions I'm going to cruise
+right through some of these this is
+where I stop because a lot of people
+just go oh well here's a bunch of stuff
+I don't I don't some of it's evident but
+if you're going to do business with the
+government at some point I recommend you
+go through and read all of these and at
+least skim them understand them there's
+most of these are fairly low risk and I
+do everything on a risk conversation
+it's like are you compliant or not
+compliant it's not necessarily the right
+answer from my perspective it's a what's
+the risk if I do or do not do this or
+what's the cost if I do it what's the
+risk if I don't some of these are
+lowrisk basically fundamental business
+you're probably far away from this like
+if you're if you're doing state level
+requirements for your employees and
+you've covered most of this of some of
+these areas so I'm going to pick out a
+few that I think are for example here's
+one that contractor code of business
+ethics and
+conduct 99% of the time you're probably
+doing this it's a low risk you don't
+need to do anything special if somebody
+comes in and says prove it and show us
+you could basically say this is just how
+we do business as a company some of
+these are a little bit different like
+some of these are never going to get
+anywhere near like a developed Hardware
+software developed by kisi Labs it's
+required by law to be in a contract but
+I don't even think you can get to that
+Hardware software but if you do then
+understand there's limitation trying to
+find one that actually
+does really Drive some key combating
+trafficking persons it's you need to
+make sure that uh you're clear on what
+you're signing up for you'll have to
+prove that one let's see in this case
+you have to there's a certification the
+final indir costs this one is a huge
+level of effort huge level of effort
+managing government property this is a
+huge level of effort it requires a
+property management system that we won't
+go into but companies can spend a
+significant portion of uh time and
+treasure on uh making that happen I'm
+looking for some of the cyber security
+ones those are my favorite ones here's
+here's my favorite this one right here
+nist
+800 nist 800 be careful with this one it
+has teeth and it's it it requires a lot
+of effort so when you start reading some
+of this stuff you'll realize you can
+spend uh almost a week just reading all
+these individual details and maybe a
+little bit longer to even understand
+them and if you don't understand them
+make sure that you reach out to somebody
+say hey help me understand what I'm
+signing up for here I have clients that
+have won a contract and then when they
+start getting some requests for the
+details associated with certain sub of
+the Clauses they just go yeah we didn't
+sign up for that well the fact is yes
+you did so the reading through all these
+I think it should be self you can see
+there's a long list and this is a lot of
+stuff but it's really important that you
+do take the time to actually read
+through those Clauses because they're
+going to drive details about how you can
+execute and what appropriate for
+execution those Clauses are not the only
+list those are just the ones that are by
+reference and when they say it's by
+reference it means that the government
+felt like they don't have to give it to
+you in full black and white because you
+can go read them and you know that's
+okay but some of the Clauses the
+government requires that they are put in
+there in full text and here it is the
+federal acquisition regulation contract
+clause is in full text and this is they
+think there it's important enough that
+you really have to go through and read
+the entire thing basic safe guardian of
+covered contractor Information Systems
+is another one like n just make sure you
+really understand and there's a lot here
+that that you need to as a prudent
+business owner do that cost versus risk
+of not doing evaluation for each one of
+these things because if you decide
+there's a cost ultimately you've got to
+figure out how to pass that to the
+government which impacts your
+competitive position so this is where
+you want to get into that as you do a
+bid no Bid And if you bid then how do
+you you do all those hard things about
+setting your cost that Mark alluded to
+so go through read these turn all these
+codes these Acquisitions codes
+essentially you you even have it listed
+on there but someone's like Hey where's
+the cheat sheet once I'm off here
+acquisition.gov we can just go there and
+you can type in the numbers and you can
+look up a lot of these different ques is
+am I right about that exactly if you
+type in this number in acquisition.gov
+it'll bring you to that exact clause and
+that is like I mean I just camp out on
+acquisition .g it is the main and
+authoritative site for the government
+and
+Industry at this time so anyway you can
+go through I'm not going to go much
+further on this one obviously section
+L&amp;M when we get into those once we get
+through the Clauses again based because
+time is is limited that all footstep and
+again read the Clauses make sure you
+understand fundamentally what it is
+you're signing up for if you don't
+understand it it it's something that can
+put companies out of business at the end
+of the day if the government comes and
+says Okay show us how you've done all
+this management system of this
+particular sub area and you go wait a
+minut it that's I'm a small business
+that's not what we do that it doesn't
+matter small businesses have to figure
+out how to make it happen so I think
+that point is hammered home yep by the
+way guys I would also point out
+considering most of you are aimed at
+Consulting and helping businesses you
+could probably look at these fire
+Clauses in the contracts and look for
+nich areas that you could focus on um
+and warendorf and I have helped many
+clients once they're on contract solve
+problems that are mentioned in a lot of
+those closets termination for
+convenience who owns the IP cmmc stuff
+like that the nist stuff you can if you
+find something in there and you're
+interested in it you could be the guy
+that solves that problem or G if you
+really want to focus in that
+area and and the other side is at the
+end of the day having an understanding
+what this structure really is helps you
+avoid problems long before you come to
+them if you if you read those and what
+Rick just talked about is really people
+who wandered into an area that they just
+didn't realize that it was right there
+in the contract that they could or could
+not go there and in some cases they
+didn't realize that it was in their
+favor that the way the contract was
+written gave them latitude to do some
+stuff that they didn't know they could
+do Mark go ahead yeah just real quick Le
+is is my understanding correct that from
+of these Clauses the prime really owns
+that responsibility in the event that
+they have Subs here's my favorite
+contract un answer hey guys we're gonna
+get back to Colonel andorf in a minute
+but I quickly wanted to talk about our
+certification program at gov close.com
+that's goov
+cl.com if you go there and you want to
+hire one of our trained and certified
+account Executives sales managers just
+click hire an expert if if you want to
+become an expert if you want to learn
+the Government Contracting process how
+to sell to the government how to help
+companies in any industry sell to the
+government and really get an in-depth
+understanding of federal spending
+analytics the tactics and strategies of
+how account Executives and Consultants
+work in the public sector then click I
+want to become an expert and then you'll
+get into the pipeline for our
+certification program and guys this is a
+GameChanger our students are rushing in
+they are bringing in leads and Co deals
+before they even graduate from the
+program in some cases it's really a game
+changer to bring in Revenue that you
+didn't have before and I'm super pumped
+about the results that we're seeing uh
+and this thing's taking off so if you're
+interested in getting it on the ground
+floor right now I am working directly
+with each one of the students and this
+thing's growing it's growing at a fast
+rate but if you want to get in now I
+would love to see you in there gov CL
+e.com and now back to Colonel orendorf
+it depends let me walk you through what
+those factors are that it depends on the
+federal acquisition regulation and the
+supplements whether it's a DS or uh GSA
+or NASA or Army Navy it doesn't matter
+Air Force the Clauses and the provisions
+are specifically for the uh solicitation
+the Clauses are ultimately going to be
+the ones that will end up in the
+contract those Clauses are either
+required to flow down or not required to
+flow down so if it say flowdown clause
+for example missed is a flowdown clause
+you get a subcontractor and we can
+debate the definition of subcontractor A
+supplier is a supplier a subcontractor
+do they have to that's a I don't think
+there's a clean clean answer on that one
+but every company has to decide how
+they're going to do business on that but
+if you have a
+subcontractor you are required to flow
+that Clause down and then they are
+required to adhere to the terms of that
+you're not the police of your
+subcontractor
+but at the same time do you have some
+responsibility for their performance of
+that if there's a problem you're the
+prime you got to you're in the middle of
+the problem but not always I mean there
+are some situations where that may not
+be the case but fundamentally you want
+to you do want to have a relationship
+with your subs uh and say hey these are
+the flowd downs we expect you to adhere
+to the requirements do the same thing
+that you're doing it's going to be a
+cost versus a risk uh conversation and
+if they choose not to do something you
+want them to tell you hey we're choosing
+not to do this cuz you share some of
+that risk of uh in some ways and again
+that's going to be a case by case it
+depends from that point so so Mark
+that's as far as I'm going to go on
+answering that question is that all
+right no that's really help well thank
+all right so understand if your Clause
+has to be flowed down and then figure
+out what you're going to do with it the
+rest of this particular contract and I
+think Rick shot this over to you or
+might shoot it over to you I don't know
+is the statement of War Arch it's it's
+going to go into section L&amp;M it's going
+to go to and I don't want to go through
+Section L&amp;M I because the key on that
+one
+is read what they're asking you to
+submit read the question and then
+understand the criteria that they're
+going to use to evaluate you that's
+section M L&amp;M if a contract uh
+solicitation has L&amp;M that that's really
+what you have to answer and they're
+giving you specific details of what
+they're looking at so I'm going to jump
+over to another
+example this one I can highlight so I've
+gone through and highlighted it this is
+important this is a standard form 1449
+and it's used across the federal space
+as a standard but as you can see on this
+one it doesn't have those that index it
+doesn't have that list of all the
+different sections it has a standard
+format and in this case there's a couple
+of key things that I look at I got my
+solicitation number the is dates they
+offer due date and time this is always
+important this you can read that but is
+the acquisition set aside what
+percentage and for what area so if it's
+100% set aside for small business you
+know that's the kind of stuff that
+you'll see that I've got a lot of large
+businesses actually come to me and say
+he how do we compete in this said if
+that box is checked you you don't you
+can be a sub to a limitations on that
+but you can't you can't compete for this
+and this one is a method of solicitation
+in this case an a request for quote a
+quote is a much less level of effort
+than a full proposal in a in a in
+invitation for a bid so a quote and a
+bid and a proposal are all different
+levels of effort if you will in some
+cases you you basically write a number
+on a piece of paper and put it in an
+envelope and that's that's it you
+basically say we accept all terms and
+conditions and here's our number so
+and sometimes that's you think that
+sounds oh that's easy well no that that
+is somebody who said we've read all the
+fine print and we know what we're
+signing up for and this is the way it's
+going to work so deliver to all these
+pieces right here if it's really simple
+it'll all be on one page but if it gets
+a little bit more complicated then they
+add sections for each one of these so
+let me walk through this a little bit
+you want to pay attention to some of
+these details right here here and this
+one is for commercial Contracting and
+again I think that's a whole separate
+topic Rick what's commercial and what's
+what's not but I'm going to walk through
+this a little bit I'm only going to stop
+on the pieces that I highlighted because
+I I want to leave a few minutes for
+questions in the item this one right
+here it's again the pricing Arrangement
+is firm fixed price so for this
+particular item they want one one and
+the unit price is going to be $10 and
+the extended amount would be the unit
+price multiplied by the quantity in this
+case $10 that's pretty straightforward
+but you'd be surprised how people get
+that
+confused the description specification
+statement work this is short this is
+very short so if you're going to sign up
+for this you want to make sure you
+understand it stuff like a minimum
+5-year warranty and support program is
+not trivial so when you're offering
+something these things now again drive
+very much the the price of your item so
+Gavin you might sell that ship behind
+you for a million dollars uh but in this
+case they want a fiveyear warranty and
+support program and all of a sudden you
+go well I can't do that for a million
+dollars a warranty I'm going to have to
+add at least another five million which
+is so now you realize that the price you
+put in there that little box isn't
+trivial it has to add the details of
+that war
+so now you have to put 5 million in
+there instead of 1
+million so if it's silent on things
+that's fine in this
+case destination destination means that
+the shipping is all on you so make sure
+you include that in your price so if
+that Mar G I love the ship as my my
+example here if you have to get that
+down to norfol and it cost you you got
+to get a crew together you got to get
+some advanced fuels you got to you got
+to get some Air Force guys to run the
+computers the these are all costs to get
+it to that delivery location so now
+you're going to say oh that's another
+million dollars to deliver it so now
+your $1 million item is up to $6 million
+because you've started to read the
+details in in the contract so I always
+look for stuff that drives the cost
+effort or risk when I'm going through
+because a lot of my clients will say hey
+we the statement to work and here's how
+much we want to charge like okay wait a
+minute here are all these other things
+that you've got to account
+for here's another one they want this
+delivered within 30 calendar days upon
+award receipt so so Gavin now all of a
+sudden you got to get that ship
+delivered within 30 days and that means
+that you have to have when you put the
+bid you have to have a plan for how
+you're going to get all those Air Force
+guys on the bridge to run the computers
+within 30 days and how long does it take
+for you to actually get the ship to that
+location so so now all that adds some
+cost because in order to have that kind
+of Readiness you got to have uh a few
+things in place it cost some money so
+you got to think about stuff like that
+so this is just a simple quote that
+they're asking for here so this is
+payment terms if that
+happens and here's one that I find
+really fascinating unique
+identification um each item in this case
+this Clause is an example of one that
+drives an infrastructure for the company
+you have to be able to clearly put a
+label on each item if you have ever seen
+a piece of government equipment it's got
+a plate on it and it's got like a NSN
+and then it's got like other numbers and
+sometimes has a contract number and then
+sometimes now they've got this you
+ID that is a combination of your company
+cage code I think it's a cage code your
+UEI that you all have from Sam and a
+unique part number and unique
+subassembly part number no it's easy to
+just slap that on a con on an item but
+now you have to have an infrastructure
+that tracks that when do you deliver it
+how did you deliver it have you ever had
+it back for repair work so if you think
+about the complexity of that this Clause
+sounds oh I got to put a number on
+everything well no it's actually
+requires you to have an inventory
+management system
+that is for the lifetime expectancy of
+this particular
+item so again okay so now we've got
+that's going to cost some money that's
+going to probably I could put that under
+my warranty costs as as part of that
+management but you know maybe I need to
+add a whole level of effort couple
+hundred thousand so now we're up to 6.2
+million to get the boat to even if it
+was only 100 million or a million dollar
+item okay so I think I had just a couple
+of other items here 52 214 212 anything
+where you see a 212 as a-4 and-5 this is
+actually a whole another list of a long
+list of contracts Clauses uh so it's
+deceptive what the government did was we
+want to simplify our Clauses so we just
+want to have one so the for Council said
+okay well we're going to put 93 Clauses
+with inside that one so if you only want
+to use one in your contract if anybody
+reads it they'll see that it's actually
+that's where we hit all the contract
+Clauses that we really want to keep in
+there -4 and-5 are the two culprits on
+that one so make sure you go and read
+through all those and sometimes they're
+in full in in full text as
+well yeah here's the dash five and this
+you can see there's a long list of
+additional Clauses that are included
+there and then I think there was only
+one other area that I really wanted to
+highlight in this one that was pretty
+much it the I I think you got the the
+point bottom line is read the RFP don't
+race pass all those things that could
+multiply the cost of your ability to do
+business by factors of five to 10 or
+more it's important to to realize what
+it's going to cost you and everything is
+ultimately down to a cost or risk and in
+some cases if you don't understand the
+risk reach out to somebody that if you
+got a mentor or RI is really good at
+this stuff reach out and say say hey I'm
+going to be doing a lot of business in
+this space these are the Clauses that
+I'm seeing let's walk through it at
+least one time where we get a good solid
+grasp of what's dangerous and what's not
+dangerous so I'm going to stop there
+that gives us about 15 minutes or so for
+questions Rick unless there's something
+specific you want me to address it gives
+us six minutes for questions because we
+this ends at 2:30 but that's cool I'm
+sorry I was tracking an hour all right
+six minutes for questions six minutes
+for questions and and I'll also say that
+just like a real world example time this
+into also some just Consulting best
+practices by like mistake that I made
+there was a client Colonel oror and I
+worked on we we had calls all the time
+to review these rfps and rfqs before
+company submits proposal on
+them now Colonel W off reviewed it and
+made them start taking a look at the
+different Clauses in there so it could
+understand what they actually had to pay
+for and then they realized that they
+would not make as much money as they
+thought they would because they would
+have to then adhere to all these Clauses
+now two things one is it's that's just
+an interesting thing that companies
+should do before they submit so if you
+see it no thing from a Consulting
+standpoint the mistake I made I always
+make a client sign a contract but I was
+sick when this happened I didn't make
+them signings and what happened was they
+found out that oh they're not going to
+make the money they thought so they just
+disappeared on me they investor back out
+yeah they're the only client that has
+never paid me in five years so just a
+couple couple of luckily it wasn't like
+a huge thing but just be aware of that
+right always make him sign a contract
+always make him give a down payment and
+especially with something like this
+right they and they may very well learn
+that it's going to be harder than they
+thought take longer than they thought or
+it's going to cost more okay uh the
+floor I know there was Brooks asked sir
+are RFQ is more often issued for
+material purchases I guess he's meaning
+products it depends each Contracting
+activity is going to decide what works
+best for them to get what they want as
+far as a lot of times a request for a
+quote will be put out for things that
+are supplies that are readily available
+so Motorola radios is a really good
+example there's a lot of vendors that
+provide Motorola radios so you might go
+out for a quote from all the vendors cuz
+it's a known commodity and there's no
+you don't really have to worry about too
+many of the details so it it's going to
+depend on what the buying activity is
+really trying to do and and how what
+they're what they're buying I I don't
+know if there's a standard every
+contracted activity buying activity will
+use these tools differently yeah you do
+see a lot of them from the da defense
+Logistics on their bidboard and that's
+yep where I really like talk about NSN
+numbers like if you're in selling
+products like colonel was talking about
+that's where you're going to see those
+and you know ifbs and rfqs
+MH and is a by the way there's also a
+whole process for establishing an NSN
+number so a company that has a new
+product and they want to start selling
+it there's another Niche for you guys
+that's huge yep what other questions do
+we have I will I I'll add one thing to
+that I was a commander for defense
+contract management agency a couple of
+different times and one of the things we
+had to do is when the contractors
+started performing we'd go in and say
+okay show me what you're doing with all
+this stuff and it was just
+heart-wrenching to see them their face
+drop go oh we didn't really add that to
+our pricing or our
+resourcing and it's like hey you gave us
+a price you signed up for it it was in
+there it's in the contract that you
+signed so I to me this is one of those
+where I'm a little bit passionate about
+this because I hated seeing that and
+there's not much you can do on on the
+government side it's like no you have to
+do this is there any room for negotiate
+like say you're awarded the contract is
+there any room to negotiate any of the
+what what was in the
+RB yes Vol contract if you read the
+instructions in The Proposal it it'll
+actually give you a section where it
+says Identify any terms and conditions
+or uh requirements that you would uh not
+adhere to or would like to have changed
+and if you identify hey government if
+you relieve us of this particular
+requirement your cost will go down
+significantly you can highlight that and
+the challenge is once you've been
+notified that you've been awarded that's
+not the time I mean it's probably the
+right time to say hey we're not going to
+sign this unless you take these P pieces
+out that's not something we can sign up
+for but the best place is during the
+question and answer for draft RFP or
+source of s you say hey best industry
+practice here is if you want this
+Battleship behind Gavin you need to
+remove these particular requirements you
+need to make sure that this is not in
+there or you need to make sure this is
+in there um if these particular uh DOD
+guides and standards are applied then
+then it will be a significant cost
+driver so Brooks I think there are
+multiple points along the way where you
+can influence that but at the end of the
+day everything is negotiable now I
+shouldn't say that because there are
+some things from the government side
+they're going to say our lawyers all the
+way up say no this particular Clause has
+to be in there and even by law if it's
+not in there it's in there by reference
+for example termination for default even
+if your contract doesn't have that the
+government as a sovereign will always
+have that that right even if they forget
+to put it in the contract and that Q&amp;A
+yes that Q&amp;A would be public say you're
+shipping something to a government and
+it's six seven maybe even eight months
+out and shipping costs go up is there a
+chance for you to come back and say hey
+negotiation negotiate on those costs it
+depends on why the costs went up if
+there's some economic factors that are
+be on your and the ship control and if
+your contract has a clause in there that
+says as adjustment for economic factors
+then and that's one of the things you
+would add ask the government to add hey
+will you add some uh language in there
+that says if if the world changes and
+shipping is impacted by something then
+you'll enter negotiations with us about
+how to adjust for that does that answer
+your question Fred yes it does thank you
+all right well guys uh thanks for coming
+in today hey Colonel rorf will be back
+he'll be a returning guest uh I know how
+much you guys liked it last time so
+think about some of the things that you
+experien as you go through the course
+you start working with clients I know
+some of you guys are already generating
+great results and and working with
+different client so Lewis thanks for
+coming on today really appreciate it
+that's my pleasure always fun that was
+retired caral Lewis oror Master
+Government Contracting
+officer one of our recurring instructors
+in the gov clo certification program and
+also recurring guest on this podcast
+guys if you are enjoying the content
+please let us know when podcasts in
+particular one of the measures for how
+successful a podcast is is by the
+comment so I don't ask for in every
+episode but if you could leave a comment
+and while you're in there you could say
+hey I'd like to see an episode on this
+or I'd like to hear you guys talk about
+this subject and it can be anything
+within Government Contracting how to
+sell to the government how to manage
+contracts once you're on problems you
+guys are seeing if you're starting and
+Consulting you have questions about our
+certification program any any of the
+leave them in the comments we will get
+to them love to see you guys over at gov
+close.com so whether you're a company
+and you want to hire one of the people
+that we've trained and certified for
+selling to the government so Business
+Development and account executive sales
+roles primarily if you want to hire a
+freelancer to do a project for you you
+can go there and just hit the hire a
+expert button if you want to learn about
+Government Contracting and potentially
+start your own Consulting business or go
+on to work for a company hit the become
+an expert button and then that'll get
+you into our pipeline for the
+certification program our students are
+crushing it generating results before
+they even graduate it's really inspiring
+to see people from all backgrounds with
+no experience to years of experience and
+bring in income streams that they didn't
+have before makes a difference makes a
+big difference so thanks for listening
+we'll see you next time we're out

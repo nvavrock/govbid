@@ -1,0 +1,209 @@
+Kind: captions
+Language: en
+Everyone's talking about AI agents and
+AI assistants. You know, those tools
+that answer questions that often are
+helping you write code. Some cases,
+they're even help pilots fly aircraft.
+It seems like everyone's making and
+building their own AI agents and AI
+assistants. Well, here's the twist. The
+US government is actually spending money
+on these AI agents and AI assistants. By
+the way, Rick Howard, didn't even
+introduce myself. Former government
+acquisitions officer. I managed over $82
+billion in contracts for the Department
+of Defense. Now I run GV close, the
+number one training program for
+government contracting professionals.
+Meaning if you want to get into
+government contracting as a sales
+executive or you want your company to
+start winning government contracts,
+govclos.com, check it out. So today
+we're talking about AI agents, AI
+assistance. And if you've watched the
+channel for a while, you know how
+important it is to understand federal
+spending. This is the big advantage we
+have. All of the data is public so we
+can take a look at it if we know where
+to find it and then reverse engineer our
+path to success. The problem is most
+people don't know where to find it. So
+let's take a look at what the numbers
+actually say. First we're going to look
+at the Department of Education which is
+putting together a proof of concept
+called Aiden. Now this is a chatbot that
+is helping people navigate the
+complicated student loan process. This
+is a proof of concept. So this is the
+type of example that you want to look
+at. If you're developing these type of
+solutions and want to get in front of
+the government. And by the way, if you
+want to see and identify these
+contracts, you want to go to USA
+Spending. It's a free government site. I
+have a ton of training in our channel.
+You can go here
+and hopefully I put the actual playlist
+there which will give you a ton of
+training on how to use USA spending and
+do federal analytics. Now, here's the
+catch. When the Department of Education
+put this on contract, they didn't just
+put it out on SAM.gov, you couldn't just
+bid on it. This was awarded through a
+contract vehicle, which means you have
+to be on that contract vehicle already
+in order to go on contract for something
+like this. So, we have to understand how
+the government actually buys the type of
+thing we're trying to sell. So in this
+case, we would have to either
+subcontract to a prime that was already
+on that contract or wait for a
+onboarding opportunity. Again, we've
+done plenty of training on contract
+vehicles, which you can check out in the
+playlist. Now, as a veteran, I always
+wonder, hey, what's the VA doing? Right?
+So, for those service disabled veteran
+owned small businesses out there, fellow
+veterans, the VA buys a lot from
+SDVOSBs, but not exclusively. And the VA
+has been experimenting with AI chat bots
+for years actually. Now these are much
+smaller awards. Now we're looking at
+awards that are like $10 million and
+less. But the reason this is important
+is because it opens up the door for
+smaller companies to get in and try
+things out. So while the commercial
+world obsesses over these huge AI
+launches, the VA quietly works for the
+small and mid-size businesses. So this
+is where you could get your foot in the
+door. if you have anything that could
+potentially automate veterans claims or
+work with them to navigate these
+somewhat complicated disability websites
+that the VA has. I'm not saying I have
+experience with that, but I do.
+You may be in line to work with the VA.
+Now, where do you go if you want to work
+with the VA? I would start with sam.gov.
+And you don't want to look for a RFP or
+RFQ. What I would advise you is look for
+a sources sought that's going to take
+you out of the solicitation phase and
+put you squarely in the market research
+phase. You want to find the opportunity
+as early as possible. Develop a
+relationship with the office. See if
+your solution fits so you don't have to
+waste your time writing a proposal that
+you're not going to win down the line.
+Now, the Navy has a GPT that they are
+potentially going to launch across the
+service. So, I just want to point that
+out for you. If you are looking for
+either opportunities in SAM.gov or
+you're looking at past federal spending,
+play around with the keywords and see
+what you get back. So, if the Navy is
+looking at potentially using an AI tool
+for everyday office work
+as a former Air Force officer, I wonder,
+hey, what's the Air Force actually
+looking at AI for? Well, DARPA and the
+US Air Force have been already
+experimenting with AI. In fact, this
+probably will not surprise you, but
+they're using AI in flight tests.
+Autonomous AI agents have already flown
+the X62A Vista fighter jet in simulated
+dog fights against humans and won. Now,
+what's the implication here? Well, the
+implication potentially could be that AI
+agents aren't just going to live on your
+home screen of your computer, but in
+this case, they could be in the cockpit
+actually flying aircraft for the Air
+Force. Now we know that you know drones
+to a certain extent remove not to a
+certain extent drones do remove the
+human from the cockpit or the but they
+don't remove the human from the loop you
+know there's always a human controlling
+the drone now there are some automated
+tools in case they lose connectivity and
+whatnot but this is really interesting
+having AI actually fly the aircraft
+realistically though I think the near
+term is going to show AI agents
+supporting pilots not replacing them
+probably analyzing threat threats, uh,
+providing recommendations, uh, making it
+easier for the pilot to concentrate on
+what he's supposed to be doing, which is
+flying the plane instead of a lot of the
+paperwork and various other things that
+are taking place in a aircraft. So,
+while you hear AI agent and think serial
+chat GPT, the Pentagon hears AI agent
+and thinks battlefield autonomy. Now,
+you want to look for those contracts
+under NAKES codes like 541715.
+Now, those aren't exclusive to AI. In
+fact, there, to my knowledge, there is
+no AI code. I'll double check that
+before I publish this. But often when we
+see a new technology, you're going to
+see those new technologies fall under a
+variety of different codes. By the way,
+when I say NAKES code, it's NICS. That
+stands for North American industry
+classification. It's a a code which
+represents usually an industry like it
+or construction. in a product service
+code or a PSC code. That's a code that
+usually represents a more concentrated
+or focused subset of a NAKES code. When
+we see a contract, we usually see it
+have a NAKES code or a category and a
+product service code as well. Now, if
+you're serious about selling your AI
+agent to the government or selling to
+the government in general, you have to
+understand the vernacular. You have to
+understand how the government buys and
+the terminology and how to do the
+research, right? So that's what we teach
+at Govclo. We walk you from very
+beginning 101 all the way through the
+most technical federal data analytics.
+And it's the reason that our over 200
+gov closers, maybe I'll call them in
+this video, it's the reason they're so
+successful. It's because they understand
+how the government buys. And so when
+they walk in to help a company, they
+walk into an interview and they're
+getting hired or they themselves have a
+company and they're selling, they know
+who they're selling to, how the
+government buys what they sell, and they
+also know how to develop relationships
+and walk a opportunity all the way from
+identification to closed contract. And
+that's where the work begins when you go
+on contract with the government.
+Subscribe here on YouTube for more
+stories and check out govclos.com to get
+started because the government isn't
+waiting on AI assistance and agents and
+neither should you.

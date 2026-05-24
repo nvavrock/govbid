@@ -1,0 +1,1038 @@
+Kind: captions
+Language: en
+all right hey everybody Rick Howard here
+in the dod contract Academy thanks for
+tuning in this week I have a guest who's
+returning again to talk about the latest
+updates with us Rogue we've got John
+Ferry here John hey how's it going today
+good Ricky how are you doing you know
+just just living the dream man living
+the dream using use Rogue uh quite often
+which is why you keep coming back on
+here and uh so for those I could explain
+it but people probably tired of hearing
+me uh you know talk about different
+things so why don't for anyone that's
+just if this is the first episode
+they've heard with you on here why don't
+you talk a little just give us an
+overview who you are what is US Rogue
+what does it do and maybe we'll start
+there yeah no appreciate it yeah so John
+Ferry um founder co-founder and CEO of
+us Rogue um it's a platform where we
+integrate generative AI right so thank
+the types of things you get from a chat
+GPT but we really built the platform
+specifically for bid and proposal
+writing right and you know I've got 15
+plus years in the govcon space one of
+the things that I enjoy the least is
+writing proposals but it's also that um
+you know it's that task that you can't
+get around right it's that like 8020
+rule you can do all the engagement with
+the customer that you want but at some
+point you have to sit down and write
+some form of a proposal or else you
+don't get the work so with generative AI
+you know it bursts on the scene and and
+everyone's Consciousness when chat GPT
+really came to four um and we were
+actually building before that U because
+I have a background in AI um and so we
+were like hey AI can do this stuff we
+don't like doing this stuff um so let's
+build a platform that can do this stuff
+for us so that's that's how Ro Rogue was
+born and we've been adding features and
+functionality to it since we launched
+awesome no that's great and then for
+anyone listening so we did you can go
+back and take a look at the initial
+episode that we did together so you know
+we really get into John's life and his
+background and you know the the nuts and
+bolts of how he ended up developing it's
+a really interesting story and this
+generated a lot of excitement on my part
+and I know on a lot of people that are
+in the federal government space because
+I mean just what you said proposal
+writing is such a huge pain in the ass
+and RFI response writing sources thought
+you know I'm not going to get into what
+that is you know I've got a probably 100
+episodes on just responding to those
+alone but it is it's a necessary part of
+the game of uh you know of influencing
+requirements and then of course the
+proposal itself
+um not only a huge pain but because
+sometimes you're talking about a not
+just a 10 or 20 Page proposal but you
+could be talking about a 100 page
+proposal for a big effort yeah and not
+only is that time but if you have to pay
+somebody to help you with that I mean
+look and I've helped people write
+proposals a lot I mean you could very
+easily be spending 10 or 20 grand on
+proposal writers to help you go after an
+effort and companies do it because if
+it's the results going to be a $5
+million contract or even a half a
+million dollar contract it's worth you
+know getting you know someone to help
+you out and and make sure everything's
+right so when I saw used Rogue was an AI
+tool that could potentially help me
+write some
+responses and by the way I was using
+chat GPT to kind of help you know before
+and you know if anyone's used it I mean
+it has a lot of limitations right
+besides first of all it's not designed
+to write proposals so it's taking a
+guess and you don't know where the
+information is coming from but uh also
+you know you could be limited in the
+length of you know what you're writing
+um so just a quick synopsis of where I'm
+at now and I usually I'm not usually
+bringing people on multiple times
+there's only a few people they know like
+really specific subject matter experts
+but I've been using this a lot to
+generate proposals for myself we've been
+staying in touch about the different
+updates and whatnot and so when we
+started using it right away what I loved
+about it was I could upload anything
+that I've written right so and correct
+me if I'm wrong about any of this
+because this is my understanding of the
+tool and you can tell us about some of
+the updates here but you can upload
+anything that you've written so if I've
+written a bunch of already if I've
+written proposal I can put that in there
+and then use some of the features of
+used road to just pull from what I've
+written so it's not pulling necessarily
+from you know the internet and stealing
+from other people I can say if I have a
+technology that's pretty specific it can
+start pulling that into the document for
+me so I don't have to you know duplicate
+my effort it can rewrite it for me it
+can change the word count which I
+believe is a feature that finally got
+added which I'm pretty happy about um we
+listen to our customers
+R you know that was that was one that
+was one of the top ones on my list um so
+I really love that feature even things
+like use cases right so like you know
+I'm going to have documents that have
+use cases in them and so now I have to
+reconstruct them or pull them out but
+now you know it makes it pretty easy and
+cut and dry to just have it in there and
+again it's not the I don't want anybody
+to think that and maybe you disagree
+with this but it's not the 100% solution
+for me but it gets me pretty
+far nobody wants it to be the 100%
+solution right like it's kind of
+dystopian if you're thinking that like
+the government's gonna publish
+solicitations with AI and then industry
+is just going to use their AI to respond
+to them it's just going to be the AI
+talking to each other right like change
+the use case that's the the fear of
+every human on earth and so no like you
+don't want it to the government doesn't
+want an AI written proposal right that's
+that's not what they're paying for
+they're paying for your unique solution
+and the way I describ this is like if
+you're worth your salt if you're in this
+game right you're you're trying to
+provide solutions to government
+customers they want your particular
+approach and you can articulate that
+approach in probably 10 seconds right
+whether you're talking Professional
+Services material training what have you
+you can you can you can articulate that
+the challenge comes right the reason why
+you got to pay $20,000 for a proposal
+writer is that you then have to take
+that 10-second sales pitch and turn it
+into 150 page proposal and my first the
+first Cost Plus fix fee proposal I won I
+think the total page count ended up
+being 130 150 pages and I did I paid
+$20,000 to a proposal manager to help me
+tackle that yeah you know eat that
+elephant and that was inexpensive for
+what I got out of it so that's that's
+our philosophy there so 100% And then
+yeah really the way we built the tools
+was we looked first at what are the
+things that govcon companies do when
+they do
+proposals know and then we just tried to
+apply AI to that right so you know we
+all have a shelfware um file right where
+we go back into our old proposals that
+are really good the ones that won the
+ones that have really well articulated
+sections of content about our
+Professional Services or you know
+supplies or whatnot and we take those
+sections of content we reuse them right
+we we try to reformulate them that's
+stuff that AI is really good at so we
+try to make the workflows intuitive and
+automated so that rather than you having
+to go in and harvest your old content
+your old proposals your you know slick
+sheets just let the AI do that that it's
+capable of doing it and exactly to your
+point then you're not using chat GPT
+that's talking about General generic you
+know Professional Services it's talking
+about your specific Professional
+Services because you've written about
+them before so it's um yeah there's
+there's there's a lot of different AI
+products on the market and I'll
+editorialize a little bit a lot of folks
+kind of said hey chat GPT is cool we can
+use this for 5,000 different uses and
+they just kind of Clone chat GPT and
+stuck a database behind it we have a
+chat interface it's used for a
+particular purpose in our workflow right
+so yeah we we really try to build all
+the features around how humans already
+do proposal writing and just kind of AI
+powering a lot of those things yeah you
+know it's it's interesting because this
+actually what it reminded me of as you
+were talking was how I advise people to
+approach the government for sales right
+which is um when you're talking about
+chat gbt which is a lot of people make
+mistake of going into a government
+office and saying hey I can do
+everything I can do anything you want I
+was on the receiving end of this right
+so I'd have cyber SEC i' need someone to
+do I use penetration testing as an
+example but you know someone would come
+in I need something specific and they
+like no we do a thousand different
+things here's here's the uh capability
+statement it has like a hundred things
+on there I'm like oh you know great so
+we could do it all but then someone
+comes in like Hey we're the penetration
+testing experts it's all we do these
+other things you're talking about great
+you know hire that other company that
+does a thousand things we do this who am
+I going to hire right it's the company
+that does the penetration testing and
+for this it's it's design for proposal
+writing and it it shows in the use so so
+everyone knows this is something that I
+use I've been using it for a couple
+months um you know I I paid for it as
+soon as it came out um you know because
+I just wanted to see what it could do
+and I want to make sure that I'm I'm
+actually using something if I'm
+promoting it on the podcast um before we
+get into because I know you're going to
+go over some new features with us uh
+that have recently come out I just
+wanted to talk about you mentioned that
+130 page uh proposal that you wrote
+right and you paid some2 and to do it if
+you had had used Rogue at the time and
+this is something I'm curious about what
+do you think use Rogue could have done
+for you um and how would it have changed
+the way you approached that particular
+proposal that's funny because the the
+trauma of that proposal is part of what
+fuels how I think about the features we
+Implement right because like that's the
+mindset I try to put myself in when I'm
+thinking about like oh should we build a
+or build B uh so a couple of things we
+built uh what's called multi-tenancy so
+if you use like Google Docs and you can
+have multiple people working on a
+document at the same time um we built
+that feature into the platform because
+what I really didn't enjoy was the
+Fairly standard process of like give the
+proposal you know give this section to
+Jimmy he has five days to write his
+portion and then check it back in and
+then you know sometimes there's tools
+that like merge those different sections
+to together and make kind of the the
+almost like the branch merging from a
+coding perspective like I hated that
+because if I want to work on that piece
+of content right I have to wait five
+days until Jimmy's done with it and then
+he's going to check it back in and then
+I have to check it back out he has to
+wait so building multi- tendency in
+we've seen a significant advance in just
+the ability for folks to actively
+collaborate while they're writing right
+get on a zoom call get both of you in
+one document and just power right
+constant right I think that
+huge um reformulating give me an example
+before we move on from that right so
+let's say that um that me and you are
+writing the majority of a proposal right
+and uh you know maybe we're in the the
+technical section where we're going
+through the
+specifics how does that work if you know
+me and you are in there and maybe you're
+handling you know the first three
+technical objectives and I'm handling
+the last three how would that work how
+would we both be editing that document
+could we both work on it at the same
+time and it tracks changes is it going
+to is my stuff going to change yours and
+then of course I did change something
+that you wrote do you have a way of
+seeing that like what's the um how how
+should I think about that yeah I mean
+it's it's live it's just like a Google
+doc so if you're both in a document at
+the same time you can see each other
+where your each other's cursors are so
+you know hey Rick I'm going to I'm going
+to work down here in paragraph three you
+work on paragraph two and you real time
+see each other's changes as you add to
+the documents so um I personally like to
+do it in real time like pull up a zoom
+um a zoom call and like let's let's
+virtually be in the same room actively
+writing at the same time different folks
+have different processes that they use
+and we don't really want to get in the
+way of that but we want to give them the
+tools to be able to really Empower their
+processes with these new features that
+are available in other software tools
+but don't actively come into go sasses
+quite as quickly so yeah okay cool all
+right and I cut you off there so you
+were getting into some of the other
+features no I think so that's a big
+thing um the Snippets function where you
+have essentially a real time shelfware
+content I mean that was directly off of
+one of my major pain points which is
+like hey I have to write a request for
+information response it's 14 bullet
+points I'm going to reuse you know six
+sections of content from five other RF
+I've already written right like if you
+focus and you stay in the same sort of
+market right I focus on DOD I focus on
+Professional Services the content is a
+little bit different but you're going to
+reuse your best and brightest content
+over so we built in the snippet shelf so
+you don't have to go into your old
+proposal and in some cases you don't
+want the AI necessarily organically
+generating that the snippet shelf you
+can just pull that best a breed content
+right off the shelf and drop it into
+your documents really quickly I really
+like that because I hate how what a time
+waste it is to go into my share drive
+and have to like control F for that
+particular part of content where I
+talked about how good we are at you know
+business and financial management we
+just have it on the Shelf um and I think
+the the new feature that we just rolled
+out last week where we upload the RFP
+and it parses it into the separate
+volumes and automatically generates an
+outline for each of those volumes so
+like 10 seconds replaces maybe only 30
+to 30 minutes to two hours worth of
+someone's time yeah again like going
+back to the first five days of a
+proposal writing process right you've
+got a 30-day clock the first couple of
+days are always somewhat harried because
+you just got the final RFP you're going
+to break that thing apart you're going
+to divvy up sections someone typically
+gets assigned the task of building out
+the initial
+templates well the AI can do that first
+initial template generation for you and
+you can skip straight to the part where
+people are starting to write on
+documents and multiple people can write
+in documents at the same time so there's
+no there's no time lag between Flash and
+bang you can go straight to adding value
+and responding rather than wasting 48 72
+you know9 that's interesting yeah it
+sounds a little bit different because as
+I was using it you know before I know
+there was a section where I could
+basically I could kind of type in what
+the sections needed to be right like
+there's could to be an introduction
+there's a cost section blah blah blah
+now you're saying I think that you can
+upload the entire RFP and it figures it
+out that's that's what we're for y
+that's good stuff all right well why
+don't we why don't we bring it up and um
+you can walk us through some of that
+sounds good let me uh try to share my
+screen here
+cool and for everyone listening while
+he's bringing up the screen if you're
+looking at cmmc if you're looking at fed
+ramp and you don't know what to do head
+on over to our website we've been
+helping a lot of clients lately as this
+has been picking up uh you can go to DOD
+contract uh.com cmmc and you can see uh
+see what we're doing there and um you
+know put your name and email in and we
+can uh set up a consult so okay back to
+this so John you have just pulled up um
+Rogue use Rogue here yep so and we just
+released a new landing page I think
+yesterday the day before a little bit
+cleaner little bit nicer the
+responsiveness is actually
+snappier uh so we are constantly trying
+to optimize the entire experience so
+here's my proposals for folks who
+haven't seen this before right we we
+keep the main thing the main thing which
+for us is writing proposals right this
+is this is what we're here for so this
+new feature I talked about is it's
+really trying to like streamline that
+initial phase so you know I'll spin up a
+new proposal war room here which is kind
+of how we
+do proposal management and Knowledge
+Management in the same context so we
+essentially have a virtual version of a
+proposal writing war room where we
+manage all the documents and you can
+move them through like your proposal
+process on a con Bond board and whatnot
+so what you were talking about Rick is
+the the process right for an auto
+generation you can put in these three
+bits of data document title a concise
+description of what the government is
+looking to buy and then your document
+template is kind of the headers that you
+want to put into that document whether
+it's an RFI or source of what have you
+or a full you know RFP response so that
+is that's kind of the um the current way
+of doing it so the new way of doing this
+is to upload an
+RFP give this a second to drop back in
+and then just for everyone listening as
+I was looking through what you have in
+there you're using this for a lot of
+different things I saw cber proposals in
+there I saw kind of normal proposals RFI
+social s response so this has a lot of
+different use cases that's right and we
+try to keep the interface incredibly
+clean right we want the workflows to
+apply to many different writing tasks
+right so so we don't want a user to have
+to come in here and have a different
+button for I want to write an RFI I want
+to write a you know source of side I
+want to write a full-blown s volume RFP
+response the workflow is applicable to
+all those different govcon writing tasks
+and we stay very disciplined on how we
+build out the user experience so this
+new feature we're talking about you
+either paste the content in or we can
+upload a Word document we're working on
+getting
+to um
+being able to upload our or PDFs there's
+some weird formatting stuff that can
+sometimes depending on how they save the
+PDF sometimes it actually throws off the
+character saving so we're working on
+that extract but right now you can
+export the PDF to a Word document and
+then just upload this word document so
+I'll go ahead and upload that right here
+it is loaded and then I'm going to start
+generating templates off of that okay so
+it goes in it finds the the stipulation
+right sections L&amp;M where the government
+tells you how they want your proposal to
+come back and it starts autogenerating
+those sections oh look at that so I can
+by the way so for anyone that doesn't
+you know just if you're listening to the
+podcast essentially he uploaded the work
+Word documents and then all of the it
+analyzed it and it just started
+generating different sections executive
+summary exceptions acronym list
+technical approach management approach
+so it's and and with sub bullets to each
+of those so this is
+really interesting yeah if you're
+listening to the podcast it's worth it
+to go look at the the YouTube video yeah
+check out the YouTube video oh by the
+way if you go to use Rogue tell them
+that you discover this on the podcast uh
+and you know you may have some special
+incentives there and um that aren't
+available to everyone so now we have
+these documents of the AI kind of
+autogenerated so I'll I'll pick one of
+these to pick on uh maybe the management
+approach right so we've got the document
+title here so the AI autogenerated and
+and included the the title for the
+volume that the government stipulated
+it's included in the document template
+the sections that the you know the
+government solicitation stipulated for
+that particular volume and this is
+volume Five the management approach and
+so I'm going to drop in what we call the
+description and this is just the
+concised articulation of what it is the
+government is looking to acquire so you
+know the background paragraph of a
+performance work statement it could
+could be the actual technical
+description of what the government wants
+for a development contract and what have
+you so we'll paste that in I think
+there's a 4,000 word character count and
+then in the document template I can
+actually start doing some of my initial
+outlining for the document because the
+AI is going to use that as its guide for
+its generation so here they gave us five
+elements and I can add to those elements
+with my particular approach to writing
+so
+you know my management approach could
+include recruiting
+and retention
+plan um
+hybrid
+workforce
+management and what this looks like for
+everyone listening on the podcast is
+just there's just a block that's uh the
+document template block that was a
+autogenerated list and John's now just
+typing because he knows because he's
+written a bunch of these hey I'm GNA
+have that recruiting and retention plan
+in there so he's adding to the list
+before it generates the actual
+document that's
+right yeah the interface is it's very
+clean um you know and simple to use so
+I've been using it I love I love some of
+the updates that we've seen so far
+appreciate that Rick it's we we live off
+of user feedback I mean the way we prior
+Iz new features is basically if two or
+more customers say they want the same
+thing that automatically moves to the
+top of the list let's go with and I
+don't necessarily want to talk about
+pricing because pricing can change you
+know depending on when someone's
+listening to this but I did see some uh
+recent changes uh that I think make it
+easier for an individual if you're you
+know you may be a solopreneur or a
+salesperson working for a company and
+you know you're looking for um you know
+just one license that looked like that
+you know it's relatively reasonable to
+be able to come in and use this and for
+the amount of time that you're going to
+save I pay people I I pay a lot of
+people to generate stuff for me and this
+saves me money just being able to use it
+yeah I mean you're you're post on you
+know the upwork life hack of like
+leveraging upwork to get freelance
+writers to write prop like absolutely
+and maybe you maybe you provide those
+freelance writers with some AI tools
+yeah exactly
+so for the starting point you know yeah
+exactly well and that's one of the
+things we talk about is like you know if
+you work May whether you're work in a
+highly technical field or not if you're
+writing a proposal typically you have to
+get your operational folks whether it's
+your program manager or the folks down
+on the line to contribute some degree of
+content or else your proposal is not
+really going to be authentic and so a
+lot of our folks now use this like hey
+get on Rogue you know you only need to
+take an hour or two and where you
+previously would have maybe gotten
+bullet points back from those you know
+Frontline folks over email that you can
+then turn into what your technical
+approach might be now you can just say
+hey get in there jot your things down
+and use the AI tools to kind of
+accelerate your writing test so the
+amount of value you can get out of your
+people kind of harvesting that knowledge
+and experience because you've given them
+a tool that allows them to express more
+quickly and with less frustration
+honestly yeah
+um so the way this works is the AI takes
+the contents and the semantics of the
+document title and the document
+description right so that that bulk
+piece of government provided text and it
+starts contextually generating content
+for each of the sections you outline so
+you can build in a bunch of outline
+headers here right I I added recruiting
+and retention plan and hybrid workforce
+management approach under element one so
+I just kind of did very light um
+solution for this volume of the proposal
+and it started contextually generating
+content for those sections right so I
+went you know what is it been five
+minutes I went from the just straight up
+RFP to something I can actually start
+working on in in a document and just
+everyone not seeing this it
+generated about a paragraph of
+information under each of the sections
+that you put in there and and it also
+you know in some cases put subsections
+with a paragraph of information below so
+let me ask you this that that
+information right there is that pulling
+from stuff you've already written or is
+that just kind of taking a guess doing
+whatever the the magic is behind Ai and
+and giving you a starting point so
+there's a couple of elements here I I
+specifically in that outline I to it to
+incorporate Navy experience darp
+experience and iwsd experience um so one
+of the features I'll talk about a little
+bit later is we built in essentially a
+company Persona
+field um So within the the platform you
+can build in a number of different we
+call organizations so you can have you
+know an organization that does
+Professional Services and another
+organization that does um Engineering
+Services and you might want to um
+contextualize those organizations
+differently right depending on what
+customer you're selling to or what
+services or products you're trying to
+sell and in that you can build in um
+some background information basically
+Persona information like past
+performance that you want to have
+incorporated into your proposals and so
+that's where some of this stuff comes in
+but I think what you're getting to is
+the Deep dive feature right so for those
+of you not watching um we have
+essentially a chat interface built into
+the platform into you know our version
+of Microsoft Word so as you're writing
+you can use that chat interface and what
+I can do with this interface and when I
+turn on this deep dive mode when I have
+deep dive turned on the chat is not just
+a general GPT that's tuned to proposal
+writing which is cool and of itself and
+that's where we started but with deep
+dive turned on it actually indexes off
+of all the content I have in the
+platform this is what Rick was talking
+about earlier so I can ask it to um you
+know I can ask you to
+describe this
+um and I misspell things in every
+demonstration that's all right I'm I'm
+doing the same thing I probably misspell
+half the podcast
+descriptions I should probably start
+using use Rog to generate those for me I
+have started doing some of those things
+also just to save myself from myself uh
+be very technically specific so I that
+I've written about our facilities in the
+past right there's I know there's at
+least three or four proposals in there
+that have um descriptions of our
+facilities in there so I don't want to
+have to go in and find those things and
+regenerate them or or you know um pull
+them out so I just told the chat here
+you know describe our facilities in
+Tampa Florida so if I have facilities
+all over the country I don't want to
+talk about all of our facilities I want
+to talk about a specific facility that's
+relevant to this proposal um so I told
+it to describe our facilities in Tampa
+Florida and be highly technical right
+and so it pulled out our high
+performance Computing capabilities our
+big data
+applications um some of our security
+features and whatnot so the things I've
+already written about it pulls that up
+that's great right off of you know
+semantic search it pulls that stuff in
+it basically hands it to the model say
+hey use this when you generate right
+this is your context um the other thing
+I can do here is I can actually select a
+piece of cont content so I can like
+select here I'm just dragging and
+selecting for those listening um a beit
+a bit of content this is like a sentence
+and I can tell the and when I select it
+it
+automatically um highlights that in the
+chat interface so I can say something
+like um expand upon this and be very
+descriptive so you don't have to like be
+a prompt engineer and know how to do all
+the context window stuff but you can
+give the chat instructions right treat
+it like a junior assistant writing
+professional and it'll start building
+out that content right so 15-year
+history which is accurate right I have
+statements in past RFI responses talking
+about our past performance supporting
+the Navy it will incorporate that and
+start building out gener of content
+right it starts talking about ppbn
+because I've written proposals I have
+proposals in the system talking about
+our ppbn support to the Navy so again
+rather than having to go in and find
+that content and regenerate it or you
+know Recker it I can just generate it
+straight off the chat because it's
+pulling up my content it's not just
+generating some general material this is
+yeah so I just want to foot stomp this
+for everyone just how important this is
+because even if so for everybody out
+there that has written a bunch of stuff
+I mean you know if you've been doing
+this for a while you're going to have
+multiple RFI Source responses and
+proposals right and trying to figure out
+you know it's always a paperwork Dr hey
+I can pull from this one I can pull or I
+changed this one right here you have a
+section in here where you could just
+load everything and this is exactly what
+I've done and even if you by the way
+that's the reason that's valuable is
+it's pulling from all this this
+information that you have about your
+product or service it's not going like
+Chad gbt just goes out there you know to
+the world whatever was in the system and
+what was it 2021 or whatever and you
+know it can it can give you some great
+stuff but it's not your stuff right this
+is very specific right you've loaded the
+documents that you use for winning
+contracts and even if you don't have
+that right but if you do have a company
+I know you you have white papers most
+likely and you know like capability
+statements and marketing documents
+things that describe your tool like I've
+uploaded for for me personally I've
+uploaded all that stuff too because that
+has some great information in there you
+know like I have really technical things
+that
+um you know we could potentially stick
+in The Proposal so now I can just go in
+and say hey show me you know you pick
+the cyber security model for blah blah
+right and it'll just start split
+spitting it out um it saves so much time
+yeah no absolutely and that's I mean
+that's frankly how we built it out was
+what are the things we do that we don't
+like doing let's make something that
+does that for us uh and I mentioned the
+Snippets tool previously so I'll just
+bring that up here right so there's a
+little search bar here oh can you show
+me that again so um yeah here there's
+just a he's just scrolling across the
+top of the um the user interface and
+clicking on the Snippets button yeah so
+Show snippets and it pulls out this
+window right and in this window is just
+it's basically a Content shelf of bits
+of text right it can be fairly long
+sections of content the idea here is
+like when I describe my company I want
+to describe it the same way every time
+right I don't necessarily want the AI to
+a brand new way of describing my company
+so I'll save that in here right if I
+have particular ways that I do like ISO
+90001 processes I don't really want the
+AI generating that that's a very
+specific thing I want to have saved if I
+have really great content that has been
+powerful in the past that the government
+really liked I want to save that right I
+want to have that usable but I don't
+have to go search for it and so did you
+sorry did you for these Snippets did it
+because you typed something in and it
+brought some up but are these Snippets
+generated for you from or did you go in
+specifically and save each one of these
+like highlight some text save it as a
+snippet that's exactly how this works
+right so if I'm writing I can similar
+thing right I can just click drag a
+section of content and this button right
+here with the plus sign I just add that
+as a snippet right so if I'm writing and
+I like hey that's really good that's
+some potent work right there I'm G to
+save that for later you can
+automatically just save it to your shelf
+okay and then if you want to go back and
+use it later right like hey I need to
+talk about my darp experience we'll pull
+that right up and we'll drop it right in
+right you don't have to go searching for
+it it's it's already indexed and all of
+those Snippets are also indexed by the
+AI right so it's almost like having
+individual small proposals that are
+saved on that shell so you're not losing
+out on that value when you're doing the
+organic Generations yeah no that's great
+I mean it could be like so I mean I had
+a small ad for cmmc earlier which I'm
+sure you are familiar with uh you're
+doing um but you may have a you know
+especially with maybe an RFI source of
+sort response you may want to let them
+know that they can have confidence in
+you because you have you know hey I've
+done the self assessment for cmmc we
+have our sprs scores in there or hey
+maybe we're a software company in the
+cloud and we want to talk about fed ramp
+so that might be a good place uh to have
+Snippets that you know when you have
+something because that words matter when
+we're especially when we're talking
+about compliance right so if I want to
+talk about the fact that we're fed ramp
+moderate um that's going to resonate
+with the government and that's something
+you could just keep it a snippet maybe
+and add in here exactly exactly um and
+I'm going to show one last little
+feature we added not long ago so we're
+working on images images are actually
+challenging and they're they don't add a
+lot of value from the generative
+standpoint but one thing we did add was
+support for um tables so we can use the
+chat here um highly technical personnel
+and you're just so everyone knows you're
+typing in make a draft Staffing Matrix
+for highly technical Personnel right now
+you're adding the Personnel that you
+want included no not even I'm just going
+to tell it what to build okay I'm
+include four years right so how many
+years of a staffing Matrix do I want if
+I want to build in like um you know
+pricing or whatnot
+this is
+ridiculous
+this I'm just thinking about I'm just
+thinking about how long it would take me
+and I mean I can use Excel and I can
+make I mean most people listening to
+this can use Excel they can they can
+build charts and whatnot you can build a
+matrix but this just generated the
+entire thing for you um I mean that
+would what what would that have taken I
+mean just getting the information for
+that could take you an hour right yeah
+just copy pasting the individual
+sections of text into the individ idual
+Excel cells right just the formatting
+headache of that is is ridiculous so for
+everyone listening like all I did was I
+I selected right I I cop I click dragged
+the the actual like technical
+description from the government so I
+provided that to the chat interface as
+context and then I said hey give me a
+you know a technical Staffing Matrix for
+this um and include four years and it
+built out you know 2023 2024 2025 2026
+and it put in a PM a chief scientist a
+senior engineer and a data analyst and I
+want to I can add additional sections in
+here right so there's all the sort of
+table isation features in here and it's
+just it's those little little things
+those like lot low value time sucks that
+we focused on first because AI is not
+going to replace right the the brain
+housing group but it can definitely
+replace those low value tasks that we
+all have to do right the like mundane
+monotonous mindless tasks that we have
+to do like convert this paragraph of
+text into a into a staffing major like I
+hate doing that yeah so painful and I
+wonder if it I'm guessing it can do this
+to a certain degree but maybe not
+perfectly yet but you could tell me so
+some things that we're writing are going
+to be specific like with right you're
+typically you're going to need a
+commercialization plan will this right
+now give me like what a
+commercialization plan should look like
+or I mean that's going to be specific to
+your business right but you might not
+know if you're writing it for the first
+time you might not know what that
+structure looks like right so you know
+what does that look like on paper or you
+know even um you know labor rates and
+things like that you know so it' be
+interesting to see as if it's not in
+there now like hey how can I just take
+kind of these standard sections for
+different types of proposals and give me
+the outline for what is going to need to
+you know the outline that the government
+might be looking granted everything
+everyone's a little bit different right
+but right um a lot of people have never
+written a proposal before so that I
+think would help them tremendously yeah
+I would say is like if you ask it to do
+something it will do something so if the
+government has not given you a format
+right sometimes we get the the
+unsolicited proposals or hey send me a
+white paper use whatever format you want
+I yeah personally I like that the least
+because you know gu it's a colored Rock
+problem fine um but if you've never done
+this before and the government did not
+give you a format to work with right if
+they didn't tell you how to format your
+Staffing plan yeah it'll give you a
+staffing plan right it'll give you a
+pricing Matrix I can tell this thing to
+give me a you know four years of a
+pricing Matrix and it'll spit out a
+pricing Matrix I can ask it to build me
+a a an lcat Matrix and it'll start
+putting in draft labor category rates in
+each one of those sections right interes
+do that if you have it from the
+government you can provide that and it
+will build with in those restrictions so
+there's yeah there's some learning
+curves for certain things but the AI can
+definitely do a lot of those things yeah
+it's this is such a timesaver so um for
+those listening to what our plan is on
+the podcast side is we're going to
+release a few episodes here going
+through the summer of using the tool and
+so I wanted to bring John on here today
+to go over some of the new features and
+show you what it looks like and then
+coming up you'll see me and maybe some
+of my cohorts using this for and working
+through how how we use it and it is
+really a timesaver and I just want to
+bring as much value to those that are
+listening because it's it really is
+going to save you a lot of
+time and
+probably yeah no I mean
+with our anecdotal measurements you know
+we've done some sort of measured runs of
+hey

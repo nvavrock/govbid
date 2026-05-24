@@ -1,0 +1,1249 @@
+Kind: captions
+Language: en
+[Music]
+all right hey everyone thank you for
+joining us this week on DOD contract
+Academy podcast this week we have an
+awesome episode for you we are with
+Scott Schneider of httx lab Scott how
+are you today doing great Ricky happy to
+be here good no glad to have you on we
+had a great conversation last week and I
+know we also have Ash on who's your VP
+of marketing so she might be uh chiming
+in here and there with you know
+statistics and I'm sure whatever uh
+whatever she could flavor the
+conversation with but um just to to
+start off maybe we could talk a little
+bit about your background so I
+understand you're the CEO of htx labs
+and the co-founder maybe you could tell
+us a little bit about you know where
+you're from and how htx came to be sure
+happy to um yeah I don't know how far we
+want to go back it's been it's a journey
+um origin from the East Coast grew up in
+Philly um started out my career actually
+working for the Department of Defense
+with an ffrdc called The Institute for
+defense analysis back in the mid 80s
+doing some really amazing AI work before
+AI was really a thing um and 35 38 years
+later full circle back to working with
+the Department of Defense but that was
+not the plan it's been certainly a
+circuitous Journey from where I was to
+where we are now um but uh been in
+software and Tech businesses for a long
+time this is our third startup so been
+in the the startup world since uh since
+200 um so 22 years of of of trying to
+figure out this startup business small
+business kind of thing um but but a
+brief tour of htx labs we we started the
+company in in January of
+2017 and and the the original uh thought
+was how do we take this really amazing
+technology immersive Tech V AR XR and
+take it out
+of uh you know beyond the gaming
+industry or Beyond uh the consumer space
+and bring it into the Enterprise um and
+we originally had no intention
+whatsoever of going after government
+work DOD work we're a small business
+poorly funded startup how do you really
+deal with Acquisitions and contracts so
+that was not our that was not our plan
+but how do you take this into the
+Enterprise into an XM mobile or a
+MasterCard and have it make sense
+because it's not a server it's not a
+laptop it's not a printer it's a headset
+and how do you manage deploy um this
+kind of technology so we thought about
+things like identity management and
+network security and how do I take like
+I said a consumer focused headset into
+the Enterprise and that was the original
+the original Mission and and we've kind
+of adopted this training Focus
+throughout our probably last three three
+or four years what you know you can do a
+lot of things with this technology and
+that's both a blessing and a curse um
+but we've really aligned on how do we
+disrupt the traditional way of training
+how do we take this technology and apply
+it to how people actually learn which is
+not by listening to necessarily an
+instructor or reading a PDF but actually
+doing the thing how do you develop
+proficiency and preparedness and that's
+really been our Focus so did did you
+guys originally come from the gaming
+industry how did um how did VR and that
+type of um technology become your f area
+I am not a gamer um I know that's
+shocking um but no I not a gamer um
+actually I've been in Enterprise
+software oil and gas for 25 years living
+in Houston Texas so we were surrounded
+by by that space so this was not on my
+my radar at all but we were approached
+by another company to see if we would be
+interested in if I'd be interested in
+funding a proof of concept around of all
+things active shooter training in
+virtual reality so how do you not give
+somebody virtual PTSD but how do you
+kind of introduced them to this
+potential experience that that
+unfortunately is a thing and they wanted
+to build a proof concept we funded uh
+that proof of concept took it to a big
+conference a corporate security
+conference and got great reaction to
+just the Innovation and nobody was doing
+this uh in 2016 and we came back and
+decided to go ahead and and and and spin
+up the company and and uh the rest as
+they say is is history interesting yeah
+no I can remember vividly the first time
+I put a VR headset on and it was um it
+was at hansam Air Force Base I was still
+an Acquisitions officer and you know up
+to that point this probably 2016 or so
+but up to this point if uh one of the
+big defense companies was going to
+Showcase you know an aircraft or a
+weapon system that they were going to
+build they'd have a mockup that you walk
+through usually in a trailer or
+something and for the first time this
+was and I think it was Boeing uh we I
+walked into the room and as the program
+manager and uh they just handed me a
+headset and I put that on and all of a
+sudden I was an airplane hanger I was
+walking on the catwalk I was looking at
+the aircraft I could stick my head in
+and see the engines I was 35,000 feet
+you know uh and it was it really
+provided a much better not only give me
+a better idea of what they wanted to
+produce but you know it gave them a
+better way to present that that
+technology to the Department of Defense
+and to you know the the other agencies
+that are looking at that and funding it
+so um it's it's really interesting I
+think it's come a long way in a in a
+very short amount of time and obviously
+I think as you alluded to we we've gone
+from it being um you know something
+people are using for gaming to now we're
+looking that you can provide a lot of
+different training with uh virtual
+reality and some of the new technologies
+that you wouldn't normally think to hey
+maybe we could put a a headset on and um
+do some of that so maybe go through a
+little bit about you know what you're
+specializing in now and um and then we
+can talk about how you know you guys
+progressed and sold to the military and
+some of the other areas right yeah um
+like I said when we started out we were
+working with the Enterprise and and we
+would build virtual tours we would
+create a digital twin of someone's
+office and introduce you know an active
+shooter thread or a training experience
+but uh back in 2018 we got introduced to
+the Air Force we collided with them with
+a at an accelerator we worked at um we
+operated out of in in Houston Texas um
+we didn't have anything go related but
+we had this plat form and so we were
+pulled into pilot training next which
+was the initiative was around what's the
+next generation of pilot training look
+like how do we overcome this pilot
+shortage and and then we moved into
+maintenance training next once again on
+the maintenance side and and right now
+we we have gravitated for better for
+worse around if you fix them or fly them
+within the air force of the Navy that's
+really where our focus is and we aren't
+former we're not veterans we're not most
+of us are not Pilots um but as you said
+you you know this technology has come a
+long way um and continues to accelerate
+in advance and we can do things in a
+virtual world that you simply can't do
+in the real world you know you stuck
+your head into a virtual engine that's
+not possible in the real world so we are
+able to give our user superpowers and be
+able to you know turn that C130 that's
+behind me on the zoom screen completely
+transparent and show you how the avionic
+system works and that is a way better
+way of learning than looking at a
+schematic on a on a piece of paper um so
+um yeah we we are now fully involved
+with the US Air Force in the US Navy and
+we are focused on creating a better a
+better war fighter a more prepared and
+proficient War fighter interesting so
+you mentioned you got your start with an
+accelerator could you briefly talk about
+what what that is yeah so um once we um
+we sold our first company in 2012 I went
+to work for them per our contract for
+three years and then jumped right back
+into it and this was an accelerator that
+started up in in Houston Texas around
+2016 um and it was uh you know I I
+didn't know what I was going to do next
+but I knew it wasn't going to be big
+Corporate America we were going to go
+back and do something you know small and
+and Innovative and um they provided
+provided space they provided uh
+mentorship and some ter in some cases
+they provided Capital um and really had
+it not been for us working out of
+station Houston in Houston we would not
+have collided with this Lieutenant
+Colonel with aworks working out of
+Austin Texas uh who was in Houston
+looking for some of this you know
+immersive uh technology and capability
+and had he not seen where we could take
+this we would we would not be on the on
+the course and trajectory that we are on
+right now and since then we've uh We've
+made the best of of U programs that are
+offered through the the you know
+Congressional and Department of Defense
+around sbir small business Innovation
+research
+Awards and you know frankly the
+Department of Defense has been our
+Venture Capital firm and they have
+provided a level of funding non- delu of
+that's been extraordinary and we've you
+know we've made the best of it and and
+really built out and matured our
+platform over the past I don't know four
+four and a half years okay awesome I
+mean in you're you're definitely not the
+first company I've talked to that has
+been taking advantage of the sbir
+program but more specifically aworks is
+the one that keeps coming up over and
+over again in um almost no matter what
+company I talk to and they really are
+doing a great job um with the civer
+program and working with companies and
+whatnot how did you find the process so
+you know you went through your
+accelerator and was that essentially did
+they introduce you to phase one sbir was
+that your first um kind of submission it
+was not through the accelerator um but
+actually through this Lieutenant Colonel
+of the Air Force um so we were working
+on pilot training next we were direct we
+were subbing to a large Prime so this
+was not an
+sbir um and about 3 months into that
+they saw what we were doing and and they
+came back to us and said okay now you
+need to go direct you need to get you
+need to get an sbir work with aworks and
+this liutenant Colonel um Eric from was
+with aworks and kind of a du rle role
+between aworks diu and and still active
+duty um he said you got to get on SBI or
+phase one and and phase one as we know
+is uh this was
+2018 so you know it was less competitive
+than it is now there are a lot of people
+taking a bite at the SBI Apple um but
+back then we did a phase one three
+months $50,000 to to really do one thing
+and that is go find a customer go find
+an Air Force customer and and figure out
+product Market fit and find someone with
+a need that we can do R&amp;D and adapt our
+platform to address their need and uh we
+we probably we've done three phase ones
+I think we've got and then we transition
+some of those to phase twos and also sub
+direct to phase twos and now we're also
+on a phase three so it has been it's not
+easy uh it is competitive um but afks
+has done a really nice job of of uh
+doing amas and educating industry on how
+can you how can you turn this your
+capability into a dual use uh capability
+and apply it to the the requirements of
+of of the Airman and the war fighter
+sure no that's um I agree I think it's a
+it's a great program and it is it
+especially if you have a new technology
+or anything Innovative it's a it's a
+great way to get your foot in the door
+now when you got the phase one because
+you mentioned that hey you know you
+weren't you didn't have any prior
+government experience or military
+experience and most of the people in
+your company kind of fall into that boat
+did you find and just for those
+listening if just if they you know if
+this is the first time they're tuning in
+uh the SBI Pro process the small
+business Innovative research process is
+just kind of like you said right where
+the government is it's almost like
+venture capital for you know you can in
+a lot of cases modify an existing
+solution for government need or maybe
+help develop your technology and it
+comes in phases right so phase one as
+you mentioned it's usually a smaller
+amount usually somewhere between 50 and
+150 Grand and um typically what you you
+might owe you know a study or something
+at the end of that but really the whole
+point of that is they want you to find
+somebody and if this case the Air Force
+but depending on the age ageny someone
+to sponsor or say hey we we could really
+use that maybe they're going to sponsor
+a demonstration or you know let you
+develop it on their base what whatever
+the case may be so I guess the when
+you're on a phase one once you win that
+it's great but now you have a new
+problem set to deal with and it's hey
+I've got to find somebody to actually
+sign a memorandum of understanding and
+and be my sponsor so I can apply for the
+phase two which is really where the
+money is right so that's where I can't
+remember what the I want to say that the
+max cber is around 1.3 million now but I
+1.25 million in in air back in it was
+750 back when we started 2019 but now
+it's at 1.25 million and you can get
+matching funds too from your sponsor if
+they wanna they want to kick in funds so
+it can certainly go higher than that you
+know money you know if you have funding
+that that can drive a lot of things so
+how did you find the process of trying
+to find that initial sponsor did you
+find it through a connection that U
+maybe afw works uh introduced you to or
+you know like some others on the show
+they made it their full-time job to just
+go meet as many people as they could and
+kind of hunt until they found uh the
+right individual what what was your uh
+experience like yeah I think it's a like
+like any good business development um
+initiative it's a multi-pronged approach
+and and certainly uh you know Colonel
+Fram helped us with afw Works who
+brought us into pilot training next but
+but frankly uh I spent a lot of time on
+LinkedIn um and you just have to know
+you know who you're looking for um and
+with no previous government experience
+no affiliation whatsoever with the US
+Air Force we had to kind of figure out
+what is what is a staff sergeant what is
+a tech sergeant what is a lieutenant
+colonel what is you know who who are the
+influencers decision makers and and we
+found um a need we we made contacts on
+like I said frankly on LinkedIn um and
+and if you can say you're on a phase one
+that gets their attention you're legit
+to a certain extent and there's a you
+know we need them they need us us kind
+of thing so uh so that was that that's
+how we got our our first phase one and
+like you said we the deliverable was a
+study it was we did a little bit of
+prototyping just to kind of more to
+educate them on what are capabilities
+and show a bit of the art of the
+possible and then yeah you have to find
+somebody that who's who's willing to not
+put in money because it's Congressional
+money it's not Air Force money right but
+they have to commit time be our our
+technal point of contact or teac be a
+subject matter expert and go on that you
+know potentially 21 month 24mth journey
+of a phase two um and then you have to
+think about okay how are we going to
+transition this to Air Force money at
+phase three and that's where it it and
+you know we started the cber process and
+it's a double-edged sword because it you
+can become addicted to it but at some
+point as we say internally we have you
+have to get off the cber train and you
+have to be on a no kidding real contract
+um but it is a it is a process and and
+we thought phase three was the the holy
+grail and it it it's part of it but it's
+not I mean right there's there's there's
+life beyond that you really have to
+sustain this as a as a programmer record
+and and that's where where things get
+really interesting yeah no that I mean
+every stage I think presents its own
+challenge you know and I think it's uh
+in a lot of the different companies I
+speak with we they'll talk about how
+excited they were at each phase and then
+kind of as reality sets in they realize
+what's actually necessary to uh get to
+the next phase not that any of that is
+impossible it's just that there's going
+to be a new challenge um you know as you
+kind of make your way through there one
+of the interesting things about sbir in
+particular is and I've said it on the
+podcast uh a lot for those that listen
+but in the government typically 99.9% of
+the people you talk to are never going
+to be able to buy anything from you as a
+company but the cber process alleviates
+that because you know typically you need
+an Acquisitions office to put a company
+on contract and then you need the funds
+which are either going to come from a
+requirement and you need a requirement
+so you need a requirement you need funds
+and then you need an actual warranted
+Contracting officer and probably a
+program manager and a team behind them
+um but with SBI that alleviates that now
+all of a sudden because a lot of M A lot
+of times and if you know for new
+companies one of the mistakes a company
+will make is they go right to the user
+well hey I sell parts or you know tools
+that can fix an aircraft so I'm going to
+go start reaching out to the maintenance
+squadrons on you know the flying bases
+and typically unless it's a small dollar
+purchase they're never going to buy you
+know right $100,000 or $2 million worth
+of tools from you they just they they
+don't do that the Acquisitions guys do
+that but if you have something that the
+maintenance Squadron can use maybe like
+a training tool like a virtual reality
+training tool right well now all of a
+sudden you might be able to get them to
+sign thatou or their group Commander or
+Wing commander on that base so now all
+of a sudden it makes it easier for them
+too because it's not their money it's
+the SBI money in a lot of cases so now
+it's it's they don't need funds to do it
+they're not they're just committing time
+typically right and you can go to the
+person that has the need so at least in
+that regard it can make it a little bit
+easier especially for someone not
+trained on you know military
+Acquisitions defense Acquisitions to
+identify somebody to actually sign off
+um and it sounds like you got you did
+just that through Linkedin primarily yes
+yeah we did and yeah the the whole
+government acquisition process and
+Contracting processes was a completely
+and still to a certain extent is a
+foreign concept because you're right you
+you you can meet with people and they
+they say I've got I've got money I've
+got funds to commit can you provide the
+contract vehicle and in the commercial
+world that's not a thing like if they
+have budget we just go um but now you
+need a contract so you like you said you
+need multiple um components to to really
+move forward um and so so it was
+challenging but that's yeah that's
+exactly how we you know the cber process
+does alleviate that if you can if you
+can find a customer like for a phase two
+or direct a phase two if you can find a
+customer who's interested who will sign
+theou and you can put together a
+compelling technical volume um you know
+you have a a really good chance I mean
+the you know Congress puts out $2.6
+billion dollar a year roughly to this
+cber program there you know it's a lot
+more competitive so there's a lot more
+uh participants but if you can get that
+then the contract shows up I mean that's
+once you get you just have to go through
+the contract process and negotiate that
+and and get started and we want when we
+won our first phase one and our first
+phase two we were ecstatic yeah but now
+it's it just gets harder and harder
+because you're looking for you're
+looking for bigger opportunities where
+you can make now you've been convinced
+and you've convinced your your audience
+that you can make an impact we can
+improve Warf fighter Readiness or
+preparedness now we want to go bigger
+and that's it it just gets at every
+level gets more and more complicated and
+and challenging but it's it's it's worth
+the mission yeah no it definitely is and
+you know if you if you start in your a
+small business if you start with hey we
+need a program of record you know
+created for you're gonna you're gonna
+probably put the brakes on everything
+really fast so I mean but if you're
+starting with SBI and you slowly make
+your way with contracts up to that point
+then I think it becomes a much more
+doable process so uh when you entered
+let's talk about phase two because you
+know when you guys got into that phase
+two uh process now all of a sudden
+you're um I'm assuming developing the
+technology out um for government use
+possibly doing a demonstration can you
+talk about a little bit about that
+process and um you know maybe some of
+the positives and negatives yeah I mean
+then that was largely part of our work
+with um with maintenance training next
+out of Kelly Airfield um and the um
+commanding officer at the time actually
+you know we you talk about small
+businesses leveraging the sbir program
+to improve their their capabilities the
+some you know the Air Force is is
+getting better at using the SBI vehicle
+as well I mean this commanding officer
+found you know three or four or five
+companies that were that that had phase
+tws and pulled them all together to
+build a much larger capability for the
+for the Air Force and and so we spent a
+lot of time uh building out our our
+platform because we had always
+envisioned if we can build a platform
+they they will come but you need in our
+case we need a platform and we needed
+content right because like you know a
+PlayStation with no games is not
+interesting and games with no
+PlayStation not interesting so we had to
+we had to really address both um but you
+know once you get on that phase two uh
+you're now really doing R&amp;D this is not
+about finding a customer you found a
+customer you found a need and now it's a
+question of okay what do I need to do to
+adapt my commercial capability to
+address the needs of of of the the end
+user and and that's what we focused on
+uh for for that phase two and then we
+took a phase
+two um that we had and we transferred it
+to the Navy oh interesting from the air
+force of the Navy which had never been
+done before and now they have a process
+but they didn't have a process at the
+time so it was a long probably a 12 to
+15 month process just to to get across
+that that Chasm so to speak over to the
+Navy and and so we are finishing up our
+a phase two with the Navy to take what
+we did with poly training next on the T6
+Alpha and and appli that to the T6 Bravo
+which which Pilots out of the the Navy
+learn on as well so when you say that
+you transitioned it over do you mean
+that you had completed a phase two on
+the Air Force side but used that
+Contracting mechanism yep Navy could put
+you on contract basically without a
+competition based on the fact exact face
+well that's awesome no that is uh that
+is interesting and I guess for you know
+I'm learning something every time I talk
+to somebody on here but uh just to just
+to clarify what I just said for maybe
+the uninitiated and and to expand on
+what you said about hey you can have
+funding but if you don't have a contract
+vehicle or way to put someone on
+contract that could be a stumbling block
+um you know the government can't just
+put a company on contract meaning
+because they even if they have money and
+a vehicle necessarily because there's
+competition requirements a lot of
+different things than the fire the
+federal acquisition regulations one of
+the amazing things about civer is if
+you're an SBI Phase 2 graduate that can
+allow the government to Soul Source a
+contract to your business and that can
+eliminate a lot of barriers and
+stumbling blocks um if you have that so
+it sounds like you don't even have to
+now stay within service so if I a
+company with a cber phase 2 in the Air
+Force I can now take that at least to
+the Navy yep possibly possibly to some
+of the other branches I don't know the
+army or Marine Corps oh I think you
+probably could and with the Navy they
+they or an A Works publishes is they now
+have a a fairly automated process where
+you just submit your Phase 2 and it's
+not automatic but there's a much more
+automated workflow that has to go to
+jump over to the Navy at Art when we did
+it uh I think we got introduced to the
+folks on the no TSD side um and then it
+we had to kind of rep propose and Rec
+cost volume and go through the whole
+contract thing but we did not have to to
+to compete it and that's that's key yeah
+no that's huge no that's that's really
+interesting so for I guess any company
+that is a phase two graduate in hearing
+this that's now an option another thing
+is is a lot of times the Contracting
+officer the program manager on the other
+side of the table might not even be
+aware of what phase two can do as far as
+putting a company on contract a lot of
+them do but but everybody doesn't and
+then I've had to actually write for some
+of our clients at the justification so
+it might also be worth knowing that or
+putting ahead for those listening you
+know some justification um down that you
+could hand somebody on the other side on
+the government side so they understand
+oh I do have a means to put this company
+on contract and it you know because of
+the fit civer Phase 2 and and the
+requirements and the law associated with
+that so um no that's great so you've
+been through uh the phase two and it
+sounds like one of your phase twos at
+least was a combination of your business
+and maybe some other phase one uh winner
+companies uh getting together I don't
+know whether combining your technology
+or whatnot did that result in a
+demonstration of some sort or it did and
+and it actually turned into something
+within the US Air Force called motar
+which is
+um the Next Generation Learning
+Management capability and it's and it's
+a it's a what we what we call a
+coalition of capabilities so it's four
+or five different companies who've come
+together to to to integrate the
+technology whether it's an experiential
+learning capability like ours or a
+digital classroom capability um
+cognitive engine virtual instructors
+over theh shoulder kind of uh virtual
+pilot so to speak all of that together
+to to deliver a much larger capability
+to to to the uh in this case to the air
+force uh than just our individual kind
+of siloed capabilities um so that's what
+that's what has come out of that and
+it's it's uh moving towards a program of
+record which as we know who all who've
+been in this business a bit is a not is
+a challenging non-trivial exercise to
+figure out how do you get into the FY 23
+FY 24
+fy2 uh you know palm and and the NDA
+budget so that's that's where that's
+hopefully going yeah no that's great and
+um yeah just program of record for
+everyone that all that means is now in
+we could call it uh Scott's virtual
+training program I that's not it's going
+to be called right but um but there
+could be a program called Scott's
+virtual training program and once it's a
+program of record then you have a pot of
+money that's associated with that so now
+year-over-year that program of record
+will get funded it's managed by a pem at
+the Pentagon typically and then there's
+going to be an acquisition shop and a
+program manager in charge of those
+efforts so now you have someone you have
+funding and a requirement and someone
+that's in charge of actually making sure
+that um if you're providing that to
+certain units in the air force that you
+know year over-year the right amount of
+spending is taking place and you know if
+you need more money or more people or
+modifications there's a little at least
+there's a team there to support you and
+you're not always hunting for the
+funding and the offices to help you out
+there um so this is interesting so now
+we've got gotten through the phase two
+and I think you've done a couple of
+phase two twos you said could you tell
+everyone a little bit about what a phase
+three is and how you ended up uh with a
+phase
+three right so this was uh again that
+maintenance training next transition um
+process and and it's it's uh you know
+it's the point and it really should not
+be called a cber phase 3 because it
+really has right has very little to do
+with the CER Pro program I mean it is
+the transition from a phase two to a
+phase three and that's where um you know
+that's the connection there but it's
+it's where Air Force is putting their
+money into into the game um and
+committing more time and and obviously
+the expectations are higher um but it's
+it's a it's a real no kiding uh you know
+government contract and um and you know
+so we're on our phase three and we're on
+our third option on that and and it's a
+it's a Contracting vehicle that that
+frankly not a lot of Contracting
+officers at least when we when we got on
+ours in 2019 2020 we're familiar with
+because it's like there's an idiq
+there's ba B you know there's boas
+there's bpas there's very traditional
+contracts and this is a cber phase 3
+which actually can be any kind of
+contract so right in terms of the
+contract vehicle so there was a a
+learning curve for the Contracting
+officer and for us it was kind of the
+blind leading the blind but we've gotten
+past that now and I think it's more um
+you know it's it's more um you know they
+figured it out and it's easier to it's
+easier once you know once you can
+convince your customer that there that
+there's a capability here worth maturing
+like you know phase three is about phase
+two is about proving doing R&amp;D and
+proving that this could work phase three
+is really about scale like how do I
+scale this across 700,000 Airmen within
+the Air Force in the broader do and
+that's that's got to be the that's got
+to be the focus area and that FR that
+takes a lot of capital to do that
+depending upon what you're you're trying
+to do so phase 3es can be uh they can be
+pretty you know uh Capital intensive uh
+but it's it is where the Air Force is
+you know investing their time and money
+um and that's when that's when you
+really you know a direct a phase two at
+the end of it there's there is no
+capability for the Airmen like the
+government didn't buy anything they
+invested and now it's up to both parties
+to figure out how do we transition this
+and this is the proverbial Valley of
+Death is how do I get across that valley
+of death into a long-term contract where
+I'm not bidding every you know three or
+four times a year on cers because you
+can't get momentum this is the
+double-edged swort of a civer is it is
+easier but you can get hooked on it and
+if you get hooked on it there are times
+when you build capability that may not
+be in your best interest and may not be
+in the best interest of the warf fighter
+and so this is where phase 3's you know
+this is about scale how do we take this
+and get it to the real the real need
+right interesting so um I had another
+Gentleman on his name was Oliver and uh
+I want to say he was with Street Smart
+VR but very what's that Oliver notw yeah
+we know okay yeah great no very very
+similar um story as far as um you know
+how they how they started moving through
+the Department of Defense and uh
+developing through sbir and he described
+something that he called the bottoms up
+sales approach right so how he would
+then take his SBI kind of licens to get
+that Soul Source contract and start
+going to the units the individual units
+to see if they could find funding and
+what not to put a company on contract
+which is almost the exact opposite of
+what I recommend but but but in this
+case especially after you've been
+through sbir um and you don't have a
+program of record that's necessarily
+dedicated to what you're doing um you
+know it's going I guess what I'm trying
+to say is what you're doing is training
+right so it it fits in with what units
+are doing right so units are if it's if
+it's maintenance training on um or or
+Pilot training on aircraft well we have
+programs of record that fund pilot
+training or maintenance officer training
+or maintenance troop training um so I I
+think if I understood what he was saying
+that they were using some of that money
+their training dollars to make small
+purchases along the way while they're
+trying to get that program of record
+have you uh tried anything like that or
+do you have other interest from units
+with you know because there always money
+available out funds there's a lot of
+different places they can get it have
+you had any of that experience or is it
+mainly just kind of sticking with SBI so
+far no I think we're starting to expand
+outside of sbir and um you we're on a we
+have a a boa in place now that's focused
+on immersive training both from a
+commercial kind of software licensing as
+well as an R&amp;D perspective and so we've
+used that a couple of times and again
+having that contract vehicle you know if
+there's Fallout funds and there's no
+place for them to fall for you you're
+you can't get them so having a a
+contract vehicle you know sometimes it's
+good to go get a contract vehicle in
+place even if there's no money on it
+right now sure because if when money is
+available you can drop it on there and
+and move forward U but yeah we are you
+know we're moving more towards the
+larger idiqs where we can do a
+multivendor i idiq across match coms you
+know we've been primarily focused on air
+Education and Training command we now
+have a contract with global strike on
+the B52 working with uh air combat
+command um and so it's it's important
+yes to go take those
+sbirs and capabilities and and Shop them
+and it's a you know for us we've spent
+most of our time at the Squadron level
+and that is
+a that's a never ending process because
+that's that those are the users that's
+the end user that's the that's the real
+customer that we can affect and impact
+but you've got to work a top down as
+well and so we're trying to work at the
+Congressional level on the Hill to
+really understand in our case how do you
+make immersive technology immersive
+training just a part of the program like
+it's just it's it's just like a CBT or
+e-learning or a PowerPoint in terms of
+um it's it's just a part of the part of
+the training you know program so to
+speak so so you have to really and we
+we're trying to get to the general
+officer level and to um you know
+headquarters Air Force we you've got to
+kind of start top bottom and top and
+kind of meet in the
+middle because a tech sergeant staff
+sergeant can't necessarily commit funds
+and Innovation you know in our case it's
+time for us to get out of innovation and
+into execution and scale and Innovation
+funds are limited um and they're used
+for exactly that to innovate and we'll
+always innovate but we have a capability
+now that we need to scale across the Air
+Force and that's why we're looking for
+bigger contracts idiqs and and
+leveraging the boas and bpas and and
+those kind of contract Vehicles yeah I
+know it's um it becomes a little more
+complicated right as you start climbing
+up and going past sbir and and when
+you're talking about you know talking to
+Congress and getting um you know funding
+put into the palm and and just for those
+listening too it's you could be a a
+company and it's involved in immersive
+Technologies or anything else and get a
+wedge put into um you know the funding
+process for for you know virtual reality
+training or you know whatever it may be
+but it's not going to be it's not going
+to say um htx use
+H it' be great if it could right but I
+think a lot of people think when you go
+and you Lobby or you or you're talking
+to the Pentagon and you're trying to get
+that funding worked that oh well you
+know these companies like Boeing are
+just getting their name put in there
+that's not that's not what happens you
+know they get that wedge and I know you
+understand this um you know they get
+that wedge of funding uh put aside but
+then it still has to go to the
+acquisition shops to now do the
+solicitations and decide how they're
+going to put a company on a contract
+which like you said that's that's why
+it's so important to be working at
+multiple levels because you got you want
+to have a relationship with that
+Acquisitions office that's going to be
+putting the solicitations out you want
+out there you want to let them know that
+you're kind of involved with this proess
+um so they can decide what the best way
+of putting companies on contract for
+something like this is um so do do you
+have any ideas who would be are you
+working with the acquisition shops or
+have you targeted anyone in the air
+force that you think could potentially
+be the recipient of that funding and who
+might be involved or is it still not
+even close to that level yet it's you
+know uh there's certainly specific
+Contracting uh groups that we're working
+with and and in San Antonio at Kelly and
+Randolph and and and you know we're
+doing a the sener of the univers for us
+right now is is is San Antonio and
+Shephard Air Force Bas at which all
+falls because that's the center of
+gravity for aircraft maintenance
+training so the Contracting units around
+there there those two areas is we're
+really focused but you bring up a good
+point about uh really get to know your
+Contracting officer even in the cber
+process yeah because they are um they
+can make they can make things smooth or
+or not not intentionally it's just if
+you're going to if if you're not ready
+um to meet their needs it's going to be
+even though you get awarded the cber it
+can be it could be a process to get on
+contract or it's not that you have to
+roll over but you have you know you you
+need to you need to be amable to how
+this how this process works so getting
+to know we had a really good Contracting
+officer who now is at Capital Factory in
+Austin um who once again we didn't know
+what we were doing and she was very well
+versed in in in cbers and AFF works and
+contract officers and um so was you know
+we got lucky um but it's important to
+really
+um make friends with your Contracting
+officer yeah no agreed and I think
+that's that's something that a lot of
+small businesses don't realize or at
+least they don't realize it for the
+first couple years and then they get
+burned because you know I think I think
+it's easy to assume that everybody on
+the government side knows what you're
+doing and is kind of focused on you know
+the effort but especially with a
+Contracting officer who probably has
+hundred of things throughout the year
+that they're responsible for putting on
+contract um and I don't know if you had
+a program manager kind of above her that
+was uh kind of managing the program at
+large but um you know it's easy for
+they're they're doing their job and just
+scrambling trying to get the work done
+right in in the amount of time that and
+they're usually working very long hours
+so um you know it's there's usually
+nothing intentional on their part uh by
+not conveying information it's just you
+know sometimes it's out of sight out of
+mind so it's really on the company to
+stay in touch with the Contracting
+officer the program manager whoever
+you're you have the relationship with
+and and be asking them hey you know do
+you still have the same Contracting
+process in mind for our next uh
+iteration because sometimes the
+government changes contract Vehicles
+sometimes what you're on you know there
+might be we might hit a ceiling on a
+NASA soup and now they're pivoting to
+something else to you know get the next
+iteration of uh delivery orders or
+contracts moving so it's um extremely
+important to have that conversation it
+sounds like you um you had a great
+relationship with her and she kind of
+walked you guys through the process so
+that that's good to hear yeah she did
+and you know at first you know it's like
+you want to get on contract but once you
+get on contract you also need to figure
+out how to get paid yeah and in a timely
+fashion and back in the day the Air
+Force was exploring how do I do this
+using credit cards and we were part of
+that pilot project where they were
+paying us through a a credit card and
+that that introduced challenges as well
+but yeah we we had a really good
+Contracting officer who helped us
+through this whole whole process no
+that's my dog barking in the background
+hey mine's mine's outside right now
+baring at the painters so uh it's all
+good it's all good so you you came from
+a completely different industry you came
+from oil and gas and then went into
+virtual reality and now you're basically
+virtual reality training but with the
+Air Force so it's um it's quite a bit
+different it sounds like than what you
+were doing before how how have you uh
+felt about that experience are there uh
+some things you miss about oil and gas
+or are you kind of glad you at where you
+are now or oh I think yeah there are
+certainly things about oil and gas that
+I that I miss but this is a great
+Mission and once again and thank you for
+your service Ricky you know I'm not
+former Air Force I'm not former military
+um but it's you know and and our team
+loves this Mission we have we we've
+hired some veterans lately through the
+skillbridge program and others um and
+it's it's just a great a great mission
+to be to play whatever small role we can
+in preparing our Warf fighter to uh to
+be ready all the time so um you know at
+the end of the day we're still building
+software and that's what I've been doing
+for 38 years so it just happens to be
+really cool software and really
+effective software and and and valuable
+and and we're going to keep doing this
+until someone tells us to stop but uh we
+we we love the mission and we think
+there's a you know it's a target-rich
+environment that there there really is a
+need uh for just better training and and
+just in time training you know I haven't
+changed the engine or service the engine
+on a C130 in a while and I'm deployed
+how do I get just a a refresher on on
+how to do this and yeah and that's with
+the Advent of immersive Tech and
+portable headsets I can I can ship a
+headset with every Airman wherever they
+are and they can pop into the headset
+practice on a virtual C130 that looks
+just like the real one with limited
+aircraft you can't take aircraft out of
+service so there's a real it's it's a
+natural fit and so we we love the
+mission that we're on and and we're
+gonna we're going to keep working at it
+no that's awesome no it sounds like you
+guys are passionate about it and it is I
+mean it's it's a super interesting Niche
+and at the end of the day you could save
+a lot of lives with with that type of
+training um especially when you're
+talking about flying you know the the
+guys fixing the aircraft you know making
+sure that they are current on the the
+current systems and they have skills
+they need to keep everyone safe uh is
+critically important so um no I'm glad
+you guys are working on it for sure I
+would love to see what you guys are
+doing and keep tabs on you as you move
+forward um you know as we're coming to a
+close here maybe we could uh close with
+you know what you're looking to do from
+here and you know if there's anything I
+can do for you or how people can you
+know reach out if they're interested in
+working with you
+guys yeah htx labs.com uh certainly
+visit our website and reach out Scott
+htx labs.com happy to happy to have a
+conversation you know that in terms of
+our mission right now to deploy you know
+our our our vision is is to deliver this
+learning capability across the
+Department of Defense and across the US
+Air Force um there there are certainly
+challenges we talked about the valley of
+death um we talked you know we didn't
+talk about cyber security but uh there's
+a process within the Air Force and
+across the dod called the atto
+authorization to operate on a secure app
+you know Air Force Network that that is
+a miserable process and a timec
+consuming expensive process and and
+anybody who's in it knows it it's
+there's no easy answer but there if if
+we are going to you know we have our
+near peer adversaries and we know who
+they are and if we can't field this this
+kind of capability and and and a lot
+like these capabilities more efficiently
+more quickly and take a bit of a risk um
+we're going to fall behind even further
+and so you know we're companies like us
+we're trying to bring the tech to the to
+the to the warf fighter but we there
+needs to be barriers taken out of the
+way to really get it in the hands of
+those who can who can benefit it for
+that that's that's my my bit of a
+soapbox but like I said we without the
+Air Force and the cber program we may
+not be in in business when covid hit it
+affected a lot of businesses it actually
+affected us ours in a positive way
+because Airmen couldn't get to the base
+could get to the flight line to train I
+can give a headset and they can sit on
+their couch at home and get reps so that
+was that was that was key to us but you
+know we this needs to be even easier for
+companies who are private sector
+commercial focused to come into the dod
+and do business yeah no I couldn't agree
+more you know we have just done a few
+episodes uh with people that specialize
+in like the FED ramp process and uh you
+know some of the other processes that
+can help ACC get to at uh you know
+platform one and I mean there there's a
+few different areas out there and just
+I'm not going to because we'd probably
+be complaining for the next two
+hours the brutal ATL and by the way on
+the government side too I mean that's so
+I think that people right now are are
+you know clapping on the government side
+and the uh the business side because
+that process does take a long time and
+in a lot of ways it's getting more
+complicated and a little bit harder um
+to get that approval operate and it is
+it is one of the major it was a
+stumbling block and a major point of
+concern for me as a program manager in
+the Air Force and it is now working with
+uh small and large businesses so um P
+I'm happy to report that we're two weeks
+away from our
+atto so and and it it not not just from
+a business perspective but it opens up
+huge opportunities for us to deploy more
+broadly because a lot of the questions
+we get are do you have an atto okay no
+atto how do I how do I use your stuff in
+a you know in a secure environment so to
+speak or whatever and and we can't so
+now this we get to answer that question
+a lot in a lot more positive manner than
+in the past if you can you're right I
+mean if you e whether in person or
+responding to an RFI if you can say hey
+we're atod on Air Force system X then
+all of a sudden everyone on the other
+side of the table realizes that you have
+a security requirements necessary you've
+been through the process once you can
+you could do it again um and I mean that
+atto question is now stting to turn into
+are you fed ramped are you on Platform
+One are you so there there's some
+additional things that seem to be uh
+being asked but uh you know Scott thanks
+for coming on I really appreciate
+everything you guys are doing over there
+this has been an awesome conversation
+and I think our listeners are really
+going to benefit from it I've enjoyed it
+enjoyed the the conversation and uh yeah
+I I encourage people to reach out we're
+happy to help others small businesses
+are trying to figure out the how to get
+into the the do business with the dod
+and like I said we had no intention it's
+been a great as as challenging it's been
+a it's been a rewarding um journey and
+so I encourage others to engage as well
+awesome well hey guys if you want to
+talk to Scott all of the contact links
+will be in The Listener notes thanks
+again to Scott and htx labs for joining
+us today this is DoD contract Academy
+and if you want to learn more you can go
+to dodc contract.com and check out some
+of our free training there thanks
+everyone for listening and we will check
+you next time
+[Music]

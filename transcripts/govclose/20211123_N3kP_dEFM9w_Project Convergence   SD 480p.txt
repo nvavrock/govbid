@@ -1,0 +1,264 @@
+Kind: captions
+Language: en
+hey guys richard here with government
+sales momentum thanks for listening
+today we're going to pivot a little bit
+from strategy for how to influence
+requirements and
+find opportunities to actually talking
+about a couple opportunities and
+one opportunity within the department of
+defense falls under
+something called jad c2 now you may have
+heard of this before you may know a
+little bit about it or maybe you're
+hearing it for the first time
+but jad c2 stands for joint all domain
+command and control
+and really what that equates is you know
+joint means multiple services so think
+air force army
+navy marines etc you know when two
+services work together we usually refer
+to that as joint and when we're talking
+about all domain command and control
+what we're really getting after with
+this is
+we want to connect
+information that is available to all of
+the war fighters right so
+if you look at the past
+decades as we've built up different
+computer systems and networks we have
+repositories of information all over the
+place that don't speak to each other you
+know you may be familiar with f22 and
+f35 had data links that were
+incompatible essentially well that's
+just an example of two systems that the
+government has built that don't
+communicate with each other the way they
+should and in today's environment where
+there's so much information available we
+realize that we have got to be able to
+connect everything when i say connect i
+mean
+sensor to shooter so we have things that
+are flying in space in the air we have
+antennas we have things on the ground we
+have storage uh systems that needs to
+all communicate with each other transfer
+data and one of the challenges of this
+is you have some users that are at the
+strategic level the senior leaders you
+know and i'm gonna this is department of
+defense related so
+they need to have a big picture
+understanding of the mission that
+they're trying to conduct so they
+require one set of information whereas
+down at the bottom you know the tactical
+user the guy maybe flying the aircraft
+or soldier on the ground he requires a
+different set of information that he can
+action
+so it's how do we get the right
+information to the right people so it's
+it's a it's a very complicated
+problem to solve because we need to make
+everything communicate with each other
+and then we need a way once it does
+communicate with each other are
+providing the right information to the
+right people and that's oversimplifying
+this
+grossly but that's the big picture of
+what jazz c2 is
+you know on the air force you may have
+heard of things like adms advanced
+battle management system
+in the army project convergence but
+what we're going to talk about today is
+specific to project convergence because
+there is an opportunity for
+companies out there that have
+technologies that could enable jad c2
+to get that in front of the right people
+at the army and let them potentially
+make a decision to conduct some research
+or to
+or go on contract to do something else
+so maybe prototyping or some type of
+development work so i'm going to share
+my screen with you i'm going to show you
+a little bit about what the project
+convergence website looks like and what
+some of the requirements are
+all right guys if you're watching the
+video you can see i have the army
+futures command website up if you're
+listening to this in the podcast that's
+fine because i'm going to read you
+what's going on here but basically this
+is a website that tells you a little bit
+about what project convergence is and
+how you can make a submission now
+this is
+armyfuturescommand.com and it says right
+underneath that project convergence is
+the joint force experimenting with speed
+range and decision dominance to achieve
+over match and inform the joint
+warfighting concept and joint all domain
+command and control jc2 a campaign of
+learning it leverages a series of joint
+multi-domain engagements to integrate ai
+robotics autonomy to improve battlefield
+sa situational awareness connect sensors
+with shooter and accelerate the decision
+making timeline
+and then it has a little tagline at the
+bottom of that all that to say we are
+trying to connect all of the sensors all
+the information that's out there and get
+the right info to the right decision
+maker at the right time whether that's a
+strategic guy on the top or a tactical
+guy or gal on the bottom trying to
+execute the mission
+now beneath that we have project
+convergence 2022 solution submission uh
+technology areas essentially so if
+you're a company that has a technology
+that can enable some of this and it's
+very broad right
+then i would encourage you to at least
+investigate this website and see if
+maybe you're submitting your solution
+see if it catches the eye of somebody
+that's going to be on the other side on
+in this case the army uh that says hey
+this is a technology that we might be
+able to use to enable the warfighter now
+some of the technology collaboration
+areas are sensor affects both kinetic
+and non-kinetic c2 which is command and
+control and it says maneuver fires intel
+protection ew ew stands for electronic
+warfare that's electromagnetic spectrum
+manipulating
+identifying things on the ground etc
+communication satcom aerial and
+terrestrial assured pnt pnt is position
+navigating and timing so navigation and
+timing so if you are involved with
+navigation at all with
+you know inus for instance or celestial
+navigation or any type of navigational
+technology that doesn't involve gps this
+might be something that you can look at
+robotics ai machine learning medical
+sustainment autonomy cloud computing
+planning i mean you can tell there are a
+lot of areas here so it's very broad so
+if you are doing anything that fits
+within that i would definitely take a
+look at this
+you know cloud computing you've probably
+seen some of the
+the recent contracts uh and some of the
+things like google pulling out of their
+defense contracting you you get
+microsoft azure you hear a lot about
+amazon web services so cloud computing
+is a big thing right now and how the
+government's going to uh to move forward
+in the future
+now off to the right
+we have some it says potential
+partnership mechanisms and it basically
+just includes a variety of ways that
+government can work with companies and
+they're covering everything here from
+baas
+sivir program sttl which i've talked
+pretty extensively about these on some
+of my other podcasts otas etcetera we
+did one podcast just on ota so if you
+want more information on any of those i
+would just scroll through our podcast or
+go to the website richards howard.com
+we've got some videos up there as well
+that walk through a lot of this
+now there's a place here for you to
+submit your solutions i'm clicking on
+that uh really quickly but basically
+it's going to take you to a page where
+you fill in some uh easy information
+what what is your name etc you know and
+then it's going to take you through hey
+quad chart template that you would have
+to put together some other templates
+in solution submissions form but it
+walks you through the process so pretty
+relatively easy if you want to um you
+know knock out something uh and send a
+submission in here just you can have
+someone take a look at and say hey we
+think this fits or maybe it doesn't
+they'll give you a good idea just
+scrolling through the website here it
+goes through you know what does
+multi-domain mean it kind of goes
+through their domains lane land air c
+space cyber
+because we certainly we're trying to
+connect information in all of those
+areas um and it walks through a little
+bit more um in a little bit more detail
+different capabilities they're looking
+for but again there are a lot of
+programs like this um and i'm not
+speaking to jad t2 but i mean
+that
+aren't
+something that you necessarily see on
+sam.gov
+but you may go to you know once you have
+a target agency that you're trying to
+sell to i would start investigating uh
+some of the different organizations
+within that agency you know
+we got the department of defense right
+which also has all the services
+underneath it but if you're targeting
+army army futures command is just one
+piece of the army right so here's one
+thing that you can look at but you know
+um army corps of engineers may be a
+better fit for what your company
+provides you can go check out their
+websites the small business sites and
+find different you know events or
+potentially opportunities for you to
+make submissions through like this
+they're great ways to get in front of
+the right people on the other side i
+always follow up and ask for a meeting
+after i make a submission so that's just
+a little piece of advice from me to you
+and hopefully you found this informative
+i'm gonna start bringing more of these
+to you through the podcast so obviously
+these are going to be more
+uh time sensitive i guess uh you could
+say so because this is going to be due
+on december 31st 2021 but i'm sure it'll
+be a future submission uh windows that
+open as well if you're listening to this
+after that always you could uh feel free
+to reach out to us when you talk through
+what else is going on in the world and
+how it can apply to your company thanks
+again for tuning in and i'll see you
+next time

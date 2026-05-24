@@ -1,0 +1,1311 @@
+Kind: captions
+Language: en
+[Music]
+well hey everyone Thanks for tuning in
+this week this is DoD contract Academy
+podcast and I'm here with sujish of
+Konami software uh Su how are you today
+I'm great Richard how are you good good
+and so I haven't had uh multiple
+interactions with you here we just had a
+quick conversation before we got started
+but there were some things about your
+business which caught my eye and um we
+ended up reaching out to you to talk a
+little bit about what you're doing with
+the dod I think you're doing some
+fascinating things and you know maybe we
+should get started with a little bit of
+your background so so who are you and uh
+maybe how do how did you get to the
+point where uh Konami was created yeah
+sounds great so a little bit of
+background myself I I'm sish Krishan um
+I'm currently CEO of kenami uh I come to
+K
+with the very good experience in in
+business and Engineering I'm a I'm an
+engineer by training a mechanical
+engineer so um you know back in the day
+I I I helped design some parts that went
+on the Airbus A320 so you know I guess
+that's my flame to Flame from a product
+perspective have done some work on the
+on the Navy side looking at simulations
+and how to how to create hols of
+submarines and tankers to evade uh
+detection
+okay so so I came from the engineering
+side but I've eventually sort of found
+myself on the business side and what I
+really love doing is is starting
+businesses growing businesses um you
+know working in that whole
+entrepreneurial side of side of
+life um i' I've done that a few times so
+prior to joining Konami I co-founded and
+ran um another data management uh
+company uh based out of Baltimore um so
+it's something that I founded and ran
+for about seven years it's still a
+ongoing sort of profitable company but I
+I moved on and wanted to do something uh
+something different after seven years
+and so um I'd been looking around you
+know the whole Space around data
+interested me quite a bit just given how
+much we're reliant on data and the fact
+that you know data is growing so much
+and we needed ways better ways to manage
+that that data so I was looking in the
+data space for what kinds of Concepts or
+ideas or interesting startups might
+exist in in that space you know as part
+of that I you know I did look at regular
+jobs so I you know I I I interviewed to
+places like Amazon and and others just
+as I looked at at the broader data space
+but kept getting drawn back to the
+startup world right of of being able to
+sort of create something and um and in
+that
+process I came across kenami so kenami
+at that time was um was basically two
+Tech Founders who had a had an
+interesting idea of of being able to
+uh look at this this problem of of
+managing data and and the volumes of
+data that are growing um and and and
+we're looking at sort of interesting
+ways to address that that problem and as
+I as I met the founders and I I I spoke
+to them um you know one I really like
+the people I think 90% of success of a
+startup is based on on on the
+people the the first thing that that
+really caught my eye was you know the
+the the the main technical founder is
+somebody that I got along really well
+with and I think even if this idea fails
+there were 10 other things that we could
+we could do together sure and then the
+idea itself I felt like was at the right
+time right so you know we have all of
+this this data that's growing at what we
+call the edge right so in the dod uh we
+call it tactical Edge but in the in the
+commercial world it's just the edge
+right so it's it's iot it sensors it's
+drones so there's so much information
+growing in all the all these places is
+without the right tools to sort of
+effectively manage all of this data and
+and you know the founders had this
+really cool idea to help try and solve
+that problem so that's really what
+attracted me to to Konami so I I joined
+Konami in 2018 so I I came on as as CEO
+and let the you know let the let the
+tech guys sort of focus on on product
+while I focus on on Market um and and
+since then we've we've continued to grow
+and build the business and and here we
+are right so with Konami um you have a
+I'm assuming you have a pretty strong
+commercial footprint as well as you're
+and I can see what you're doing here in
+the federal government is that fair to
+say or or would you say your focus is
+yeah yeah absolutely we we very much a
+dual use company um in fact we had not
+even considered the the dod or the
+government Market because all of our
+prior experience has been on the
+commercial side so right we really sort
+of came up with this idea and we're
+we're thinking sort of go to market from
+purely a commercial perspective but I
+think in the last few years what the Air
+Force in particular has done with um
+opening up the pathways making it bit
+more friendlier from a small business
+perspective really attracted us right
+and you know how we got involved with
+the dod was just pure happen stance
+right so you know we we we happened to
+be looking around online and found found
+a posting by aworks right saying that
+there's there's this whole phase one
+civer process it's a really simple
+process three months effort go find a
+customer so we thought you know this is
+low risk we we should try it right and
+that's that's essentially how we got
+into the uh into the ecosystem so I
+think um yeah I think programs like
+aworks have been have been extremely
+valuable as as we a commercially focused
+company have also said hey there
+actually might be real opportunities
+that we can sort of go after in in the
+in the defense space as well yeah no
+absolutely it's funny because this is
+becoming a theme you know on a lot of
+the people that I have on the show show
+is not just getting into Federal
+Contracting or defense Contracting
+through the SBI program but AF Works in
+particular is been a um enabler I guess
+you could say of a lot of the small
+businesses and it's interesting you know
+what they've been able to do and are you
+familiar with htx Labs at all yeah I am
+yeah yep so htx I had Scott on from htx
+Labs they're in Austin right close to
+yeah okay fantastic yeah so they were on
+recently and and you may have if youve
+listen to the podcast episode you may
+have listened to some of the other
+people that have gone through AF Works
+uh Brian stream I think went through AF
+works as well um but yeah so it's
+interesting how this is starting to
+become a theme among small businesses so
+it's worth you know for anyone listening
+this is worth really paying attention to
+things are getting a little bit more
+competitive but it's still it's still a
+great way to get your foot in the door
+um but before we get to that why don't
+we talk a little bit about um you know
+what your business does what Konami does
+because you talk about managing data and
+there's a lot that goes into that that
+can mean a lot of different things um
+why why don't we talk a little bit about
+how you specifically do that what you
+find uh what you what attracted you what
+you thought was Innovative about the way
+that Konami does it yeah so so if you
+think about traditionally how data is
+managed right um especially at the edge
+you have you have devices right it could
+be a personal phone it could be a
+computer could be other things right
+sensors all of that data is collected
+sent somewhere to a centralized place in
+a data center in a cloud it's all
+processed and then pushed back out for
+use M it's the traditional I guess Hub
+and spoke model right where there's a
+there's a hub that does everything and
+then pushes things
+back increasingly the the world is
+getting even more distributed and
+connected right uh which which means
+that this this centralized way of doing
+things doesn't quite work anymore um you
+know think about connected cars
+satellites in operation all of the
+systems require one realtime uh
+processing right at the edge it's not
+sufficient to go back and forth to a
+centralized point you need to make
+decisions quickly at the edge secondly
+the data volumes at the edge are growing
+significantly right and in fact it's
+expected that by in the next three years
+it's going to Eclipse all of the
+centralized data that's been created and
+processed right interesting that's that
+you know that's quite a shift right in
+where we've come from and where we're
+going
+and and so the the challenge is with all
+of this data all of those needs for
+real-time commun you know real-time
+processing peer-to-peer Communications
+between Edge devices Etc how do you
+actually manage all of this right uh
+because we've lived in the centralized
+environment so it's great right so there
+are great solutions from a cloud
+perspective all the hyperscalers you
+know IBM Google AWS provide great
+solutions from a centralized perspective
+and then we have some solutions that
+address security right so you have
+device Security Solutions out there
+protecting your device itself but from a
+pure data perspective nothing exists
+today and so generally organizations are
+trying to Cobble together Solutions
+right across storage across security to
+try to address that problem and it's not
+working if you if you read in the Press
+about iot security for example it's a
+mess right every day you hear about
+another breach and part of that is
+because of this this Patchwork of of
+solutions sure so at kenami we said we
+want to try and address this problem
+right The Edge is different for a few
+reasons right one is there's millions
+and billions of more devices at the edge
+MH so it becomes hard to manage that how
+does it effectively manage all of those
+all those devices and so when you say
+and just so I can understand a little
+bit better and then maybe clarify for
+anyone listening so when you say iot
+Internet of Things Are are you also
+including things like um well now all of
+a sudden you know my garage door opener
+connects to the internet and the uh the
+SK system you know manages a building
+you know everything is connected to the
+internet and you know all the all of the
+devices essentially that we you know we
+all we kind of known for a while we have
+to protect our computers and anything
+that actually has a database in it or
+know your cell phone but now it's all of
+these other like my even my lights might
+might be connect to the internet you
+know and okay so that that's where
+you're going with this yeah absolutely
+like it could be your home refrigerator
+you know your AC system you know all of
+these things now are are not just dumb
+devices right they are they are
+collecting data they potentially need to
+react in real time to things that are
+happening they need to send data to to
+multiple places so it opens up the the
+attack surface quite significantly right
+in terms of where people can go to get
+access to data it it it opens up your
+own private data right for to exposure
+in in a lot of ways right um and so
+that's the challenge we have right is is
+now there's there's millions and
+billions of these devices all over the
+place and it's only and it's only
+growing
+secondly um it doesn't exist at the edge
+right so if if there's a problem or you
+know if there's a an issue of a leak or
+something how do you address that right
+without without having you know you're
+not sitting in a data center where
+there's 15 it people around that can
+immediately jump and fix that problem
+right um so it becomes you know that
+that distributed set of problems creates
+all kinds of challenges and soami we
+said we want to and create a holistic
+solution to try and address this problem
+around data and data management at the
+edge okay and and we do and we do that
+using um a platform that we've built um
+that's essentially a distributed
+peer-to-peer uh data management and
+security solution so so the way it works
+is um our software goes on all of these
+Edge devices right whether it's a
+refrigerator or a satellite or a or or
+any other kind of sensor or a connected
+car we have we have an agent that's
+running on on the device so when when
+any information is captured by that
+device it automatically goes into our
+secure system um within that secure area
+a few things happen that data is first
+broken up into chunks so smaller pieces
+each of those pieces is then
+individually
+encrypted and then and then those
+encrypted pieces can be spread out
+around a network right in multiple
+places it's stored in multiple places
+around Network so the idea is that from
+a security perspective now if somebody
+breaks into any machine they're not
+going to get anything useful because
+they're going to get a fragment of
+encrypted information okay and to
+basically get the whole you would have
+to break into every single place that's
+stored in and also decrypt that
+information individually each of those
+fragments oh that's interesting so is it
+so when you say it's stored in a
+platform do you really mean it's stored
+in platforms that are you know so if
+we're now if we're talking about the
+edge the iCal Edge for when we're
+talking about the dod or the military
+right especially we're talking about
+flying now we're talking about not
+refrigerators and uh you know lights and
+doorbells but now we're talking about
+flying aircraft right and uh maybe even
+the sensors that are on the ground and
+satellites and like all the different
+things drones yeah drones satellites um
+could be tactical hand handheld assault
+kits right the right all all of those
+kinds of devices right and so by also
+spreading information across that that
+kind of Network you're creating better
+security but you're also creating more
+resiliency in the system right because
+imagine a drone getting shot down or a
+satellite being taken down doesn't
+matter because that information is also
+spread out in other places so you
+automatically and in inherently create
+resiliency in the system so it's it's
+similar to why satellite constellation
+systems exist right the whole concept
+satellite constellation systems is to
+create that resiliency right if one
+satellite goes down you can the whole
+system can still operate right um we're
+mirroring that with data right so that
+um you know you still have that
+resiliency irrespective of whether a
+system goes down or potentially say a
+network goes down or is under attack
+you're you're still able to manage that
+that the security the the availability
+of of that information interesting so if
+um if you're storing pieces of it on all
+of these different things and the Drone
+goes down right I'm assuming that you
+don't lose the pieces of information
+that are on that drone because they're
+also being stored somewhere else in
+other places exactly exactly right so so
+data is not just split and spread around
+but it's also stored in multiple each
+fragment is stored in multiple places
+right so okay you get redundancy as well
+interesting and so the trick the trick
+around all of this is to do it in the
+most efficient way possible because all
+of these devices we're talking about
+right the the Drone the iot device are
+all small devices so they need you know
+this system needs to be low swap right
+size weight and power right pretty low
+uh footprint from that perspective it
+also needs to be efficient from a
+storage perspective because we're
+creating multiple copies of information
+and all that right so that's really
+where the core of our our IP and and The
+Innovation comes in right is to is to
+sort of create that system that that is
+Deployable as easily on a drone as it is
+in a in a data center yeah no that's
+that's interesting and I mean I I have a
+million questions about this just
+because I was so involved with it you
+know at least from the flying well even
+from the acquisition standpoint I was
+working on a lot of those programs what
+when I was in the Air Force but um
+because you've also got you like you
+mentioned you get massive amounts of
+data you know that things are generating
+so how do you store massive amounts of
+data on things that maybe originally you
+know we're flying aircraft that are you
+know 20 30 40 years old in some cases uh
+with you know um we used to joke that we
+had uh you know like the original
+Windows operating system on some of the
+intelligence aircraft that I used to fly
+so um you know when you have aircraft
+that aren't designed to store that
+amount of information obviously that's
+going to present present another
+challenge you know we're talking about
+that yeah and exactly and I think I
+think those are situations where you
+need flexibility right of being able to
+on a mission or in real time be able
+to decide and optimize where data is
+stored right yeah everything is not
+everything is not necessarily optimal at
+every given point in time and and that
+decision may change over time and so
+part part of what our system provides is
+a is an automated way to do that so we
+have a an automated policy engine that's
+orchestrating everything uh behind the
+scenes so that can help you to both
+decide what storage systems to use when
+how but also what network paths to use
+right because every every Communications
+option may not be available and may not
+be ideal at any any given time right so
+it may be that right now satellite is
+the best way to communicate data but in
+another instance it may be radio and and
+you want sort of a a data management
+system that is able to dynamically
+reroute information right based on based
+on operating conditions versus having
+the an admin or an operator decide that
+for you yeah no absolutely um you know
+especially I mean there's so many
+different scenarios right I mean when
+you're talking uh especially some of
+these combat missions you have different
+Coalition partners that are flying
+different aircraft you have troops on
+the ground that have different kinds of
+equipment so I mean you just really
+never know it's really interesting and
+uh I but again I don't want to go too
+far down that uh down that trail so I
+know that there are a lot of people
+really thinking hey this is interesting
+um but how do you get something that is
+interesting and it's a new idea and A
+New Concept into the hands of the Air
+Force or the Marines or the Navy and we
+I think we you know gave a little bit of
+an Easter egg at the beginning here
+because we already started talking about
+a works and sbir so why don't we kind of
+pivot over to that right because you
+mentioned that um you started by happen
+stance learning about sbir and AF works
+why don't you talk a little bit about
+your initial involvement with that and
+you know kind of what your thoughts are
+there yeah and I I'll give you I guess a
+little bit of a backstory on how we got
+to that as well so um I guess this was
+so in we as as I the company and we
+looking at sort of how we grow the
+business obviously as a startup the
+first step is to go look for a bunch of
+venture money right to and fun fund the
+company so in in
+2019 late 2019 early 2020 we were
+actively in discussions with um with
+with several investors about a about a
+about a fundraise for for you know our
+growth right
+activities and interestingly enough
+March 2020 came around and and all of
+those conversations shut down right
+um uh with with with covid-19 and um and
+so as a company we had to really figure
+out what what what our next steps were
+going to be as as that sort of event
+unfolded um we looked at um you know
+opportunities on the commercial Market
+from a pilot perspective and all of that
+but things were looking pretty tight and
+and part of the challenge is you know
+we're not
+building uh you know a SAS website right
+to sell something this is underlying
+deep technology and and requires some
+some significant amount of investment in
+technology and and product to sort of
+get to Market and so we really needed
+that investment to to to move forward
+and so when these opportunities D dried
+up on the on the private funding side we
+said you know we need to look at other
+kinds of activities right and so that's
+when we started sort of looking around
+to sort of see what else might exist and
+we ran across AF Works uh and and for us
+it was an interesting opportunity
+because we hadn't really considered
+defense sector uh in in attending some
+of the aworks webinars and all of that
+it seemed like they had created sort of
+a quite an Innovative Pathway to get
+businesses engaged right and engaged
+quickly at least at the at the first
+step yes so we said um you know why
+don't we try this out and see see what
+happens and we were lucky to win a a
+phase one um award from afors which gave
+us three months to go out and and build
+those connections right in in the Air
+Force and um you know we took the
+approach that we would take in the
+commercial Market if we were going after
+New Market so there's a new market we
+need to build the relationships and we
+need to build the connections right so
+we uh you know we mined places like
+LinkedIn we used other net you know
+networks of networks right people we
+knew that could introduce us to to folks
+and I'd say within you know the the
+first three months we probably met over
+100 people right oh really and I was
+surprised because just not being
+familiar with the whole DOD side of
+things I expected people not to respond
+right you know as an external person but
+I think just the you know just going in
+saying that I have an AFF Works contract
+and um you know I'm I'm interested in
+sort of learning about your needs and
+how solution may fit in opened lots of
+doors right I you know pleasantly
+surprised and so we I think over that
+first three months built a lot of really
+strong relationships okay folks um and
+and and we ended up in a place where
+where you know the afterworks process is
+is you work three months you find a
+customer you get the customer to sign a
+memorandum of understanding and then you
+apply for a phase two right
+right so so we went through that process
+um we found actually several customers
+that potentially were interested and um
+uh and and then we applied for a phase
+two and and and we've you know been able
+to sort of work that through the process
+so I think we've
+been you we're very grateful to act
+works and the process that they they've
+set out and we've been successful in the
+phase one and phase two processes thus
+far okay um where we're going is to try
+to figure out the next step right and
+that's the important question that you
+asked right is how do we now you know we
+we're creating some interesting pilots
+and proof of Concepts through the phase
+two efforts right how do we now
+transition that into the hands of the
+warf fighter right you know somebody at
+the at the end and you know we don't we
+don't really have the the answer yet uh
+you know we're just we're going through
+that process now to figure out you know
+is it a phase three is it some kind of
+other Contracting mechanism that we can
+use to U you know use to get there yeah
+it's interesting because I had the exact
+same conversation so many times with
+with SBI SBI are such a great way to get
+your foot in the door especially with if
+with Innovative Technologies um where
+you might be looking for something like
+Venture Capital right and another nice
+thing that I will point out too is that
+when and this is a reason to consider um
+you know selling to the dod or to
+another Federal agency is you know you
+mentioned that a lot of the Venture
+Capital started drying up when covid uh
+kind of hit and I think that's an
+extreme example of how you know the
+market can fluctuate right yeah and but
+it's also a great example of how your
+commercial line of Revenue can dry up
+but the government keeps on spending
+right you know it it takes you know I
+think that you know some of the the
+sayings out there about government
+spending is it just takes a wicked long
+time for the government to do anything
+right and in in a lot of cases that's
+true but it's also true in a good way
+which means you know you know commercial
+funding that could dry up in a snap
+right but the government's still
+spending and it you can't just stop that
+machine nor does it want to stop right
+the government still we still have to
+run the military we still have to defend
+the country we still have to keep our
+agencies up and running so I think what
+you saw there is a good example of how
+you know now we can capitalize on what
+the government's doing and a lot of
+businesses will will have two streams of
+Revenue commercial and government and
+federal and that can offset they can
+offset each other you know um you know
+maybe a government contract doesn't come
+through in the timeline that you want it
+to commercial Revenue kind of makes up
+for that uh or the opposite is true
+something you know business goes out you
+know someone goes out of business or a
+deal Falls true but the government
+contract is a that you have is steady
+income coming in that you can count on
+which um which is great um yeah I mean I
+think you know I always tell other
+startups that I talk to and Mentor that
+if you're building deep Tech the first
+place you should go look for funding is
+uh is is sbirs and and the dod right
+because um because I think it gives you
+the runway and it gives you the sort of
+that patient Capital to test your idea
+refine it get it to a stage where it's
+interesting from a you know a VC
+perspective to invest in right so right
+uh and and I think I think if you
+combine the two it becomes quite
+powerful actually right to to scale your
+business because not only do you have
+the runway and the capital to build out
+an early kind of proof of concept that's
+interesting to external investors but
+you also have the credibility of working
+you know with with the dod and all of
+that that again sort of drives your
+story from a from a and you're also not
+giving ownership of your business away
+absolutely absolutely I think that's a
+big that's a big piece of this that you
+know I don't even bring up that often
+but you're the government doesn't Own
+Your solution through the cber process
+right and even if um you know typically
+when you're selling a technology to the
+government and now certainly you could
+develop something for the government
+that the government's going to own but
+that's not what this is this is the
+government investing basically in you to
+see if we can take this potential that
+you have that you've proven and take it
+to the next level right so one of the
+requirements is typically it has to be
+dual use so there has to be a commercial
+use and there has to be a federal or
+government use and yours certainly has
+that yeah really interesting and um you
+know and your question as well on how
+what do you do after the civer phase 2
+like where do you go next right yeah
+yeah so that's that's what we're trying
+to figure out I mean interestingly we've
+had lots of good opportunities come out
+of this right so we started with a Works
+uh a few months after that we um we
+heard about this Army program called
+xtec search and said hey you know that's
+something we should apply for right so
+we applied for it um we got selected in
+the first round there so we went to
+Philly and pitched to you know Folks at
+the
+Army uh and and we didn't we didn't make
+it past the first round however um after
+our pitch you know this woman came up to
+us and said she was one of the judges in
+the room and she said a lot of the
+people
+here probably didn't get the value of
+what you guys do um so you you know
+you're probably not going to make it
+past yeah I I got it right and this is
+this is a really important stuff let's
+keep in touch right yeah uh and and
+since then you know our teams work with
+her and she she was from the Army Corps
+of Engineers okay so our team's worked
+with her team for for about about a year
+uh and and we you know we got a we got a
+we got a contract you know with them and
+you know with with the University of
+Nebraska to look at at developing a
+system to uh monitor critical
+infrastructure assets right so Bridges
+okay assets you know things like that
+and it's it's just a function of being
+there right taking part in the event
+meeting this person uh and building that
+relationship right and so I think
+sometimes we look at these things like
+oh you know we didn't get past XX so
+it's you know it's it's it's a waste of
+time to take part in these things but
+it's it's all about being in the right
+place at the right time where you can
+meet those those people that you can
+then cultivate Rel relationships with
+right so you know I think even programs
+like xtech search even though we didn't
+win anything we actually ended up
+winning right because we right have a we
+now have a three-year contract that that
+we're working on with the Army Corps in
+the University of Nebraska but it all
+came out of that that one meeting at at
+XX sege yep no you're right it never
+would have happened if you didn't do
+that and and I was wondering because I
+was looking over your federal I'm
+looking at it right now some of your
+your federal contract Awards and I saw
+the one from Nebraska up there I was
+like what is that cuz that is a little
+bit different than um you know some of
+the other and I could see that these are
+SBI it looks like you have a couple SBI
+actually or at least were they two
+separate s spis or was it a continuation
+of uh the initial no so our yeah no we
+have we have I think we have like three
+separate SBS going on right now um okay
+so the we have one going on with um
+combat search and rescue within the air
+force sort helping them sort of more
+effectively and efficiently locate
+isolated personnel and collect Health
+metrics and all that we have another
+effort going on with afrl looking at
+digital engineering so this is a
+slightly different problem it's you know
+how do you move extremely large data
+sets right we talked about this earlier
+in the show so this could beabes zabt of
+of files how do you efficiently and
+securely move that not just within the
+Air Force but to external partners
+whoever other the collaborators could be
+Allied Partners Etc right uh and then
+from you know I guess this might be
+interesting to you from your flying days
+but um we're doing some work with big
+Safari in compass sure yeah um looking
+at how to enable multi-level Security on
+board um the compass called aircraft
+right um yeah I was talking with
+Stephanie above that too so if
+everyone's listening you might not
+realize that we have someone else on
+also from Konami but yeah we talked a
+little bit about that and was just
+talking about how um how you move
+information around uh on an aircraft
+like that I flew the river joint and J
+star which are which very much fit into
+the same fact that the river joint and
+big Safari also are very much Associated
+but um yeah moving data around was a and
+again I'm going back 10 years when I was
+in the cockpit right but that was always
+a challenge always a challenge not just
+in the cockpit but I mean you know how
+do you get it from Mission planning on a
+computer in a squadron to
+inside the aircraft right especially if
+your aircraft is considered a classified
+environment right um you know and I mean
+there's I'm not going to go through
+every scenario here because yeah and
+then also how do you how do you move
+that data around when when your
+classification levels change in on
+mission right yeah while you're flying
+and and today you don't have a mechanism
+right so people are yelling across the
+plane or they're texting each other
+right to to to pass that information
+along and so we're trying to make that
+process more efficient yeah well that's
+that is definitely an area that is
+righte for Innovation and uh and
+streamlining so you are involved in a
+lot of uh really really kind of cool
+areas that that are in need too of a
+solution so certainly I think you have
+um you know a lot of different
+opportunities in the future here to just
+keep moving forward um and I think you
+know I mean we we also recognize that
+you know we're a small company so in
+terms of transitioning to to you know to
+get our technology to the end user it
+may not just be kinami trying to do that
+by ourselves right it needs to be some
+kind of a collaborative effort so we are
+actively engaged in in trying to build
+relationships and find the right
+opportunities with the primes as well um
+you know for example on on the compass
+call effort um you know we we're
+partnering with Bae system okay awesome
+because they're the Prime on Compass
+call you know and some some of the
+software systems on board the plane so
+we're trying to also figure out you know
+that path as well you know is there a is
+there a win-win there that we might be
+able to collaborate with a prime y that
+that sort of you know creates a pathway
+for us to transition our technology to
+to the war fighter as well no absolutely
+and so for all the Primes listening out
+there and for other businesses that's
+that's good to know because you're also
+I mean in every business has to think
+about this especially the small
+businesses that have something like this
+is a lot of times the bigger contracts
+are going to be specifically for what
+you're selling it's going to be for a
+solution that includes and maybe even a
+small part of it is what what you have
+so that's where teaming and
+collaborating becomes so important as
+you're moving forward and seeing how you
+can um and then you can you can be
+strategic about who you partner with
+just like you mentioned with Bae and big
+Safari right so if you're if you have a
+Target um whether it's a client or a
+weapon system you're trying to get into
+pretty pretty easy to do the research
+and find out who the primes are involved
+with that and um you know especially you
+know being as far down the road as you
+guys are at least as far down the road
+as you know you're on contract with the
+government you have several contracts
+and you're obviously have a lot of
+interest there's going to be interest
+there from from The Bigs for sure so um
+and you know and from from our
+perspective this is no different than
+our commercial strategy so commercially
+we're going to follow the same approach
+right is we're going to try and partner
+with some of the larger either it
+vendors or systems integrators right as
+we go into out into the commercial
+market and so you know for us it's you
+know it's the same kind of strategies
+may maybe a different kind of set of
+actors but yeah you know it's same
+approach yeah and you know something
+interesting too is you can you were
+talking about hey where do you where do
+you go after the phase two the phase
+three the programs of record you know
+I've had a lot of conversations about
+hey how do you create that program of
+record right like how do you and and
+that's a long process right but but
+there's also a lot of strategies to stay
+on contract with the government up to
+the point that that happen happens
+backslash you know when you look at
+something like you know you're on the
+abms contract and we were talking about
+that well abms is a program of record
+right so it's also you know for anyone
+listening you you don't have to go out
+and try to create this program of record
+uh you know and Take On The World
+because that that is a huge uh challenge
+right it can be done certainly but there
+are already a lot of programs record out
+there that you probably fall into right
+so especially when we talking about the
+new weapon systems like you know abms
+you know is that um starts you know
+building over the years they you know it
+exists and it receives funding so um
+potentially that could be something that
+you guys capitalize on right or you know
+you pick pick any of the other efforts
+that are going on right now that already
+exist as a program so um yeah no
+absolutely lots of interesting uh paths
+forward for you so so what's next what
+do you focus on now yeah so just one
+other thing I want to add is um you know
+in addition to the SBS I think where
+we've been successful is is is trying to
+build some funding pathways through
+Congressional
+funding you know like the work that
+we're doing with the Army Core in
+Nebraska is is essentially funded
+through the armed services committee so
+um so we've been able to use um you know
+our our sort of you know colleagues at
+at the University of Nebraska and and
+the Army Corp to sort of get in front of
+some of these needs right that that are
+that that that sort of Congress and and
+the arm Services committee are looking
+in a sense to be able to create packages
+that that create some funding pathways
+through through those kinds of
+mechanisms and I just mentioned that
+just that in in that for for companies
+listening that might be a pathway as
+well right so you know in this ve of
+collaborative working right you know
+those are also Pathways that are
+potentially available if you can find
+both the right engaged customer as well
+as engaged Partners in in that process
+no you're right and there's there's no
+uh there's no lack of different methods
+to to get in front of the right
+government customer and I mean I feel
+like we could do an entire other episode
+on how you're working with the arm
+Services committee and and what that
+process looks like you know we've done a
+couple interviews with people that Focus
+just on that right and uh and that in it
+of itself is an interesting skill set
+yeah so it's it's it's been an
+incredible learning process for us it's
+you know we've only been engaged in in
+as I mentioned in the dod sector since
+2020 so it's you know just under two
+years um and we've I think we've we've
+learned a ton uh We've made some some
+good progress but you know to your
+question about what's next for us it's
+it's really two things right the first
+is you know some of these sbirs that we
+have on phase two we're really looking
+at how do we transition this right into
+into a phase three or or some other kind
+of project where we can start to
+productize that solution as we think
+about getting it into the hands of of
+the warf fighter so that's year that's
+going to be really our big Focus from
+from a Dy perspective is is is getting
+there our second big Focus next year is
+going to be sort of pushing from a
+commercial perspective um we have
+several opportunities we're working on
+in the utility sector in in autonomous
+systems and Robotics um in drones um as
+well as
+um as well as in um in some other iot
+related kinds kinds of areas and so um
+you know we're we're really looking you
+know over the course of next year to get
+sort of V1 of our commercial product
+into market and hands of some of these
+users as we as we think about our
+commercial roll out as well so um like
+you mentioned you know we see ourselves
+in in a year or two potentially having
+two Pathways right yeah a sales and
+marketing team that's focused on the
+commercial side and then a sales
+marketing team that's focused on the
+federal DOD site because we've we've
+done a fair amount of engagement on the
+dod front haven't really looked across
+other parts of the federal government
+and I know there are opportunities with
+Department of
+Transportation as we think about our our
+product FAA I mean there's going to be I
+mean yeah there there's there's so much
+out there and we we I've had episodes
+just with just focusing on little niches
+of uh industry that they never thought
+would be um never thought that the
+government would buy from what they do
+right from like social media training or
+to taichi instructors you know stuff
+that's very non technical where the
+government is just buying they buy
+almost everything in fact people have
+challenged me with different things to
+see if I could uh confirm that the
+government doesn't buy what they sell
+and even though some of it's small
+quantities I've been able to find just
+about everything that um you know has
+come our way but in your case there's so
+much there's so much work there there's
+so many things both commercially and in
+the government sector um where you could
+go that um you know it's it's nice that
+there are those opportunities and I
+think think you've got the um the right
+you know it sounds like what you're
+doing is you're slowly building your way
+out through the Department of Defense
+and then once you get bigger expanding
+to maybe some of the other agencies
+which which is smart because the
+government's a big place and you know
+each agency Works a little bit
+differently yep yep yeah and you know I
+think if we can if we can build
+credibility in one one place then you
+know we can use that to to move into
+into other spaces and oh yeah I mean
+yeah I mean so some of the things you're
+talking about and it came up on the last
+show like so for instance the approval
+to operate right so you know you go
+through this process with the Air Force
+and maybe the Army right and you start
+you know getting some of those cyber
+security certifications your approval to
+operate on you know if you have an atto
+to work on a on a weapon system that the
+Air Force owns that gives you an
+enormous amount of credibility to be
+able to start going to the other um
+agencies you know and then you start
+talking about fed ramp and there so
+there's all these steps that you can
+take as you're you know going through
+the process yeah absolutely and I think
+you know I think probably some time in
+the next year we're going to have to do
+some some sort of NSA um clearance
+activity as well and so again those
+those are the kinds of things as you
+said will add to our CR credibility as
+we look into other spaces here as well
+yeah no it's really exciting step by
+step uh the only thing I just kind of to
+recap um because we've talked a lot
+about you know what Konami does um you
+know what what you attracted it to you
+how you guys got in into the air force
+SBI program um
+what you have coming up next you know
+you're talking about hey what phase
+three for next year getting involved in
+the commercial space um and I just I I I
+like to point this out too on some of
+these episodes we're talking SBI um that
+the just being The Graduate of a phase 2
+cber gives you an enormous um Advantage
+when you're trying to sell to the
+government because they can use that
+criteria that you graduated from for uh
+face to SBI to give you a soul Source
+contract um which essentially could be
+your phase three right so um in a lot of
+uh I've met a lot of companies that
+weren't either weren't aware of that or
+didn't quite know how to approach the
+government with that and there are a lot
+of Contracting officers and program
+managers out there that aren't familiar
+with this process right so I mean you
+could be in Acquisitions for 20 years
+and never touch a cber so what I always
+uh what I would tell comp I know you
+guys are aware of this but I would tell
+companies that are listening that are
+maybe in phase two is you know I would
+have something written up that taking
+the Fire Federal Acquisitions
+regulations and the cber language um
+that you could just hand a Contracting
+officer um during a meeting if you're
+kind of investigating who your phase
+three or next contract partner could be
+um you know because I always close with
+hey and you know the technolog is great
+it solves your problem and you can get
+to us this way and by the way you can we
+can get a soul Source contract or you
+this could make it easier for you if
+it's something you consider by going
+through this process and a lot of them
+know what it is but some of them don't
+so you know it's always good to um let
+them know that there's an easy way to
+put you on contract and um yeah you know
+I mean the sky's the limit for what you
+guys could do from here yeah absolutely
+we're quite excited with with the
+opportunity and I think this process
+also opened up to lots of interesting
+Partners right in in the ecosystem that
+are doing really cool things as well you
+know Hardware software Etc and so we're
+also excited by the opportunity just
+collaborate right I mean we don't as I
+mentioned earlier we don't see ourselves
+as a single player in the ecosystem um
+uh you know it's it's a joint effort to
+you know to make um you know make better
+technology for our war Fighters it's
+it's a joint effort to make our nation
+more secure and and so I think um you
+know we're always open to that idea of
+being able to collaborate with um with
+with the right sets of folks as as we
+push sort of our joint sort of mission
+forward here sure yeah know defense
+Contracting is a it's a really
+interesting place to be uh playing in in
+the the mission and being able to just
+knowing that what you're doing not only
+is building a business and that's
+profitable but you're also you know
+keeping the war fighter safe helping
+defend the country improving National
+Security uh so many good things about it
+um and you know part of the podcast
+Mission here is to kind of dispel the
+myths out there about uh what selling to
+the military means what it means to be a
+defense contractor and um that's why I
+love having people like you on so you
+can come on and tell your story and tell
+you tell how the government's actually
+helping you guys build your business and
+now you're helping us so uh you know
+we're coming to an end here sish but I
+do want to give you the opportunity you
+know if someone wants to reach out to
+you you know what's the best way to uh
+contact you if they are interested in
+you know possibly working together or
+you know maybe have an idea for
+opportunity down the line yeah so um
+I'll give you a couple of ways so um my
+email um is is just my first name. last
+name at konami.com so it's
+suj
+e do k r i sh
+Nan kenami K NN ai.com so that's that's
+the direct way if you want to get a hold
+of me otherwise um you know
+www.konami.com uh you can also reach us
+out reach reach out to us through there
+as well Perfect all right well I will
+put that in the show notes and do you
+have any last words of advice you know
+if you're there's a small business out
+there listening to this that maybe they
+do have an Innovative technology or a
+product or solution and they're think
+about trying to sell to the dod or the
+military and they're not sure you know
+what would you recommend to them as some
+initial steps yeah I mean I would
+suggest one don't be scared off by the
+process right I mean I think you hear a
+lot in the Press about the value of debt
+and you know how it's so complicated to
+work with the dod but when you're in
+your early stage what you need are those
+proof points and and I think DOD will
+give you those right irresp of whatever
+else happens after and so you know go
+for it um I would say think about it
+just like any other sales process right
+you have to put in the effort you have
+to build the relationships you have to
+take the time um I I I often hear
+complaints from people hey you know the
+afterworks process is not working
+because they haven't introduced me to um
+you know all of these people and you
+know my reaction to that is that's not
+afterworks job they're paying you uh you
+know $50,000 to go go out and do that
+work right and you know in in the
+commercial Market nobody's going to pay
+you for that right you gota you got to
+go figure that out yourself right and so
+uh you know put in the effort put in the
+time uh you know meet people attend
+events um there's all kinds of resources
+that the dod provides right from
+conferences webinars um there's no dirt
+of it I think you know if anything it's
+just a question of how much time you'll
+have to focus on that so so I'd say
+leverage all of those things for anybody
+listening AF works you know start with a
+works it's it's it's it's a great place
+I can't say enough good things about the
+group and and the organization and what
+they've done but I think more recently
+the Navy the army
+they've all come up with similar
+programs uh and so all of these groups
+are trying to bring in more small
+businesses and so there's probably lots
+of different Pathways for for you to
+engage and if if anybody wants to chat
+about this or want some guidance you
+have my contact details reach out to me
+awesome well well said sujish I would
+add a diu to that list of places people
+are looking another a great place works
+very similar to that um this been a
+fantastic conversation I know people
+going to get a lot of value from this I
+know I learned a lot and I've really
+enjoyed talking with you about some of
+this and I feel like we could have a
+follow on here just to talk about your
+your what you're doing in the ISR world
+and with some of these aircraft that are
+out there uh you can check out the show
+notes if you want to contact suian
+Konami and if you want to learn more
+about defense Contracting you can go to
+dodc contract.com check out some of our
+training there and we have some great
+guests coming up we have an awesome
+conversation with Konami today so we
+will see you next time now if you've
+ever wondered how you can find out about
+the opportunities that don't come
+through sam.gov you know opportunities
+that are already set aside for GSA for
+some of the big contract Vehicles then
+today is the episode for you because
+that's one of the things Mike is trying
+to solve with goley they have a very
+unique very unique solution which I
+haven't seen before so he's walking me
+through what it is how that can help
+small businesses and I think you're
+really going to like today's episode now
+if you want to learn more you go to DOD
+contract
+our open enrollment is going to be uh
+coming up soon so you're going to be
+able to uh enroll in the duty contract
+Academy we also have a new special
+offering so I've been kind of teasing
+this out here where we're going to work
+with a few companies one-on-one to
+ensure that you are successful selling
+to the government now this is a much
+more in-depth opportunity typically
+we're not offering so be on the lookout
+for that go to DOD contract.com when you
+get a chance and now our episode with
+Mike at guley

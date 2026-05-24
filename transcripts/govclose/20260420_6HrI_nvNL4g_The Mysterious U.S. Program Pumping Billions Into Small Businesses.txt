@@ -1,0 +1,429 @@
+Kind: captions
+Language: en
+The SBIR program is back and it was
+reauthorized on April 13th. And there's
+a brand new $30 million phase two that
+never existed before. We're going to
+break it all down in this video. Now,
+here's what you got to know right now.
+This was the longest disruption to the
+SBIR program in its 43-year history. Six
+months, billions of dollars frozen,
+sitting on the sidelines, and there are
+major changes in this new law that every
+small business, every consultant, every
+account executive working in the federal
+space, especially in any tech
+development or innovation, they need to
+understand what is going to be appearing
+probably in a couple of weeks. Now,
+before we talk about what just changed,
+we need to make sure everybody watching
+this video understands what the SBIR
+program actually is. SBIR, this stands
+for Small Business Innovative Research.
+The government calls this America's seed
+fund. Federal government provides
+funding to small businesses, fewer than
+500 employees, to develop technology and
+commercialize it. Non-dilutive means
+that they don't take equity. That means
+that you keep your company, you keep the
+IP, and this is a lot different from
+companies that are used to going after
+venture capital or getting investors,
+right? So, since 1982, the SBIR program
+has invested over $81 billion
+into more than 34,000 small businesses.
+This has resulted in 70,000 patents and
+over 700 publicly traded companies. You
+want some names? Qualcomm, they got
+eight phase one and four phase two SBIR
+awards in its first five years. iRobot,
+you know the Roomba, built its
+autonomous navigation technology on over
+$16 million of SBIR funding. This came
+from the Navy and the Army and DARPA, so
+lots of agencies can contribute to the
+SBIR fund. Anduril, Biogen, 23andMe. The
+first SBIR award ever issued, a $25,000
+phase one, eventually led to founding of
+Symantec, one of the largest
+cybersecurity companies in the entire
+world. And components on the Mars
+Perseverance rover came from over eight
+different
+small businesses. This is one of the
+largest public-private partnerships in
+the United States. Here's how it works.
+Three phases. Phase one, 6 to 12 months,
+up to roughly $275,000. This is proof of
+concept. So, can your technology
+actually work? That's what you're
+proving it and honestly, a lot of times
+this is just a technical paper that
+you're providing. A phase two is up to
+24 months. That's up to $1.8 million.
+And now you're often building a
+prototype, you're proving it to the
+government, you're developing it. Phase
+three is not funded with SBIR dollars.
+Phase three is funded by regular federal
+programs that want to buy your
+technology. And this is where your
+solution goes from R&amp;D to actual
+government contracts. And it could take
+a long time, but the first two phases
+can be pretty quick. Now, what
+transition from phase two to phase three
+looks like, a lot of people call this
+the valley of death and historically,
+it's been one of the biggest challenges
+in the entire program. Now, this new law
+is going to address that and and that's
+part of this new way of looking at SBIR
+that I really love. And by the way, the
+way you would apply to the SBIR program
+is you're looking at topics and
+sometimes these topics are really broad.
+This is really great for companies that
+have developed something or are
+developing something that the government
+doesn't buy yet. This is one of the
+major ways to get your foot in the door.
+Real quick, if you're new here, my
+name's Rick. At GovClose, we've helped
+business owners, account executives, and
+consultants navigate the federal
+contracting market for years, including
+the SBIR process, which is what we're
+talking about today. If you want to
+learn government contracting, start a
+GovCon business, become an account
+executive, or launch a consulting
+practice, go to govclose.com.
+And if you're a consultant looking to
+get in front of companies that need your
+help, check out match.govclose.com.
+So, we actually not only we train and
+certify, but we help our certified
+graduates get clients. So, if you're a
+company and you want to hire someone
+we've trained, go to match.govclose.com.
+You can see the people that we've
+certified that you can hire right now.
+Links in description. All right, let's
+get into it. All right, Rick, so SBIR
+program, it sounds awesome. What's the
+problem? Well, on September 30th, 2025,
+the SBIR authorization expired. Right,
+remember the government shut down,
+Congress failed to pass the
+reauthorization before the deadline.
+Now, there are a lot of critics of the
+SBIR program, but it's existed for a
+long time and produced amazing
+technologies. And what followed was the
+longest disruption in the SBIR program's
+43-year history. The National Institute
+of Health canceled 23 active
+solicitations in November. They paused
+submissions in December. DOD shelved
+pre-solicitation topics that been months
+in development. And across 11 federal
+agencies, more than $4 billion in annual
+funding was frozen. Roughly 6,000 small
+businesses that compete for awards every
+cycle were left without a path forward
+and everyone wondering, "Hey, when is
+this going to start back up?" So, six
+months, the program that built Qualcomm
+and iRobot and put technology on Mars
+was frozen. But finally, Congress moved
+and the Senate moved and we had the
+Innovation and Economic Security Act.
+The House passed it, bipartisan, and
+that was overwhelming. So, that's really
+good news. So, when every of
+bipartisanship seems rare these days,
+it's good to see. This is really a great
+program that I personally believe in.
+The president signed it into law on
+April 13th for a five-year
+reauthorization. So, that's the longest
+extension in the program's history. SBIR
+and STTR are funded through September
+30th, 2031. Now, as of the recording of
+this video, the topics are not yet live
+on sbir.gov. That's where you go to
+actually find the topics, sbir.gov.
+But based on everything that I'm
+tracking, we expect the DOD probably to
+be first and then followed by NIH and
+maybe National Science Foundation,
+probably in May. I'm expecting some of
+those topics to reappear. So, we'll keep
+you updated on that. Now, Congress made
+significant changes to this program. It
+does not exist in the exact same way it
+did before the reauthorization happened.
+The first piece you need to know is that
+there's now a foreign security screening
+that just got a lot harder. So, this one
+has teeth and basically under this new
+law, every federal agency is going to
+have to evaluate
+SBIR applicants against a specific set
+of threat lists. So, if your company has
+financial ties, equity arrangements,
+licensing agreements, joint ventures, or
+key personnel connected to a foreign
+country of concern, and you have to do
+your research and talk to a lawyer, then
+you could be denied. You want to make
+sure you're not linked to any of these
+countries of concern. So, you need to
+understand what those countries are and
+then really research who's involved with
+your company, who your suppliers are,
+where you're getting things from. So,
+it's affiliates, investors, individual
+employees. So, do your due diligence cuz
+that's going to be harder. There is also
+a provision that allows agencies to deny
+based on classified risk sources,
+meaning they may know something about
+your company that they can't even tell
+you. The good news is a denial in one
+cycle doesn't permanently bar you from
+future cycles, but the action item for
+every company is you really have to
+audit what's going on in your business,
+your licensing agreements, your
+employees, key personnel, any foreign
+relationships. Now, change two. This is
+going to affect something that know who
+coined the phrase SBIR farmers, but
+there are companies that are just
+constantly writing SBIR proposals trying
+to win these contracts. Well, they're
+now putting a cap on the amount of SBIR
+proposals that a company can actually
+put forth. So, this one is aimed at
+actually SBIR mills is what Congress is
+calling it, but I've heard SBIR farms
+also. Companies that have figured out
+how to game the system by flooding
+agencies with volumes of proposals,
+crowding out legitimate small
+businesses. In 2027, October 1st, every
+agency is going to have to figure out
+what their cap structure looks like. So,
+they're going to have to figure out how
+many proposals each company can actually
+submit and they're going to be capped.
+So, now that's the law. I would expect
+that coming in. If you're a SBIR mill or
+SBIR farmer, then this is bad news for
+you and probably you shouldn't be in
+this game anyway. Now, I would expect
+the SBIR cap to be published around
+July, but you know how the government
+works, we'll have to keep an eye out for
+that. Now, change number three, this
+addresses one of the oldest complaints
+in the SBIR ecosystem, the valley of
+death. Winning that phase two and then
+trying to get to actual normal federal
+contract funding can feel like it takes
+forever or almost be impossible. And
+that just has to do with how long the
+requirements process takes. You know,
+there's a five-year planning process
+that the DOD has, Department of War. So,
+how do you get from phase two to phase
+three? We just invested all this money
+in a great technology or solution. We
+want to get that phase three funding.
+And one of the problems is that
+contracting officers and acquisitions
+professionals often don't understand
+SBIR. You know, I mentioned earlier that
+I was a major in the Air Force before I
+even knew what an SBIR was or how to
+utilize it. But there are some special
+parameters. When you win an SBIR, it can
+bring down the huge wall, the great wall
+of sole source. Meaning, it is
+incredibly difficult for the government
+to sole source award a contract to you.
+Meaning, awarding your company a
+contract without any competition, right?
+So, we have all these laws to ensure
+fairness and competition, but there are
+many, many caveats and a lot of gray
+area. But this one's not even gray,
+right? If you win an SBIR contract, that
+opens a door for acquisitions
+professionals to give you a follow-on
+contract, a sole source contract, if you
+meet the right parameters. Now, I'm not
+going to get into all of those except to
+say that part of this new authorization
+of SBIR is for training government
+acquisitions professionals so they
+properly understand how to utilize SBIR.
+So, it's just another reason to try to
+win one of these contracts because it
+can really give you an advantage as
+you're going out and trying to win more
+and more contracts, more standardized
+contracts, especially after the phase
+two that you win. Now, the new law also
+requires standardized procedures and
+model contracts for phase one, phase
+two, and phase three. This is big
+because agencies must create a direct
+mechanism for SBIR companies to access
+the program offices that might buy their
+technology under phase three. So, for
+the consultants in the room, this is
+your lane. Companies that have phase two
+awards right now are sitting on sole
+source opportunities that most
+contracting officers, they they don't
+fully understand this. So, you can add
+value to this by being able to explain
+it. In fact, I used to write letters
+directly to contracting officers for
+companies explaining how they can
+legally award a sole source contract
+just to make it a little bit easier.
+Now, here's a quick one. Change for the
+technical and business assistance
+program got a significant upgrade. Now,
+phase one recipients can now use up to
+$6,500 of their award for business and
+technical assistance. Phase two
+recipients get up to 50 grand. So, this
+eligible use really means that you can
+use more funds for things like
+cybersecurity, hiring staff, augmenting
+your team. It could just help you in the
+process. So, it may not be a huge one to
+you until you actually win one of these
+contracts and see how you can legally
+use that money to help you work with the
+government cuz if you watch this
+channel, you know selling to the
+government is the hardest. It takes the
+longest. And although winning a SBIR
+phase one or phase two can be a little
+bit faster, it's still a lot of work.
+This is going to help you get there.
+But, the most important part of this or
+I think the headline to this entire SBIR
+reauthorization is the $30 million
+phase two. Here it is. It's the one
+we've been building towards this entire
+video and I think this actually is going
+to help a lot as far as bridging that
+valley of death cuz the new law creates
+something called the strategic
+breakthrough award. It's a brand new
+phase three funding mechanism with a
+ceiling of $30 million. So, a standard
+phase two is up to 1.8 million over two
+years. This new award is up to $30
+million over 48 months. That's a
+different category entirely, right? So,
+this is designed, like I said, like we
+want to
+&gt;&gt; [music]
+&gt;&gt; bridge that valley of death. How do we
+take a great technology we've invested
+in and actually put the amount of
+funding into it to fully develop it,
+maybe get it in the hands of the
+warfighter. So, here's who can offer
+them. Only agencies with more than $100
+million in annual SBIR obligations. So,
+we're talking about the Department of
+War, Energy, HHS, NASA. They can
+allocate up to 0.5% of their R&amp;D budget
+to these awards. Now, who can receive
+them? Well, the bar is relatively high.
+You must have at least one one prior
+phase two. So, if you've done that as a
+company, then you could position
+yourself for this. But, you also have to
+secure 100% matching funds, meaning
+equal to the full award amount from new
+private capital or qualifying non-SBIR
+government funding. You have to
+demonstrate that your technology is an
+effective solution backed by market
+research. And for the military in
+particular, it goes further because you
+need a commitment from a program
+executive officer or higher. So, that's
+going to be the general officer or
+that's in charge of a large
+acquisitions, multiple divisions
+essentially. So, 20% of your matching
+funds have to come from Department of
+War funding outside of SBIR. Agencies
+must complete contract awards within 90
+days of receiving your proposal. So,
+this isn't for everyone, but if you have
+a phase two award, you have traction and
+you want to get that private capital
+lined up working with defense, national
+security. This is probably the most
+significant new funding opportunity to
+come out of the SBIR program in years.
+So, start modeling matching fund
+strategies right now. You want to look
+into this a little [music] bit more and
+have all of that lined up if you've won
+a phase two or you're looking to try to
+expand to this $30 million phase two
+expansion. All right, let's put a bow on
+it, guys. The SBIR program is back. It's
+got a five-year runway to 2031. Stronger
+national security guardrails. It's got
+proposal caps coming in FY27, fixed
+pathway to phase three, and a brand new
+$30 million strategic breakthrough
+award. And most of the market doesn't
+even know that this exists. So, if
+you're small business with innovative
+technology, I would get everything ready
+now. I'm looking for these topics to
+start dropping in May. Check sbir.gov.
+Audit your foreign relationships before
+you apply. Start planning for the
+proposal caps. And if you qualify, start
+building your case with this strategic
+breakthrough award. I think this is
+going to be a game changer. If you're a
+consultant or account executive helping
+companies navigate the federal market,
+the SBIR program just got a little bit
+more complex, but cooler also. So, it
+could be a niche for you. I've helped
+many companies with SBIR. I think this
+is a awesome government contracting
+path. It has its pitfalls as well, and
+that's where you help companies to do
+this. If you want to go deeper on any of
+this or how to actually win in federal
+contracting, how to build a consulting
+practice around it, then head on over to
+govclose.com. This is where we help
+individuals learn the government
+contracting art form and how to generate
+revenue from it. All right. Well,
+thanks, guys. This is a quick one on
+SBIR. My name is Rick, and we'll see you
+next time.

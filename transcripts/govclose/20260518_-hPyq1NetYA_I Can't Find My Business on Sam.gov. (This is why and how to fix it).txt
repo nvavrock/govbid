@@ -1,0 +1,719 @@
+Kind: captions
+Language: en
+You registered your company in sam.gov,
+got prepared to sell to the government,
+maybe you got distracted. Now, 2 years
+have gone by and [music] your
+registration is not active anymore. What
+do you do when
+&gt;&gt; [music]
+&gt;&gt; your entity goes non-active in sam.gov?
+In this video, I'm going to show you how
+to renew your registration because
+that's what I'm going to do. I'm going
+to renew my registration. There's lots
+of reasons to do that, not difficult.
+Let's get into it. Okay, so there's a
+few ways that you could figure out if
+your entity is not active anymore.
+Probably the fastest way is either you
+get notified directly from sam.gov and
+you will get emails from them. Although,
+I will also caution you once you
+register in sam.gov, you will get hit by
+certain companies that try to make it
+look like they are the government and
+we'll talk about entity renewals. Make
+sure that any email ends in .gov, g o v.
+If it doesn't end in g o v, then it's
+probably not the government, okay? So,
+you don't want to get scammed and you
+don't want to fall for somebody that's
+trying to renew your entity cuz you
+don't have to. You can do it yourself,
+just like hopefully you registered
+yourself.
+And here's how I learned that my entity
+went inactive. I'm in sam.gov right now
+and you can search entity information,
+right? All entity information, entity,
+so you can
+you know, choose what you want to there
+and then I just click entity name. I'm
+going to click the name of my business.
+Says no matches found.
+What? How could that be? Well, if you do
+that for your company and it says no
+matches found or any other company. Say
+you're trying to research a competitor,
+you're trying to research another
+business, go down and click inactive and
+then bam. Hey, look, there's my company,
+inactive registration. Dang. All right,
+well, let me click on it just to see
+what it says here. So, it's showing me
+my UEI, my cage code, registration
+dates,
+submission dates, entity start date. So,
+now I know that I'm inactive, okay? So,
+why might I even care, right? Rick, are
+you even selling to the government? You
+teach government contracting, you're a
+government acquisitions officer, why'd
+you register your company to begin with?
+Because as I transitioned out of the Air
+Force and went into from government
+contracting to helping companies, I
+wanted to make sure that I understood
+the process from their point of view. So
+I registered my business, I got my
+SDVOSB service disabled veteran owned
+small business certification. You know,
+and I kept it up and running for a
+while, but recently we were awarded a
+sub contract. It's really a sub sub
+contract. And so now that we're not just
+helping companies, not just training
+company sales teams, training
+individuals in government contracting,
+now we're being paid essentially by the
+government to provide government
+contract training to college graduates,
+to individuals looking to develop a
+skill set in this area. Why? Because
+it's highly lucrative and although
+difficult, people getting jobs in this
+area. People are generating revenue. So,
+I want to make sure that we are active.
+So, I am now signed in and I'm going to
+go to my workspace. This is how I kind
+of figure out everything in government
+contracting. I have to play with it and
+I would encourage you guys to do the
+same thing, right? It's not difficult,
+but it could be a little trying
+to navigate through some of the user
+interfaces. So, I guess my first
+question is
+do I have to do all this from scratch or
+can I just renew my entity? So, now I'm
+hoping that I can just renew
+my entity. I'm going to click on account
+details. I don't want to deactivate my
+account.
+I'm going to update my details here just
+to make sure that CAF successfully
+updated my information. Let's click on
+entity information.
+You can see from here I've got add a new
+entity, recover an entity,
+gain access to an entity or to gain
+access you must verify you are the
+authors or renew or update an entity. So
+it says here that I can renew an active
+or inactive registration or update your
+entity at any time. Good, cuz mine needs
+to be updated. So let's the of inactive
+registration. Okay, it's showing me that
+I was
+service-disabled veteran-owned,
+veteran-owned, and self-certified small
+disadvantaged business. Okay, but where
+you want to update this. Okay, so when I
+click update, we can see that it is
+taking me right here. Enter relationship
+to entity you are registering the
+following entity. The verified SAM
+record, the Richard C. Howard LLC, which
+is the name of my business. But, I
+noticed that when I was looking at the
+entity information on the previous
+screen, there was a place for DBA, and
+that wasn't listed. I have a DBA, my
+doing business as is GovClose, which is
+the GovClose Certification and Training
+Program. So, that took off a couple
+years ago, and that was my primary
+focus. It still is. So, I may want to
+update that as I'm going through this.
+Okay, so it is asking me to certify that
+I'm an author I am authorized to conduct
+transactions on behalf of this entity,
+and I am. What would you like to update?
+So, I had it's already clicked on I
+would like to update or renew
+my entity or registration. So, that's
+not or registration, my entity
+registration, my entire registration.
+Now, okay, if you want to update your
+entity,
+what you're going to do is Federal
+contracting isn't something you learn
+from a textbook. It's something you do.
+And at GovClose, you build real capture
+plans, you work real pipelines. You
+learn the tools and systems companies
+winning federal contracts at the highest
+level actually use.
+&gt;&gt; [music]
+&gt;&gt; And most importantly, you do it
+alongside a community unlike anything in
+this industry. Sitting contracting
+officers, BD leaders at defense primes,
+cybersecurity, contract law specialists,
+proposal experts, business owners that
+are winning right [music] now. Where 400
+students have gone through the GovClose
+program or are in it. Whatever deal
+you're working, someone in this room has
+done it before.
+Some become six-figure account
+executives at top defense primes. Some
+launch consulting practices
+&gt;&gt; [music]
+&gt;&gt; doing tens of thousands a month with
+multiple clients working from anywhere,
+someone their first federal contract for
+their business that they already own.
+Three tracks, one community,
+the only one of its kind.
+And if you want to see whether
+government contracting is really for
+you, go to govclose.com, watch the
+training video, and talk to our advisory
+team about the application process. All
+right, now let's get back into it.
+You're going to find the entity that you
+want to update here, and you can see
+that Richard C. Harrell, which is the
+name of my business, is now inactive.
+So, I'm going to click on update. Now,
+I'm going to verify that all this
+information is accurate. It says I'm an
+employee or officer of this entity,
+which I am. I certify that I am
+authorized to conduct transactions on
+behalf of this entity.
+And then I click next. Now, it already
+has here that
+box checked. I would like to update or
+renew my entire entity registration. It
+also has download your registration
+guide. Well, what is that? Let's take a
+look. Okay, so we can see here that Sam
+gives us an entire checklist for
+updating our registration at sam.gov.
+So, we started doing this already, but
+let's run through the checklist and make
+sure we have everything we need. So,
+navigate to sam.gov, select the sign in
+button. After selecting, accept, the
+system will direct you to login.gov,
+which I had already done before we
+jumped in on here. Now,
+locating your registration in the
+workspace, find the entity registration
+widget, select
+active to display a list of your active
+registrations. Now, remember mine was
+inactive, so we had to then click on
+inactive. And now it's telling us to do
+what we've already done, select update.
+It's telling me to review the core data,
+the POCs or points of contact, some of
+the SDVOSB and the small business
+certifications. Now, it's telling here,
+so I'm going to do all that and click
+submit. It's telling us how long. How
+long does it take for registration to
+become active? Updates to the
+registration normally require an IRS and
+cage
+validation, which can take 10 to 12
+business days. That's not bad. 10 to 12
+days, not bad. And by the way, my when I
+went through it myself, SAM.gov
+registration was pretty quick. It took
+two or three weeks. Now, we have a
+variety, I mean, I've worked with
+hundreds of companies now at this point.
+Some of them take a little bit longer,
+but typically when it takes a little bit
+longer, there's either some, you know,
+problem with ownership, or possibly
+there's, you know, one of the questions
+they answered in SAM.gov would force
+them to go back. Also, possible they
+didn't see some of the questions
+that were being asked, or they didn't
+submit the proper information. It's also
+showing us how to check the status of
+the entity registration. Okay, great.
+So, let's go back here. Now, we're back
+in SAM.gov. We love it. So, I would like
+to update and renew my entire entity
+registration. Click next, choose an
+option.
+Review the chart to decide which
+option's best for you. Now, it's If you
+want to bid on awards, you have to click
+in this row here. So, you can see here,
+to bid on federal contracts as a prime,
+it says, "In most cases, contractors who
+receive funds directly from the federal
+government through contract need this
+type of registration." Right? By the
+way, who might not? Well, if you've seen
+any of my videos lately, the rise of
+other transaction authority is
+definitely a potential avenue where you
+might not need a registration. But, I'm
+going to select this one. Okay, Richard
+C. Howard LLC, that's correct. And it's
+asking me. This actually, so far, guys,
+not that hard. This one,
+this so far. By the way, SAM.gov, as
+I've been saying, has made a lot of
+improvements over the years, and so so
+far
+this has been pretty self-explanatory.
+We have the renew entity checklist.
+There was a little clicking around I had
+to do in the beginning to figure out
+what I needed, but, you know, now we
+seem to be on a good path here, so I'm
+going to click next. Okay, so now I'm
+making sure that
+this is my same address, which it is.
+This is my entity's correct legal
+business name. That's true. And address,
+and I can provide documented proof. Yes.
+Okay, continue registration. I
+understand my entire my entity
+registration information will be
+publicly searchable on sam.gov. Yes, it
+already is.
+Anyone could have just clicked
+inactive registration. Okay, so then
+brings me to this start here page where
+we are going to looks like validate our
+business information. So, mailing
+address, fiscal year end date, website
+URL, division name. Well, I've got all
+that.
+Again, so far in my assumption, I don't
+like to assume things, but I'm assuming
+that this is going to be easier than
+registering my business because all the
+information should already be in here.
+Maybe there's a few things that have
+changed and if they have like for
+instance, enter your website URL. Well,
+we're going to change that to
+govclos.com. Okay? Save and continue.
+So, that's the first change. Still have
+richardseehoward.com.
+And for those business owners out there,
+you probably have collected a bunch of
+domains and domain addresses, but
+primarily now I'm working out of
+govclos.com with our training program.
+And that's what I subcontracts for. So,
+that's what we're going to use. Mailing
+address
+same as physical address. All right, it
+says right here entity names and
+incorporation details. So, I'm just
+going to
+review my incorporation details. So, I
+have and I recommend everybody
+save their legal documents, have them
+handy cuz you know, if you haven't
+started a business before
+or if you're going through this for the
+first time, I reference these documents
+all of the time.
+So, I I reference them for tax
+information, just to get my EIN number,
+um and then for things like this where I
+actually need the dates. So, I've got my
+EIN. Date of this notice is May 18th,
+2020. Okay, so it looks like this needs
+to change. May 18th, 2020.
+This is the fiscal year end date. This
+is the final day and month of your
+entity's annual accounting signal and to
+accounting cycle. That just means when
+you get to file for taxes.
+Probably asking that because the fiscal
+year for the government is different,
+right? The fiscal year for the
+government starts October 1st and ends
+at the end of September, but I file
+taxes on a calendar basis. Most of you
+guys probably do, too. Some companies I
+know don't. They shift when their
+fiscal year is going to start and end
+to maybe sometimes better line up with
+the government. It's up to you. Business
+information is all good. It's asking you
+about addresses. So, a lot of this
+again, if you're renewing, it's going by
+pretty quickly.
+Okay, so sam.gov has sent me
+one-time passcode, which is what an OTP
+is.
+I'm going to plug that in, blur it out
+so you can't see it. Hit submit. All
+right. Now we are on socioeconomic.
+I'm a sole proprietorship.
+But is my entity structure the same? Cuz
+I recently changed from an LLC to an S
+corp. So, let's go to chat GPT and see
+what chat GPT says. I've recently
+changed from a limited liability company
+to
+a S corp
+in the past year. The S corp is still an
+LLC. I'm renewing my registration in
+sam.gov, and I want to know the right
+boxes to check. Okay, so this is
+where chat GPT is great, but it can also
+get you in trouble. So, remember, we
+don't give legal advice on this channel.
+Anything you check, check with your
+accountant, check with your lawyer.
+We're going to go through those checks.
+I can only check either S corp or LLC.
+Of the following, I can only check one.
+All right, under socio-economic economic
+types here, we know that I registered as
+an SDVOSB, and I did that through the
+SBA. I don't have any other
+certifications. I'm not Native American.
+Okay, so now it's telling me I need to
+have
+all of my entity ownership information
+ready for this. No one owns this but me.
+I'm not a successor. We're not an
+inverted domestic corporation.
+We can click on this. They're giving you
+the far clause. So, don't just answer
+yes or no. Go to the far clause.
+So, what is that?
+Prohibition on contracting with inverted
+domestic corporations.
+Inverse inverted domestic corporation
+and subsidiary have the same meaning in
+the clause of this contract prohibition
+on contracting with inverted domestic
+corporations and it gives you another
+clause. Government agencies are not
+permitted to use appropriated or
+otherwise made available funds for
+contracts with either an inverted
+domestic corporation or a subsidiary of
+an inverted domestic corporation. But
+what is an inverted domestic
+corporation? Here's a definition and
+here we go. Inverted domestic
+corporation means a foreign incorporated
+entity that meets the designation
+definition of an inverted domestic
+corporation. I can stop reading right
+there
+because I'm not a foreign incorporated
+entity. So no and no. Does another
+entity own or control the entity? No.
+Predecessors? No. No and no. Easy
+section. Easy section. So this is
+probably the part I won't share about
+bank registration. Yes, we accept credit
+cards. So you're just going to have to
+answer this according to what your
+company does.
+You know, with Gov Close we're running a
+training program and so we're nationally
+selling training where I am providing
+one-on-one training, group coaching
+training and digital training all
+combined where I'm reviewing
+deliverables and my team and I are
+ensuring everyone that goes through this
+one-year program comes out the backside
+and they know what they're doing
+provided that they do the work. All
+right, continuing on here. There're
+going to be a list of legal questions.
+You have to go over this on your own and
+make sure you answer these questions
+honestly, truthfully
+could tell all of the far clauses as
+well as any legal counsel that you may
+need to
+consult regarding each of these. You do
+not want to BS your way through a
+government contracting form. These are
+legal answers, okay? And remember
+government contracting is regulated by
+the law by the Federal Acquisitions
+Regulation. So you need to take this
+seriously. Um I'm just showing you I've
+answered uh some of these separately
+here that I won't put on uh YouTube. I
+mean they're all they're all no's uh for
+me, but it asks you for certain things,
+right? Like, "Hey, have you been
+involved in any of these crimes?"
+Essentially, like tax evasion, theft. Um
+you know, there's a section on
+terminations. Have you ever been
+terminated uh for cause or default on a
+government contract? These are real
+questions, by the way, and the
+government um tracks all of this. So,
+don't lie, right? You need to be honest
+as you're going through this. Okay, so
+we are at and this is again what I love
+about this is I don't have to do it all
+from scratch. So, it's talking in their
+instructions here, too. Look, for each
+section. So, I've I can go through the
+review. I can go through the
+instructions. See? Um and it's talking
+about I'm going to need my primary NAICS
+code, product service code, number of
+employees. And you know, for me, this
+may have changed because, you know, when
+I first filled this out, I was
+consulting with companies full-time.
+I'll have to look and see what I put in
+here. Um but now that I provide a
+government contract training program, I
+may need a different code. Yeah, look at
+this.
+None of these NAICS codes actually
+line up with what I'm doing. Software
+publishers, uh maybe. I mean, we do have
+the GovClose CRM and we have digital
+training,
+but that's not our it's not my primary
+or core reason for existence. And
+certainly not what we're providing right
+now via subcontracts. So, let's go
+through training. If you're doing this
+for the first time,
+you need to spend a lot more time
+filling out your initial
+registration with SAM.gov.
+When I'm looking at NAICS codes and
+product service codes, I will just tell
+you and this is why I'm going to SAM.gov
+or why I'm going to USA spending here.
+I've said it a hundred times.
+Contracting officers will use different
+NAICS codes and product service codes to
+buy the exact same thing.
+But one of the best ways to see if any
+of the codes that you're putting in here
+are actually used for what you're
+selling is just to go to USA spending,
+right? Couple ways you could do this. I
+could click on the actual codes
+themselves and then look at the
+contracts, or I could just type in some
+keywords. I'm going to type in
+government. Okay, nothing popped up.
+Okay, but I did put in acquisitions
+training. Okay, so it looks like I
+guessed right. Look at this. So, they
+are
+um
+top NAICS code was professional and
+management development training. And
+then under their product service code
+was education training, training
+curriculum development. Okay, but you're
+going to want to check more than one
+code here, guys. Okay, so we want to go
+through and make sure that we're doing
+things accurately. And you get a little
+bit
+get a little bit of what's on each
+contract here in the world description,
+not a lot. But again, we're just
+verifying like, "Hey, is this a code
+that could be used?" Professional
+acquisition training. Now, this training
+is more for government employees. Okay,
+let's just take a look here. Again, same
+NAICS code. Oh, but look at the look at
+this. So, this is more under support
+services. Okay, acquisition support. But
+I'm not really providing acquisition
+support services. This is more under a
+consulting services, education training
+certifications. Okay, I'm not really an
+educational institution, but is this guy
+is this Stafford Consulting Company? I
+don't know. Professional and management
+development training seems to be the
+main thing here. But I also this mainly
+with the VA. Stafford keeps coming up
+here. So, of course, if you've watched
+any of our videos, you know, you can
+learn a lot about these companies coming
+in here. Stafford Consulting Company
+Inc. They seem to be doing pretty good.
+Wait, 41.6 million over the past and
+this is an SDVOSB. A lot of contractor
+support. All right, a lot of the same
+stuff coming up over and over again
+here.
+But I want to try one more thing. I'm
+going to type in So, we help with a lot
+of um transition training for veterans
+leaving the military, for instance,
+veteran training. All right, educational
+support services. All right, I've got
+enough. Uh I've got enough. Going back
+here, going to put in 611. So, now we're
+just going making sure our codes are
+right, that we're verifying that the
+right contracts, right kinds of
+contracts are awarded. Oh, that's not
+coming up cuz it's already in there.
+Educational support services. Yes. Going
+to add it. And here's I'm going to get
+rid of anything that is not what we're
+doing.
+We're not doing environmental
+consulting. I probably had big hopes and
+dreams of doing that. I don't know. No.
+No.
+Nope.
+Nope. Okay, so here's interesting. It's
+telling me a previously selected product
+service code is no longer active. This
+is good for everybody to realize that
+product service codes and NAICS codes do
+get retired.
+Okay, so we can go to uh the NAICS NAICS
+website and we can check we can actually
+download to see which NAICS and PSC
+codes are retired, if there are new
+ones, and you can often identify this if
+you're looking through spending on
+USASpending and you see what NAICS code
+is declining year-over-year. It doesn't
+necessarily mean the government's
+spending less money. It might mean that
+that NAICS code or product service code
+is retired. And here's another key point
+to that is even if something a code
+retires this year, we're still probably
+going to see spending next year on it
+from previously awarded contracts.
+So, okay, so we're going to remove this
+one, and let's see. We did see a couple
+product service codes that did fit the
+bill. We saw education and training
+U010.
+There we go. What about U099?
+All right, and then we'll pause here.
+I'll enter
+what our business size looks like, and
+then we are going to circle back up here
+towards the end of the checklist as we
+make our way through. All right.
+Didn't take me too long. I went through
+everything that we just saw
+as far as the checklist is concerned.
+Remember, most of the information was
+already in there cuz we were just
+renewing the entity. Mine went inactive
+for a time. So, now it finally takes me
+to a place where I can hit review and
+submit. I'm going to hit start. And now
+I'm going to go through
+my entity data, eventually submit
+registration. So, we're going to make
+sure everything's good. There's
+something I am going to say that is
+probably going to irritate
+a lot of you.
+See all these FAR
+and DFARS reps inserts? You need to read
+all of these. Every single one of them.
+Right now, keep in mind, I've literally
+been trained by the US government as an
+acquisitions officer. I have sat through
+Defense Acquisitions University courses
+hour after hour reviewing the FAR, using
+the FAR, right? And I still have to go
+through all of this. Okay? You have to
+go through every single one of these
+because
+you could be held accountable to them.
+Okay? Now, am I Is this a contract with
+the government? No, but I am saying that
+I've read each FAR and DFARS provision
+on this page by submitting the
+certification.
+Um,
+I'm submitting for the accuracy. And
+remember, you can click on each of
+these. Here's the DFARS D- DFARS is just
+Defense Federal Acquisitions Regulation.
+So, when I say that the information
+category government contracting is vast
+and it takes a long time and it's not
+for the faint of heart, this is what I'm
+talking about. This is There are lawyers
+that specialize just in the Federal
+Acquisitions Regulations.
+This is
+DFARS
+in addition to all of these FAR clauses,
+Federal Acquisitions clauses. Now, don't
+tell me that
+somebody that has won a couple of
+contracts understands all of this. When
+I know damn well companies that have
+been doing this for 30 years still
+struggle to understand this. And people
+whose only job, like mine, was
+acquisitions, even contracting officers,
+have to go into the FAR and review
+because these are changed These change
+frequently. Right now, we're going
+through a FAR over all. Okay? You need
+to know what you're signing up for.
+Take the time.
+Take the time to read through every
+single FAR clause.
+Okay? Many companies have signed up
+by winning a contract with the
+government for something they didn't
+realize they were signing up for because
+they didn't read the clauses. These
+clauses matter. Okay, so after you have
+read all of the FAR clauses,
+this is probably going to take you the
+longest of all the entire checklist. It
+really didn't take me that long to go
+through everything and make the right
+verifications. Reading through all of
+these clauses, this is what's going to
+take your time.
+And I absolutely recommend that you do
+exactly what it says. Cuz how can you
+say that you've read them all
+if you haven't?
+Okay, then you're going to submit the
+registration.
+You're going to get a one-time pass code
+and hit submit.
+All right, entity registration
+submitted.
+Success.

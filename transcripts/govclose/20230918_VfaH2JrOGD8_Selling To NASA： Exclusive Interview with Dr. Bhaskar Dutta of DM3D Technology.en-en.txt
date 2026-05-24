@@ -1,0 +1,815 @@
+Kind: captions
+Language: en
+3:11 - Richard Howard
+Well, hey everyone, thanks for tuning into
+the Dod Contract Academy podcast this week.
+Today, I'm with Pash Car and he is with Dm
+Three D Technology. Pash Car. How are you
+doing today?
+3:26 - Bhaskar Dutta
+I'm doing great, wonderful,
+3:29 - Richard Howard
+Well, hey,
+3:29 - Bhaskar Dutta
+happy to join this podcast.
+3:29 - Richard Howard
+thanks. We're glad to have you on. Thanks
+for joining, By the way, and you know, one
+of the things that like to do is have companies
+on that are selling in different sectors to
+the government and just talk to them a little
+bit about their journey and how they've been
+doing it. And it's interesting for the audience
+to hear practitioners in the art and just
+to hear the good, the bad and the ugly. So
+What I'd like to start off with is maybe a
+little bit about you,
+3:57 - Bhaskar Dutta
+Sure.
+4:01 - Richard Howard
+if you could. Tell me a little bit about yourself.
+4:05 - Bhaskar Dutta
+Sure, so I'm, I'm a metallurgist by background,
+you know, that's my, my bachelor's, master's,
+Phd, everything is on metallurgy and metal
+processing and I've been in this for like
+30 years now. A long time to be dealing with
+metals, but it's been fun, it's been fun.
+I love metals and metal processing and currently
+our company, what we do additive manufacturing.
+So I've been in this added manufacturing for
+about 20 years now.
+4:37 - Richard Howard
+Okay, excellent. So metallurgy is that. I
+mean I would assume that falls kind of under
+geology. Is that where you 1st started kind
+of learning about?
+4:47 - Bhaskar Dutta
+no. So it's like metallurgical engineering,
+you know?
+4:50 - Richard Howard
+Okay,
+4:50 - Bhaskar Dutta
+So now it's more called material science and
+engineering. But when we did our bachelors
+back in those days, in 80 s, it was metallurgical
+engineering fully focused on metals.
+5:01 - Richard Howard
+okay.
+5:02 - Bhaskar Dutta
+and then slowly it evolved and people started
+including like, you know, ceramics and polymers
+into this. So the subject is more called material
+science and engineering now, but it's metallurgical
+and engineering.
+5:14 - Richard Howard
+Okay.
+5:17 - Bhaskar Dutta
+And the way metallurgy was defined in our
+days was making, shaping, and treating of
+metals in three words, three simple wards
+making, shipping, and treating. So we start
+where the mining people leave, you know, the
+geologist survey the ors in the earth and
+then mining people digs it out and then it
+over to us and then we take it over from them
+and then start, you know, extracting metals
+from the oars and then eventually you shape
+them like, you know, bar stock or round stock
+or forging or casting or extrusion whatever,
+like usable forms.
+5:56 - Richard Howard
+That's really interesting. What got you into
+that initially?
+6:01 - Bhaskar Dutta
+Got me into that. That is a long story. So
+You know, when I was growing up as a child,
+like I had an uncle and he was a mechanical
+engineer and he always inspired me to go into
+engineering, he would give me like,
+6:16 - Richard Howard
+Okay.
+6:17 - Bhaskar Dutta
+you know, toys and things to build things,
+always building things. And that's how I got
+into more mechanical engineering. And then
+eventually he was working and then he switched
+into areas where there was a lot of overlap
+between metallurgy and mechanical engineering.
+So when I graduated from high school. He's
+like, you know, middle is a very nice place
+to be in at this time, so maybe he should
+look into that. And I'm like, okay, give it
+a try. So that's how I, that's kind of how
+I got into this and it has been ever since
+my life,
+6:51 - Richard Howard
+Okay,
+6:53 - Bhaskar Dutta
+you know.
+6:54 - Richard Howard
+and you're, well, I can already tell you,
+you're highly intelligent. The only thing
+I knew about metals, back in the eighties
+was Metallica and uh.
+7:03 - Bhaskar Dutta
+That is, that is a different.
+7:05 - Richard Howard
+That's a different, that's definitely a different
+area, but it's all good.
+7:07 - Bhaskar Dutta
+That's exciting, too.
+7:09 - Richard Howard
+Exactly, they're fun too, they're still going,
+they're still doing great, very cool, okay,
+So you grew up with that and kind of inspired
+in that area and then you went to school for
+it and when did you come to Dm, three d?
+7:25 - Bhaskar Dutta
+uh it's been uh so dm three d is a relatively
+newer company started in twenty thirteen but
+it acquired an older company pom group a pm
+group was formed in ninety nine it was like
+a sort of offshoot from university of michigan
+so that was early days of three dd printing
+and additive manufacturing area so a professor
+joi mazumdar from university of michigan so
+he had a patented technology and pom group
+was formed with that and he recruited me to
+work for them back in two thousand four so
+I started with pom group in two thousand four
+you know M group remained like R amp D businesss.
+8:05 - Richard Howard
+Okay.
+8:15 - Bhaskar Dutta
+It did a lot of like federal contracts and
+advancing the technology and so on.
+8:18 - Richard Howard
+Sure.
+8:21 - Bhaskar Dutta
+But joy being a professor, you know, his mindset
+was very much into R amp D. He loved it and
+he was a great guy.
+8:27 - Richard Howard
+Hey.
+8:29 - Bhaskar Dutta
+I mean one of the phenomenal researchers who
+he ever had here, but you know, it was always
+R amp D. So eventually in twenty twenty twelve
+like the group then which was funding it kind
+of said oh we need to be more commercial so
+that's when it kind of transitioned into dmc
+d technology so it was a new group dmc d and
+the new investors they wanted to focus it
+towards commercialization of the technology
+and that's when I took over the company from
+jodi and he kind of left the business and
+went back to university so.
+8:59 - Richard Howard
+Okay. Okay, interesting. So right now, what's
+your role in the business right now?
+9:15 - Bhaskar Dutta
+So I'm the president and chief operating officer
+of the company, Yeah,
+9:20 - Richard Howard
+Okay, so.
+9:20 - Bhaskar Dutta
+overseeing development and the growth and
+all of that.
+9:26 - Richard Howard
+That's, that's a, it's a hard job, you know,
+before we get into like the government contracting
+aspects of it, you know, just because we have
+a lot of people in similar positions, you
+know, on the business that are listening here,
+9:37 - Bhaskar Dutta
+Sure.
+9:40 - Richard Howard
+I'm just curious kind of in the job that you
+have now running the businesss, what do you
+consider kind of the most challenging aspects
+of it and the most rewarding?
+9:50 - Bhaskar Dutta
+The challenging aspect is, you know, So the
+additive manufacturing on metals, that's what
+we do, is a relatively new technology and
+The markets that we are working in is typically
+like space aerospace and defense. Now these
+are great areas and great feed for our technology.
+However, however. These critical applications
+have a very long qualification and certification
+lead time, which means, you know? You demonstrate
+a product, but to get it to production takes
+a very, very, very long time.
+10:29 - Bhaskar Dutta
+And that's a very difficult thing for, particularly
+for small businesses, you know, I mean, it's
+one thing when General Electric Aviation for
+Example I mean, they design a new engine,
+they work ten years in advance. I mean, that's
+common for them, right? That's very common
+in space and aerospace, but for a small businesss.
+If you were in a new engine program and you
+have to wait for ten years. That's a significant
+challenge, you know, I mean there's a cash
+flow and all kinds of things you have to handle.
+11:03 - Bhaskar Dutta
+So.
+11:04 - Richard Howard
+Yeah, with all the certifications and approvals
+and all the spec,
+11:06 - Bhaskar Dutta
+Yes.
+11:08 - Richard Howard
+everything involved with aviation and I mean
+without even, I guess without even introducing
+the government contracting process, which
+takes a long time,
+11:17 - Bhaskar Dutta
+That's correct, yeah.
+11:19 - Richard Howard
+the approval process for parts on Araf.
+11:21 - Bhaskar Dutta
+Yeah. Technical approval process is correct,
+11:23 - Richard Howard
+Aa Like all of that I would think are things
+that you guys end with.
+11:23 - Bhaskar Dutta
+yeah. It takes a long, long time, yeah.
+11:30 - Richard Howard
+okay interesting but so you're doing you have
+a commercial line of revenue but you're also
+selling to the government could we talk a
+little bit about that I mean it sounds like
+you had some government contracts and the
+original instantiation of the businesss back
+in the early two thousand seconds but this
+one and this is how I found you just I was
+researching in this area we hadn't had any
+additive manufacturing companies on the podcast
+and so I could see some government contracts
+that you've put together can you talk a little
+bit about You entered uh, the space and maybe
+what some of the 1st contracts, you know,
+you don't have to go into too much detail,
+but kind of the 1st couple of things that
+you guys, worked on.
+12:14 - Bhaskar Dutta
+Sure. You know, like I said. M group since
+it was more like R A D businesss, so started
+with R amp D and advancing the technology
+and we started with Sbr programs. So I think
+one of the 1st programs we had was a Sbr program
+with Us Army developing new machines for this
+technology.
+12:37 - Richard Howard
+Okay.
+12:43 - Bhaskar Dutta
+We developed, design, built, demonstrated,
+and then installed finally the machine in
+Aniston Army Depot. That was during Pom groups
+time and then several systems were built,
+including for Us Navy, and so we have like
+several systems
+in
+the Dod. So that's how we kind of started
+it and that evolved into other programs right
+now our major customer is nasa for example
+A lot of it is still Sb Iirs, but Sbi are
+three where you are more in the commercialization
+phase, you know, not ones and twos,
+13:26 - Richard Howard
+Interesting.
+13:28 - Bhaskar Dutta
+but more in the three, so more mature level
+of the technology. And so that's currently
+we are doing several Cbers with Nasa and then
+there are other programs also Nas, yeah.
+13:42 - Richard Howard
+It's interesting because and then for those
+listening that don't know what Sbi are, is
+a business innovative research program. It's
+great for businesses that have innovative
+technological solutions. The phase one that
+you mentioned, that's usually the 1st one
+you win. It's more of a low dollar technological
+feasibility study maybe, but what you're really
+trying to do there,
+14:01 - Bhaskar Dutta
+Yes.
+14:03 - Richard Howard
+right, is get a government sponsor. Someone
+to sign a memorandum and sponsor you for phase
+two, which helps you to actually develop the
+solution.
+14:13 - Bhaskar Dutta
+The solution correct?
+14:15 - Richard Howard
+what I find interesting and and right now
+I mean that could be between one and one point
+nine million I saw one for one point nine
+million just a days it keeps going up each
+year And of course you can win multiple phase
+twos and we've talked to people that have
+done that. What is interesting though, about
+what you're saying is the phase three, right,
+because a lot of people will refer to that
+as the Valley of death. Getting between the
+phase two and the phase three, a lot of companies
+struggle there, struggle to ever go beyond
+the phase two.
+14:42 - Richard Howard
+Can you talk a bit about that and maybe how
+you leveraged your cyber experience and turned
+those into phase three?
+14:52 - Bhaskar Dutta
+it's all about so phase three is like exactly
+like you said phase one is basic level r amp
+dd right just proving the concept and then
+two is more proving the entire thing like
+not just the feasibility but demonstrating
+the whole concept and three is the commercialization
+of that so when you are actually making these
+machines for example some of the programs
+we built machines for us army under commercialization
+program and demonstrated some of the earlier
+concept developed in phase two so built parts
+and demonstrated that you can make manufacture
+these parts to the quality needed using the
+phase three funding it just simply allows
+you to work Towards more real life components
+and things, you know.
+15:48 - Bhaskar Dutta
+End user can actually use it. It's not just
+a demonstration, but a real piece of hardware
+or anything else, design concepts or whatever
+it is. More ready for the end user to use
+it and test it out so you could do even field
+testing. Under such commercialization programs,
+16:12 - Richard Howard
+The server program offers some benefits as
+far as being able to eliminate competition
+and sell directly. We able to take advantage
+of those or.
+16:23 - Bhaskar Dutta
+We did some, some soul sourcing. Yes, we were
+able to do some soul sourcing because these
+solutions were developed specifically for
+the end user, you know, by our company and
+our company alone. So yeah, if that justifies,
+then you can take advantage of sole source,
+but it has to be defied.
+16:40 - Richard Howard
+Okay,
+16:43 - Bhaskar Dutta
+You know, it's not just because somebody likes
+somebody else,
+16:44 - Richard Howard
+sure.
+16:46 - Bhaskar Dutta
+but it hass to be properly justified that
+there's no other solution exists and things
+like that.
+16:52 - Richard Howard
+It's one of the one of the nice things about
+Sbir is it does. There is a language that
+allows for the sole source contract and, like
+you said, it has to be justified. However,
+the Without the Cibber, a sole source, it
+can be a lot harder for the government to
+award versus having a siver under your belt
+if that's the solution the government is looking
+for. So No, that's great. Could we talk a
+little about maybe some of the other ways
+that you've sold to the government, or Contracting
+mechanisms Have you guys ever been involved
+with subcontracting with larger businesses
+or maybe competing on one of the, like a Nasa
+soup or Gsa?
+17:33 - Bhaskar Dutta
+So not Gsa, but we, we have done, you know,
+we work with defense quite bit, so part of
+it. Like directly some of the suber programs
+but also go for some of the prime contractors
+for government like for dodd you know so there
+are multiple like you will go to our website
+and see huntington ingles for example ba systems
+Then irrigated Rocket.
+17:49 - Richard Howard
+All right.
+17:59 - Bhaskar Dutta
+N So these are different companies that are
+prime government contractors, Dod contractors.
+18:06 - Richard Howard
+Sure.
+18:07 - Bhaskar Dutta
+We do subcontracts for them in some of the
+programs, you know.
+18:14 - Richard Howard
+And that's, it's pretty common to have a mixture
+of primes and subcontracts. And of course
+the big defense contractors, I mean they subcontracted
+a lot of different businesses. Do you have
+any advice for a company that maybe they have
+their foot in their door or maybe they want
+a Ser but they haven't subcontracted yet with
+a larger businesss, maybe things to watch
+out for and maybe some best practices.
+18:39 - Bhaskar Dutta
+I didn't get the question. You're saying s
+birs are strictly for small businesses.
+18:47 - Richard Howard
+What I was saying is some small businesss
+owners that are listening to the podcast may
+have their foot in the door.
+18:52 - Bhaskar Dutta
+Yeah.
+18:53 - Richard Howard
+They may have a Sbir, maybe they have a contract
+as a prime, but a lot of them are thinking
+about subcontracting with some of the big
+defense contractors but haven't done it yet.
+And I was Wondering if you had any best practices
+or or cautions to somebody that hasn't approached
+that yet?
+19:12 - Bhaskar Dutta
+Well, you know, I mean the best way is just
+simply to, to reach out to them and, you know,
+demonstrate what technology you have and then
+start discussing. But what Sebert does is,
+it is a funding opportunity, you know, so
+you can fund some of the research through
+this initial phase of work that nobody else
+wants to fund, typically, you know, I mean,
+you can take advantage of that. Do. A demonstrable
+solution and ideal is while going into phase
+three, if you can connect through government
+to one of those prime contractors who are
+actually having service contracts for government
+for that kind of jobs, you know.
+20:02 - Bhaskar Dutta
+So let's say, taking an example, I mean we
+are doing Engine Component Rocket Engine Component
+for government. There's already some of the
+contracts are given to you know, these big
+prime contractors. So in phase three, when
+you are going in, if you talk to your Dod
+partner and request them to connect with the
+actual prime contractor for that piece of
+business. They will be happy to do that because
+at the end, it's also their goal to transition
+this newly developed technology to a regular
+production channel.
+20:42 - Bhaskar Dutta
+For them, it's not just for the purpose of
+doing Some R amp d, right? If you reach out
+to them, and that's what we have done, you
+know, they have been extremely helping always
+to connect us with the prime contractors and
+we all work together. Funding may come from
+government, Dod, but we all work together
+because it's great for them to see what's
+happening and for government as well to connect
+the prime contractors and the potential subcontractors.
+21:13 - Richard Howard
+now that that's interesting. I think we've
+talked about that meaning using a a government
+contact, maybe the program manager or a contracting
+officer, engineer, or somebody were working
+with on the government side or user through
+the programm and having them link you to a
+prime contractor, a larger defense company,
+which As you're saying, it's pretty, it's
+obvious to me. I'm thinking about all the
+times that I would link companies together.
+Hey, we're using, we're working with Northrop
+on this one, or working with.
+21:44 - Richard Howard
+Boeing or walked on this other one maybe or
+Bae, Like you're talking about so and making
+that connection for them, that is a good question,
+maybe to ask if you are in that position as
+a small business.
+21:59 - Bhaskar Dutta
+Absolutely, You know, I mean I I I think like
+this is a win win for everybody, right? I
+mean it's good for government, good for the
+prime, and good for the small businesss as
+well. Because government typically does not
+order one piece of component, two pieces and
+here and there, I mean it's a whole engine
+they're going to buy. They're not going to
+buy components by itself at the end of the
+day, you know,
+22:24 - Richard Howard
+Sure.
+22:24 - Bhaskar Dutta
+but so you have to work with whoever has the
+contract for the engine, you know. If you
+want to go into that route and supply production
+parts.
+22:35 - Richard Howard
+That's a good point because a lot of companies
+when they 1st approach this maybe aren't thinking
+along those lines where I mean, and it doesn't
+have to be something as sophisticated as building
+a rocket engine, it could just be someone
+who has. A software or technology that is
+an Api, connector or something to do with
+If, human resources or user interface. The
+government typically buys the solution they
+want to purchase the If I was the government
+and I wanted a human resource Solution My
+solicitation probably wouldn't be for the
+company that does the Api interfacing and
+kind of connecting everything.
+23:15 - Richard Howard
+I want the total solution so that company
+may have to partner with you. You pick your
+company, your software business that has that
+solution, and they can integrate with them.
+23:25 - Bhaskar Dutta
+Wither.
+23:25 - Richard Howard
+And of course, sometimes there's subcontracting
+requirements for our small businesses that
+the government puts out. So that's something
+else, I guess, to keep in mind.
+23:33 - Bhaskar Dutta
+Sure, absolutely.
+23:36 - Richard Howard
+part of Sbir. Typically, on most Sbir s that
+I've seen, there's a requirement, or at least
+a government intent, that technologies have
+a dual application, dual use If you develop
+something in the Siver program, a lot of the
+time, you know, they not only allow but want
+you to be able to sell that commercially.
+Have you guys been able to take advantage
+of the commercial line of revenue in a, I
+guess in association with some of the Sbi
+work you've done?
+24:07 - Bhaskar Dutta
+Yes, indeed. So again going back to the space
+industry, because that's uh, unfort that that's
+our biggest area. So whenever I talk, I will
+do multiple references of space. What we're
+doing with for example some of the development
+work with nasa so it's you can. These are
+all dual used technology, so you can use it
+for Dod, for maybe in the missiles area, but
+also in the commercial private space industry.
+So we do have private space customers, similar
+propulsion technologies, of course.
+24:44 - Bhaskar Dutta
+The design Mines are different, there are
+some differences here and there, but the base
+concept, once the technology is developed,
+I think you can use it, dual use and that's
+a big plus point in Sbr programs,
+24:59 - Richard Howard
+And you're in a really cool area too,
+25:00 - Bhaskar Dutta
+you know.
+25:01 - Richard Howard
+That's really interesting. Are you, I mean
+you must, you're probably on a 1st name basis
+with Elon right now. Are you guys, you guys
+working together?
+25:08 - Bhaskar Dutta
+We do not do any work with Specific. I've
+been in their headquarters, but we do not.
+They are not one of our customers,
+25:15 - Richard Howard
+Okay, I just took it.
+25:16 - Bhaskar Dutta
+so they do most of the things in house, so
+they don't outsource a lot as far as I know
+anyway.
+25:23 - Richard Howard
+I was just taking a shot in the dock there.
+25:23 - Bhaskar Dutta
+So we do have other private space customers,
+yeah.
+25:29 - Richard Howard
+Okay, oh no, that's awesome. That's, I mean,
+it sounds really, really interesting. What's
+next for you guys? What's on the horizon as
+far as government work or maybe just, you
+know, where you think the company is going
+to be headed in the next ten years.
+25:43 - Bhaskar Dutta
+What we are focusing on, Rick, is large metal
+part manufacturing. So typically additive
+manufacturing right now, you know the most
+Accepted or adapted version is powder bed
+fusion. It's called make parts that are about
+maybe thirty forty inches in size. We are
+targeting with our technology, which is called
+like Directed Energy Deposition technology.
+This is a Astm category. So with this process
+and laser and powdered metal, we are targeting
+printing large metal parts. So we have printed
+some parts for Nasa that are about 10 ft in
+size.
+26:30 - Richard Howard
+Oh.
+26:31 - Bhaskar Dutta
+you're printing a part that's s taller than,
+you know, average human being and much smaller,
+and these are like rocket engine nozzles.
+So with this big part printing technology,
+we're trying to push the envelope of additive
+metal printing. So there are a lot of like
+space industry components that are very large
+and currently, you know, these are forged
+or cast. We have trouble here right now getting,
+forging and casting. Some of the supplies
+chains are affected because of the war in
+Europe and So there's a lot of supply chain
+issues, so we're trying to fill in that area
+and produce some of this.
+27:15 - Bhaskar Dutta
+Casting and forging replacements with our
+technology cut the lead time, You know, some
+of the programs we are working on. Lead time
+is between 14 to 18 months and we are targeting
+to cut it down to like six, seven months.
+So you have less than 50 % lead time for some
+of these large, large parts. At the same time
+we are cutting cost of manufacturing so parts
+in the defense,
+27:38 - Richard Howard
+That's amazing.
+27:41 - Bhaskar Dutta
+you know, Navy programs, some of the Navy
+programs and there are multiple applications,
+but we We're targeting more like large metal
+parts.
+27:50 - Richard Howard
+sure, yeah, extremely interesting. And so
+let's, let's pivot a little bit here. So that's
+where we're going. And by the way, I think
+most people, when I thought additive manufacturing,
+I was definitely thinking, you know, small,
+small parts, right? And those are the, you
+know, I've been through.
+28:05 - Bhaskar Dutta
+That's the most popular today. You, you're
+absolutely right. But our parts, I mean, if
+somebody goes to our website, Dm threed Tech.
+Com. You will see like a large Rs two five
+engine nozzle liner for Nasa that we printed.
+So this is the engine powered mission you
+know, the Space Launch System.
+28:25 - Richard Howard
+Wow.
+28:26 - Bhaskar Dutta
+So this is like, when you see the Space Launch
+System, I mean it's a tiny engine at the end,
+but that engine is about 14 ft tall, the whole
+engine. And the nozzle liner is ten foot tall,
+you know,
+28:40 - Richard Howard
+Oh yeah, no one of my.
+28:41 - Bhaskar Dutta
+it's a significantly large piece of metal
+there.
+28:45 - Richard Howard
+One of my bucket list items is to see one
+of these space launches in person. I haven't.
+I haven't managed to do it yet, but I hear
+it's really interesting.
+28:53 - Bhaskar Dutta
+Neither did I, you know, so like last year.
+I was in Johnson's Pest Center, so I was touring.
+I took actually my daughter, she was in a
+competition there, so they were hosting the
+competition. So I went in there and I just
+walk in and then there's a model of Rs two
+five engine right there as you walk in and
+I show my daughter. And this is the part we
+are printing here at Tm Cd,
+29:17 - Richard Howard
+Oh,
+29:18 - Bhaskar Dutta
+you know, you should see this pictures.
+29:19 - Richard Howard
+wow, that's awesome.
+29:21 - Bhaskar Dutta
+She was very excited. Seeing this, Me was
+more excited than her. I was.
+29:25 - Richard Howard
+Oh, I bet it sounds like she might be uh,
+she might be taking on the uh, the family
+businesss here. She, she had to be uh,
+29:32 - Bhaskar Dutta
+I don't know,
+29:33 - Richard Howard
+engineer or maybe an astronaut or something.
+29:36 - Bhaskar Dutta
+she might go into engineering, but she is
+doing actually chemistry so in college, so
+yeah.
+29:41 - Richard Howard
+okay, you, I, I showed, I showed you my ignorance
+to the different engineering fields and I
+got schooled a bit when I About halfway through
+my Air Force career, I switched from flying
+to acquisitions. So now I had an engineering
+team that was working with me and my chief
+of engineer I made a comment about,
+29:58 - Bhaskar Dutta
+Helping? H Yeah.
+30:04 - Richard Howard
+I basically was saying all the engineers were
+kind the same or had the same education. She's
+like, no rick, no, it goes. There is a pecking
+order of engineers and at the bottom you have.
+I believe he said civil engineers in his mind
+were kind of at the bottom of the list that
+he had, but he had chemical engineers way
+at the top of that list, I remember, and it
+was a, it was a fun little competition among
+all the engineers to kind of claim who was
+the the smartest or the best career. Very
+cool, okay, So before we go, when we put you
+on the spot a little here, just curious if
+you had any, and we're pivoting.
+30:46 - Richard Howard
+To the right here a little Any business books,
+or any books in general that you'd recommend
+to the audience to read that either, whether
+it's to government contracting or not, that
+you just find interesting and you think would
+be a good good use of their time.
+31:03 - Bhaskar Dutta
+One of the challenges in government contracting
+is a couple challenges I would say is one
+is, you know, the paperwork. So there's a
+lot of paperwork involved. You got to carefully
+go through all that and make sure, you know,
+you're checking all the right boxes and crossing
+the right B boxes and all that. The other
+other thing is the timeline. So while Sbr
+is a great program, but The timeline is little
+stretched. So, you know, phase one takes like,
+I think typically six months and then you
+have about twelve months to do phase two and
+then there are the solicitation cycles that
+you had to go through so.
+31:47 - Bhaskar Dutta
+That's the flip side in my mind in doing Sbr
+programs. So you have to be cognizant of all
+of these things before you get into something
+like this.
+32:00 - Richard Howard
+No, those are, those are words of wisdom for
+sure, and that's great advice for the audience.
+You mentioned your website, uh Dm three D
+tech com for the audience to They want to
+reach out to you. Is that the best place to
+go if they're small businesses or somebody
+interested in your technology on the government
+side?
+32:17 - Bhaskar Dutta
+absolutely. Yeah, there's email address and
+phone number so they can reach out directly
+there through that to us and we will get right
+back to.
+32:29 - Richard Howard
+perfect, all right. Well, you guys heard it
+here 1st us, so we'll put The address the
+website in the show notes anyone can go in
+there and click Autumn if listening to this.
+32:37 - Bhaskar Dutta
+Wonderful.
+32:39 - Richard Howard
+Pash Gar. Thank you for coming on the day.
+This has been an awesome conversation. Probably
+one of the most interesting companies that
+we've talked to, especially considering how
+deeply you're with the space industry.
+32:52 - Bhaskar Dutta
+Thank you, Rick. I really appreciate this
+opportunity to talk to you and All the best
+for your program.
+32:58 - Richard Howard
+Well, thanks again. All right, everyone thanks
+tuning into this week's Dod Contract Academy
+with Dm Three Dd. If you want to learn more
+about selling to the government, head over
+to do. Dot com where you can check out our
+academy, our blog page and see some of our
+free training. And until the next episode,
+we'll see you next time.
+33:19 - Bhaskar Dutta
+Thank you.
+33:20 - Richard Howard
+Great,
+33:20 - Bhaskar Dutta
+Bye now.
+33:21 - Richard Howard
+All right, thank you, sir, this was really
+good. Let me if I can get the how to turn
+the recording off. Are you still there?

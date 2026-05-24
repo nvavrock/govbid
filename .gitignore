@@ -13,8 +13,8 @@ data/*.csv
 logs/*.log
 
 # GovClose transcripts (generated)
-transcripts/govclose/*.txt
-transcripts/govclose/*.json
+#transcripts/govclose/*.txt
+#transcripts/govclose/*.json
 transcripts/govclose/*.vtt
 transcripts/govclose/.archive.txt
 !transcripts/govclose/.gitkeep

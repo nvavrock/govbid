@@ -1,0 +1,758 @@
+Kind: captions
+Language: en
+This email strategy has made me
+personally millions of dollars over the
+years and billions of dollars for
+countless companies across the United
+States and the globe. The art of email
+marketing can make or break your
+business. Doesn't matter how great your
+technology product or service is. If you
+do not understand how to communicate
+with your customer via email or even get
+your customer via email, then you are
+going to be at best limiting yourself
+and at worst destroying your business
+before it even starts. In this video,
+you're going to learn the art of email
+marketing, how to do it successfully,
+and why millions of businesses around
+the world have learned that what you
+don't say in an email can actually be
+more important than what you do say. So
+stick around till the end because it
+might be the most important part of this
+video. So a lot of you might be asking,
+Rick, what does email have to do with
+government contracting? I want to tell
+you some of the things that email will
+do for you that does for me. Let me just
+read you a list. I made a list. Like
+literally, I made a list of all of the
+things that I could think of in like 30
+seconds that email does for my business
+or has done for my business. Some of
+this is on a daily basis, some of
+weekly, but check this out. one can get
+you leads for your business. You can
+have a target list, your potential
+customer, offer your service and
+potentially get leads. We'll talk a
+little bit about that. Email can get you
+sales. A lot of people are selling
+something, we call it low ticket in the
+biz, right? But you might be selling a
+book. You might be selling something on
+your website. This isn't personally how
+I use it, but email can get you sales.
+When people give you the email addresses
+over time, they're marketing to them
+constantly. Hey, we have new
+sweatshirts. By the way, the Govclo
+sweatshirt. I'm working on it. I'm
+working on it. We'll get there. But
+look, no matter what it is that you're
+selling, email can help you get there
+one way or the other. Now, there's a way
+to do it directly. They see an email,
+they go to your website, they click on a
+link, that's sales. What else can it do?
+Now, this is more along the lines of why
+I use it. Meetings, right? And by the
+way, if you're selling to the
+government, emails get you meetings with
+people in the government that can buy
+what you sell. I have sold millions of
+dollars in software and consulting
+services, and emails were the major way
+that I communicated with the government.
+That's how they're communicating. They
+don't want to hop on a call with you
+every time. Right now, I do want to meet
+with them in person sometimes, but
+meetings, these are coordinated. And
+often the first time they even hear from
+me is going to be through an email. All
+right? And the 200 plus people that we
+have in Gov closed right now, 225 of
+last count, they're using email
+extensively. I get leads with email. I
+can get sales with emails. I can get
+meetings with emails, meetings with the
+government. I can get meetings with
+other businesses, my potential clients.
+You know, what I sell is high ticket
+when I'm talking about my consulting,
+right? And by the way, gov close our
+certification program also high ticket.
+Nobody comes in here and just clicks on
+a link and buys it. Everybody gets
+interviewed and vetted and we talk about
+it, right? You trust me when you talk to
+me. So the meetings are pivotal. We have
+to have a way of coordinating those
+meetings, understanding each other,
+telling people about our messaging,
+right? If anyone has given us at govlo
+an email address, you know, we're
+constantly communicating with you guys.
+What else can email do? Email can get
+you a podcast interview. People email me
+every day that want to be on our
+podcast. And so some of them actually
+make it through and I do the same thing.
+If I want to be on someone's podcast, I
+email them and I ask them, I'm going to
+be on a podcast here in a week. I'll let
+you know. It's a good one, too. You're
+going to love this. And by the way, the
+podcast I'm going to be on, I took this
+gentleman's course, multiple courses. It
+was a program and learned a ton about
+business, online business. You're going
+to love it. I'm going to leave you in
+suspense. I'm going to tell you right
+before it comes up. All right. What else
+are we using email for? Right. We're
+using email to send and receive
+proposals. These are the contracts. I'm
+billing people with email, so they got
+to get my emails and they got to open
+them. This is very important. Sending
+proposals to the government, sending
+sources sought job applications. Email
+can get you teaming agreements if you're
+subcontracting. Look, this list goes on
+and on and on. I mean, I've got literal
+I've got pages and pages of notes here.
+You get the drift. You got to master
+email. An email can absolutely build
+your business. I built my consulting
+business almost exclusively on email
+marketing that first year I was in. And
+that brings us to point number one. If
+the email that you send doesn't end up
+in the inbox of your target customer or
+current customer, then it doesn't
+matter. You might as well not have even
+sent it. So, what we have to do is we
+have to make sure that your email is set
+up correctly and you're doing the right
+things so it does end up in people's
+inboxes. Step one is email
+deliverability. So, there's a few things
+that you have to do to make sure your
+emails getting delivered. And you're
+going to have to spend some time on
+this. either hire someone to do it or do
+some deep dives, go to chat GPT, have
+them walk you through it. First, when
+you buy an email address, you need to
+warm it up. That means you have to start
+sending emails slowly to people that
+will open them, right? Sometimes they
+will go to a junk folder, spam, have
+somebody pull it out of there, respond
+to you. You want your email to be
+delivered, and you want people
+responding back to you. There are tools
+that you can get to help you with this.
+One of them is a Lemlist, and I've used
+that before. or it'll automatically
+start sending emails slowly and warming
+up your email address so it actually
+will be delivered. But there's something
+else you need to do. You need to make
+sure that your email is authenticated.
+Am I an expert on email authentication?
+Absolutely not. But I do know painfully
+that it needs to be done because I've
+had time sending emails where, hey, why
+is my email going to junk? Turns out not
+authenticated because it doesn't happen
+automatically when you buy a domain and
+set up your email. By the way, guys,
+don't send marketing emails from a Gmail
+account, meaning gmail.com or, you know,
+you want it to have authority, right?
+So, if someone sends me an email and it
+doesn't have their domain name.com or
+doesn't have to be a.com, but it has to
+be a domain that you've paid for that
+you've set up, it just screams this is
+not a serious person that is investing
+in their business. And by the way, it
+doesn't cost that much to buy a domain,
+set up a couple email addresses with
+this. So, go ahead and do that. Now the
+three things to think about with email
+authentication. One DKIM that stands for
+domain keys identified mail. Two SPF
+that stands for sender policy framework.
+And the third one is I just call it
+DMARK. DM ARC is what you'll see and
+that stands for domainbased message
+authentication reporting and
+conformance. If you don't have those set
+up then your email deliverability will
+not be high. I think the final thing
+that you need to think about here is
+that you can test your email
+deliverability. Okay, so right now you
+should be seeing my screen. I just typed
+in mail tester is this one here. This
+newsletter spam test. I like to use this
+a it's free and this is actually pretty
+simple. So what I'm going to do is I'm
+going to copy this email address. Okay,
+the next thing I'm going to do is I'm
+going to send an email to it. Now I'm
+just simply cutting and pasting the link
+in there. And this is good to do every
+now and then because even when I think
+my email is good to go, I'll go in and
+I'll check this. I'll be like, what's
+going on here? And so I'm just going to
+type in test. Hi. And I'm going to send
+it now. It says check your score. I'm
+going to click that button. I might have
+to wait a second here for it to come
+through. 10 out of 10. Amazing. So my
+emails are getting through. But here's
+what I want you to take a look at. You
+know, if I use a different email
+address, especially one that's new,
+these are not all going to be green. I
+got a yellow one here. Some of these are
+going to be red. Now, it'll talk about
+like, hey, spam assassin, sorry, spam
+assassin. It's going to talk about the
+text. Are you properly authenticated?
+Are you properly authenticated? This is
+what we were talking about. See, it's
+telling me, hey, you have a DKIM that's
+valid. Demar test. So, it's going to go
+through the things here and check it. My
+message could be improved. I didn't put
+much in that message, right? And it'll
+tell you if you're blacklisted. If
+you're sending a bunch of emails, you
+could get blacklisted, right? And
+there's a bunch of different things
+here, you know, and it's telling me I
+don't even know what this host commer
+thing is. But so you can absolutely end
+up on one of these lists if you're
+sending a lot of emails, but if you do
+it right, you can stay off those lists
+and your email will be delivered. Here's
+a pro tip, especially if you're sending
+emails to the government. When you
+include links in your email, when you
+include attachments to your email, your
+odds of going to somebody's inbox goes
+down. I don't know the science behind
+it. I just know that it's absolutely
+true. And on the government side, I can
+tell you when I was an acquisitions
+officer in the Air Force putting
+companies on contract, my wife would
+email me and she would have links in her
+signature block and her emails would get
+blocked by the government server. Some
+people would send in a proposal or a
+source is sought and it would get
+blocked from the server. Now, there
+should be measures in place to receive
+those things especially when the
+government is making a solicitation. But
+this is why you always, always, always
+when you're sending a proposal to the
+government, say, "Please confirm you
+received this email." Cuz if they don't
+confirm receipt, they didn't receive it.
+Very important. So now, everyone is, for
+the most part, receiving our emails.
+We're sending emails. It's landing in
+their inboxes. But that doesn't matter
+if they don't open the email. This is
+probably my favorite part of email
+marketing, and that is the subject line.
+There are a lot of really cool things
+that you can do with a subject line to
+get people to open your email. But I
+want you to first to do this exercise
+cuz this is going to make you really
+good at writing subject lines or at
+least it'll get you started. Okay? I
+want you to open your email. In your
+email, I want you to look at all of the
+emails that you have opened and the
+emails that you did not open. the emails
+that you opened. Regardless of who sent
+it, I just want you to write down the
+subject line of the emails that you
+opened. This is important because it's
+going to start giving you a sense of
+what do you subconsciously ignore and
+what do you actually open? You know,
+when people are first sending emails to
+clients, potential clients, clients,
+customers, etc., they want to explain
+everything in the subject line like
+like, "Hey, have you thought of
+increasing the number of leads for your
+business?" That's an email that I'm
+going to completely ignore. Let me tell
+you what I went through when I just did
+this exercise. And I'm going to read
+some of the subject lines. Now, these
+are all emails that I opened. Subject
+line, updated letter, subject line,
+interview, subject line, 10:00 a.m. call
+today, help desk updates, robotics, no
+subject, no subject, Air Force program,
+corrosion folder, 8:12, call follow-up
+today. I can get a sense of for me the
+types of emails that I'm opening. For
+one, if the subject line is one word,
+that is one commonality in the emails
+that I've opened. If there was a date
+and a time, it was if it was talking
+about a call, those are emails that I
+opened. No subject, those are emails
+that I opened. Okay? So, look, point
+being, we're going to experiment with
+different subject lines. If you write a
+long subject line, you need to look at
+that critically and assume that you're
+probably putting too much thought into
+like explaining what you're doing. This
+is where remember in the beginning we
+talked about what you don't say is just
+as important as what you do say. Subject
+lines number one problem saying too
+much. We don't want to say too much in
+the subject line. This needs to be short
+and sweet. Does it have to be one word?
+It doesn't have to be 1, two, three
+words. We're going to experiment with
+it. And by the way, I'm going to show
+you some of the experiments that I've
+done because when we are talking about
+sending emails, you may have a company
+that you host a website in. Like for
+instance, I have Kajjabi. I've used Wix.
+You can send email campaigns from those
+website hosts. You may use a tool that
+is designed specifically for sending
+email marketing campaigns like Lemlist.
+Mailchimp used to be popular. Probably
+still is. I don't know. I don't use it.
+But whatever you use, you need to use
+something that tells you how many people
+opened your email. This is right after
+does my email land in their box. Is
+anybody opening the email? is critically
+important. Now, I'm aiming for 40% or
+better. Now, here's a quick insider tip,
+pro tip. Who you're emailing matters.
+You can have some people that have given
+you their email. These are warm
+subscribers and they've given you
+permission to market to them. Then,
+there are people that are marketing to
+companies and to people that did not
+give them their email address. That's a
+cold list. And by the way, there are
+laws in the United States and probably
+other countries around how you can email
+cold lists, right? You want to make sure
+you adhere to those laws. If you have
+questions about that, check with a
+lawyer. You can look up the CAN spam
+act, I believe it's called, in the US.
+And there's going to be things in there
+like unsubscribe. There's going to be I
+think you have to put your address in
+there. But there are a few other things
+that you want to make sure and you're
+not lying to people. You're not trying
+to scam them, right? So, you know, the
+honesty test should be something that
+you pass when you send anybody an email.
+So, we're trying to be honest brokers
+here. So, who you're sending an email to
+does matter. That is definitely a
+separate video. We're not going to talk
+about building a list here today, but
+very important. If I get enough
+comments, I'll make a video on that. So,
+this is Wix, and we can see here that
+it's giving me this number, which is how
+many emails were sent, and this one is
+how many of those emails were opened.
+So, we can see here 6,000 emails sent,
+3,000 opened. That's a good campaign.
+You know, now who I'm sending these
+emails to will also be a variable in how
+many people are going to open them. Even
+if you're sending emails to a subscriber
+list where people have given you their
+emails and permission to market to them,
+I want you to understand that everybody
+will not open those emails. And
+regardless of whether they gave you the
+email or not, I would tell all of you to
+follow the law and ensure you have
+unsubscribe links. And you know, there's
+some other variables you have to have in
+your emails as well. I'm not a lawyer
+and I'm not providing legal advice, but
+I am telling you to get legal advice um
+before you do anything. So here, this
+email campaign 6,000 sent 1,000 open.
+That's not very good. Something was
+wrong there and it was probably the
+subject line. Okay, so this is how we
+test it. All right, so if you were
+following along, what you would have
+seen there is that one email campaign
+got 1,000 people to open it out of 6,000
+emails sent. Next one got about half,
+3,000. Next one, it looks like I
+increased the number of emails, 7,000
+emails sent and 4,000 open. So, we got
+over 50%. Right? So, when you perfect
+how many people are opening your email,
+and for me, really, if more than 40% of
+the people are opening the email, I
+might tweak it a little bit after that,
+but that probably means I've got my
+subject line correct. Now, we got to
+talk about how we craft the actual email
+message that we're sending. Now, there's
+lots of ways to do this, right? And I
+also know some people are sending email
+marketing newsletters that you subscribe
+to. That's not what we're talking about
+here. In fact, I have one of those, and
+those are going to be long form. We're
+talking about getting leads. We're
+talking about scheduling meetings. We're
+talking about reaching out to the
+government or other businesses. They
+don't know who you are, or maybe they
+do. They only have a few seconds to
+really understand what you're trying to
+say to them. Now, even if it's a warm
+email list, unless they are dying to
+read two pages of what you're sending
+them, because now that people are
+opening your emails, we have to get them
+to do something. And if they're not
+doing the thing that you want, then
+there's something wrong with how you
+wrote the email. So, now I'm going to
+talk you through how I write an email.
+Now, before we get to that, we have to
+understand, what am I trying to get the
+person receiving this email to do? There
+are lots of things that you may be
+trying to get them to do. One of those
+is you might be trying to get them to
+click on a link. Maybe you want them to
+go to a landing page on your website. I
+may want them to go to my YouTube
+channel. If I have a new YouTube video
+out, you know, we have a lot of people
+that have subscribed to us. So, I might
+send them an email saying, "Hey, look,
+check out this new video that is now
+out." And that will get them to go watch
+the video. It lets them know that
+there's a video out. I might tell them
+something about it. So, if you know
+they're interested, they can go. If not,
+they can ignore it. What else could I be
+actually doing here? Well, for
+consulting is reaching out to a company
+and telling them that I help companies
+sell to the US government. All right,
+but I'm keeping this short and sweet.
+When I said earlier that companies that
+do this really well understand that what
+you don't say can be as important as
+what you do say, that is true. You do
+not want to spend a page or paragraph
+basically telling them about you. The
+company doesn't care about you,
+especially if they don't know about you,
+right? You're not telling them
+everything, all your credentials, all
+your master's degrees and certifications
+and you know your time in the military,
+work for different companies, whatever
+it was that you do. We are not sending
+them a resume on why they should trust
+you. Okay? You have got to develop a
+offer or you have to at least have some
+type of ask and you got to just get to
+the point. Why do they care? What are
+you doing? What do you want them to do?
+Now, let me give you an example of this.
+Let's say that I'm reaching out to a
+company and I want them to schedule a
+meeting with me. What I might do is say,
+"Hey, company X, I help cyber security
+companies win contracts with the US Air
+Force. My name's Rick. I'm a former
+government acquisitions officer. I've
+been doing this for over 20 years. And
+if you're interested, simply reply back
+to this email and we'll hop on a call."
+That's an example of a short and sweet
+email that is direct. It is to the point
+and that is going to get a certain
+number of people to respond back to the
+email and schedule a call with me. And
+what's also nice about this email is
+that there's no link for them to click.
+When you start adding links, when you
+start adding attachments, that can hurt
+the deliverability of your email. And
+it's also kind of a barrier to entry
+right now, especially if if the person
+doesn't really know you. You know, in my
+case, they might be my LinkedIn
+connection. And this applies to
+LinkedIn, too, right? Because you could
+send messages on LinkedIn, any platform
+where you can reach out. But LinkedIn's
+very professional, right? I want the
+barrier to entry for the person I'm
+reaching out to to be as low as
+possible. So the more that I'm asking
+them to do, the less likely it is that
+they are going to do it. So if it's
+setting up a meeting, I just tell them,
+reply back to me. We'll set it up,
+right? My assistant will reach out to
+you or, you know, I'll I'll input it
+physically into the Zoom calendar. You
+know, you tell me, hey, what's
+available? I'll make my schedule work.
+Whatever you can do, but remember, keep
+that email short and sweet. You got to
+send a lot of them if the people don't
+know who you are. Maybe a little bit
+less so if it's a warm email address.
+Some other things you might be doing are
+requesting a meeting with say a
+government office. You might be sending
+a proposal to the government. You know,
+whenever I'm sending something, I'm
+trying as hard as I can to keep it to no
+more than three bullets. There are lots
+of ways to do this. Mine's not the only
+way, but it's the only way I'm going to
+tell you because it's the best way as
+far as I'm concerned, right? You have a
+couple of seconds to grab someone's
+attention. That's the subject line. And
+then you have a couple of seconds if
+they open up that email, they got to
+know what you're all about immediately.
+If I open up an email and it's got
+paragraphs and paragraphs of
+information, like I am either skimming
+it or I am just deleting it cuz I don't
+want to deal with it. Hey, this is what
+I'm doing. This is why I'm doing it.
+This is what I need you to do. Lots of
+variations on that. Hey government
+official, I saw your sources, saw it,
+and I responded to it. Want to know if
+we could set up a meeting so I could
+tell you about Ricky Howard's new cyber
+security tool. I think that I could save
+you some money. You know, they may say
+yes, they may say no. Again, if people
+are opening your email and they are not
+doing the thing that you want, then you
+have an email script problem and you
+need to iterate on it. Also, let's look
+at one email campaign where I had 7,000
+emails sent. 4,000 people opened it. 80
+people clicked the link that I had in
+there. So, let me ask you something. Is
+that worth it? Is it good? You might be
+like, "Oh, Rick, that's like terrible.
+That's less than 1% of people actually
+clicked on the link." Well, hold on.
+What is that link for? Right now, for
+me, I sent an email campaign and 80
+people in this particular case went to
+go schedule a consultation with me.
+That's 80 and all of those probably
+didn't turn into consultations. This was
+a couple years ago, but if that turned
+into 50 consultations, right, I can tell
+you like I know at the time I wasn't
+selling anything for less than five
+grand. By the way, when I get on a call
+with somebody and they're properly
+vetted, you know, I have a pretty good
+closing rate, right? So, you know, you
+could do the math. But even if even if
+only 10 of those turned into clients at
+five grand a piece, right? What's five?
+That's $50,000. So, is it worth sending
+7,000 emails, especially if it's
+automated, 4,000 open, 80 click on it,
+could end up in $50,000 in sales. Is
+that worth it? Well, to me it is. To
+you. It might not be, right? By the way,
+it could have been a lot more because,
+you know, we've have, as you know, if
+anyone watches us, if you're in
+government contracting, consulting
+clients will buy from you and then they
+turn into monthly clients, right? So, I
+mean, I've had clients that have paid
+hundreds of thousands of dollars in I
+mean to me in consulting fees over
+months or years. And the same thing with
+students in Gov Clos right now. I mean,
+some clients are worth more than others.
+You'll see that email absolutely
+critical to all of this. All right. Now
+we're back in my screen here and I just
+switched to gov close, right? So I mean
+we can see here gov close for those of
+you that don't know this is our one-year
+training and implementation program. We
+have a lot of training in here. We train
+the best government contracting account
+executives, consultants, and of course
+businesses that are selling to the
+government. But part of this, even
+though this is all government-based,
+part of our training, and I'm in
+administrative mode here, so you can see
+074 lessons completed. I don't need to
+watch the lessons again because I made
+the lessons, right? So, I recorded all
+of these and re-recorded them and
+perfected them over time. But first part
+of our course is government contracting.
+So, of course, you know, we're talking
+about, you know, how to register in
+SAM.gov, develop a niche, how to build a
+federal sales roadmap, which by the way
+is like one of the most important things
+anyone could learn how to do is learning
+federal spending analytics, how to
+understand government contracting, how
+to build a pipeline of leads. By the
+stay with me, stay with me. I'm getting
+there. the art of winning government
+contracts, you know, how do we do that?
+How do we get meetings? How do we use
+GSA? What about, you know, advanced
+sales techniques, SBIR, all of that
+stuff, you know, we include. But then we
+start pivoting to the business part,
+right? Now, this is an implementation
+program and it's one year for a reason.
+It's because no matter what, no matter
+how well I teach somebody government
+contracting, they need to be able to
+turn that into a business. And you would
+be surprised how many businesses do not
+understand like the core function of
+their business, which is how to sell. So
+no matter whether you're selling to the
+government, whether you're selling B2B,
+whether you're selling B TOC, you've got
+to know how to run your business and how
+to sell. So whether you're getting a
+client or winning a government contract
+or selling a course or selling a program
+like we are or selling sweatshirts or
+whatever, you have got to know how to
+sell it. And email is going to be
+incredibly important in all of that. I
+think email is more important than
+advertising. I think email is one of the
+most important tools I have to sell,
+period. Now you can see here we have
+lessons on selling but look right at the
+end in the government contracting course
+I have an email marketing master class
+right and look I'm not trying to sell an
+email marketing master class if anybody
+wanted that they would have to come into
+gov close our certification program to
+get it so I'm telling you this for a
+reason and it's because email marketing
+even to government contracting is so
+essential that look at this is one of
+the substantial blocks of our training
+initial offer how do you build an email
+list how do you choose an email platform
+to send your emails from? How do we
+write those? We didn't really get into
+the art form of writing that email
+specifically. I mean, I gave you the the
+bones of it, but I spend a lot of time
+crafting emails and offers, a lot of
+time crafting subject lines, right? We
+do low volume email tests. So, there's a
+lot that goes into this. And of course,
+follow the law, right? We have to
+understand the rules, right? A lot of
+people stumble their way into this and
+end up getting their email shut down
+because they didn't understand what they
+were doing. So, in this email master
+class, I guess you could call it, we
+went through some of the fundamentals of
+email marketing, sending emails, making
+sure people receive your emails, how do
+you get them to open the emails, then
+read the emails, and then do what you
+want them to do after they read the
+email. And you've got to measure all of
+that as you're doing it to know if
+there's a problem, where is the problem?
+And this applies to everything you're
+doing. I don't care if you're selling to
+the government, B2B, B T B T B T B T B T
+B T B T B T B T B TOC. It is such a
+problem out there that I focus an entire
+block as you just saw within my
+government contract training program gov
+close. For anybody else out there
+watching this, you just need to know how
+important it is. Look, we can deep dive
+on any part of this that we talked. If I
+get enough comments and requests for it,
+I will put another video out that deep
+dives and gives you guys, you know, some
+really exacting steps and
+specifications. If you do want our email
+marketing program, you have to come into
+Govc close, right? So, and that's uh
+designed for those government
+contracting potential professionals out
+there, companies, consultants, etc. And
+I'm going to link a video here at the
+end because going handinhand with email
+and how important that is for your
+business. Next thing is going to be
+LinkedIn. You'd be surprised how
+important LinkedIn is for all of us
+involved in government contracting. So,
+go to the LinkedIn video now and I'll
+see you in the next

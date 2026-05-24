@@ -1,0 +1,1286 @@
+Kind: captions
+Language: en
+right hey everyone Thanks for tuning in
+this week to DOD contract Academy the
+podcast uh this week we have a really
+special episode I'm talking with a Dr
+Martin
+ettenberg of uh Princeton infrared
+technology sir how are you today I am
+very good thank you good thanks for
+thanks for coming on the show
+uh I'm I'm looking forward to it so good
+well you know you're going to be in some
+really good company because you know I
+know you guys first of all have a a long
+history with the super process but
+you're also in a really interesting
+technological space which we'll get into
+and I think that's going to be of
+interest as well but maybe before we dig
+into that I think I'd love to learn a
+little bit more about you and so with
+the audience so maybe you could give us
+a kind of a brief background on yourself
+and your education and and how you came
+to Princeton infrared Technologies uh
+okay I'll try to be brief but you know
+when somebody talks about themselves it
+it starts to get long-winded so uh so uh
+undergrad at Cornell University and
+material science uh went on to graduate
+school at University of Virginia got my
+Master's in PhD actually in seven
+conductor materials dealing with
+thermoelectrics which are little devices
+that uh semiconductor heat pumps
+electricity through on one side gets hot
+one side gets cold and actually it was a
+native project for
+cooling systems on submarines back when
+we were working on CFCs uh Replacements
+and they weren't there yet and the Navy
+got packed was trying everything what's
+a CFC oh CFC was uh
+fluorocarbon it's used for the uh it was
+replacements for refrigerant gases okay
+when there was a hole in the ozone layer
+we were trying to get the Navy had to
+get rid of all their refrigerants and
+they had to switch off so thermoelectric
+is a great idea because uh submarines
+have a giant heat sink being the ocean
+and uh they have a huge power plant in
+the back to play as much electricity as
+possible so thermologics weren't a bad
+solution but they came up with a
+refrigerant that worked so but uh it led
+me to my first job
+um at a company called sensors unlimited
+and they were doing uh optoelectronics
+uh in gas detector arrays and they had a
+Thermal electric cooler underneath and
+and they needed some help with the
+thermal watch coolers and I had a
+semiconductor background and I then
+started to learn about Electro Optics
+and swear Imaging and I got into it and
+I had never left so start off as a bench
+scientist uh and then became a uh I'll
+say um technical program manager so I
+was doing program management as well as
+technical stuff and and development and
+then I want to do more things and we
+were a small business
+and my uh boss said all right go out and
+get money
+you know go write proposals and so I
+said okay and so I started winning more
+proposals than I could do
+and then I moved to Business Development
+actually uh and started doing sales and
+Business Development uh and really
+enjoyed that because I was one of the
+few Business Development people that
+actually really understood the
+technology and so I could write
+um
+really well uh my writing was never good
+but I could write I could write
+technically good proposals and other
+people could correct my English
+um and uh did director research
+development director of Business
+Development and was doing that for a
+very long time and then since the
+unlimited was acquired by Goodrich
+Corporation
+um and I realized after working there a
+couple years Goodrich was a great
+company but uh big company culture
+wasn't for me right right and so I left
+and started dabbling some other
+companies for a while but kept getting
+calls for Consulting on shortwave
+infrared and the question was always uh
+what's going on in census unlimited that
+was always question number one and then
+question number two which I didn't know
+the answer because I left a couple years
+and then question number two is why
+these in-gas detectors so expensive and
+by the third or fourth phone call you're
+kind of thinking well
+I think there should be a business here
+and so
+I started putting business plan together
+and um got some uh Angel Investors
+together and and won some small sbirs
+and I'll admit
+um I was very unsuccessful since this
+unlimited winning SP IRS the joke was I
+was uh
+two for twenty and people would actually
+take my proposals other people in my
+group would take my proposals and
+rewrite them slightly and they would win
+ah same idea so well hey let me let me
+ask you this I don't want to cut you off
+because sure first of all that's 10 10
+of your saber proposals winning actually
+isn't bad right I mean you're you're
+probably not no it's not bad I agree
+with you back then I think the the
+percentages were higher okay now you're
+right no more people writing sbir
+proposals so I think the percentages now
+you're right they're around 10 I think
+it's 10 to 12 now win rate
+um we've been a little more successful
+here we're probably on phase ones we're
+probably somewhere around the 20 range
+okay
+um
+the face views were probably much higher
+much higher than that were like 65 range
+I definitely want to get into that but
+so I just want to back up a little bit
+because you did say you were like really
+successful at going and getting money
+for unlimited funding it was at federal
+funds that you were winning yeah it was
+Federal and commercials so I was
+um federal funds I was applying to Broad
+area announcements okay
+um baas
+um uh
+we were going after those quite a bit
+and then on the commercial side
+um it was commercial development for new
+detector arrays
+more modification of our current
+detector arrays since the federal
+government can afford
+big projects in the couple million
+dollars but
+um the commercial entities were more of
+modifications than the hundreds of
+thousands you know okay or tens of
+thousands right but they usually led to
+um
+a a big buys of in the commercial
+entities it would be like oh modify the
+camera to do this for uh 40 50 100 000
+but then they'd end up buying
+30 of them or 40 of them okay good no
+you know one of them was
+um for instance uh working with Raytheon
+to put shortwave infrared on a on a on a
+gimbal go on a big uas
+and so it took a long time but they you
+know we had to nil hardened it
+to get on board and fit it into the
+right size and shape because it's going
+on a gimbal to go into their system sure
+now you able to use funding you know
+because you have Federal funding and you
+have commercial funding coming in
+were you able to use that to basically
+develop technology that could be used
+for dual use uh yes there was always
+always
+the goal so
+um and I sold that in my programs here
+for instance infrared Technologies is
+um we we only do a research program
+if we walk away with something from it
+that's useful commercially sure if not
+I will admit the engineering geeky side
+of me really gets into it and is willing
+to do it but
+um I'll admit the business side of me on
+the other side is always saying we have
+we have to walk away with a piece of
+technology it it doesn't it doesn't have
+to be the greatest piece but it has to
+be something we care about we want to
+use right we just had an Air Force
+program uh closeout Air Force Base to to
+develop a 2.1 Micron detector array and
+it was built in a different format but
+um we walked away with knowing how to
+build that kind of detector technology
+now we commercialized it and it's a BP
+in our what we call our BP cam goes out
+to 2.1 microns mostly for laser beam
+profiling and we're now we've now sold a
+couple of them
+um
+commercialize that technology and uh we
+have interest from NASA for a space
+mission for that same detector array so
+that's awesome
+um uh working towards that
+um and uh you know the Air Force
+developed the technology and it's being
+sold into a Navy program so yeah that
+happens it happens all the time yeah and
+it's great stuff when it happens like
+yeah kudos to both organizations well I
+mean it's it's kind of the point right I
+mean you
+if people aren't listening to the
+criticism on sbir the criticism is often
+we use it the company gets funded and
+then the technology doesn't go anywhere
+so the real key is hey how can we
+utilize that anywhere in the services or
+the IC or wherever or NASA to make use
+of the funded technology I I agree and a
+lot of in our cases you know sometimes
+these programs don't go anywhere
+um and but the technology we always take
+the technology and make it go somewhere
+and it's a learning lesson right you've
+had we've had a camera with a program
+with missile defense agency it was gun
+hardened
+uh so it literally could be fired from a
+can uh tens of thousands of G's of shock
+pores the program didn't go anywhere but
+has led to more programs now the Army
+has interest now the Navy's looking at
+it
+um uh and we're utilizing that
+technology and things learned sure and
+it's pushing the technology forward
+which has been great
+yeah one of the the I guess the biggest
+problem sets that I hear from companies
+that have gone through siber sbir phase
+two and you're a lot further ahead than
+a lot of these businesses but a lot of
+them are just starting out they'd maybe
+win the phase one they grab the phase
+two maybe multiple phase twos but
+they're trying to get to either that
+that funded contract or the government
+or a program of Records somehow and it
+sounds like what you're doing and we had
+someone else on the show previously who
+basically said hey you know I like to
+use the government funding to help
+develop the technology for dual use and
+then keep my commercial line coming in
+to fund me when the government isn't
+then the government will catch up
+eventually and we'll get there what do
+you think of that philosophy of kind of
+utilizing sivir and moving forward and
+Tech development uh I'm gonna tell you
+that is My Philosophy okay because
+um
+[Music]
+I like the joke the government doesn't
+probably like my joke but
+I have never seen a phase three I've
+been in doing research for 25 years I've
+never been offered a phase three I've
+never seen a phase three even I hear
+people talking about phase threes I
+don't even know a company I have to
+correct that I met one company that got
+a phase three but I've only met one
+company in my entire career that says
+they've had a phase three I I don't
+and for me
+they feel like unicorns like I I don't I
+don't know anybody that's gotten them
+that My Philosophy is we take the phase
+two and we utilize those developments we
+commercialize them and they morph into
+something else like that
+um that program I was talking about
+um with the gimbal system it was the
+technology was developed in an fbir for
+a 640 by 512 array a small camera format
+was developed
+relatively in an fbir
+and it morphed into this commercial
+practice and the commercial product then
+went into this military system it it
+wasn't a phase three it wasn't but the
+poll was there now it it took a lot of
+time and thank God there is dual use
+like that's that's the problem and I
+always get upset
+um about
+um and I'll admit it's got much better
+on itar restrictions because it it makes
+it hard for dual use technology like
+the government always wants things
+cheaper and better right and I'm happy
+to get it to them but you need that that
+poll that commercial pole and sometimes
+it's sure you know our case Machine
+Vision occupations or spectroscopy or
+astronomy or all these other things but
+it's hard to sell to those when
+there's these big military DOD itar
+restrictions around them but yeah the
+military has their own version of things
+like that was a it became that version
+of the camera that was specialized
+became that became a that's an ipar item
+right it was built for a specific
+purpose but the general technology
+should not be yeah no I agree with that
+um you know I mean for the government I
+just put my government hat on we had a
+lot of great reasons for wanting dual
+use mainly because if it only existed in
+a government weapon system for instance
+that meant that anytime we wanted an
+upgrade an update a software
+modification anything that we needed
+just routine maintenance that means we
+had to put some on our contract to do it
+right probably the company that created
+it
+um versus if it's something that also
+exists to some extent commercially well
+now like maybe routine software updates
+and things like that it might be getting
+modified along the way right so when it
+comes time for us to want something all
+of a sudden we can go get the latest
+thing we don't have to wait two years
+for a development or you know something
+along those lines so you know it depends
+on the technology and exactly what we're
+talking about but I mean there are a lot
+of good reasons for wanting for having a
+software technology that's dual use yeah
+I I say Hardware too you know just you
+know as you
+as you build more of them you get better
+at it and right the product gets better
+you know what
+longer lifetimes improved sensitivity
+whatever you may look at you know the
+more you build the the better it gets so
+it's
+absolutely smart ads I I I'm I'm a very
+big fan of dual use but yes your
+philosophy holds because I as I said
+phase threes for me are like unicorns I
+I yeah I mean you know I think it's a
+good way for a company to get the foot
+in the door it's a great way to find
+some development dollars where somebody
+doesn't own a piece of your company at
+the end of the day I agree it's also a
+really good way and even a lot of
+Contracting officers and program
+managers and the government side don't
+understand this but a siber contract a
+phase if you're a phase two graduate
+that gives the government a way to sole
+source contract with you
+that is very easy as long as you can
+explain it to them and so I mean it
+gives you another option and keep making
+it easy for the government is always a
+good thing you're not going to use it
+just being able to explain it to them
+and say hey there is this option there
+is this past performance there's this
+technology uh you know I will admit I
+probably uh haven't leveraged that
+enough like we usually we use our phase
+twos as um
+as marketing uh
+the idea that we have this technology
+that we can do this technology that we
+can do these things and be beneficial it
+um I I like to think of it as more
+marketing than but it is an interesting
+Avenue we have not pursued a
+of of pushing that
+but we haven't we haven't gotten to the
+point where we're being put on
+um systems
+okay gotcha and what actually what I was
+just uh I was just looking away I wasn't
+not listening to you but one thing I did
+not do is I didn't look for uh to see if
+you were on any contract Vehicles like
+GSA or the you know no we're not at that
+point
+um uh we're
+um most of the things we're doing are
+um development right now at Princeton
+infrared Technologies we're developing
+uh next next Generation Next Generation
+technology infrared Imaging in the
+shortwave infrared
+um
+we have you know there there are
+shortwave infrared imagers that are
+deployed uh but not in large numbers yet
+and we're looking at that you know
+everything from
+um Hypersonic Munitions uh regular
+Munitions uh as well as
+um uh uas's
+um for
+um uh bargaining as well as uh new
+hyperspectral systems so you can find
+Targets and ID those targets sure I mean
+there's there's tons of different
+um options for you guys I mean from Jad
+C2 and all the services all the way down
+so
+um definitely No Lack there
+um I was wondering just going back a
+little bit to the broad area
+announcements right so I know how I
+utilize them on the Air Force and this
+is that's something we actually don't
+talk too much on uh this podcast but so
+it may be helpful for people listening
+to understand how they work for you I
+know the way I used it was not the way
+you're supposed to use it though I sense
+that other offices are using it so we
+would keep a baa open you know you might
+see a broad area announcement open and
+it doesn't have a
+um a due date like a typical like RFP or
+civil would it it might say it's open
+for three years and it's a broad topic
+area and it basically says hey you know
+write your proposal uh for this topic
+area I left it open uh you know a lot of
+the reason for that is it allowed us to
+put a company on contract really fast to
+do some research constrained research
+um what was your experience kind of
+going after the baas and how did you
+make that work for you uh so there were
+two types the one you just discussed
+which was the really broad ones where
+we'd be working with
+um somebody from you know uh Army like
+night vision Labs or somebody Air Force
+research Labs those were my those are
+big ones I guess uh once a lot NRL
+um and yeah they would have uh a
+research topic they were interested in
+that we could fit into those baas and we
+went after we were a small company so we
+weren't going after the the tens of
+millions of the right the the even
+couple Millions those were you know half
+million dollar uh million dollar
+contracts right and those would fit
+nicely in those baas
+um and that was one Avenue where
+we kind of went after it the other one
+was
+um
+baa is like a a DARPA baa where they
+they were looking for some
+I'm going to say well with DARPA it's
+always a Nutty idea but something you
+know something we're really pushing the
+envelope and we would go after those and
+um
+um our stretch he was uh because we were
+a small company
+um we kind of went for the dollars that
+fell off the table when the big boys
+were done pounding them so the the big
+boy you know they'd be like oh we're
+gonna issue two contracts or three
+contracts in this giant thing right and
+they'd all be fighting over the tens of
+millions of dollars right and it
+wouldn't divide up all nicely right but
+there were probably some small areas of
+research where you tickle somebody's
+fancy at the program management level
+and you could grab uh some of those
+research dollars for something that was
+very specific in those Niche areas we go
+for those yeah we'd be the small
+business
+that would go for a ba where they they'd
+fund the Lockheed and The Wraith yarn
+and then they'd have the sensors
+unlimited you know with a much smaller
+amount with a much higher risk
+solution you know yeah we'd be they'd be
+swinging for the singles of doubles on
+the baa and we'd be swinging for the
+fences right and
+we were the high risk alternative it was
+it was kind of like an sbir in in short
+and that was
+that was the other
+the other way of doing it would you
+sorry I'm sorry I was going to say when
+you would uh write because usually it's
+basically a white paper that you're
+right yes kind of
+um to nail those down um would you reach
+out and talk to somebody in the program
+office before you wrote something or
+would you just write the right white
+paper and shoot it off and see see what
+you got
+um
+it was dependent so
+I will I'll tell all your listeners on
+sbirs and I I should probably you know
+I'm going to give away one of my things
+I always call yeah
+and speak to the the technical point of
+contact there's only so much they could
+put into that paragraph exactly or two
+paragraphs and and
+um
+um we always try to call on those baas
+um they were hard because by the time
+the baa came out usually you couldn't
+talk to anybody yeah uh
+you had to be and that's why I think the
+the big boys have the advantage because
+they have business development people
+that are out all the time we're not like
+I'm I can't be I'm a one-man show right
+like I see things that come up I'll call
+them up and that's mostly why we're
+going after fbirs because they come out
+you can talk to the sponsor you can find
+out what they're really looking for and
+get some insight if you're knowledgeable
+in the area and and really geared for
+what they want right
+um it was baas they're tough now because
+you had to have geared what they wanted
+before the vaa came out yeah and if
+you're hearing about the baa you're
+probably on The Late side so yeah we
+would go to the talk we you know they
+usually have a public
+opening talk to talk about it and you
+find out more and and
+you take a big swing yeah and those Bas
+uh I don't go for them as much now
+because
+um I I will say infrared imaging
+technology is a lot more mature than it
+was when I was doing this 15 20 years
+ago
+[Music]
+it you know we were at the beginning of
+the infrared Imaging hour so there was a
+lot of money around and and uh Bas I can
+went into now they're they're less
+common they're more they're more system
+goals and I'm I'm I'm not a system guy
+I'm sure
+I turned photons into digital counts and
+yeah I'm kind of done what I give the
+information the picture to somebody and
+they have to do something with it you
+know what uh what it strikes me is
+unique about you in particular is that
+you are an engineer but you are also a
+really good seasoned business developer
+on the federal side so and and I can see
+how I think a lot of people lose this
+especially when they try to hire
+somebody to write a proposal for them
+for anything
+having that in-depth understanding of
+the technology is crucial it's
+absolutely crucial if you want to win
+and especially if you've talked to them
+like you said you probably get half the
+information if that on like any proposal
+really so if you have the ability and
+that's why it's so important to find out
+about any proposal before it actually
+officially comes out you know so you can
+talk to somebody but you know outside of
+Siva but
+um yeah I mean having that ability to
+understand the proposal writing process
+the business development process and the
+technology itself is probably why you've
+won so much because you can write a
+really compelling offer that touches on
+exactly what they want uh uh not to do
+my own horn but yeah I agree with you
+I'm tough on Business Development guys
+yeah because I
+I feel a lot of them don't understand
+the technology like I appreciate the
+business development guys that are
+former operators and Soldiers and
+Sailors and Airmen
+um because they have the side that I
+don't have like as I said I understand
+how to turn
+these photons and the digital counts and
+I know how to do imaging and I know all
+that but I I don't understand the
+condoms right like they understand the
+concept of operations that they've been
+in the field like I'll talk about oh we
+can do laser spotting we understand the
+the prf codes you know we can see this
+and and they really understand what's
+going on like they understand the whole
+concept of operations when the laser
+guided munition right and
+I don't
+I don't understand that um you know and
+and that's I'll admit that's my weakness
+on these things and I I appreciate
+Business Development people on that side
+of the fence yeah
+um when I was at Goodrich it was it was
+found my favorite thing was actually
+going down to the DC office because it
+was all filled with
+former Colonel captains and and Generals
+who've been there done that
+you know they had trouble understanding
+the technology but they understand the
+concept of operations and two of us
+working together a good team it was a
+really great team it was fantastic and I
+really appreciated it
+um
+that I understand but
+um you're right you know just having a
+business development person none of the
+same technology you know I believe
+especially these technology plays you
+really have to understand technology not
+the system end of things
+um yeah yeah I I do think that's helped
+me you know my my Engineers joke around
+that I turn to the dark side because I I
+do a lot of sales stuff but um I'll
+admit I do as much as I enjoy solving
+engineering problems I also like being
+creative and knowing what the technology
+can do yeah and that that kind of gets
+gets me excited well I mean you know
+like it I can just putting myself back
+in that seat like I don't know how many
+companies would come in and talk to me
+about what they had but I was talking to
+the sales guy usually at least in the
+beginning right I wasn't talking to
+someone that had the true grasp of what
+was going on
+um but you know to your point and this
+is for like the military guys out there
+that are listening maybe thinking of
+transitioning
+um it is a it's a really great career
+field if you want to be you know when
+you're transitioning business
+development in the public sector for
+exactly your point and I mean to have
+the first half of my career for instance
+I flew with Constance aircraft right so
+um you know that has helped me
+exponentially you know on the outside
+working with companies if I was uh in BD
+for exactly the reason you're talking
+about you know I might not be able to
+talk all of the Cyber engineering speak
+uh for a cyber security company but I
+certainly understood circular error of
+probability and what the you know what
+what we needed to do to execute a
+mission uh where someone was going to
+you know potentially be hurt or taken
+out or we had to do something in the
+Pacific Theater I mean you know usually
+that's the Gap right so there's another
+language there that a lot of the service
+members speak that maybe the companies
+don't and so you can kind of bridge that
+cap and and learning yeah but I think
+it's a it's a it's a great thing also
+you know
+you know how to maneuver around within
+the dod like right you know forget about
+acronyms which is a whole nother problem
+but you know you know where in the
+service sectors and how things work and
+and
+it is a great
+skill you're right and if they can pick
+up the technology you know enough of the
+technology it's fantastic I listen I try
+to go the other way like I'm as you said
+I I try to figure out you know circular
+error probability for a bomb dropping
+and so forth and understanding all those
+things which are important right I mean
+um understanding both sides but yes the
+only thing I wish somebody uh as an
+engineer I went to engineering because I
+wasn't very good at writing and let me
+tell you most of my life is filled with
+writing so yeah
+if you're made by the younger people
+listening on this it's like take another
+writing course
+yeah it's very important it's very
+important because it's unbelievably
+important honestly no matter how great
+your business development is no matter
+how great the technology is and I've
+I've said this before and I've gotten
+some Flack for it about how I usually
+knew a company I wanted to hire before
+solicitation ever went out but I always
+didn't get to hire that company and
+that's that's the point that usually
+gets missed right and the reason is
+there's a whole market research phase we
+don't have to talk about now but you
+know which is where where that would
+happen no one's going to put a
+solicitation out without understanding
+that there's a company that can do the
+work
+um and especially in the technology
+realm so just by virtue of that
+everyone's no matter how many federal
+Acquisitions regulations exist in
+competition laws we're all human and
+we're going to have our preferences
+especially if the market research had us
+talking with a company like yours and
+understanding or hey this is a perfect
+fit but even if that occurred speaking
+to writing this is a long way of getting
+back to that uh question or that
+statement
+you could be exactly who we wanted to
+hire you could have the perfect
+technology everything's in place but you
+don't write the proposal correctly all
+you got to do is because that gets
+scored and it's probably not going to be
+scored by me as a program manager it's
+going to be scored by a Contracting
+officer and Contracting officers don't
+run these programs that's a lot
+something a lot of people don't realize
+they they wanted to put you on contract
+and then they're on to the next thing
+and uh and then a lot of bigger ones
+there's a team of people reviewing it
+and if you're not paying attention to
+things like compliance matrixes and if
+you're not really understanding the
+Nuance of what the fire Clauses are and
+everything in there then you could lose
+that despite all the great work so yeah
+writing is extremely important yeah 100
+agree with if you can't communicate your
+ideas
+and you missed something in the you know
+reading the the solicitation you know
+you missed
+putting in you know certain section that
+they want you know you're right you get
+killed on the score we you know we've
+lost sbirs where you read the review and
+everybody's like it's great
+and you're like I don't understand why
+yeah I didn't win it's probably because
+missed something right that affected
+your score have you ever
+um submitted an sttr
+foreign
+yes
+um
+we've done
+one or two okay
+um we do work quite a bit with
+universities uh uh matter of fact the
+university partner is
+I'd say probably on 60 or 70 of our
+sbirs
+[Music]
+um
+uh the S ttrs the only the only problem
+I have with that's ttrs is um it makes
+it very difficult because of the money
+denomination
+uh levels of working out how much
+a lot of times the university partner
+isn't doing that much work but
+you have to you have to take a whole
+bunch of the money
+30 or 40 around there yeah it gets it
+gets complicated the university do 30 of
+the work on uh you know say a
+you know 750 000 problems two hundred
+fifty thousand dollars in University
+that's uh
+that's a lot of work it's a lot of
+graduate students sure is yeah I'm sure
+they'll figure out a way for it reason I
+ask is uh you know just talking about
+like best approaches
+um I I'm often told that sttr is a
+interesting way to approach
+um one of these but by the way if
+anyone's not listening I forget what the
+acronym stands for but you basically
+have to partner with a non-profit like a
+university to
+um to put one in but most companies
+aren't putting those in most companies
+are putting sbirs in because they don't
+have to partner with anybody so I'm told
+that your odds of winning uh could be a
+little bit higher depending uh I'm I'm
+I'm willing to believe that I think less
+people apply for the scprs they're more
+they're more complicated in that sense
+of how you give you up the work and
+depending on what you do
+um uh we have looked at sttrs and we're
+usually working on University Partners
+but
+um as I said the really tricky part is
+[Music]
+um
+is usually giving up
+how you're going to get them at that
+whatever it is I think it's 30 level
+yeah
+um uh uh of funding
+um especially if we're we're building
+something you know infrared imagers and
+reality integrated circuits are
+expensive right and so you could start I
+I hate to say like games but you can
+start doing things like you know the
+university buys some of the
+pieces of Hardware but as I said it gets
+complicated sure yeah no that's that's
+absolutely understandable so we've
+talked a lot about sbirs and baas and
+different approaches Business
+Development approaches which is really
+cool and I know uh definitely hits the
+need of a lot of people listening but
+what's uh on the agenda right now for
+Princeton infrared like where are you
+going from here and what what are your
+goals and uh
+um so uh as much as I love um
+government research and and doing
+Government research because it tickles
+my uh science side
+um we're really pushing on the
+commercial side of things
+um selling images commercial entities
+for uh Machine Vision
+um as well as
+um uh biological Imaging astronomy uh
+those are kind of big areas laser beam
+profiling we do like selling into
+military systems as well they're just
+um
+I'll say for like a word uh it's slow
+um you know you know you you somebody
+tests you out you go through a lot of
+testing you gotta re-qualify you got to
+build up you got to fit into the system
+you know it's years once you get going
+uh
+uh it's great but it takes you a long
+time to get there as opposed to
+commercial systems you know
+you know we'll be on a factory line
+looking at sorting coffee beans from
+rocks they see the Sorting words and
+they'll go all right now we're going to
+put on six lines and they'll buy 15 18
+cameras right
+and you're like well that's a good day
+right and and that you know that took
+only six months to a year to get going
+camera one to camera 18.
+um
+the development Cycles are just faster
+and so our our big Focus right now is um
+we start off with large Imaging arrays
+for
+um uh
+I'll say uh uh applications that require
+High sensitivity and high resolution
+and now uh we're actually working now
+towards lower resolutions uh we start
+with 1.3 megapixels which are 1280 by
+1024s our next product will come out
+would be a 640 by 512
+and then after that we're gonna even go
+down to a 320 by 256 a very very small
+amateur but very very low cost and so we
+think the Market's fairly elastic and if
+we have instead of offering a 30 40 000
+camera which is our 1280 by 1024 the 640
+will be somewhere around 10 to 12 000
+camera and then the 320 by 256 which
+we're having four will be as sub 5 000
+camera like that oh wow four thousand
+dollar camera we think there's a lot of
+um less you know Market where like
+Machine Vision people will just buy that
+kind of camera because it'll just take
+care of the needs it'll be low enough
+cost where because they can see things
+something in the short wave infrared
+that they can't see in the visible like
+uh blue detergent in a blue bottle the
+tougher visible camera to see but uh
+plastic is transparent and strawberry
+infrared and the detergent it has a
+water absorption line because it's
+mostly water so you can see the fill
+level very easily
+that's interesting what are some use
+cases because I mean I'm uh yeah
+you're looking shortwave infrared
+um things look different
+um there's a water absorption line of
+1400 nanometers around I shouldn't call
+it a line it's it's pretty broad but
+um and so things with water in it are
+very detectable like you can tell the
+difference between a peach pit and a pit
+a peach pit and a peach which are both
+kind of orangish and hard for a visible
+camera to tell different especially if
+you're cutting it out and you miss and
+leave a little bit but the Peach has
+tons of water in it the pit does not and
+so you can see them very easily the
+difference
+um
+detergent as I said it's blue detergent
+a blue bottle really hard to tell the
+difference but easy in the short wave
+infrared paper drying
+um glass manufacturing we can see
+through silicon uh solar cells to see
+which are good solar cells which are bad
+where the cracks are oh interesting so
+it could be used by even a service
+technician to uh yeah yeah they're using
+usually in production but they're also
+used in
+um afterwards they'll actually put them
+on drones and fly over solar fields and
+you could actually see which
+solar cells are in are in distress right
+problems especially I feel like a hail
+storm where they make a lot broken and
+so forth
+um uh so there are lots of
+lots of things you can't see in the
+visible but you can see in the short
+wave infrared you know
+military obviously because you know
+camouflage is made to fill your eyes
+doesn't do great and shortly infrared
+um we could see all the lasers on the
+battlefield in in
+um uh you know whether it's a laser used
+with night vision goggles 106
+designators 155 laser rangefinders all
+those are seen with these Indian guy and
+arsenite shortwave and thread detectors
+and so you know a ton of military
+application for sure yeah tons of
+military you know Night Vision Imaging
+and so forth but on the commercial side
+there's all these
+um I'll call the spectroscopic
+signatures where you can tell the
+difference between different plastic
+types or Recycling and
+um uh it's been talked about for years
+it hasn't been done because it's hard is
+blood glucose detection without wow
+without pricking your finger
+um uh vein and artery detection if
+you're going to give somebody a um uh an
+IV it's easier to find sure
+um there's
+I go on for hours when you start looking
+at this wavelength band there's a lot of
+things and so there's commercial
+applications but the price point matters
+right that's a forty thousand dollars
+you go well I'll be able to solve that
+problem another way right yeah once you
+get down to we think ten or five people
+go oh that's a great solution and this
+has been seen on Long wave
+microbiometers so uh most people have
+seen
+uh the shortwave in phrase just beyond
+the visible so things look in the short
+wave infrared similar to how they do
+invisible they look a little bit
+different like
+skin color goes dark hair goes white
+assuming you have real hair right I
+can't I can't speak to it yeah if you
+have to pay that comes out black it's
+always embarrassing at a trade show
+where we have to tell people their hair
+isn't real yeah but um uh
+uh but these things look different most
+people are familiar with infrared
+because of long wave infrared which is
+body heat shortly but it doesn't see
+body heat unless it's above
+uh 150 degrees we don't really 150c we
+don't detect it but long wave you see
+body now people are familiar with those
+because
+microbiometers because what they were
+developed for the military for night
+vision systems they've gotten really
+really cheap and you can now go to Home
+Depot
+buy a microbiometer small low resolution
+128 by 128 or 320 by 256. you can walk
+around your house and look for heatly or
+or bad electrical switches right you
+know they're they're putting it they
+monitor uh engines and motors right like
+you can stare at a motor
+and just have a this camera stare at a
+motor when the motor gets too hot you
+know it's about to fail so
+now you switch the motor right instead
+of waiting for it to fail and then
+everything's gonna
+yeah
+so and these cameras are cheap enough
+you know a couple hundred to a thousand
+dollars
+they find applications for them and we
+think the same thing will hold it
+shortwave infrared good that's kind of
+what we're looking at awesome I mean
+that's super interesting so if there is
+another company or someone in the
+government side that need wants to reach
+out to you what's the best way to get in
+touch with you oh uh
+uh uh you can email me at
+martin.ettenberg at Princeton irtech.com
+uh
+um you can go to our website and drop us
+an inquiry we'll see it immediately at
+Princeton infrared
+tech.com
+um yeah
+um I think those are the two easiest
+ways to get yeah you know uh I'm happy
+to take any and all emails and awesome
+well I always wanted to talk to people
+about yeah I'm willing to talk about
+anywhere in the infrared I even Teach an
+infrared course in Machine Vision
+um uh class at AIA so oh interesting I'm
+always happy to talk about infrared
+especially shortwave infrared but I'm
+willing to Branch out into the others
+well you guys heard it here first so if
+you want to learn anything about
+infrared uh Dr Martin nettenberg is the
+guy to talk to and now you have his
+contact information so you can just hit
+him up and and ask them for all the
+details
+um hey I get one last question for you
+so and I ask everyone this so you know
+for the businesses out there that are
+just getting started in federal whether
+it is maybe they've been trying and
+failing at it or maybe they're just
+getting into it what would your advice
+be for them
+um
+oh my god
+um
+yeah just take everything you've learned
+over the past 20 years and put it in
+yeah I put it into one sentence right
+um uh
+I think the you know selling to the
+government I I feel is not very much
+different from selling to commercial
+entities you know you you have to talk
+to your customer and find out what they
+want you know these technical program
+managers and teapots and and and
+that you know they have a they have a
+job and they have a mission right and
+they're trying to achieve some goal
+right and so right you wanna you wanna
+figure out what it is the date makes
+their life easier and better right it's
+the same as a commercial right like you
+know I'm trying to sell these commercial
+cameras because people having trouble
+solving the problem with visible cameras
+right they're trying to see something
+they can't see with their eyes and
+having a tough time and so we sell them
+with shortwave infrared camera and go
+look now you can see it and I think it's
+the same thing with the government
+customers you they have a they have a
+technical problem they need solved right
+and you got to figure out what that
+that problem is and and talk to them and
+and
+the difference between government and uh
+commercial sector is a commercial you
+know you you hand them a quote or a
+proposal and be good to go and they like
+you and they like it they just go with
+it right and right the government side
+you know you gotta jump through a lot
+more hoops right like it's got to be
+fair competition there's got to be a
+whole bunch of people to go for it
+and and so you have to be aware of of
+the
+of the dance you have to do but in the
+end
+as we said there's a guy with a problem
+or girl with a problem right and
+and they gotta they gotta they want a
+solution right if you got a great
+solution
+they're going to want it if you can make
+their life their job and their lives
+better that's it and you just got to
+figure out
+you just gotta follow the rules the
+problem with the government is there's a
+ton of rules you got to follow
+and they're painful
+but once you get through them it's it's
+okay and listen you're gonna lose a lot
+I think I lost my first 10 sbir
+proposals and I I was a really bad
+street I want a couple I want a couple
+Bas which were much bigger than dollar
+amount but sbis did a horrible for a
+while it took me a long time to learn
+how to
+write and figure out how to get them
+correct and I said you're gonna I I like
+I like to joke around
+my generation and the Next Generation uh
+uh we've had this problem that all as
+high Achievers have to get A's
+all the time and we weren't taught that
+you know you can fail once in a while
+and that failing actually to teach you a
+whole bunch of things but sure does yep
+uh you fail a lot you will learn what
+not to do
+probably if you keep getting A's and
+winning you don't learn what right you
+just keep doing what you're doing and I
+think you mentioned it I mean when you
+fail a lot of times whether it's a siber
+or anything else a lot of times you can
+request a yeah I do afterwards and get
+that advice and that's critical to
+learning I agree always right for the
+advice if they'll give you if they'll
+give you feedback take it now a lot of
+times I think it's BS and they had
+somebody else in mind and but you'll
+always learn something even through the
+BS you they'll point out something
+you'll be like oh I didn't think of that
+I'll keep that in mind for my next
+proposal right exactly I mean you so you
+gave a lot of uh great points there and
+I'll just sum it up for everyone what I
+heard so uh one is make sure you talk to
+somebody on the other side if you can
+it's sales is about talking to people
+understanding the problem set talk to
+the PM talk to the teapoc
+um be persistent in the beginning right
+you mentioned how many times you
+um you lost initially but you can figure
+out what you did wrong and and learn
+from that
+um and learn to write is something that
+you I kind of either directly have said
+or have uh kind of subliminally said all
+throughout the uh the interview yeah if
+anybody is in uh if there are any
+engineering school Deans or anything on
+this podcast listening we need more
+writing classes
+and communication classes in engineering
+like
+Engineers are great at solving problems
+and I think we're not great
+communicators and I think that's
+important yeah I think you've id'd a um
+a critical problem set there but also
+for the engineers in the audience uh you
+do you could make amazing business
+developers salesmen you can make amazing
+you know if you own your business you
+can be the person doing the selling
+because you know the information so like
+you said just being able to translate
+that that's a skill uh you know Dr
+Martin nettenberg thanks for coming on
+today uh we learned a lot from you and
+hopefully we can have you on again here
+in a year or two and see where you are
+and all the progress that you've made
+and that'd be great if I get my phase
+three I'll give you a call and tell you
+how oh that's great so hey everyone
+thanks for listening to DOD contract
+Academy this week remember head on over
+to dodcontract.com you can check out our
+three programs done for you done with
+you and kind of the do-it-yourself
+training program love to see you in
+there and we'll see you next week thanks

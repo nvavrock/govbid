@@ -1,0 +1,689 @@
+Kind: captions
+Language: en
+hey guys Ricky Howard here and welcome
+to this week's episode of DOD contract
+Academy this week we're doing something
+a little bit different so we're talking
+about requests for information and
+sources thought responses but we're also
+doing a response so I'm going to walk
+you through essentially how you can
+respond to one of these market research
+requests from the government in a time
+efficient manner
+so maybe before we get into this why do
+you even want to do this so if you
+listen to the podcasts
+you know where I'm going with this but
+essentially we want to make sure that we
+are finding opportunities before an
+official solicitation comes out from the
+government so before the request for
+proposal
+for the request for quote we want to
+know when the agency that we're trying
+to work with has an opportunity for us
+and there's a few ways we can do that I
+cover those in other episodes but one of
+those ways is looking for something
+called an RFI or a source of site
+there's a lot of reason the government
+puts these out there sometimes they're
+looking to see what types of companies
+can respond and respond successfully
+to what they need whether it's a product
+or a service meaning is it a small
+business can they set this aside for a
+woman-owned small business often what
+they're looking for are what are the
+Technologies available and what are the
+specifics that they should put into the
+solicitation when it comes out right so
+that's something that
+that is something
+that is underestimated by most
+businesses and what I mean by that is
+usually the program manager on the
+government side is not the subject
+matter expert in what they are putting
+on contract nor as a Contracting officer
+typically that team is the expert at
+putting companies on contract for the
+government and managing those programs
+you could have a Contracting officer
+especially across their career working
+everything from civil engineering to
+cyber security to you know weapons that
+were you know selling overseas in our
+former military sales programs you know
+so you get the point
+the expertise is in the Contracting
+process itself on the government side
+typically not necessarily the actual
+Technology Solutions services that are
+involved that's your expertise so that's
+what they're trying to find out from you
+and what you want to do is you want to
+first let the government know you're
+there so we know relationships are a big
+part of selling so this is a way to
+start a relationship if you don't have
+one with an agency it's a way to tell
+them that you can do the work but it's
+also a way to cook into when Association
+does come out you're telling them the
+things you want in there right so if
+you're writing this well you're
+informing them hey I want you to put the
+certifications that my guys have if I'm
+providing services or you know if you
+have a technology that's really unique
+you can say things like hey we have this
+technology it solves the problem of X Y
+and Z it doesn't exist anywhere else but
+we've used it successfully here maybe
+use some past performance use cases are
+really important but you know in the
+best case scenario you might find that
+you don't even have to go to a
+competition the government can just hire
+your company if you're the only solution
+but the government doesn't know if
+you're the only solution unless you
+respond to something like this in most
+cases though you're helping the
+government write this solicitation so
+you know you're developing that
+relationship so by the time it comes out
+by the time an RFP comes out they know
+who you are you've helped them write the
+solicitation maybe a few of your points
+got put in there it helps eliminate
+competition it helps inform the
+government of what they should really be
+putting on a contract and it helps you
+in the end when your contract so
+now that we've basically said why we're
+responding
+you're busy I'm busy right so if you're
+running a business you probably don't
+have time to be sitting there looking
+for these opportunities
+putting a response together some of
+these RFI responses can be you know
+something you work days on right and you
+probably don't have that much time now
+if you're a business you're up and
+running you have a team
+ideally you get to the place where you
+have a business development and sales
+team for the federal government but even
+for them this takes a long time so how
+can we do this effectively and
+efficiently whether you have a team or
+it's just you and I'm going to tell you
+some of the ways that you can do that
+some of the ways that I do that I'm
+going to walk you through it if you're
+watching this on YouTube I'm going to be
+doing this a little bit differently
+because I'm going through some of the
+websites I use so
+number one
+searching for opportunities lots of ways
+you can do that I've gone over tools on
+some of the podcasts that I use this is
+a way to get somebody else to do it for
+you right so I'm on the upwork website
+if you're not familiar with that this is
+a place where you can either work as a
+freelancer or you can hire Freelancers
+to work for you and you can get
+expertise
+varying from you know entry level type
+work all the way to PhD level you know
+people in the US that can really put
+solid products uh written Products
+Research products together for you I
+mean you can find someone to do just
+about anything that's legal on upwork
+and I use this tool all the time I
+really love it and so I'm on the website
+I'm not going to go into my account I'm
+just saying I use this to hire people to
+find opportunities for me to engage on I
+have to train them a little bit you know
+so this is at the lower level I'm not
+breaking the bank on it I also hire
+people sometimes to generate the RFI
+response itself now I do that in two
+ways I can hire somebody
+for you know higher dollar right meaning
+I might be spending a thousand dollars
+for somebody to generate a small RFI
+response that might be someone with a
+master's degree that really understands
+the solution that can give me the 90 95
+solution really I can take it check it
+switch a few things around after I've
+worked with them and then submit that's
+great and if you're in a pinch or if
+it's something that you really want to
+make sure that you're you're nailing you
+can do that at the other end you can
+hire somebody that maybe uh is going to
+be a lot cheaper doesn't have a
+technical prowess right but you could
+train them how to write an RFI so they
+could find it for you and they can put
+the general structure of the document
+together they might give you the 40
+solution then you go in there and um and
+you fix it from there but that in itself
+is a huge time save and you might spend
+50 bucks in total for somebody to do
+that for you but it's it's 50 bucks well
+spent in my opinion so okay so we're on
+upwork here there's a lot of different
+things you can do is there's a way to
+search for talent and projects I'm not
+going to get into how to use upwork just
+that you can use it for this type of
+thing and there's a lot of different
+areas from finding opportunities to
+actually doing the writing now I've
+hired somebody on there that I work with
+and now I'm on an email if you're
+listening to this on the podcast it's
+just an email I got this morning and
+this is why I decided to do this episode
+so hey Rick here's an opportunity that
+requires uh it's a data scraping data
+collection management system sam.gov
+gives me the link and I taught them how
+to do this and so now I go and I see
+that I go to sam.gov and I see this is
+Department of energy opportunity just
+what he said data collection is it he
+said scraping it says data collection
+data management software
+now this one is a lot different than a
+normal RFI or social response it's also
+part of the reason I'm bringing it up
+here because the normal RFI are sources
+so it's going to have attachments it's
+gonna have a lot more information than
+this one has it's going to give you you
+know a lot of the questions sometimes
+it'll just give you a list of 10
+questions they want answered in this
+case
+all it does is give me
+it gives me a one sentence description
+that they really should have spell
+checked before they even put on here it
+says the subcontractor will develops he
+has an S at the end of there I probably
+shouldn't be criticizing them but the
+subcontractor will develop customized
+software Tools in quote spiders to
+automatically navigate and gather data
+from wheat retail now uh that you know
+why that happened is because I started
+criticizing the way they wrote and now
+I'm talking like you know that guy from
+the Looney Tune so we tell retail
+websites uh so gather data from retail
+websites and they provide an online
+platform for managing and running the
+software okay so it's a little bit two
+things right so it's going to retail
+something then go to retail websites and
+gather data and there has to be some
+type of user interface and platform to
+manage the software this is what I'm
+guessing now
+if I was seriously interested in
+submitting something on this
+I would be reaching out there's a I
+won't um I don't go too into it but it
+has the the point of contact at the
+bottom here on sam.gov you can go to it
+if you want to look at it this is due on
+uh let's see here it's due on June 13th
+and I think it's June 9th today so
+depending on when you hear this it'll
+probably be past due but again the
+beauty of a source of sod is this isn't
+the solicitation so a response to this
+is probably not going to equal a
+contract the con the solicitation will
+probably come out in a few months or six
+months or whenever it is so I would
+probably reach out to the contact here
+and ask them clarifying information hey
+did you guys forget to put the more
+information in here to get to put an
+attachment in did you even mean to post
+this so those are some initial questions
+I have right now
+but
+and you could do that I don't want to go
+too far down the rabbit hole I just want
+to show you how I'm going to generate
+start generating a response here I have
+I did want to go because this is I've I
+certainly am familiar with the
+Department of energy but uh Berkeley
+National Lab if I just want to without
+talking to anyone first I might want to
+know what their mission is this is a
+good
+this is actually really good to talk
+about
+because I can remember being in the Air
+Force having my Branch my Acquisitions
+branch that I was running and companies
+companies that understand what they need
+to do to sell to the government know
+that they need to Target offices and get
+meetings and
+one of my pet peeves is if a company
+scheduled a meeting with me and I I took
+those the government should be taking
+meeting government Acquisitions offices
+are going to take meetings with
+companies that approach them that makes
+sense but I remember I took a few
+meetings with companies that I probably
+shouldn't have because they weren't
+prepared they didn't even know what my
+office did
+they were just hunting right so they
+were it was very I don't want to say
+selfish but that's what it was they were
+looking for leads they didn't know what
+we did they didn't do any work on their
+own to figure out what my office did and
+that really irritated me and I never
+talked to him again after that so what
+you want to do and I'm just using that
+as an example know who you're actually
+engaging with right so if you think that
+this and this is part of it right so if
+they came to me and they found an RFI
+that I put out there and wanted a
+meeting well now that's something a lot
+different
+so you're already ahead of the game here
+we know that they have a solution I
+Googled that lab because I want to know
+what their mission is and here at the
+Berkeley lab it says our research
+focuses on Discovery Science and
+solutions for clean energy and a healthy
+Planet so how is that applied to this I
+don't to really know I need to talk to
+them but if this is taking information
+from
+retail websites I'm guessing it has
+something to do with you know maybe it's
+looking for solutions that help improve
+the planet
+or maybe it's the opposite of that maybe
+it's going to retail websites looking
+for products that contain certain things
+that aren't good for the planet right
+like I just heard a um how I built this
+episode which by the way is my favorite
+podcast with guy rise and you know they
+interview tons of businesses and but
+also companies that have like new
+technologies new things and they did one
+recently on a company that
+wants to they're basically I think it
+said uh it was kind of tongue-in-cheek
+but I think their product is called
+saving the effing Planet uh with you
+know they don't use the actual swear
+word but uh essentially so if you want
+to look it up but essentially what they
+were doing is they're talking about palm
+oil and palm oil apparently it's a huge
+problem with deforestation in
+rainforests and like palm oils and
+everything I never even heard of it but
+apparently it's in everything from food
+to lipstick and it's just this odorless
+oil that just makes stuff work really
+well products work really well and the
+problem is that it grows this plant
+grows near the equator and what
+countries are doing is burning down the
+rainforests so they can basically set up
+these Palm Fields where they're growing
+the Palm plants or trees and and then
+harvesting them and turning it into this
+oil which is a multi-billion dollar
+industry anyway so it was about this
+company that was trying to bioengineer
+the
+um the oil and and so we wouldn't have
+to get it from trees and it sounds like
+they were they're actually doing really
+well with that
+neither here nor there I'm just using
+that as an example of hey maybe this is
+looking for
+products that contain palm oil and
+because they're doing research we really
+don't know and the only way to know is
+to ask but I'm going to go with
+something like it's probably something
+like that now
+how am I going to write this RFI this
+really gives me nothing it gives me no
+page count it gives me no questions to
+answer but what I'm going to do is I'm
+going to I'm going to take this
+I can do a couple things here I can
+respond to the guy I hired and I could
+tell him hey generate me a you know five
+page response based on information that
+I provide him so he knows my Consulting
+business he knows some of the
+technologies that I work with
+you want to be just make sure that if
+you're dealing with someone on upwork
+I'm always very careful right so I never
+give them the information on my clients
+and if I'm going to talk anything beyond
+something that they can just pull up on
+the web then you can make them sign an
+NDA you have to be even more careful if
+you're dealing with someone from another
+country especially if you are talking
+about selling to the government so just
+make sure that you're putting you know
+everything in check but for something
+like this I'm going to just generate it
+myself I'm going to show you another way
+to do this so you could hire someone on
+upwork to generate their response okay
+and you can go that way
+you could now I'm going to go to you may
+remember
+that we
+had somebody from use Rogue it was the
+owner of the company
+on one of the episodes and used Rogue is
+a AI tool that helps you write
+RFI responses sources saw responses and
+proposals and actually he does a really
+good job of
+you know I'll see his post on LinkedIn
+where he'll just show how he writes an
+entire thing in 90 minutes I'm not going
+to write the entire thing here but I am
+going to show you if you're watching
+this you're going to see what we can do
+so what is the
+and by the way this is my account so you
+know I pay for an account here but I'm
+just showing you how this might work
+right so I want to generate a new
+document
+and it will auto create a draft for me
+if I want to it has a document title
+description and template so the
+description we know it's like one
+sentence right so I'm just I just cut
+and pasted it right in there I can go
+back to the document title
+and it was a data collection and data
+management software
+okay
+so going back to use Rogue I'm going to
+just plug that right into the title
+now if since I'm writing this from
+scratch and they gave me very little
+usually you're going to have
+some guidance with these you're gonna
+have a lot more than what I've got here
+which makes me think that they may have
+even posted this mistakenly I don't know
+uh so we are going to have a let's see
+intro section
+and basically this in this section you
+can just type the
+of the framework that you want this that
+you want the RFI to have or you know the
+table of contents essentially right so I
+might have you know let's say
+yeah introduction
+you're gonna hear me type my uh
+wife says
+that I type louder than anybody she's
+ever heard and it really annoys her so
+if you're hearing me type right now
+that's what's going on so we've got
+introduction next we're usually talking
+about the technology requirements the
+tech technical capability so I might say
+technology overview
+three I might
+talked about it sometimes in an RFI you
+can go into cost I don't like to go on a
+cost in an RFI unless I have to
+but I do love to show use cases
+Maybe
+if you've been doing this a while you
+might have contract Vehicles so I might
+put in a section like recommended
+and I'm just doing this in real time
+right off the cuff
+recommended Contracting strategy
+I might change this later but just to
+and I typed it all I misspelled
+everything
+what else might be oh my God keep
+spelling this wrong guys okay
+recommended Contracting strategy
+and I could just say synopsis down here
+at the end
+I may want to include certifications
+that we have I may want to include
+a recommended set aside
+and I can put that in Contracting
+strategy as well for something like this
+are you partnering or teaming you might
+put a you might put a section in that
+talks about partnering or teaming
+but I'm just going to put synopsis now
+okay so basically we have a five-parter
+here to start things off introduction
+technology overview use cases
+recommended Contracting strategy
+synopsis and I'm going to hit create and
+we're going to see what happens here so
+use Rogue is now thinking about it
+all right
+and now it's actually starting to write
+a draft of what this response could look
+like
+starts off in today's data driven rule
+World businesses need to constantly
+gather and analyze information to make
+data informed decisions and
+then it goes into now this may or may
+not again this is just a starting point
+right
+but you know it's coming up with its own
+ideas about yeah what should go in here
+right and that's just based on the way
+this software was created but it seems
+to know
+something a little bit about web
+crawlers and spiders because it actually
+oh this is interesting so if you're
+listening to the podcast
+despite the fact that I only put in five
+bullets so it didn't just generate like
+a Word document with five bullets it
+generated an introduction with a whole
+paragraph then uh two a technology
+overview now I put nothing in here
+regarding
+the technology so it has no idea what my
+technology is now for this section for
+this demonstration right but I do want
+to point out one of the beauties of use
+Rogue is it will remember the documents
+that you put in so you can set up a
+section where let's say that you've been
+doing this for a while you can load your
+all your RFI and proposals if you want
+to and it will remember all of that and
+it can use it when it generates these
+type of documents I believe it's the
+beta mode so if I'm getting it wrong
+then my apologies but there's a beta
+mode in here that will build off of
+everything you've put in so it can start
+generating like if you if I'll just call
+it the Ricky Howard technology right so
+if I have the Ricky Howard technology I
+could highlight that and it will expand
+it and it could probably I could just
+start typing it would Define it for me I
+could probably do a page it'll
+automatically put it in there so this is
+giving me technology overview but
+beneath that it just came up with its
+own subsections 2.1 web crawlers and
+spiders 2.2 data extraction and parsing
+2.3 data storage management 2.4 online
+platform
+use cases
+so I'm gonna have to obviously get in
+here because it doesn't know what my use
+cases are but it generated its own it
+generated five use cases
+um number four recommended Contracting
+strategy so and it generated and this is
+the beauty of using a tool that's
+designed for Government Contracting this
+automatically put in a recommended
+Contracting strategy now this isn't the
+one I want right because I have my own
+vehicles that I use and I'm probably
+going to recommend a sole source
+contract to me if I'm submitting to this
+right
+um You got to be careful about that you
+know if you have to have a way to
+actually you don't recommend a sole
+source contract if a bunch of companies
+can do this
+but if you have a way for the government
+to give you a sole source contract like
+if you've ever won a sibber
+you can use you can probably use that
+zipper contract language to get a sole
+source if you if you're 8A that's
+another way to do it you know if you
+have contract Vehicles you can recommend
+those so there's lots there and then it
+gave me a synopsis so
+again I'm not going to write the entire
+thing here but now I've got a solid page
+maybe more
+where that I can build off of right and
+I can say I'm going to do this just for
+everyone watching online and if and if
+you're listening so I have an
+introductory paragraph that looks like
+it's about five sentences long
+if I go to the top I've got
+something that will expand content
+something that will make it more concise
+and it says I can paraphrase it so I'm
+going to hit expand
+on the introduction
+like think about how powerful this is if
+you have 10 proposals you've written or
+RFI response is in there right and it
+can take that information and start
+rewording it and putting that in here so
+it just basically
+more than doubled
+the the initial paragraph now I'll have
+to read through this and see how good it
+actually is but some other things that
+we can do here is I'm going to let's say
+because you know if you're responding to
+something from the National Science
+Foundation right which we've we did some
+of those recently well those have and by
+the way check out check out that website
+nationalscience Foundation spiders they
+have a really cool way of engaging with
+them because and this is just added
+bonus for this episode instead of having
+to write a proposal you can basically
+write them a answer of four questions
+and see if they even like your solution
+your technology or solution I know we're
+getting off track here with sivers but
+but they have word limits right so you
+might do the technology overview and it
+has a maximum of 500 Words so with
+something like that so I'm going to take
+this I don't know how many words are
+here I can I just highlighted it now I
+can go into the uh the box next to it
+and it remembers that I highlighted the
+the text and I'm going to say
+rewrite
+so this is 500 Words
+okay and now it's starting to do just
+that
+I mean what a Time Saver that is right
+you could basically I mean if I really
+wanted to focus and I'm doing a podcast
+and I'm doing this at the same time but
+if I really want to focus on this for an
+hour I could have a especially
+considering how brief the summary was I
+could put an entire submission together
+and uh and get that in there
+and it's still writing so
+again use Rogue really interesting check
+it out check out my website
+dodcontract.com we have courses on there
+we have if you want to work with us we
+can help put your strategy together we
+also have for some companies where you
+know if you're a startup maybe you're
+you don't have the funding and you're
+looking for help you'd like to get into
+the federal government we do have some
+equity and cost sharing plans available
+for the right company that's not going
+to be for everybody but you know if it's
+something that you think you want to
+team up on and go after some government
+r d funds and start winning some
+contracts it's something that we might
+be able to talk about but check out the
+other episodes on the podcast please
+leave a review And subscribe that really
+helps let us know if this was a good
+episode for you if there's other topics
+you want to talk about would love to
+discuss and that's how we get a lot of
+our ideas so thanks again we'll see you
+next week and we have some awesome
+guests coming up and I'm looking forward
+to sharing those interviews with you and
+we'll see you next time

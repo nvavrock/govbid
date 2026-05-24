@@ -1,0 +1,328 @@
+Kind: captions
+Language: en
+You've heard that there are big
+contracts out there for
+small businesses, for entrepreneurs.
+And maybe you've tried to go after some
+of those opportunities. And the two big
+terms that keep repeating when I talk to
+clients are frustration
+and confusion.
+Overwhelm, right? So, trying to find the
+steps, what are the exact steps that you
+need to take to sell to the government.
+Right? What do you have to do? If you go
+to sam.gov, if you go to some of the
+government websites, it could be
+very difficult to figure out what that
+process is. Even if you're registered to
+sell to the government and you have some
+understanding, knowing the steps that
+you should take with each of your
+opportunities,
+knowing what your sales people should be
+doing. And how do you how do you keep
+track of all of that? If any of that is
+ringing true, if there's any confusion
+in your life about government contracts,
+then this is the episode for you. And by
+the way, I'm super pumped about this
+episode in particular because we rolled
+out this week our new CRM and pipeline
+tool that we designed for government
+contracting specifically. It's called
+GovClose and it incorporates everything
+we're doing at DOD Contract Academy with
+all of the training with a actual tool
+that you can use to build a pipeline and
+take an opportunity through each of the
+steps, which we lay out for you in this
+tool, depending on what your strategy
+is.
+Every company's different. So, this
+episode we're going to talk about some
+of the features of the pipeline, what a
+CRM is, how you can use GovClose to
+start winning contracts and really
+eliminate the confusion and the
+frustration. And I'll talk a little bit
+about that in a second. This is DOD
+Contract Academy. This is the podcast
+where we help small businesses and
+entrepreneurs sell products and services
+to the US government, the US federal
+government specifically. My name is
+Ricky Howard. I'm a former government
+procurement officer. So, I've managed
+over 82 billion dollars for the
+Department of Defense in contracts. It
+was a contracts between the DOD and
+small businesses, large businesses,
+entrepreneurs, startups. There's a lot
+of different things that we did there.
+And then I went on to start a consulting
+business and DOD Contract Academy, which
+specifically helps small businesses sell
+to the government. We've advised over
+400 different small businesses. They've
+won hundreds millions of dollars. And
+everything that we've learned is now in
+this tool. So, let's get started with
+today's episode. GovClose, guys.
+I've talked about this a little bit.
+I've talked a little bit about building
+a pipeline and how necessary it is to
+have a tool to help you with that. And
+look, you know, working with different
+clients, they've had every big CRM
+platform that exists, right? I mean,
+just about. I'm sure there's some I
+haven't worked on, but we've spent a lot
+of time editing those. And even the ones
+that say that they're designed for
+public sector, what they probably mean
+is that they're being used for public
+sector. And certainly they are. But they
+do not have the strategies
+involved with winning government
+contracts and incorporated into their
+pipelining software and their CRM.
+Meaning, selling to the government is a
+lot different. So, if I'm going after an
+SBIR opportunity, I probably have 15
+steps that are unique to winning a small
+business innovative research contract
+versus if you're a reseller or you're an
+integrator or you're a subcontractor,
+right? There are specific things that
+you need to do to sell to the
+government. And if you open up any of
+those tools, which many of you probably
+have, uh you'll see that, you know, you
+get a pipeline, usually the first block
+is, "Hey, put your leads here." And then
+maybe you can move it over to, you know,
+negotiating, close, or pricing. And then
+finally, you know, you've won or lost
+the opportunity. That's that's pretty
+generic. Those are pretty generic steps
+for any sales process. Right? And
+although those things are going to apply
+to federal sales, there's a lot that's
+missing. There's a lot that's missing.
+And
+we've had a lot of students in the
+academy where we walked them through the
+process. We've had a lot of clients that
+I work one-on-one with over the years.
+And
+"What do I do next?" confusion. "How do
+I do this? What's the strategy for my
+type of business?" Always the questions.
+And we spend a lot of time walking them
+through that. And now
+for pennies on the dollar, now we can
+offer this to the masses. And now really
+just democratizing what some of the
+larger businesses, the most companies
+that are already selling to the
+government know, giving that to you in
+the pipeline.
+So, if you are watching this on YouTube,
+you're going to have the benefit of
+seeing me walk through GovClose. If you
+are on the podcast listening to this,
+I'm going to describe what we're looking
+at here. And this is not going to be a
+very long episode, but I am going to
+talk a little bit about GovClose and
+some of the differences here and what
+you get. So,
+the first thing I'm looking at and
+really the focus of this podcast today
+is the pipelines.
+Every pipeline's different in here. Now,
+we're going to bring some newer ones,
+but this is right now, I'm just going to
+read to you what pipelines you can
+choose from. So, when you log into
+GovClose, you'll have a dashboard.
+You have a variety of things you can
+choose from, but when you go to
+opportunities, there are different
+pipelines you can choose from. And right
+now we have a subcontracting pipeline, a
+sources sought pipeline. So, we're
+finding opportunities ahead of the
+solicitation and walking through what
+you have to do. We have a software as a
+service pipeline. If you're selling
+software, we have an SBIR. So, if you're
+developing a technology and you're
+looking for small business innovative
+research contracts, what you have to do
+is not the same as what you're doing if
+you're subcontracting.
+Um
+For an and you know what, I'm just going
+to go ahead and I'm going to click on
+that one right now. So, if I go to
+opportunities here
+and then I click down on SBIR, what
+you're going to see is we have how many
+steps are in here? 14, 15, 16 steps here
+for just SBIR if you're going after
+that. Topic match, right? What does that
+mean, right? Well, or
+after you match a topic is what will
+happen is topics will drop for SBIR.
+Like, I don't know, one of them was base
+security. Sometimes they're broad. And
+you can go in there when they drop and
+see if you have a software or tool or an
+idea that will potentially solve that
+topic. So, we have a column here where
+you can drop your opportunities. And if
+you're watching this, I just moved one
+around here. And these are actually real
+SBIR topics, which, you know, I was
+looking at here recently. And what
+happens is you move it into a go no-go
+column after that. So, after you match
+them, now you have to sit down and
+decide, "Is this something that my
+company wants to go over?" So, for
+instance, if I get to the go no-go, I
+might need to understand, "Well, what
+does that even mean?" So, what's great
+about that is now I can go over cuz this
+is matched with training. So, I can go
+over to DOD Contract Academy, which
+comes with the a subscription to
+GovClose, and I can see I've got
+different blocks, how to use GovClose,
+the pipeline strategies. Now, if I click
+on how to use GovClose, it walks me
+through picking a pipeline, adding
+opportunities, and then the step-by-step
+process. And I'll tell you a little bit
+of, "Well, what does it mean to go
+through a go no-go process?
+What does called the TPOC mean, right?
+Well, the TPOC is your technical point
+of contact. This this block doesn't
+exist in any other pipeline. And it's
+super critical for small business
+innovative research. If you want to win,
+you there's a you have a very small
+window where you can call somebody in
+the government and talk to them and get
+extra information on the opportunity.
+This is just one example of the the
+different steps that you're going to get
+when you use GovClose and the training
+you're going to receive on each of them.
+And these are proven strategies. These
+aren't things that, you know, I just
+created. You know, these are used from
+multiple companies. You've heard a lot
+of people interviewed on the podcast. I
+work with a lot of clients that you've
+never heard of, but are doing really
+great in the public sector. And there's
+just some things that I know from being
+a government procurement officer. I know
+basically I'm the person you're selling
+to, right? I know what you need to do
+and the relationship you need to create
+to win those contracts. And that's what
+we're building into the pipelines. Just
+going through some of the other ones
+here. We have
+an integrator pipeline. We have a
+reseller pipeline, a GSA pipeline if you
+have a GSA contract. Existing customer
+upsell.
+No better way to sell to the government
+than to actually
+expand upon the current customer that
+you have. So, with our pipeline tools,
+when you win a contract, say with the
+Air Force, you're not that's not it.
+It's not just, "Hey, let's fulfill
+that." If I'm selling software, it's not
+just give them the software licenses.
+It's now that customer that you just won
+immediately goes to the existing
+customer upsell pipeline. So, we're
+moving that
+into existing customer upsell. So, now
+you have a brand new pipeline. So, you
+could have a salesperson potentially,
+and let's say you have five government
+contracts,
+each one of those customers is in this
+existing customer upsell pipeline. And
+it's going to show you the steps that
+they need to be taking on a monthly
+basis with those existing customers to
+make sure that we're either expanding on
+what we're doing, ensuring that we're
+delivering what we said we would, or
+potentially getting references to other
+acquisitions officers. Cuz that's who
+you're dealing with, you know, and I was
+an acquisitions officer. That's a
+profession within the government. And
+you know a lot of other acquisitions
+officers. So, you know, if I'm using
+your tool and it's really good, I
+probably know a few other people that
+could use it as well. And that goes for
+services, that goes for a lot of things.
+So, um and then just a couple others. We
+have 8A sole source, 8A graduated
+targeting. You know, I'll probably do an
+entire podcast on 8A graduated targeting
+because that is a very unique
+pipeline. But again, that has different
+steps in it than any other pipeline ever
+would. That's what makes this so much
+different and why I'm excited about it.
+Uh
+You really don't need to talk to me if
+you have if you're 8A and you have this
+pipeline, you can just go through the
+steps and really get ahead of your
+competitors. And again, we have the
+training with this, too. So, if I go
+over to DOD Contract Academy and I just
+wanted to go back here, I can go to
+GovClose Pipeline Strategies. I see I
+have the 8A Graduated Targeting training
+right there and I can watch that video
+and get a sense of what it is. So, this
+is a really quick
+lesson here, podcast on the launch of
+GovClose and how it can help you. A
+little bit about pipelining. I'm going
+to do a lot more of these and get into
+each of the pipelines. I'll get into,
+you know, what are you looking for in a
+dashboard and some of the parameters
+that you have to set. But, head on over
+to govclose.com if you want to check out
+our new CRM tool. It is paired with some
+of the training from the academy, so it
+is a little bit different from just a
+our coaching program at DOD Contract
+Academy, but
+head on over to govclose.com, check it
+out, tell me what you think, and leave a
+recommendation on the podcast, a review,
+let other people know about this. You
+know, the podcast is growing and we're
+getting other small businesses involved
+and this is really great to see. So,
+have a great week. Thanks for tuning in
+this week and I will see you next time.

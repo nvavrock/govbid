@@ -1,0 +1,834 @@
+Kind: captions
+Language: en
+FPDS is dead and SAM.gov is awesome. Now
+look, FPDS used to be where everyone
+would go to search for government
+contracts that were awarded. This can
+give you a lot of insight into winning
+your next government contract. But now,
+even if you type FPDS into Google, it's
+going to bring you right to SAM.gov
+because SAM has now inherited the
+capabilities of FPDS. It's actually a
+lot better than FPDS ever was. I thought
+it was terrible. I hated using it. So,
+by the end of this video, I'm going to
+[music] show you how to become an expert
+at using SAM.gov. How to search
+government contract awards like you used
+to be able to do in FPDS. I'm going to
+show you how to find opportunities that
+are coming up. And I'm going to show you
+how to automate the searches in SAM.gov
+and get notified when it happens. You
+can do a ton for free with SAM.gov. And
+those automated search opportunities
+could be the next opportunity that turns
+into a contract for your company or
+small business. So, let's get into it.
+All right. First, let's just see what
+happens if I go into the screen and type
+FPDS.
+Takes me right to SAM.gov. Okay. And
+right here, it tells you what SAM.gov
+is. So, if you're not familiar, sam.gov
+is where you register your business. We
+have videos on that. It's where you can
+find opportunities. Not all
+opportunities, but you can find some
+opportunities. Really key is you can
+find opportunities before a solicitation
+comes out. That's the real critical step
+that most companies miss. It's why they
+fail. They start with an RFP or an RFQ.
+You really need to start before that.
+Um, but we can also now search uh
+contract awards, right? So, it says
+right here, what can we do? We can
+sam.gov is a free centralized source for
+finding and bidding on US government
+contract opportunities. You can download
+contract data. Visit the data bank to
+download or run reports. You can connect
+to the contract data via API. Did you
+guys know that you could connect this to
+API with look the advent of Open AI with
+the advent of claude and all of the
+tools out there? I've built my own
+software tools to do government contract
+research to find opportunities. So, you
+can do that, but you don't even really
+have to because SAM.gov actually does a
+lot of this. And so, before you pay
+anybody for anything, you need to learn
+how to use this yourself because it
+actually has a lot of functionality. So,
+uh we're going to get started here.
+First, here we are. We're in stam.gov.
+I'm going to go back to the home screen.
+Now, there's one big difference in using
+SAM.gov to do contract award uh research
+versus FPDS. FPDS you do not need to be
+logged in, but sam.gov you do. So, I'm
+already logged in. You're going to go up
+there. If you don't have a login
+already, you can create an account, sign
+into sam.gov, and you can start
+searching for these awards. Now, here's
+what we're going to do. We're going to
+go to search, right? And keep in mind,
+this is a government website, right? So,
+I'm giving you a tutorial, but you
+always have to follow the rules. This is
+research because look, federal
+contracting, all of this is public
+information because our tax dollars are
+paying for these companies to go on
+contract and serve the government. So,
+there's a ton of data here. All right,
+but first, why would I even want to be
+able to search past contract awards?
+Well, let's say that I have an
+accounting firm that provides people
+that do tax preparation services, right?
+Or bookkeeping services. Well, I might
+want to look for past awards. I might
+want to look for a three-year contract
+with, I don't know, the IRS where they
+paid a company, maybe a small business
+to provide tax preparation services.
+Maybe they're providing 10 people to do
+bookkeeping services, tax prep services.
+I want to know when that contract's
+going to expire because that's an
+indication that I can get in there early
+and potentially win that contract. This
+is just one of many, many reasons to do
+opportunity search on sam.gov. Now, you
+guys have seen I've done agnosium
+tutorials on usaspending.gov and that
+has a purpose here. So, I hit search.
+Now, I'm going to go to contracting.
+Okay. Now, contracting opportunities.
+This is where you want to go if you're
+searching for something to bid on or you
+want to source a s. It's contract
+awards.
+Okay, contract awards. That is going to
+show us the past awards. Now, let's do
+something simple. Let's just look for
+some awards that are recent, right? So,
+if we want to know, let's see. How about
+dates? Any see dates signed right here?
+I could say, okay, what was awarded in
+the past day? Okay, bam. I've got 2900
+results. 2900 awards over the past day.
+And this is going to be I didn't put in
+any
+set aides. I didn't put small business.
+I didn't put any dollar caps on this.
+All right. So, this is showing me 2900
+awards. And then we can click on any of
+these. So, we can see this is a total
+contract value versus obligated. Right?
+There are a lot of details that we have
+to pay attention to here. So, here are
+some veterans veteran affairs awards.
+So, here let's take this one. This is an
+award to Soldierpoint Digital Health
+from uh the Department of Veteran
+Affairs, the VA. It's a $66,000
+award. Now, there's a little bit of
+information we can pull just from
+looking at this, right? But now, if I
+click on the contract ID, it gives us a
+lot more, right? So, what are some of
+the things I might be interested in
+here? Well, what's nice is this has it
+broken down by section. You can scroll
+through it or you can just click on what
+you're actually looking for, right?
+Let's say I want to know more about the
+company. I'll click on awardee
+information and it's going to give me
+their ueI number, their address, all of
+that. Um, what about performance
+solicitation? I actually want to know
+more about the competition.
+Here's competition information right
+here.
+So, what do we got here? It's telling me
+it was a full and open competition. And
+this is, you guys probably have heard me
+talk about, hey, we can figure out how
+competitive our niches are. If you're
+trying to figure out what your niche in
+government contracting is, this is the
+number of offers that came in. Three.
+This is full and open competition.
+It says no preference used. It says no
+set aside used.
+Okay. It has some information, some
+contact information below for that
+office which you can use to reach out if
+you have questions about the contract,
+about upcoming opportunities, etc. But
+you don't want to spam government
+employees. Um, I am a fan of responding
+to sources sought for instance. It's a
+much better approach to something like
+this. So, let's see what else this tool
+is capable of. Okay. Now, let's say that
+I want to research something a little
+bit more specific.
+Now I'm going to go into product service
+code. Remember there's NICS codes, North
+American industry classification codes,
+and there's product service codes. Now a
+product service code is going to
+categorize government spending and it's
+usually a little bit more specific than
+an AICS code. So I'm going to use that.
+By the way, like you know, I spent 20
+years in the Air Force. As an
+acquisitions officer, I've seen just
+about
+every code used to describe something,
+even if it's far out. So, you might, you
+know, be looking for ship and marine
+equipment, and it could be under
+tractors or something. Usually, that
+doesn't happen, but I just I guess the
+point I'm making is just because there's
+a code associated with it doesn't mean
+you're seeing all of the government
+contract awards for that particular
+service or product. Okay?
+meaning contracting officers will use
+several different codes to purchase the
+same exact thing.
+Okay, why don't we pick IT and telecom
+data center? Data centers are in the
+news here today, right? We are not only
+data centers being built in the United
+States to support AI, but we're also
+talking about data centers being built
+in space. There's a recent GAO article
+on that uh data centers in space. So,
+they're looking into that. Now
+I have selected a product service code
+for IT telecom data center.
+We are looking at active opportunities
+and what popped up here
+8,179
+results. So now I may want to put some
+restrictions on there because that's
+date signed anytime. Let's take a look
+at the past 3 months.
+Okay, 272. By the way, guys, I know I
+talk about govclos.com
+a lot, our one-year training program.
+You're always hearing from me. Here's a
+quick snippet from one of our Govclo
+graduates at our conference that we held
+in Houston in March of 2026.
+&gt;&gt; Tell us a little bit about about
+yourself. Who are you and and what's
+your business?
+&gt;&gt; Come on, Luke. We got the same mom. Just
+kidding. Just kidding. Just kidding. But
+um a little bit about me. So my name is
+Harold Quiggova. So I'm the president
+and um CEO of Gova Solutions. So I do a
+couple of things. Um we have an AI
+product artificial intelligence that we
+add on top of SharePoint and we also do
+CMMC consulting.
+&gt;&gt; Okay. Very nice. And and yeah, I mean so
+it sounds like you've established
+yourself in the industry a little bit.
+Glad to hear. You know, obviously that
+that's difficult to do. um what
+initially I guess got got you interested
+in government contracting in the first
+place?
+&gt;&gt; Okay. Yeah. So, I'm actually I actually
+started government contracting in 2019.
+&gt;&gt; Um I was working for a lot of different
+government agencies like the FBI, the
+Air Force, DA, and then I remember um
+seeing all these little small businesses
+had a a piece of the pie, right? So, I
+was wondering, I was kind of inquisitive
+and then it actually helped cuz my
+father-in-law at that time, he had a
+small business and he was doing
+government contracting. So, I was just
+asking and I see also the amount of
+money that the government was allocating
+and how like you can get a piece of the
+pie
+and it doesn't really matter the size of
+your business.
+&gt;&gt; Yeah,
+&gt;&gt; most definitely. And so, you yourself
+have now been involved in government
+contracting for about seven years. Y
+&gt;&gt; uh exposed to it from your
+father-in-law, you know, kind of got the
+the lay of the land, started to get an
+understanding.
+&gt;&gt; I guess,
+&gt;&gt; you know, why did you decide to work
+with Govclos, right? Like why did you
+decide to to go through with the program
+anyways, right?
+&gt;&gt; Sounds like you had some experience
+coming into this already,
+&gt;&gt; right? And then I would say I had
+experiences, but I also say I didn't
+because although my father-in-law was
+involved in government contracting, he
+didn't understand the process from start
+to finish,
+&gt;&gt; right? So he he guided he got it because
+he knew the right people and then he did
+so well that they decided to put him on
+contract but he didn't himself he didn't
+know the process of like okay started
+from step one all the way to step 10 or
+started from step A all the way to step
+Z. So then I needed to be able to bridge
+that knowledge gap and really get into
+like how does this actually work?
+&gt;&gt; Well I like what you said there step
+eight to step Z because that's what
+government contracting feels like. It
+can be an extremely complex space. So,
+you know, you you you you kind of know
+what you you kind of know some things.
+You kind of don't know some things. You
+obviously found out about Gov Close the
+program. Um sat down, had a conversation
+with um me actually and um you know, as
+I get a chance now to sit down and talk
+to you in person, I'd like to know,
+&gt;&gt; was there anything that almost stopped
+you from joining? Anything that almost
+kind of like, h I don't know if Gov
+Close is really the right thing for me.
+&gt;&gt; Yeah. Um, I don't think it was anything
+to to GU post specifically, but it was
+more so like it was like an
+oversaturation of information out there
+online, right? So, you kind of don't
+know what's legit, what's fake, and then
+of course everything is a financial
+investment. And then you're like, dang,
+should I
+&gt;&gt; should I invest this amount of money for
+a program? What if this program doesn't
+work out? So, you just had those doubt
+&gt;&gt; and then that was probably the only I
+could think of that hindered me from
+joining the program.
+&gt;&gt; Well, of course. Right. and and and you
+know there's a lot of influencers out
+there nowadays that you know um they get
+these beautiful camera people and and
+these nice cameras and all these things
+and and and they really just want to
+draw people in,
+&gt;&gt; right?
+&gt;&gt; And and so obviously you you realize
+there's a lot more than just gov clothes
+out there, right? And
+&gt;&gt; I guess
+&gt;&gt; you know we we could say there's some
+skepticism there, right? Like is this
+really what it says it is? And and so I
+just want to ask you um what surprised
+you the most after joining?
+&gt;&gt; It's the honestly it's the wealth of
+knowledge, right? So first of all, Rick
+like and that's the difference, right?
+It was like looking at these different
+YouTube influencers and then seeing what
+Rick did. You can tell one of them they
+just had a super superficial
+understanding and one of them had an
+in-depth understanding which was Rick.
+So then after I seen that, it gave me a
+little bit more comfortability or more
+trust to joining and taking a step into
+this program. And once I got into this
+program, Rick was a wealth of knowledge,
+him plus the community that goes had.
+And the the greatest thing with me is
+that I started in January 2025
+&gt;&gt; and by September 2025, I won my first
+contract. So it wasn't like everything
+that Rick said, I applied it and it
+worked for my company. Right. So
+&gt;&gt; yeah,
+&gt;&gt; I'm literally a living testimony that
+like gov clothes do work. like you can't
+you can't make this up because I I
+didn't believe I was a skeptic quote
+unquote skeptic at first.
+&gt;&gt; I took the initial leap of faith and it
+paid off.
+&gt;&gt; Of course, man, if you you know, remind
+obviously these are not paid actors
+we're talking to today. Um you know,
+there's some lunch in the room, but uh
+we're not paying you to talk and and so
+I'd love for you to, you know, again,
+show um showcase yourself a little If
+you'd like to give yourself a shout out
+on LinkedIn, a better way for people to
+find you, you know, obviously
+&gt;&gt; let let the people know, right? You
+you've done here. You've accomplished
+great things and and we'd love to see
+you continue to accomplish great things.
+&gt;&gt; Thank you. Yeah. I mean, if you want to
+follow me, so my LinkedIn profile is my
+first and last name. That's HeraldQua.
+Uh my company website is Goa Solutions.
+Um yeah, that's pretty much it. Uh
+that's the only social media I have. So
+that's where you can find me.
+&gt;&gt; Perfect. And and final question here,
+guys. Guys, we're going to cut this off.
+&gt;&gt; If someone's on the fence about joining,
+right, say they've talked to the team or
+they're contemplating to even sign up
+and talk to the team.
+&gt;&gt; If someone's on the fence, what would
+you tell them?
+&gt;&gt; Um, I tell them everything is hard,
+right? It's hard being poor. It's hard
+being rich. It's hard being fat. It's
+hard being skinny. Like, if you're on
+the fence and because you're scared,
+you're either going to live with that
+regret now or you're going to live with
+that regret 10 years later, right?
+Scared money doesn't make any money. So,
+like I seen the opportunity and I rather
+die knowing that, okay, I gave it all I
+want. Even if I failed, even if I even
+if it didn't work out for me,
+&gt;&gt; at least 10 years from now, I'm not
+going to regret that I did it because I
+took the initial leap of faith.
+&gt;&gt; Most definitely.
+&gt;&gt; Scary money don't make no money. That's
+all I'm going to say, bro.
+&gt;&gt; Yes, sir. Harold, man, I appreciate your
+time. It's been an honor to get to meet
+you.
+&gt;&gt; Okay. Let's say that I want to sort this
+by set aside, right? So there's a couple
+things that I could do here. I'm going
+to look in competition. And so we can
+look at extent competed.
+I can look at type of set aside. So
+we're going to go type of set aside.
+I'm just going to click on small
+business.
+So let's say you're small business. You
+don't have any. You're not AA. You're
+not an SDVOSB.
+How many of these contracts were for
+small business? So, we have 43 results,
+right?
+Why is this important? Well, if we if we
+take that out, right? Remember, we're
+just looking at what the past 3 months.
+Remember, we're looking at active well,
+past three months,
+IT and telecom data centers,
+total awards.
+We can see there's 272 results for all
+types of businesses, right? But then
+when I go down and I look at the set
+aside, meaning it was set aside when the
+solicitation came out for small
+business, I'll just click small business
+here.
+Now we have 43,
+right? So roughly what I'm looking for
+is SBA sets standards for agencies to
+award small business contracts. It's
+usually around 23%. So I'm I'm usually
+looking at, hey, am I in the ballpark?
+Is it more? or is it less? Kind of gives
+me an idea of how well small businesses
+play there with data centers, right? You
+know, you know that a lot of big
+companies are going to be playing in
+this space. But we can see that look,
+there's certain there's a decent amount
+of small businesses and this is just on
+this code, right? That are playing. Now,
+with this research, we can see what
+they're actually winning. What kind of
+contracts are they winning, right?
+Because we don't want to guess when
+we're looking at selling to the
+government. We want to know what who's
+putting these small businesses on
+contract and what are they buying,
+right? So, uh, we can look through each
+of these. Now, first thing I'm looking
+at is price. So, 57 grand, 37 grand. I
+want to look at maybe, uh
+more
+substantial contract,
+just kind of some low dollar stuff.
+Here we go. Department of Justice.
+Here's one. Let's click on this contract
+ID because this is where we're going to
+get a little bit more information.
+Okay. Total obligated amount 376,000
+contract value 817. So um this company
+could make up to the total contract
+value but you know the government
+doesn't have to award up to a contract
+ceiling. Depends on the type of
+contract.
+Okay. So we have a modification here.
+Looking at the performance
+place of Oh, Howard. That's a good name.
+That's Howard County though. Not not
+Ricky Howard. Not yours truly. What is
+this for?
+Merlin Cohesidity backups. You can see
+this description doesn't really tell us
+a heck of a lot, right? We probably get
+more information just from the code, the
+NAKES code,
+firm fix price.
+Here we have the product service code,
+IT and telecom, the NAKES code, other
+computer. This is, by the way, this is a
+really broad NAKES code. So, this could
+be for just about everything. This is
+why I always jump in here. I'm trying to
+learn more. What can I actually learn
+about this company? This gives us the
+competition information which we talked
+about before. Whoa, what happened here?
+Get that light back on here. There's a
+small business set aside. There were
+four offers received. Okay, so do you
+have a one in4 chance if there's four
+offers received?
+Well, it depends, right? If you write
+your if you do what you're supposed to
+before the solicitation, I think your
+odds are actually a lot better than
+that.
+Okay. And we can see here we've got uh
+mod number, we've got an option,
+and you can click on these different
+mods to get a better idea of what's
+happening. Let's take a look at this
+one.
+We're not getting any better description
+of what this was actually for, are we?
+But you can see there's still a decent
+amount of information in here.
+Another
+thing that we can do, and by the way,
+remember when you're searching through
+sam.gov or USA spending especially if
+you're changing your search, we have to
+we have to make sure that we don't have
+any of these boxes checked because it's
+really easy to like plug in a keyword or
+something and then you're looking at the
+results, but you forgot that you have
+small business in here or IT and telecom
+data. Okay, so I want to clear all this
+out. Sometimes it's just as easy as
+going to home and I'm going to go back
+to search. Okay, this time let's go
+contracting awards. Still, we're still
+here in contracting awards. This time I
+want to go for something a little bit um
+a little bit more specific, right? Let's
+talk I'm going to put in quotes here.
+Augmented
+reality
+because when we're talking about any new
+technology, you probably don't have a
+any code or product service code
+specific to it. and I don't want a bunch
+of awards that have nothing to do with
+my product. So, let's say I'm searching
+for augmented reality active and I want
+to know.
+I want let's go back. Let's go back
+three months again.
+That can't be right. And it's not right.
+Look, why did I say it can't be right?
+There's 460,000 results here, right? So,
+I happen to know that there aren't
+460,322
+contracts are awarded in the past 3
+months for augmented reality. Another
+way you could figure that out is just by
+looking at the awards, right? If I start
+going into the descriptions, I can
+guarantee you that they wouldn't be for
+augmented reality. Oh, look at this. We
+got two, right? Okay, so I was right.
+Yay. Um, but not yay for my client.
+There's only two really. There is only
+two awards in the past three months that
+have and here's the key. It doesn't mean
+that there are only two awards for
+augmented reality technology in the past
+three months. It means that there were
+only two awards that have augmented
+reality in the description, right?
+Remember we were looking at the
+description on the last one and it was
+like bonkers, right? It didn't mean
+anything. I mean, it might mean
+something to you tech nerds out there,
+but it doesn't mean anything to me. I
+want to actually know what this is for.
+I wish um and this is the thing, every
+program manager, contracting officer,
+acquisitions person, they're all
+different, right? So, some do a really
+good job of filling this stuff out and
+some do not, right? And so that's what
+makes government contracting difficult.
+One of the things and that's why it's so
+rewarding, right? So, learn a difficult
+skill set, put your time in, and you
+know, you will be rewarded for that. But
+it's not easy. So, what do we got here?
+First, let's go down to the description
+because I just want to see. We're going
+to we're going to double check, right?
+Trust but verify that augmented reality
+is actually in the description
+here. See, purchase of augmented reality
+mapping system. Okay, good. And I I'm
+always interested in competition and I
+like to bring it up because a lot of
+people don't realize that this is just
+one of the reported parameters. How many
+offers came in for the solicitation?
+Number of offers received two. Okay,
+cool. So, does that mean that augmented
+reality just isn't competitive? And you
+know, if you have an augmented reality
+solution, you can just jump in there and
+win. No, it doesn't mean that. We just
+looked at one contract award, right? So,
+we can go look at some of my other
+videos on USA spending. You can see how
+we can look at that at large, but it's a
+good indication. Okay. So, let's say I'm
+going to go back here.
+Let's say that I now want to find
+augmented reality opportunities for my
+company, right? I'm going to go to
+contract opportunities. Okay, so now
+we're switching. We're going from
+research. So that was the FPDS. By the
+way, it does a hell of a lot more than
+that. I just want to give you a taste.
+That's where you go. Now I'm in contract
+opportunities. And I told you I want to
+find opportunities before solicitation
+comes out. So I'm going to say I want
+offers due. I really
+don't care. But let's say in the next
+three months because I don't want past
+opportunity. Actually, where the sources
+saw it, it probably doesn't matter. But
+I'm going to go notice type. I'm going
+to go sources saw it.
+Okay. Now, a sources saw it comes out
+before a solicitation. And a
+solicitation, I mean a RFP, request for
+a proposal or an RFQ, request for quote.
+That means you write a proposal, we put
+a quote together, send it into the
+government. In the case of an RFP, that
+proposal will be then reviewed and you
+may or may not win a contract. Sources
+saw it. You're not going to win
+anything, but it's the government
+telling you, "Hey, we have money and we
+have a requirement and we're going to
+buy something. This is your opportunity
+as a small business to actually have a
+say in what's going on." And there's a
+lot you can say in a source of sought.
+So, we have,00 sources sought due in the
+next 3 months, and I'm sure most will
+come out. This is for installation of a
+hemp shelter. That's interesting. Diesel
+generator upgrade. Okay, but that has
+nothing to do with augmented reality,
+right? So, let's check. Let's put in
+augmented reality.
+No matches found. Let's also put in
+virtual reality.
+Still nothing, huh?
+Okay, when I click on any words, this is
+a problem because that means that
+anytime they see augmented or reality,
+then that could pop up in the uh
+results, right? And that's not what we
+want, right? Like I would be willing to
+bet we could click on this and if we go
+to description, it's probably not going
+to be augmented reality.
+Let's get augmented reality. Okay,
+virtual reality. Good. We have
+two things popping up. So, these are
+sources sought, remember, for virtual
+reality. Now, this may not be exactly
+what I need, but here we have the point
+of contact. It's a requirement for
+delivery installation of uh let's see
+virtual armed reality training system
+complete VR participant kit. So you
+probably you'd have to read the
+statement of work to see if that uh
+belongs to you. But for the sake of
+this, what I'm going to show you is what
+if I want
+I think I can actually do
+what if I want this what if I want to be
+notified about this, right? So search
+results, saved searches. What about
+actions here? I want to save this.
+Do you want to save this search? I'm
+going to name it
+virtual reality.
+And I'm probably going to do another one
+for augmented reality even though
+nothing popped up
+because I don't want to have to do this
+every time I come in here.
+Virtual reality. Save.
+Cool. Now I have a virtual reality
+um result. Now let's go to my saved
+searches. I've done this before, right?
+Let's go back here. We can see and it's
+had this capability for a while.
+But a lot of people don't know. I put in
+an augmented reality um search back in
+let's see here 2024. It ran in 2026.
+Okay. What about this virtual reality
+one actions? And I clicked notify
+because I want to be notified
+if something pops up with that search.
+Now again, you have to sign in if you
+want to be able to use this function,
+but it's really good. Okay, here's the
+last thing that I'm going to show you.
+This is something that is really
+interesting because other transaction
+authority is hard for a lot of people to
+wrap their brains around. It's there.
+It's kind of similar to SBIR because if
+you have new technology, new solution,
+something innovative. Um the government
+has faster ways to buy some of those
+offerings, right? Um SBI is great and
+then that is a government contract. SBI
+is not a grant. A lot of people don't
+realize that, but OTAA, other
+transaction authority, technically
+doesn't fall under the FAR. Although
+government acquisitions teams are using
+other transaction authority to buy from
+you, buy faster. And so, a lot of the
+opportunities for OTAA, you're never
+going to see on SAM.gov. And I have
+videos dedicated to this. But here in
+SAM.gov, we can actually now see the
+OTAA awards. And I think this is really
+awesome. So, this is your bonus for
+today here, right? So we go to
+contracting. Again, you have to be
+logged in. Click this arrow all the way.
+All of a sudden, you see other
+transactions, right? And what if I want
+to look at dates
+past three months? Bam. Here you go.
+Here's the other transactions that have
+been awarded. Right? If you think other
+transact by the way um it's right now
+it's May of 2026 and there was just an
+article golden dome which is essentially
+a a system that a space-based system to
+help protect the United States against
+different interceptors and threats 20
+plus other transaction authority awards
+uh and it was for over $3 billion with a
+variety of companies they're using OTAA
+to fund those or not to fund them but
+that's the contracting mechanism Um, and
+it is a the barrier to entry is a lot
+faster. Look at this. 46 million to this
+company here. We could we could click on
+it and see exactly who it was. Here's
+one for $9.9 million. Here's one for $11
+million. Look, we can go right in and
+see it. Well, this in this case, it was
+the University of California, right? So,
+that's interesting, right? It's going to
+a university. What about this one for
+6.7 million? This one to Dexus. What is
+it for? Where's my description? We'll
+see how good it is.
+advanced analysis for precision cancer
+therapy. So, it's more health related,
+guys. Uh, a lot of functionality here in
+SAM.gov. All right. So, the bottom line
+is if you're in government contracting
+in any capacity, if you're a business
+owner, if you're a sales executive, if
+you're a consultant, you have to know
+how to use SAM.gov because love it or
+hate it, it's the source of all truth.
+All the apps that are out there,
+anything you're paying to use, it's
+getting its data from SAM.gov, right?
+So, you have to know how to use it. And
+you may not need any of those paid apps,
+right? For most people, as long as you
+know how to use SAM.gov and actually
+take advantage of the functionality,
+you can use SAM.gov and not have to pay
+for anything else. And there's also a
+lot of advanced stuff that we can do
+between SAM.gov and usaspending.gov.
+Right? So, if you're interested in that,
+let me know in the comments and I'll put
+a video together on how I used AI to
+build a government contract research
+tool. Um, and that can do everything
+that we just did, but on steroids and
+very, very, very quickly. If you're
+interested in USA spending, I'm going to
+link the USA spending video that I did
+to this. So, you can just click on that
+if you want a tutorial on how to use USA
+spending effectively. Do good work, be
+persistent, and consistent, and you will
+be successful in government contracting.
+and I'll see you in the next video.

@@ -1,0 +1,1232 @@
+Kind: captions
+Language: en
+Do has been evolving this process to
+where we are today with CMMC and adding
+a third-party assessment requirement for
+many contracts. A gentleman in the
+military stood up and he said, "I don't
+care if you're a landscaper, you're
+still going to have to be CMMC level 2
+certified because we give you a map and
+it has coordinates that are CUI." Katie
+Arrington, she is the DoD CIO. She very
+recently mentioned that she thinks RMF
+is stupid and she wants it to go away.
+Small businesses that are certified,
+CMMC level certified are going to have a
+huge competitive advantage. Is CMMC the
+process of protecting trolled and
+classified information essentially? Yes.
+So N stage under 171 is the protection
+requirement. DoD has been trying to get
+contractors to implement that for a long
+time. Biden administration took over and
+released CMMC 2.0 I know and a lot of
+people talking about CMMC is going to go
+away. All the while they're
+contractually required to implement the
+security controls and self attest. What
+should I be doing as a company right
+now? Should I be doing a self assessment
+and entering information in SPSS? What
+do I do? From my perspective, I think
+there's going to be a lot of Jacob, it's
+been a while since we've talked.
+Probably a year or two. Is that about
+right? Yeah, I think so. Okay. And I
+know we've just been talking a bunch
+here about where we are where this city
+government contracting things like that
+are right because it's well April almost
+May of 2025 as we're recording this
+probably come out a little bit later but
+we're right in the middle of Doge and
+some of the Trump administration things
+that they're pushing through. I wanted
+to have you on because although we're
+hearing a ton about GSA schedules and
+redefining the Department of Defense
+acquisitions process and other
+authority, all these ways that the
+government will make purchases and what
+that means for businesses, but I feel
+like all of this is overshadowed where
+we are with something called
+CMMC. Your expertise, could you maybe
+start off just say defining this is what
+CMMC is. this is what businesses need to
+know about it and then where are we
+right now because this has been in the
+works for a while. Yeah. Yeah.
+Certainly. Certainly. Well, thank you
+for having me on first of all. I really
+appreciate it. So, before we jump into
+CMMC, there there's some little bit of
+history. Essentially, there was
+something that was being worked on in
+the FAR, right?
+this proposed rule that we saw finally
+after so many years, what we call the
+FARCUI rule, which added a contractual
+clause to implement NIST 800 171 that
+has been going on for a very long time.
+The federal acquisitions regulations,
+yes, which thousands of pages that
+govern government contracting, which is
+why it's one of the reasons it's so
+complicated. But then you mentioned the
+NIST. And what is the NIST for those
+that aren't familiar?
+Yep. N is the National Institute of
+Science and Technology and they do a lot
+of stuff. They put out a lot of
+guidance. What we're here to talk about
+today is the information security or
+cyber security side. There's a document
+called NIST
+8001. It is a tailored version of
+something called risk manage risk
+management framework. the security
+controls from that or NIST 853 which is
+a huge catalog of security controls and
+NIST 800171 is a subset of that focused
+on the
+confidentiality protecting the
+confidentiality
+of controlled and classified information
+on nonfederal systems that means your
+system my system we're not government
+we're private entities if they give us
+cui N 8001 171 one holds the security
+controls that we have to implement to
+protect that controlled and classified
+information. Okay. So, so hold on. So, a
+lot of people are probably wondering
+right now, they may be in government
+contracting selling to companies, but
+they may not be on the cyber side. Also,
+a lot of people that are thinking about
+getting into government contracting, but
+they're hearing some of these terms,
+especially if they hadn't been in the
+military or the federal government at
+all. something they probably heard of
+classified information, right? But
+controlled unclassified information is
+probably a new term for them. Yes, that
+was established way back by an executive
+order, I think 13556 if I'm not
+mistaken, out of the Obama
+administration in 2010 and it directed
+the government to establish this thing
+called the controlled and classified
+information program.
+So, ever since 2010, we've been trying
+to get there and there's been a lot of
+different things to happen, regulation,
+rulemaking, and all of these things. And
+the what was called the executive agent
+was the was made the National Archives
+and Records Administration, NAR. They
+were made the executive agent in charge
+of making sure that agencies in the
+government, the federal government,
+actually do this. Okay. and implement it
+within their organization. And so NAR
+delegated the responsibility for the
+security controls of course to NIST
+because NIST they developed the
+riskmanagement framework. DoD has
+adopted that. I left the DoD on the
+government side towards the end rather
+the end of when they were transitioning
+from Diaap to RMF. So so that's also
+interesting. But what's happening now is
+well, just to go back a little bit
+more, the
+DoD was losing information that was held
+on contractor systems because it's a lot
+easier to compromise a maybe even a
+small defense contractor that doesn't
+have a lot of cyber security practices
+or personnel to keep an eye on the
+network and what's happening. Maybe
+they're not patching and all that stuff.
+So they were consistently losing
+critical information that's
+unclassified, right? But we all know the
+typical example of if you put enough
+together, you get classified
+information. That's a good point. That's
+a good point. Just for so for anyone
+watching, right? So I could take
+something benign like maybe what my what
+my company's technology is, right? And
+that could be an AI tool or strike. And
+now I am writing proposals for
+government contracts, right? And so now
+what I might be doing is combining the
+AI technology that my company is working
+on with a government problem set. And I
+might be introducing different ways that
+AI tool could solve the problem set,
+right? I might be combining it with
+other problems I know the government's
+working on. Maybe I'm on contract with
+the government and now all of a sudden
+I'm combining different things into a
+single document and I might have
+something that is classified or I might
+be just combining that with government
+contacts like emails and stuff like that
+and all of a sudden I maybe I have
+controlled unclassified information.
+Yes. Yeah. There is a CUI registry that
+NAR runs and I think it's over it might
+be 135 different categories of CUI from
+technical information to sensitive PII
+to nuclear even to like asylum
+information. So what they did is they
+went through and this took I I'm sure
+years but they went through all the
+different types of information that are
+required by law or regulation to
+control. It doesn't rise to classified
+but it's it requires
+controls based on these laws of
+regulation. So they ended up with 100
+plus categories. Okay. Something that
+people get confused on is they say oh no
+I have sensitive PII of my employees. So
+that makes it cui. That's not what we're
+going after. This is the government's
+information essentially that from a
+basic standpoint. If you are on contract
+you're providing services to the
+government. they give you something that
+falls underneath that category, they
+should be marking that as CUI. But your
+own employees
+PII, that's not controlled and
+classified information. Okay? So, let's
+let's just break this down for everyone
+watching here and translate it, right?
+So, essentially, the government is
+concerned about some of the information
+that contractors have that could be
+considered controlled, unclassified
+information. Their systems are usually
+easier to penetrate or if a bad actor
+wanted to come in and gather intel,
+gather information, they could probably
+go to the mom and pop shop and do a
+better job of getting it from them than
+say the guy. Yes, that's exactly right.
+So, think of it like this. I'll give you
+a theoretical example that might not be
+theoretical.
+So, you have a contractor um that is
+involved with building systems that go
+into
+something nuclear. Okay, they haven't
+implemented the security
+controls. That would be an extremely
+easy supply chain type attack to
+compromise those devices that go into
+those other systems. Right. So this it's
+a huge attack surface. It's a very
+oftent times it can be extremely simple
+or very easy to get into these small
+manufacturing shops to to implement like
+some of these things in manufacturing. I
+mean if you introduce a small change in
+the process it could have terrible
+effects in the firm. So is
+CMMC then the process of protecting
+controlled and classified information on
+contractor computers offices
+whatever yes essentially yes so N stage
+under 171 is the protection requirement
+has been trying to get contractors to
+implement that for a long time they went
+basically they're going from self at the
+station as it's been the last several
+years basically means yeah basically
+means hey like we're going to trust you
+contractor on your word that you're
+implementing these and just because I
+metriculate in these areas I know that
+the contractor's word on how well they
+implemented those policies varied widely
+think yes exactly exactly and as a small
+business owner myself I can certainly
+understand because you're trying to run
+a business they put a lot of far and
+deforest clauses in your contracts. I
+mean, hopefully you're looking at those
+and understanding those, but for the
+longest time, people have been attesting
+and signing on the dotted line, yeah,
+we've implemented these security
+controls. No problem. DoD has been
+performing assessments themselves on
+certain companies and they've discovered
+over time actually it's really ugly and
+people are not implementing these
+controls. So, like I said, they were
+required to. So basically implement the
+controls since December 31st of 2017,
+right? And DOD has been evolving this
+process to where we are today with CMMC
+and adding a third-party assessment
+requirement for many contracts going
+forward. I want to take a quick second
+to talk to anybody watching this that's
+interested in starting a government
+contracting business or starting a new
+profession in government contracting.
+The students that graduate our program,
+they go on to start their own consulting
+firms, winning high dollar consulting
+clients, they go on to land highpaying
+salaried positions as account executives
+with companies that sell to the
+government. I'm so proud of the people
+that have gone through our program. And
+if you are considering either a job or a
+business, and by the way, some of our
+students are doing with both as I did.
+They're running a consulting business
+and they'll have an account executive
+job. It's transforming their lives is
+bringing true wealth to them and their
+families. Back to the video. So that's
+where we are today. Yes. That is it all
+contracts or specific contracts are
+going to require a third party assessor
+to make sure that companies small or
+large are CMMC compliant?
+Yep, that's a that's a great question.
+So there are three levels of CMMC and
+I'm pulling up the details on that right
+now because they issued a minimo with
+specific criteria. So let me get to
+that. Okay. Okay. Here we go. All right.
+So yes, there are three levels of CMMC.
+Level one is to protect certain a
+certain type of information called
+federal contract information.
+And that is information that the
+government doesn't want
+publicly released. It doesn't rise to
+the level of cui, but the government
+provides you with certain information
+that stays between you and the
+contractor, them and the contractor, and
+they don't want that released. So that
+only has 15 security controls. Okay. Can
+you give me an example of like what
+would the one of those security controls
+be that would be costly or timeconuming
+for a company? Sure. So, let me actually
+pull up That's a great question. Let me
+pull up my control explorer here. And
+please edit this out.
+Yep. All right. So, for level
+one, level one is pretty basic. So, we
+have there's overlap between these
+controls and level two. Level two has
+110 security controls that we'll get to,
+but level one talks about making sure
+that whoever gains access to the system
+is author authorized. So that would be
+username, password, that type of thing.
+Authenticating users, managing visitors
+and physical access, limiting physical
+access, boundary protection. So you
+could be talking about firewalls, flaw
+remediation, making sure you're doing
+patching on your systems, really basic
+things. Are these ask you this is are
+these is this level one
+CMMC requirement for any contract or is
+it going to be specified? Is it going to
+apply to the dry cleaning contract or is
+it going to is this more for technology
+and defense related contracts? It will
+be specified. There's a provision that
+has yet to be numbered that we'll see.
+DFAR is 252
+204719 was a provision that basically
+you would include in your RFI RF RFP
+that says you're going to have to have a
+N stage under 171 SPS score submitted to
+be eligible for contract award. So in
+the CMMC world, there will be a similar
+provision that will specify the CMMC
+level and whether or not it's level two
+certification or level two self
+assessment because there can be both.
+Okay. It's interesting. So there's a
+difference between certification and
+assessment. Yes. Yes. There's a big
+gotcha there, but we'll get there. Okay.
+But yeah, level one is pretty simple.
+its basics and it's it's not really
+expensive to implement not compared to
+level two which is 110 security controls
+these are very basic things right which
+is good right now once we get to level
+two we'll talk about the flow down and
+how all of that is supposed to work okay
+there's a big flaw though that I think
+will cause a lot of problems that we'll
+get to but in any case the next level is
+level two that is 110 10 security
+controls. DoD issued a memo maybe two
+months ago, something like that, with
+guidance to guess who? Individual
+program managers. So Rick, I think that
+was you right back in the day. PM and
+this memo says you're responsible for
+determining the CMMC level for your
+contracts. Okay, sounds about right.
+Yet they haven't trained the workforce
+on CMMC. They issued a memo, but they
+haven't trained anyone. Oh, that's how
+it seems to roll, I guess. But that's
+the way I mean, we had to just I mean to
+shed a little bit of light on it. And by
+the way, I can remember telling
+companies and people I worked with all
+the time like I am not an expert in
+cyber security. I am an expert on
+putting you on contract and making sure
+that you deliver what the government but
+any program manager or any government
+organization always had to think about
+things like again I'm going to I'm
+specifically talking about things like
+technology software or maybe hardware
+that would be put on a government
+network but because that's the area that
+I was in at least by my career but to
+get something called atto an approval to
+operate and to be put onto a government
+system There are I'm very familiar with
+the nightmare of cyber security controls
+and related controls that have to be
+passed. So they have to anything that's
+going to be on there. It's a huge long
+process. It has to be validated by the
+government just to connect to a
+government system. It's actually a
+milestone for a lot of companies. And
+now we have
+CMMC which is additional but I think a
+lot of those controls overlap.
+Yes. Certainly.
+Certainly. So for CMMC level two the
+question is what's the criteria for
+whether or not a company has to be
+certified or whether they can self
+assess and if you look at the NARS CUI
+registry there are groupings of
+categories okay one of those groupings
+is defense and there are five CUI
+categories inside of the defense
+grouping controlled technical
+information DoD critical infrastructure
+security information enable nuclear
+propulsion information, privileged
+safety information, and unclassified
+controlled nuclear information, defense.
+Anything within that defense grouping
+requires CMMC level two certification
+and will require an independent
+assessment. Okay? Anything outside of
+that, the minimum
+requirement is self
+assessment. That's the minimum
+requirement. Now, now going back to
+those problems I was talking to you
+about
+earlier, how are you going to know as a
+program manager, how are you going to
+know what types of information you're
+providing to the contractor and where
+they fit within the RSCY registry? Well,
+I mean, how I mean to flip the coin, how
+am I going to know as a contractor? Yes,
+the program manager is supposed to
+inform me, right? But contractors are
+going after different contracts. There
+aren't they usually have multiple once
+you win one it becomes much easier to
+start winning your next ones. You know
+what I what I I don't just think this
+because I hear it is there's a lot of
+confusion as to hey what should I be
+doing as a company right now? Should I
+be doing a self assessment and entering
+information in SPS? Should I be going
+after should I hire one of these three
+paos to help? What do I do? And what do
+I do if I'm not on contract, don't have
+a contract, but I'm starting the process
+or hey, I have a contract and I am
+starting to think that if I haven't done
+anything, I'm I might be in the wrong.
+Yes. Yeah. Exactly. So from my
+perspective, I think there's going to be
+a lot of risk aversion approach risk
+averse approach here on both sides when
+it comes to the government and as well
+from primes that will float on those
+hubs. The government ideally at least a
+year before now they would have been
+working on identifying the information
+within their program office and aligning
+it to that CUI registry, right? in the
+form of a maybe a security
+classification guide something like that
+you know what I mean to make this
+process easier for the PMS who can just
+reference a document say oh that's what
+they'll be handling so now just map that
+it's part of the defense grouping CMMC
+level two certification I think what's
+going to happen is they'll get the memo
+the CMMC phases in this summer and
+they'll look at it and say well I don't
+know what you're going to be handling
+I'm just going to put CMMC level two
+certification just in case. Right.
+That's what I would expect would happen.
+That's the risk aversion piece that
+you're talking about. Yeah. Yeah. That I
+mean that's what I'm thinking. Now,
+here's the thing about this. There's
+only I think maybe 60 last I checked
+C3PAOs and there's a few hundred CMMC
+assessors. C3PAOs are the bodies, the
+organizations, the companies that are
+responsible for issuing CMMC
+certifications once an assessment team
+full of CMMC assessors goes out and
+doublech checkcks the implementation of
+going back to NIST 800 171. Right? So I
+think that the bottleneck pro the first
+bottleneck is going to be the number of
+assessors and let's say you have 50
+assessment teams going out and assessing
+companies. Eventually the C3PO is going
+to hit a bottleneck because they'll they
+have to no doubt review things, make
+sure everything's square before they
+issue the certification, of course, but
+and if there's only 60 of them, I can
+guarantee you it's a hell of a lot more
+than 60 contracts, you know, that you
+are companies that are going to need
+that certification. Yes, they I think
+they're saying around 80,000 will
+require will handle CUI, whether that's
+self assessment or whether that's
+certification. All right. So, we have
+that issue on the government side of not
+knowing what information is going to be
+handed to the contractor. So, that
+creates another problem from a primes
+perspective because they won't know what
+information they're going to be dealing
+with. The government doesn't know. And
+so, they're just going to require their
+supply chain, hey, CMMC level two
+certified across the board. they're just
+going to be pushing that down on the
+contractors because the primes are
+responsible for the compliance of the
+subcontractors at all tiers. So that is
+the subcontractors of the subcontractors
+of the subcontractors. And I had Stacy
+Bosianic from DoD CIO on my podcast a
+while ago and she said we put the primes
+and we made them responsible because we
+have no other way to do it. And so the
+other problem though that government is
+going to have because there no doubt
+they're going to be issuing sources
+sought and RFIs and asking is there a
+CMMC certified entity that can handle
+this contract because we're no doubt
+we're going to see that. So in from my
+perspective, small businesses that are
+certified, CMMC level two certified are
+going to have a huge competitive
+advantage because there's going to be so
+many that are not. Oh, I mean most of
+them are going to be not certified. And
+it's just you're making my head hurt,
+frankly. Like I'm I can see exactly I
+can see all of this. I see exactly how
+it's going down. And it's also not going
+to want it's going to make primes not
+want to work with subs because how do
+you really how can you really enforce a
+subcontractor doing anything right? And
+it's a headache for the government which
+is now like a lot of these agencies are
+getting decimated as far as their staff
+and how many people are there. I mean
+they're just struggling to hang on to
+put people on contract. Never mind now
+you got CMMC and all this other stuff.
+And well in the midst of all of it and
+here's a good question here. whether you
+like the idea of Doge or not. Is Doge
+looking at CMMC and just like the
+mountain of paperwork this is creating
+and is there any talk about like hey
+maybe this should be focused on very
+specific types of contracts versus
+what's actually happening here? Yeah,
+that's a very interesting question. So
+to my knowledge is not looking at CMMC.
+Of course, I'm not on the inside of the
+Pentagon hearing all the whispers, but
+here's a few things that are interesting
+that have happened. Katie Arrington, she
+was a face of CMMC back under the first
+Trump administration. She was really
+leading the charge. Then Biden
+administration came in, she left. Well,
+now she came back. Now she is the DoD
+CIO acting. So that's very interesting.
+She very recently mentioned that she
+thinks RMF is stupid and she wants it to
+go away.
+Oh man. So they were proposing I think
+something called a swift process which
+is leveraging AI and G giving guidelines
+to software vendors and all these
+different things. So there's some
+interesting thinking happening but she's
+been a per big proponent of CMMC and in
+an interview before that I think it was
+an AFCA lunchon she said that an
+interview before that maybe a few weeks
+before she said the CMMC is going
+forward. So to my knowledge it's going
+to happen. I do believe it needs to
+happen, but it's going to have such a
+detrimental effect on small businesses
+and the defense industrial base. Now, on
+one side, you could say, well, small
+business, they haven't done their part.
+They haven't implemented these security
+controls, right? But on the other
+hand, I have sympathy, right, for small
+business because I understand how it is
+to run a business and not to have those
+margins that you need to implement. So,
+it's almost like you think about what
+would be the best strategy going forward
+because we're
+outsourcing this information out. It's
+almost like should DoD just have decided
+to create something to bring contractors
+in to their environment.
+I think that part of it
+is the type of information that we're
+going to call controlled unclassified or
+maybe like a subtier of
+that. We probably shouldn't be pushing
+that information out if we don't want
+people to have it. Yeah. Right. And you
+got to weigh that also with we also
+don't want you have to be really careful
+about just big picture restricting
+defense contracting to just the big
+defense contract. Yes. You know what I'm
+saying? Because look that's part of why
+Doge exists right now is because
+although there is a reason for them and
+I get it. It also creates a lot of
+problems when you have just a couple a
+handful of companies on these cost plus
+contracts that are just sticking around
+forever. They're the only they're not
+the most innovative companies. We need
+them for like big weapon systems and
+things. Even when I was in on the Air
+Force side doing this, it was like the
+MIT tech startups and the Silicon
+Valley. These are the companies that I
+wanted innovative solutions from. And
+CMMC going to prevent us now from
+integrating these amazing technologies
+like one of the this is one of the
+cornerstones of what makes America
+great. going to restrict putting that
+into defense weapon systems and on
+defense contracts. I mean, that's what
+it sounds like, feels like it. I know
+companies don't want to spend the money
+on what it's going to take to get CMMC.
+Yeah. Self assessed, certified,
+whatever. I don't know. Sounds like a
+mess. Sounds like you they probably
+wouldn't be able to get certified if
+they wanted to with the amount of
+assessors that are out there and BAOS.
+Yeah. I've spoken to one C3PO in
+particular and he said he's booked out
+till next February. So there's the
+bottleneck is there and honestly it can
+take six depending on how you do it. It
+can take six to 12 to 18 months to
+implement the security controls and you
+can't even go into a CMMC certification
+assessment unless you're 100% sure
+you're 100% compliant. You can't have
+any poems going in the assessment.
+What's a poem for those that
+Yeah. So a poem is a plan of action of
+milestones. All that means is you have a
+control that you didn't implement. You
+have a reason for it and you're saying
+six months later I'm going to have the
+money or whatever to implement the
+security control whether that's like
+deploying a security solution that costs
+money that type of thing or it could be
+process like documentation related. But
+yeah, it's just a plan that says I'm
+going to implement this security control
+at a future date. But you can't have any
+of those going into an assessment. So
+there's a ramp up period in the company
+that has to happen first even before.
+And that's why I'm saying December 31st,
+2017. And that's what DoD is saying too.
+Contractors, you've had all this time
+and now we're just now we're taking away
+any excuse for you because we're going
+to require in many cases certification.
+So if you look at CMMC in one way, Jacob
+Horn who's with Summit 7, he's a big
+name in CMMC. He put out a very
+interesting post that that basically
+said CMMC is a fraud fighting system
+because when the government includes
+these cyber security provisions and
+their contracts, these
+clauses, they're paying not only for
+your professional services to get
+something done in your expertise, but
+they're paying for the security to
+protect the information they're
+providing to you. had the point. Go
+ahead. Point that they should be
+charging the government for that as part
+of their proposal. And
+it's going to happen. It's going to
+happen in one way or another. It's going
+to have to.
+Well, this is, by the way, I just want
+to I want to pause and just point this
+out to anyone listening to this. This is
+why it's so important to actually read
+the FAR and defires clause. It's in the
+solicitations before you write a
+proposal, right? We go over that with
+experts here. But those just a simple
+like, you know, number that is really
+easy to ignore on the in a solicitation
+because there's usually a list of them
+that could actually be signing you up
+for something that's going to cost you
+thousands of dollars. Yeah. It could
+have $100,000 attached to it. Yeah.
+That's for sure. That's for sure. Yes.
+And then there's the False Claims Act
+which has been leveraged against some
+companies that have misrepresented their
+cyber security compliance or NIST 800
+171. Good examples of that is Georgia
+Tech and Penn State and I actually
+interviewed those the whistleblowers on
+my podcast which was a very fascinating
+conversation to hear. But that's
+another fraud fighting tool that the
+government has. But going back to Jacob
+Horn's point, CMMC is that fraud
+fighting at scale, right? Interesting.
+Or at least it's trying to be. Okay,
+let's let's just break this down for a
+company listening to this. So now I'm if
+I'm new to government contracting and I
+just heard you, I would have smoke
+pouring out of my ears right now. like
+this probably not understanding a lot of
+it but understanding enough to know that
+maybe I don't even want to get into
+government contracting if this is going
+to affect me. What's your message?
+What's your response to
+that? I do think that it's a critical
+strategic decision for a business
+because CMMC right now is DoD wide,
+right? That third party assessment
+requirement for many contracts. NIST
+stage under 171 through that FARCUI rule
+that we mentioned a little while ago
+that is in a proposed phase that will
+contractually require you to implement
+NIST 800 171 on federal contracts.
+So NIST 8171 is the federal standard but
+for the first time we'll have a clause
+in the FAR requiring the implementation
+of it and then if DoD if CMMC goes well
+we could see agencies adopt CMMC right
+that will require the third party
+assessment. So whether it's DoD work or
+federal work it's going to hit you.
+Okay. And I think
+that I do think that it's a critical
+decision for a business. There are
+easier ways to implement the
+requirements and you got to write you
+got to find the right person. So if you
+want to do DoD work or you want to do
+federal work, you just have to earmark
+in your budget. Okay, we're going to
+have to
+spend X amount of dollars a year. Could
+be $50,000 a year just to maintain the
+environment. It may depending on how the
+size of your company for a small
+business may be more. But there here's
+the good part. There are some innovative
+solutions that are coming out with
+something called CUI enclaves. So that's
+basically setting up an island, right?
+You have your normal computer system,
+but you have this maybe virtual
+environment where you handle all the CUI
+and it's like an isolated environment.
+Okay, there are some interesting
+solutions that are coming out there.
+Typically, CMMC assessments from what
+I've seen once you implement the
+security controls that can range from
+for a small business maybe 30 to 50k.
+So, it's not cheap. It's expensive.
+Yeah. But then you also have to maintain
+the environment. A lot of people choose
+to work with managed IT managed service
+providers who just manage everything for
+them. And that is a good win. The thing
+I'll say with that is that probably 95%
+of the MSPs out there have no business
+supporting defense contractors and they
+would cause you to fail your assessment.
+So you have to choose very wisely.
+There's an organization that would
+recommend looking at they have a
+CMMC MSP marketplace essentially. Summit
+7 is a big name in the place in the CMMC
+space. They're one of the biggest IT
+MSPs out there. Axiom. I've had them on
+my podcast. There there is a list and
+I'll get it to you Rick so you can put
+that in the notes if you wish. But it
+sounds like there is well first of all
+or because a lot of the members of our
+gov closed certification program a lot
+of the people that are in there are
+either sales professionals for other
+companies or they have started or they
+want to start their own consulting
+business helping companies. So they all
+have different niches. Some some are
+proposal writers, but cyber security
+without question is a massive niche
+within government contracting. Yes. CMMC
+is just part of that, right? I mean, so
+it sounds companies are going to need a
+ton of help with CMMC. I would bet like
+they're going to need help just knowing
+what applies to them, right? because
+we've talked a lot about even I don't
+again I am not a cyber security expert
+but listening to you talk about like the
+different levels right CMMC level one
+level two I think there's a level three
+as well right there's which what is
+actually going to apply to me as a
+business and do I just need to do a self
+assessment do I need a certification
+right so is it possibly going to apply
+to me and I think they're going to need
+help with that Yeah, piece of it like
+hey what just break it down for me. So
+and I don't want to scare people too
+because I think what you talked about
+with level one with some minimal
+controls like usernames and passwords
+and stuff like that. This is just stuff
+that a lot of us have built into our
+laptops anyway. There's some other
+things that would have to be put in
+place but that's all actually pretty
+manageable. You mentioned SPSS right?
+Well, that is a if I understand
+correctly, a government system or the
+government paid a company to build this
+system called SPRS where you can input
+your self- assessment scores right into
+this system. So, that's I think we were
+talking one of my clients was he was on
+contracts with multiple agencies for
+years and then all of a sudden with for
+contract he's already on like hey Rick I
+can't put a delivery order. They won't
+put this delivery order on my contract
+until I have a self- assessment and a
+score in SPSS. Yes. So now just for
+everybody watching like we were able to
+we put the right person on that and they
+did the self assessment with him and his
+team loaded it into SPS and set up a
+system to just maintain the controls,
+right? So hey, let's we need to make
+sure that these controls are current and
+this system is going to do that. And
+that also gives the government something
+to look at, right? So yeah, to inspect
+you. That didn't take very long. to
+heard a couple of maybe a week tops like
+but again everything's going smoothly
+there that is not a multi that's not a
+hund00 million 100 person plus business
+that's it was a small business right
+just yeah that run their own business so
+and I'll add this one thing the under
+the current rules under 7019 which is
+just you just described you have to have
+a score you have to have a score it
+doesn't matter what the score is the
+government can look at your score and if
+it's too low they can say eh we'll pass
+on they have the ability to do that but
+to get contract award you have to have a
+score and CMC yes and under CMMC you
+have to be 100% compliant at before you
+walk in the door so the rules are very
+different because people could have just
+said all right I have a score now my POM
+says 2099 on everything so it's under
+CMMC it's very different right no I get
+you get you what if you're a small
+business what type of small business
+right now and if we could think of like
+industry like hey I'm in these type of
+industries who should be worried right
+now I'll tell you a story someone passed
+this on to me they were at a government
+event and a gentleman in the military
+stood up and he said I don't care if
+you're a landscaper you're still going
+to have to be CMMC level two certified
+because we give you a map and though it
+has coordinates that are
+CUI. So, going back to my concern about
+these program managers who haven't been
+trained and haven't been identifying the
+information and don't know what CUI
+truly is themselves, I think it's it is
+I would say everyone needs to be
+concerned. I would hate for a landscaper
+to be have to implement the SEC CMMC
+level 2. That is ridiculous to me. Well,
+I'd also by the way I question I don't
+know who that guy was that stood up. I
+question the fact that a program manager
+would a hand a landscaper a map that had
+coordinates on it because I don't
+believe that would be something that
+even most program managers would even
+know how to read. And I just happened to
+be a former aviator. So I was an aviator
+before I was a navigator. So like my or
+sorry I was a navigator before I was a
+program manager. So my life was
+coordinates. But I certainly never saw a
+map with coordinates being handed to a
+liftcaper. and and B this is all known
+like the I and know now the government
+may think of a map of a military base as
+controlled unclassified information and
+I'm sure depending on the level of
+details yes I get it but the bottom line
+is everybody knows where these military
+bases are and everyone knows coordinates
+are for them this is public knowledge
+that I could right now anybody so yeah I
+think that if the if you know the
+apocalypse version of this that you
+presented where we landscapers and
+roofers and disrupt having to Oh, what
+about resellers? Hey, I sell toilet
+paper to the government. Nope. You need
+CMMC level two because you know how many
+butts need to be Yeah.
+The good news is yeah, that CMMC and
+Nage 171 does not apply to contracts
+that are for solely for the acquisition
+of CS. So, toilet paper folks, you're
+probably safe. That's good. That's Yes.
+Interesting. Okay. So, good. Well, that
+at least makes it clear. So, because I
+was going to ask you what companies
+don't have to be worried about this. So,
+in your opinion, if they are selling C's
+solution, which means commercial
+offtheshelf, right? So, resellers,
+products, tools. Yeah. You don't have to
+worry. And then, let me take that a step
+further. I interviewed Kevin Klin from
+GSA a couple weeks ago and because we
+were talking about and again a lot of
+this guys has not been worked out yet,
+right? So a lot has been said the
+administration is doing a lot of things
+but one of the things President Trump
+recently put out in executive order was
+that GSA was going to be used more as
+the centralized procurement authority
+for federal. And diving deeper with
+someone from GSA, what we realized is
+well GSA is going to be used for non-m
+mission
+essential purchasing, right? So, and
+that went that goes for goods and
+services for the most part, right? So,
+hey, if it's the landscaper, well, the
+landscaping contract is not going to be
+tied to whether or not military members
+are wearing the right gear in
+Afghanistan, right? So that landscaping
+contract could go through GSA, but for
+instance, maybe that technology contract
+that's going to put a VR or an augmented
+reality device on a deal. That one may
+be something that goes through like
+either transaction authority and yeah.
+So I wonder if that could be another
+differentiator where we're looking at,
+hey, if it's non-m mission essential
+services, do they really need CMMC level
+anything? Again, I don't know. I don't
+know the answer to that, but I know what
+the common sense answer is that if yes,
+if I'm putting religious services on
+contract, I don't think that small
+business should have to go through this
+$100,000 CMMC level two process. Right.
+Right. Certainly. And hopefully, I mean,
+my opinion is that the phase in which
+we'll dive into in a moment that begins
+this summer, it's going to be rocky at
+first, but for examples like you just
+mentioned, religious services or
+something like that. I mean, who would
+ever say that would involve a CUI?
+Hopefully not, but but it is up to the
+DoD program managers. And so, being that
+DAOU is supposed to be working on some
+training, they haven't gotten it out
+yet. So hopefully the workforce will get
+trained before the phase in kicks in
+this summer. Okay. So give me the
+timeline because that I'm on. So we
+talked about 2017, you know what I mean?
+And when a lot of this started coming in
+coming to be, but did something happen
+recently.
+Yes. Yes. So there was something CMMC
+2.0. Well, back up a bit. CMMC 1.0
+released in 2020. Okay. that had five
+levels back then. The that came out
+under the Trump administration. Then the
+Biden administration took over. They the
+CMMC program went under review and they
+made several changes to it and released
+CMMC 2.0 in late 2021. Three levels. It
+allows poems that you have to close out
+within six months. Now, the caveat is
+you can't go into an assessment thinking
+you have poems, but if you come out with
+poems, that might be okay as long as
+you're 80% compliant or above. And then
+there's they allow for waiverss in
+certain situations as well. But in any
+case, a CMMC 2.0 was released in late
+2021. And then there was this long
+period of almost silence from DoD and a
+lot of people, and Rick, you know what
+I'm talking about. CMMC is going to go
+away. it's not going to go away. People
+were arguing. People were like, I'm not
+doing this because it's expensive and
+it's going to go away. All the while
+they were contractually required to
+implement the security controls and self
+attest, but CMMC the enforcement
+mechanism that might be a go away. So,
+I'm not going to do anything. That was
+the the thought. Right. Right. Well,
+finally in December of last year, the
+CMMC program final rule was issued. A
+year before, again in December 2023,
+they issued a proposed rule for the CMMC
+program. Then last year, the final rule
+was in December was released and in
+January or I think it was December, it
+actually went effective. So, so my dates
+I think my got my dates wrong.
+final rule October. It went effective in
+in December of 2024. So that means that
+CMMC assessments can begin. That's why
+you're seeing people announce on
+LinkedIn they're CMMC level two
+certified. That's been going on since
+January. Gotcha. Okay. Now, there's
+another piece that needs to happen
+before we'll see it at scale in
+contracts, and that is something called
+what they call the title 48. Is that
+what they're putting into the FAR? This
+is the DEFARS. Okay. They're putting
+into the DEFARS. Yes. And they're revi
+they're doing a few things. One of which
+is revising the DEFARS 252
+204721 clause. That's what will be
+inserted into your contracts that
+require CMMC level two or level one or
+whatever. There's a provision as well.
+It's not numbered yet, but there's a
+provision that you'll see in
+solicitations that will also say here's
+the CMMC requirement for this
+opportunity. And that is expected to be
+effective in the summer. Gotcha. Not
+exactly sure what month it will be, but
+within a few
+months. So there's CMMC is outlined into
+four phases and they're rolling it out
+slowly, probably given enough time for
+well for probably for a few reasons, but
+one of which is to educate the DoD staff
+on how to actually do this hopefully
+before the phasing begins. But in any
+case, and then also to get people
+certified and ready for the
+requirements. Yeah. Yeah, one thing you
+don't want to do is hurt mission
+readiness. Yes, I swear putting a bunch
+of controls on contractors that can't
+possibly meet those controls. Now,
+that's also not a true statement. That's
+a antagonistic or inflammatory statement
+because a lot can meet all of these
+controls, right? So, some of them are
+right now. Some of them just need to
+choose to do it. Yes. Okay. Interesting.
+So there could be a lot of work here
+coming up for some companies getting
+CMMC certified doing the self-
+assessments there could be a big
+opportunity here too right do actually
+go out there and get your certification
+so you can you'll actually have that
+competitive advantage if your playing
+out happens right so we have
+solicitations requiring CMMC you have
+the defire's input and whatnot you also
+have a I think a huge opportunity for
+our budding consultants out there that
+are working in this space because
+companies are going to need help, right?
+Companies don't like and they'll tell
+you like they don't teach. I don't know
+how many times some a company or CEO has
+told me this, Rick, I need somebody to
+do the work. I don't have time to be
+taught. Yes. I need somebody to do it
+for me. Right. Yes. By the way, quick
+plug for us. We're becoming one of the
+biggest trainers of sales executives,
+business developers in the public sector
+space. So, we've got 165 right now. So,
+companies out there, we're already
+placing people. They're out there
+helping as consultants. So, we're
+placing a lot of great folks out there.
+But this has been great, dude. This is
+awesome. Okay. So, where can people find
+you? Where do you hang your hat these
+days? Yeah. So, I can be found at
+grcademy.io. I have foundational
+training for defense
+contractors and I had some really
+interesting conversations on my podcast.
+One gentleman, he spent, I think he
+said,
+485K preparing for CMMC and he got some
+bad advice in the beginning. He felt
+like he could have saved about 300
+grand, you know, if he would have just
+known Oh, yeah. foundational pieces. And
+a lot of this is knowledge. Knowledge is
+power. And you can you don't want to be
+blindly let around by a consultant.
+That's the one thing you want to educate
+yourself. So that's what my training is
+for. also spoke with another gentleman
+on my podcast and he just got his level
+two CMMC certification for his company.
+His background was an HR and operations,
+a construction company and his intro to
+CMMC was through my course two years ago
+and I had him on the podcast to talk
+about the experience and he said it was
+hugely helpful. So I highly recommend
+educate yourself first before you dive
+in if you're not a cyber IT type person.
+It's okay. My my course is not here's
+how you implement the controls. It's
+more about your requirements that you
+have to meet. So highly valuable. Check
+it out if you'd like to. Absolutely.
+Yeah. I'll leave a link to the podcast
+in there. anyone watching. Yeah, if you
+want Jacob to help you, just comment
+CMMC. Whether you're on the podcast,
+YouTube channel, whatever, I'll put you
+with Jacob and so you guys can talk
+about how we can help your business,
+whether it's helping you with an
+assessment, just figuring out, do you
+need any of this, he's awesome. Been
+working with him for a long time. Thanks
+again, man. Thanks for coming on. We
+enjoy having you and we'll hopefully
+maybe get an update this summer here to
+see where we're at. Did Doge just get
+rid of this or is this in the D5s now?
+And we're going full steam ahead. Sounds
+good. Thank you, Rick. Thanks for having
+me. We'll see you. All right.

@@ -1,0 +1,987 @@
+Kind: captions
+Language: en
+[Music]
+well hey everyone welcome to this
+episode of a DOD contract Academy and we
+have an awesome episode for you this
+week and it's a little bit different
+normally we are talking with technology
+providers specifically but today we have
+um Matos builders on we have the two
+owners Mike and Rich guys how are you
+today pretty good how are you
+good thanks for agreeing to come on this
+is a topic air you guys are in a in a
+niche I get a lot of questions about so
+I want want to bring the experts on to
+kind of talk about uh you know uh
+construction building different things
+that you're working on and you know how
+you go about your federal
+Contracting yeah well thank you very
+much for having us awesome no thanks
+thanks for coming on so why don't we
+start with typically we go and we talked
+a little bit before this about the flow
+of the podcast and we have both of you
+on so I think Mike we're going to start
+with you as outright we're going to we'd
+like to know you just me start with uh
+you know a quick overview of just who
+you are you know where are you from
+where' you go to school like how' you
+get into the business you're in then we
+can go to Rich and and then how uh your
+company came to be sure sure so uh born
+and raised in Baltimore um rich and I
+are actually high school friends so
+that's that's how we know each other
+awesome um so I was in the uh
+Army Reserves I joined in about
+2002 and uh I was in for about 10 years
+and when I'd gotten out of the did one
+deployment I got out of the Army
+Reserves and I had a girlfriend I was
+looking to get married and trying to
+find a job in the middle of a recession
+um so rich and I um were just hanging
+out talking one day and decided you know
+why not start a construction
+company the ultimate goal was always to
+become a Federal contractor we started
+out mostly doing institutional work
+doing a little little bit of work for
+the University of Maryland John Hopkins
+some nonprofits in the area gotcha um we
+worked a little bit for some of the
+bigger GCS doing some some contract work
+uh but then the goal like I said was
+always to become a federal Prime and you
+know a few years later we were able to
+able to get our first Prime
+contract that's awesome now I got a
+couple questions for you so like what
+what did you do in the Army Reserve what
+was your specialty there uh was a
+Personnel specialist okay interesting
+and so Personnel specialist in an MP
+unit um and then so we I did a a
+um a training in Haiti where we worked
+closely with the CBS we were Force
+protection but uh I ended up helping out
+with uh some of the construction of some
+of the the homes were building down
+there okay and so was construction was
+that something you learned while you
+were in the army or is that something
+that you kind of grew up doing how did
+that skill set no so I I I did
+landscaping a lot growing up but uh most
+of my construction experience came from
+on the job training working working with
+Matos and working with Rich okay awesome
+awesome well maybe that's a good place
+to transition then over to
+Rich yeah so um I also you know born and
+raised in Baltimore um and yeah no I had
+a little bit more construction
+experience I I grew up summer jobs um
+working on construction sites kind of
+started out as a laborer when I was like
+14 and then kind of took different Trad
+over the years um and then eventually
+you know post College went to work for a
+developer and was was more project
+management at that point um and so that
+then that kind of pool of work slowed
+down in in the you know 2008 2009 um
+recession time and so yeah Mike and I we
+were 25 when we started mat so it was
+kind of a uh an ambitious Endeavor from
+from the GetGo but um you know we got it
+up running and and like Mike said we the
+the intention was to really Target kind
+of the the customers that that don't
+have the same swings in in spending as
+you know some of the private sector
+people do um and so we we really started
+out with some like you said some
+nonprofits and you know um the local
+hospitals and
+Laboratories um which is kind of became
+a niche of ours prior to getting into
+into the federal space did a lot with
+Hopkins Hopkins app Physics laboratory
+University of Maryland University of
+Maryland
+biopark and stuff at various places like
+that what kind of what kind of jobs are
+you
+doing so now or then then when you
+started um we were doing a lot of
+subcontracting work back then um for the
+larger you know the the mega gc's like
+your you know BLS Turners waiting Turner
+Hensel Phelps those kind of guys and um
+we were doing laboratory case work and
+some uh drywall and finishes work and
+then we were we were the prime for um a
+number of
+schools um like we did a a bunch of work
+for smaller tenants tenant fit outs at
+the University of Maryland biopark so
+like you know
+the 3 to 5,000 foot laboratory spaces uh
+um
+and sorry I was just questioning so do
+you did were you building the actual
+structures were you renovating or renov
+okay Renovations so so and even today
+the majority of our work is renovation
+work okay um now we were a subcontractor
+for some of those buildings that were
+coming out of the ground that when I
+said they working for the Mega Builders
+a lot a lot of those are brand new
+buildings so like the Clark Hall
+bioengineering building down at college
+Park Maryland okay um yeah we we were
+working on that but that that came up
+out of the ground we we still still do a
+little bit of sub work but it's mostly
+Prime now and mostly R well yeah I know
+it's it's a good way to uh to get your
+feet wet too really almost regardless of
+Industry when we're talking about some
+of the government uh subcontracting and
+even for some of the big primes
+subcontracting is still part of their um
+part of their income flow uh so you
+mentioned uh Mike that you that Federal
+Contracting was always the goal with uh
+the company so why was that did you did
+you pick that up in the army or what was
+the thought process
+there well just the area in which we are
+that's there's a lot of uh Federal
+buildings you know being close to DC a
+lot of federal agencies and it just it
+seemed like it would be you know a good
+market for us to get into really just
+because of the proximity okay
+interesting so you guys both knew each
+other in high school
+you spent some time in the Army it
+sounds like Rich had more of a more of a
+background in construction and whatnot
+but you guys decided to come together
+and form this business starting with the
+some labs and nonprofits and schools but
+eventually you make your way onto
+Federal contracts as primes now how did
+that transition take place what can you
+can you recall and really what I'm
+looking for here is a lot of companies
+are wondering you know small businesses
+that listen what's their first inroad
+going to be onto a federal contract is
+it going to be as a sub is it going to
+be as a prime and really you know how
+can they go about recreating maybe some
+of the stuff that that you guys have
+done um so yeah curious to hear about
+some of your early
+wins so well technically our first win
+um was a was kind of before we had
+really started targeting the federal
+government we wound up with a um a
+random guy reached out to us in West
+Virginia at a VA to install a what's
+called a psychorama wall it's like a
+green
+screen they would film themselves in
+front of and um but then then later down
+the road we were really trying to build
+past performance um in you know similar
+facilities and we did we we started off
+doing some subcontracting for the um
+some some native corporations um on some
+of the local military bases here and we
+really thought that that was going to be
+like a great inroad and um and then that
+was you know a couple years into being
+in business we applied for the 88
+program and we were accepted and we kind
+of thought we were just going to hit the
+ground running like we were pumped and
+the the sale that's when we really got
+you know the taste for the federal sales
+cycle and uh it was about a year and a
+half I think before we got our first
+award and that was actually uh
+through another D A Guy Clark right yeah
+somebody somebody introduced us to a
+Contracting team down at um at army
+Research Laboratories and they were like
+hey these guys specialize in lab space
+because we were doing a lot of that up
+here in Baltimore and then we kind of
+just started talking to them and they
+gave us an idiq and just started firing
+off pass quarters and you know we were
+we were doing a great job on those and
+just kind of use that to Market to other
+agencies and then kind of snowballed
+once we got that first job that really
+um validated Us in the eyes of other
+Contracting officers once we got that
+one guy to take a chance on us everybody
+else was a little bit more willing yeah
+there were definitely some some some
+dark days prior to that where we were
+really like you know thought we were
+going to really we we thought we were
+going to have trouble handling the
+amount of work we were going to win and
+then it just kind of sat there and and
+then um but no doing doing great now but
+you know looking back and it's kind of
+funny yeah yeah it's interesting because
+what you're what you're talking about
+really speaks to I think what a lot of
+companies once they realize how the
+process works um and luckily you guys
+did some some never really figure it out
+right but a lot of companies will go get
+those certifications and then expect the
+work to come rolling in and it doesn't
+um but you know the other is is past
+performance and how important that is
+and and what it can do for you as you're
+kind of making your way through was that
+first contract an 8A contract that ID
+it was yeah okay okay and um but we had
+really we expected a lot of our private
+sector past performance to to resonate a
+little more than it did and you know we
+would we turn it in and they'd be like
+well it's not federal you don't have a
+sear it's kind of the chicken in the egg
+how do you get a sear until you have
+contract you get a contract without SE
+bar and um and that was that was kind of
+how we did it we went down and we were
+invited to do a um an in-person pitch
+and uh and a couple on couple weeks
+couple months later we we were given the
+award which was a really exciting day oh
+that's great and something else that
+speaks to is how important relationships
+are in Contracting you know um because
+there is I would say probably when you
+take the the businesses that that fail
+at uh trying to sell with the government
+a lot of them what they're doing is just
+looking for rfps and rfqs and writing
+proposals and sending them in and and
+they're not winning right it's it's
+really is a relationship game and in
+your past performance and your
+relationships and you know finding out
+about opportunities ahead of time
+getting those introductions really
+important well and we also did not
+realize the importance of the proposal
+writing itself either we were writing
+our proposals and now we've we have you
+know a proposal writer but prior to that
+it was you know they were they were a
+little lackluster which I don't think
+helped either but yeah all of the above
+and then the the relationship game was
+um that's something we've kind of been
+we relate to the game on that one too we
+didn't realize how important that was
+you know when you're new to it you think
+the government's the government it's all
+standardized right and that's not the
+case no definitely definitely not and
+you have it doesn't help when you have
+especially with the military you have
+the program managers and Contracting
+officers changing out every couple of
+years and you know if they're not a
+government civilian you got to kind of
+recreate those relationships and uh stay
+on top of that so no there's definitely
+a lot of moving Parts there um and I
+could see you're also well at least it
+says in in the system I'm using that
+you're hubzone and and Veteran own so
+have have any of the other
+certifications helped you out along the
+way uh yeah the The Hub Zone Hub Zone
+has um so we were recently just awarded
+uh Hub zone of the Year by The Hub Zone
+Council hubzone business of the Year by
+The Hub Zone Council the Ada Association
+oh congratulations New Orleans about two
+weeks ago thank you down in New Orleans
+about two weeks ago for that awesome but
+yeah the hubs Zone Hub Zone has helped
+us out as well um you sure yeah you
+we've we've actually um we've been
+pretty active over the past couple years
+on some lobbying efforts with the Hub
+Zone Program um I'm sure you know it's
+the one program that nobody well no I
+shouldn't say nobody that most agencies
+don't meet their goal on and it's kind
+of if you take a step back as far as
+like impact on a neighborhood it's it's
+the most impactful program so
+you can you know your business is
+located in in a hub Zone you're spending
+money there and you need to employ the
+people and um you know any of the other
+business designations you could hire you
+know all of your employees from Ivy
+League schools you know and not that
+there aren't Ivy Leaguers and hub zones
+but it's just you have to you have to
+Target these underprivileged areas and
+and help bring them up so we you know
+are are firm Believers that they should
+uh remove the rule of two for the Hub
+Zone Soul sours and open that up try and
+get people to meet their goals and this
+was actually something we had met with
+um the late U Congressman Elijah
+Cummings on a number of times and he was
+a big supporter of it and he was kind of
+working with us um as well as we had
+some support from the able Foundation
+here in Baltimore because they they're
+big fans of that program as well on
+trying to push advocacy for that program
+and and how do we fix it how do we make
+it work you know how do we how do we
+make it easier for the agencies to meet
+those goals and so that's where we
+actually um well when he passed away we
+got turned on to um Senator Ben carden's
+uh small business committee and they
+introduced us to the hubson council
+which is where we met I don't know if
+you know Michelle who runs that but um
+they were they were great and then they
+introduced us to the national AA
+Association and those two associations
+have been you know just their
+relationships and the wealth of
+knowledge and courses and everything
+about it have just been tremendously um
+helpful for us so but that's still a
+mission of ours is to try and get that
+get something I I think that's the
+easiest thing to do is just to remove
+the rule to and let let people Soul
+Source the homes and and you know it's
+help help bring these areas back up yeah
+I mean that would be that would be
+incredible if if you could do that can
+you explain because everyone listening
+they may not be familiar with in fact I
+probably argue most I'm familiar with
+the rule of two if you could talk just a
+little bit about what that is so
+everyone knows sure so um when a when a
+federal um agency has a requirement and
+they're thinking of setting it aside for
+small business they need to send out um
+a notification seeking industry feedback
+uh to determine whether or not there are
+two or more capable firms that could
+compete
+on the opportunity
+so it's really well so so then if there
+is only one that responds then they are
+allowed to Soul Source it to that one
+person if there's more than one that
+responds they are supposed to compete it
+so the amount of effort it takes them to
+go and advertise the project and get
+this feedback is similar to that of just
+sending it out you know as a competition
+and so it kind of takes away from their
+ease of Soul sourcing something even
+though the language in the far is
+written that they can Soul source to any
+small business it just makes it more
+difficult where the 8 program does not
+have that language so they can just
+choose you if they you know think that
+you're you know capable of of performing
+on the project sure and you know
+something that our listeners are they
+hear me kind of getting on my soap Bock
+on all the time is that pre-solicitation
+phase the market research phase which is
+really what you're what you're talking
+about um where they'll send out the
+sources s and the request for
+information and to see hey you know
+because I can't like you said you know
+if I'm putting my government hat on we
+can't set this aside for a woman-owned
+small business or a hub Zone if there
+aren't two of those businesses out there
+that could do the work right so that's
+that's one of the things that you're uh
+trying to prove one of the things that I
+you know I push my clients and our
+students and the academy the people
+listening to the podcast to do is
+finding those opportunities ahead of
+time and whether or not the government's
+asking for hubzone or woman woman owned
+if if you happen to be that or have that
+specialization you can recommend that
+the government set that aside right and
+and often companies will find somebody
+else that can do the work just to show
+them that there are two Hub zones or
+woman-owned small businesses or sdvosbs
+do you guys ever you ever taking that
+tax to win contracts or or and if not
+what is your kind of methodology for
+finding work in the
+government so we monitor forecasts uh we
+respond to source of thought um and then
+we try to find projects that are a good
+fit for us in terms of size scope
+location and well as well as award
+method so um we find that we have a
+pretty strong technical um response a
+lot of our past performance is pretty is
+pretty good pretty um
+specific um so we try to find projects
+that are a good fit and we rely heavily
+heavily on our technical to be able to
+separate ourselves from the back okay
+and you find your more a best value than
+like a low price technically acceptable
+well and because you have a niche and
+this is something else that I we talk
+about a lot is you know you're focused
+and you're able to do that if you do
+have a niche that's specialized right
+and um I can remember you know companies
+coming into my government office with a
+capability statement that said they
+could do everything right there's 50
+different things on there but you know
+as a business if you do your homework
+what the government's hiring for so if
+the government's hiring for you know
+laboratory and that's the kind of work
+you're going after laboratory renovation
+building you know whatever the you know
+other parameters are there you know they
+want to hire somebody that specializes
+in that not you know a construction
+company that you know lists a hundred
+different things that that they could do
+is that would you say that's accurate
+for construction what you guys are doing
+absolutely um and and especially when
+you get into the specialized
+construction it's like our employees
+know it our subc we know who the
+subcontractors are they know it you know
+it's like you get into this like you're
+saying this Niche world where you kind
+of know who everybody is and it's
+established and it's it's not you're
+you're you know you get the job and
+you're trying to figure it out like we
+kind of grew up in labs and we're still
+live in labs and now a lot of our
+business as a result of that is repeat
+which is great um you know we've
+established ourselves with customers
+they like us yeah they know what they're
+getting when they go to us but that that
+took some time so do you guys work
+nationally or just in the local area or
+regionally the majority of our work is
+if you're familiar with uh the Maryland
+area is averty improving ground was DC
+and Frederick Maryland fort detri out
+there however um we've done work in West
+Virginia nor Virginia Delaware
+Pennsylvania um we're looking at some
+work with an existing client in uh North
+Carolina um so most of it is in that
+Mid-Atlantic region uh but we have the
+ability to to go further so I have a
+question this is a question some uh you
+know people that listen to the show will
+will send in every now and then which is
+so you're licensed a Construction
+company's licensed in one state but
+you're working on federal property
+probably most of the time I would
+imagine so do you need to hire people
+with uh specific licenses in the state
+you're in or is that because you're on
+federal property you can work anywhere
+how does that work uh that's well
+typically no the the federal government
+is typically its own um permitting
+agency but you there are rfps where it
+specifies um that you need to be
+licensed in that state you as the prime
+need to be licensed in that state
+sometimes they'll say you can use a key
+subcontract that's licensed in that
+state um it's really solicit by
+solicitation but the the vast
+majority are um it's just if if they
+want you they can use you okay no that's
+awesome and I think that that touches on
+questions that we get a lot um as far as
+construction's concerned or any licensed
+trade essentially now I'm looking at
+your growth basically over the
+years it looks like you guys are doing
+really well with your federal sales have
+you noticed any fluctuations or any
+sticking points that you're trying to
+get past or or or is there some you know
+great opportunity that kind of came your
+way as you were making your way through
+the process and getting more pass
+performance yeah so our we had some
+pretty good growth uh back in like 17 18
+and 19 and then when covid hit uh we had
+kind of a flat year um and it's starting
+to pick starting to pick up again but um
+I think just with the the lockdowns and
+people working from home um I things
+just seem to slow down um but it's like
+I said it's it's starting to pick up
+again and we're we're starting to see
+more source of salt um more
+pre-solicitation notices so things are
+things are definitely picking up but it
+was slow for a couple of years yeah I
+can imagine I do have a question for you
+just speaking about Federal Contracting
+in
+general small businesses over the past
+10 years there's been a decline in the
+amount of small businesses selling to
+the US federal government um in fact I
+want to say 2021 is the last time I I
+crunched all the numbers 2022 is I could
+probably do soon but you know how the
+reporting comes in but in 21 it was less
+than half of 1% of small businesses were
+selling to the US government the federal
+government and that had has been
+declining over the past decade why do
+you why do you think that
+is from your
+perspective h i
+mean I can't speak everybody but I think
+it has to do with the barriers to entry
+I mean I we speak to uh friends who are
+in the private sector you know very
+successful in the private sector and
+they're you know oh we want to I I want
+to get in Federal I want to get in
+Federal I want to get in federal and you
+know we kind of have to level set with
+them sometimes be like well if you if
+you do I think you should take you know
+you should look at a five-year plan
+right how are you going to you know
+figure out who's buying what you sell
+figure out how they buy it figure out
+how to Market to them figure out um you
+know their process and then and then
+Federal versus private can be wildly
+different um yeah I mean you you're
+working for you know a private owner and
+a lot of times they just want their
+Building open and they're like get it
+done get it done as fast as I can so I
+can start collecting rent right and you
+know the federal government there's a
+process and sometimes it can be annoying
+you know for like a go go go situation
+if you're hung up on you know some some
+red tape on a project and it can be one
+little one little approval um for one
+piece of the project it's kind of got
+the whole thing hanging up and that can
+be difficult for people so you know I I
+I don't
+know why it's decreased but maybe it's
+just they find it easier to to do things
+in the more fast-paced environment I
+don't I don't
+know yeah I think um
+you know when I think through it and by
+the way my wife would say you're
+speaking my love language when you start
+talking about researching who buys what
+you sell how they make the purchases you
+know where they're making the purchases
+the contract Vehicles it's a good thing
+to touch on because and and again all
+all public sector sales information is
+public and that's not something that
+people normally think about and what
+that means is you don't have to try to
+invent the way that you're going to sell
+to the government you can go and look at
+the data and it's it's right there for
+you as long as you're willing to kind of
+deconstruct how maybe whether it's your
+competitors are doing or looking at the
+agencies buying what you sell you can
+come up with a step-by-step process but
+it takes time and federal sales is the
+long game so I personally think that
+it's probably a a mixture of maybe not
+knowing about the opportunity not
+knowing how to do it and and I'm curious
+about how long did it take you guys to
+figure out what a good process was that
+worked where you could generate that
+recurring Revenue with the
+government we're still figuring it out
+yeah it's a it's a
+Non-Stop uh non-stop uh process you're
+always learning it was really it
+probably like I'd say good three
+years probably could three years to
+really kind of start to to figure it out
+and then and then yeah it's constantly
+being refined and then it it really kind
+of started working for itself you know
+it's like five years in I I often say
+it's like you you know you're out you
+plant all these seeds and then they're
+going to like go through like you know a
+germination phase and that's like a you
+know a year where you've just kind of
+introduced yourself to a Federal
+customer and and then they've got to
+kind of mul it over and you know all
+they have is your capability statement
+or something then you got to keep you
+know you got to keep keep in front of
+them and then all of a sudden it's like
+you know they kind of start to know who
+you are and then an opportunity comes up
+you respond to it you know just kind of
+and then and then you got to wait for
+the award and then the award comes and
+then you actually have to do the work
+and then you know the money comes and so
+it's this just incredibly long cycle but
+then once the wheel kind of starts going
+around you
+know it it repeats and repeats and the
+concept is you just keep getting bigger
+and the opportunities get you know
+better and you know everything just
+improves and so I mean we're definitely
+in it um but it took I'd say yeah three
+at least three years to get the wheel
+spinning yeah okay yeah I mean it sounds
+it sounds very similar to whether
+technology software cyber secur
+companies law firms account it's very
+similar and of course the federal
+Acquisitions regulations regulate all
+Industries within the Federal buying
+structure but there are differences in
+between some of the different like for
+instance office supplies get sold in a
+different way than Construction Services
+right um you mentioned something that I
+thought was interesting and maybe we
+could um pick on you hired a proposal
+writer like to work for you guys and I
+think that hits on because you know the
+critiques uh that I hear and that I'm
+sure you've heard from companies that
+are putting proposals in and they don't
+win right you hear Hey it looks like the
+solicitation was written from my
+competitor you hear Government
+Contracting is rigged you hear you know
+you hear a lot of things like that and
+what I tell people is the solicitation
+might have been for your competitor but
+it's not rigged and you know what I mean
+by that is you know you might have a
+business during that market research
+phase that's working with a program
+office to develop the requirements and
+the different specifications that are
+going to go into a contract right
+because you know the program manager
+probably isn't a construction expert
+right the program manager probably has
+you know 100 different things he's doing
+and so that's why we would reach out to
+companies that you know were had whether
+it was cutting edge technology or they
+were the subject matter actually to help
+develop that solicitation like what's
+going to be in and we talked to a lot of
+different people for that but now I
+usually knew what company I wanted to
+hire when a solicitation went out and
+and probably most do but I and the
+government we we you don't always get to
+hire who you want right so and I think
+that speaks to when you were talking
+about the proposals because those
+proposals come in and this is where you
+know all the far and fairness and
+competition is really going to come to
+play because each part of a proposal
+gets critiqued and scored and sometimes
+there's teams of people looking at these
+things often not the people that you've
+been talking to so it's so critically
+important to write that proposal
+correctly because you can win you could
+you technically could win any
+solicitation so if if if you write a
+great proposal and and you've done your
+homework it really could lock it in for
+you but you know how did you come to the
+did were you losing proposals were you
+what kind of pushed you in the direction
+of hey maybe professional support for
+the proposal writing or or maybe more
+emphasis and and you know focus on that
+piece of
+it um yeah we not winning and uh we were
+getting all the debriefs and it it just
+became apparent
+um proposal writing was way more of a
+science than we had you know than we had
+given it credit for and um it's a it's a
+skill I
+mean it's a it's a real skill and you
+know we're we're Builders um we're great
+at getting the jobs done and we're not
+necessarily bad proposal writers but
+they are definitely better proposal
+writers yeah kind of picky back off that
+as a business owner you can't be the
+best at everything right and then part
+of the uh part of being successful is
+finding people that are better than you
+at certain things and hiring them and
+putting them in place to let them
+execute sure yeah amen absolutely and
+one of the things I do see with
+proposals is hiring companies that hire
+somebody that understands the structure
+and can do compliance matrixes and that
+type of work um reviewing them making
+sure they're hitting the Nuance of the
+fire and understand everything that is
+extremely beneficial but typically
+companies still do because at the core
+of it the subject matter expertise needs
+to be input into the proposal so I guess
+just for our listeners one one mistake I
+see some businesses make is if they
+offload if they try to offload the whole
+thing to a professional prop proposal
+writer but that doesn't understand maybe
+the technology or the solution or the
+construction project that could be a
+recipe for disaster
+but a recipe for Success I've seen is
+where you have somebody like that
+whether they work for you or you're
+Outsourcing it and you're working with
+them so you kind of Ensure what you know
+is in there and is correct and then they
+can take that and put it in the right
+format do you think that is kind of what
+you guys are doing or you think
+absolutely yep and then we have um so
+you know we've kind of built a whole
+team we have 50 people here now yeah and
+so our the the project management team
+will chime in on
+um you know like the like what you're
+talking about like the for us it's like
+a constructibility plan or a work plan
+you know that kind of stuff and then a
+lot of the like you're saying the
+compliance matrixes and all that kind of
+stuff he he does but um it's a back and
+forth for sure right between between the
+experts yeah and then the real work
+starts when you're on contract
+right which which often gets which often
+gets forgotten about you know with the
+new businesses they're trying to get get
+the contract trying to get the contract
+then they win finally and you know oh
+crap there's this whole other whole
+other piece to it um no that's great and
+you guys have had a lot of success what
+what what are your goals here going
+forward where do you guys see uh the
+construction business going and and I
+didn't ask are you guys also doing
+commercial work or is it only
+Federal well we're still doing
+commercial work the majority of it is
+federal Prime um but we have some you
+know relationships in the commercial
+world that we have developed
+and uh we we keep those and we also need
+the um outside AA business as well so
+that helps with that okay yeah and then
+going forward I think it's um you know
+just to keep doing what we're doing um
+keep growing the way we're growing um
+you know we we really enjoy um like just
+you know laboratory but other
+complicated projects for our clients um
+we you know we like to think of
+ourselves as you know we have a a small
+business culture but you know large
+business product so you know there are
+projects out there that you know like
+they're complicated in nature they're
+difficult the the buyers are you know
+they kind of want to give it to like a
+Parsons or somebody you know huge
+because they just know that it'll get
+done but then they may not want to deal
+with you know the the stuff that comes
+along with a large business and they
+want to deal with you know an owner like
+us and so we kind of feel like that's
+our our Niche we can provide that same
+level of effort but you get the kind of
+small business feel and keep that keep
+that going and uh and just keep you know
+repeat business with with who we have
+and and you know maybe like Mike said
+considering an expansion down in North
+Carolina and you know I don't know that
+we're you know looking to expand
+regionally as much as we are within the
+you know
+organizations around here uh and who
+we're already with and just doing more
+for them them solving more problems for
+them okay have you do you guys do any
+skiff work we do um as soon as you said
+complicated construction projects I mean
+that that one's a little bit closer to
+my uh my background so I was uh curious
+because I know that one can be a painful
+process yep and yeah we're familiar with
+it and that's right in line with the you
+know what we're talking about
+complicated
+projects yeah that's a that's a
+specialty I mean that is a it really
+speaks to how important it is to
+specialize in something and to to master
+it and any any company that understands
+that and and does good work will be
+great I mean some of the things you were
+talking to are the reason this podcast
+exists right so I always wanted to be
+able to bring in small businesses when I
+could even on bigger projects because
+not that I have anything against the big
+defense companies but a big because
+there are places for them right when we
+building aircraft that's who you want
+but you know you know when you're are
+doing a lot of working with a big
+defense contractor is almost like
+working with another government right or
+or a big government contractor it's it's
+the same thing so you get a lot of
+bureaucracy and you don't get that
+ownership um small business Vibe like
+you were talking about and I know I
+always found that the small business
+owners were motivated they wanted to do
+good work they wanted to support the
+troops and they wanted to you know
+they're building their business they
+were motivated and their response times
+were typically better and so there's
+there's a lot of benefit to that and I I
+can see that's why you guys are growing
+and will continue to
+grow thank you well guys thank you for
+coming on the podcast today this again
+this is a niche we haven't explored and
+I wanted to I wanted to put you in front
+of the audience if you could I ask this
+to of
+every every person I interview on the
+show basically every business you know
+if you had some advice to give to the
+small business owner that's just getting
+started what would that look like
+I would I'd
+say yeah leverage the associations don't
+be afraid to
+Outsource um and and be very careful
+about what you sign up for right off the
+bat um because once you own it it's
+yours the whole everything that's in
+there and um and just just stay focused
+and don't be afraid to start small um
+there's nothing wrong with it you know
+you don't need to to grow a business you
+know like overnight it can take time and
+uh often times that that proves to be
+the better path and that's kind of the
+path we took and it's worked very well
+great well well said guys thanks again
+for coming on if somebody wants to reach
+out to you where where's the best place
+to find
+you uh so you can go to our website uh
+www Matos builders.com and uh we're on
+LinkedIn as well so you can you can
+follow us on there we put out a little
+bit of content every week all right
+great what we're doing well I will put
+all of that information in the show
+notes for all the listeners thanks again
+guys thanks everyone for listening this
+week to the dod contract Academy podcast
+it's been a great episode check the show
+notes check them out at the website
+check them out on LinkedIn and you can
+reach out to us at dodc contract.com if
+you have questions about Government
+Contracting or want to learn more thanks
+again and we'll see you next week
+[Music]

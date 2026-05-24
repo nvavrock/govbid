@@ -1,0 +1,403 @@
+Kind: captions
+Language: en
+[Music]
+with great data comes great
+responsibility what's funny about that
+is obviously it's a reference to
+Spider-Man and it's not my reference
+either so if you're in the
+dod or public sector sales Arena and you
+do anything that has to do with data I'd
+highly advise you to check out
+afia um there're an organization that
+puts out a magazine called signal and in
+this month and it's January of
+2023 Abraham y who's a senior account
+executive for the
+Army has kind of a funny fake quote
+right so it basically says with great
+power with great data comes great
+responsibility and attributes it to
+Spider-Man and then he goes on to
+correct himself and say hey well after
+factchecking it's it's great power but
+um what's funny about that is how
+important data is right now to the US
+Military and I wanted to get into an
+episode that just talks about data in
+general so whether you have a system
+that is transmitting data you know
+whether you're involved in that whether
+you are processing data trying to
+understand it with you know a product
+that you might have or if you just have
+an application or user interface face
+any type of software suite that is going
+to use data basically if you have
+anything that is going to connect to a
+government system especially US military
+so I'd like to keep it with the military
+but if it's going to connect to any
+system any hardware that's owned by the
+military and you're moving data around
+there's some things you need to be aware
+of and we'll talk about those and then
+just how important it is to understand
+the vast amounts of data that are out
+there so thinking about all of the
+weapons systems that we have and then
+thinking about all of just the the data
+laks and databases that are in the
+different services that either aren't
+connected to each other or even if they
+are how do you understand that those
+vast amounts of data right so there are
+a few efforts right now big picture
+efforts one's called Jad C2 uh it's
+that's an acronym um and the other one
+is abms so
+abms stands for advanced battle
+management
+system and you know the history of abms
+you know it started as a program that
+would
+replace um certain aircraft that we have
+command control aircraft in the air but
+and um it kind of morphed into how do we
+connect all of the information how do we
+take all the information out there
+whether it's information that is um
+picked up by sensors whether it is Data
+that's worked on by
+analysts all of the different data sets
+that could apply to command and control
+of the
+air and get that the right information
+in front of the right user right so that
+could be an air battle manager which is
+essentially an operator somebody that
+would be out deployed that would be um
+involved with the directing where
+aircraft go coordinating between troops
+things like
+that there is Al there are also
+strategic implications right so there
+senior Le that need certain amounts of
+information they they're going to need
+different information than the war
+Fighters going to need this applies to
+way more than just aircraft and command
+and control um as it applies to you know
+aerial battles and and moving aircraft
+around this applies to everything right
+so Jad C2 is kind of the overarching and
+that stands for joint all domain command
+and
+control and it's supposed to cover all
+of the services right and each of the
+services have something like abms where
+working on their own version of Jad C2
+but big picture what we want to do is
+take all the data and we're making more
+and more data every day um that same
+signal magazine article that I was
+reading said that um 74
+zettabytes is uh the total data in the
+world by the end of
+2021 and they're quoting some uh
+statistics within there and there are
+other statistics too but their main
+point is that the amount of data is
+increasing every day that we're
+producing and a lot of it we're not
+going to need right I mean the problem
+is how do we search through all of that
+data and get the right piece of
+information and get it to the right user
+and that could be a general uh or a
+kernel that is making decisions
+strategically um or or even tactically
+but for a lot of people and it could be
+for the operator and that's kind of the
+example I gave at the beginning so we
+need to get the right information in
+front of the right user and there are a
+ton of businesses now now that are
+focusing just on these problem sets and
+by the way these problem sets if you've
+listened to the
+podcast you're not just solving problems
+for the US Military and the dod you're
+solving problems commercially too
+because obviously we're creating a ton
+of data
+commercially so a lot of the solutions
+that are being developed through things
+like sbir and sttr and different OTAs
+and and regular I guess more traditional
+Contracting means a lot of these are
+going to have dual use applications
+so what if you find yourself in the
+bucket I know I'm being broad but
+there's so many different things we
+could be talking about we talk talking
+about cyber security we could be talking
+about it or OT we could be talking about
+um you know if you're building if you're
+building sensors if you are transmitting
+data on small devices or large devices
+you could be in Satellite I mean there
+are so many different that you could be
+a user interface developer or an
+application developer but a couple
+things to be aware of if you have a
+product or solution that you think would
+be perfect for the military when you
+sell something to the military if it's
+going to connect to any of the
+government
+systems typically what we need is
+something called an atto which is uh
+acronym again for and it stands for
+approval to operate so if you hear atto
+stands for approval to operate and that
+basically means and it was the big it
+was the big thing when I was in as an
+Acquisitions officer it's big now in
+order for the government to connect
+thing to their system whatever system
+that might be they need something called
+an atto an approval to operate there are
+always exceptions to this but big
+picture and in order to get that
+approval to operate you are going to
+have to have a lot of different cyber
+security requirements in place to ensure
+that you're meeting um the security of
+the system security is a huge deal for
+the government so we want to make sure
+they're not just hooking anything up to
+their systems they want to make sure
+that you know they've been validated
+that they have the right security
+measures in place that they've been
+tested so there's there are quite a few
+things that go into that
+atto now there are a couple
+of programs out there that I would urge
+you to take a look
+at one of them is called fed ramp now
+some of you may have heard of fed ramp
+before I've had people on the show talk
+about fed ramp and uh it stands for the
+federal risk and authorization
+Management
+program you can go to the website
+fedramp.gov
+um and it basically says that fedramp
+provides a standardized approach to
+security authorizations for cloud
+service
+offerings
+now if you are interested in that I mean
+I would go to the website and check it
+out if you have anything that you think
+you know would you know be in line with
+what we've discussed so far and it has a
+a chart there that talks about um you
+know the agency
+process uh
+for going through fed ramp
+authorization and you can go through the
+an agency and an agency you know you can
+go through the dod you can go through
+the air force you can go through you
+know Navy Army or you can go through the
+joint authorizations board which they
+acronym for that is
+jab so the basic process for that is you
+select an authorization path there's a
+preparation uh phase which and by the
+way I'm just on the website just reading
+right through the chart there's a
+Readiness assessment there's a
+pre-authorization then you go into the
+authorization phase where there's a full
+security
+assessment agency authorization process
+and then continuous
+monitoring so what is the Readiness
+assessment well you know according to
+the website this is um you know to
+achieve the FED ramp ready designation
+you have to work with a third-party
+organization to complete a Readiness
+assessment of your service
+offering and they're going to take a
+look at your capability to meet Federal
+Security
+requirements so without I'm not going to
+read the list of security um
+requirements but that's essentially what
+that
+is with uh the pre-authorization
+you will uh formalize a partnership with
+an
+agency um in the FED ramp
+Marketplace um and you they are looking
+at a few things here they have some
+bullet points but looking at a system
+that's fully built and functional that's
+a quote uh you know they're looking to
+make sure that you're committed and on
+board with the FED ramp
+process um there's an intake
+process um and then there's a
+determination for your security ceriz uh
+categorization I know I'm saying that
+wrong
+categorization um and then there's a
+kickoff meeting and there's some other
+things as well in there uh going through
+the authorization process there's a
+security assessment and then there's an
+agency authorization process I'm
+glossing over that that could take a
+while and then you know in the well here
+they have a step here about the agency
+authorization process they conduct a
+security authorization package review um
+where they are going through the
+different details and ensuring uh that
+going through risk analysis and
+everything else you meet all the
+requirements so they can issue an ATO
+and we talked about that already which
+is your approval to operate I don't want
+to make fed ramp sound easy you know
+this is a decision you need to make as a
+business if you're going to make the
+investment of going through fedramp and
+by the way there's some other places you
+can check out here too as far as cyber
+requirements I would Google cmmc I would
+Google platform
+one which is uh essentially I want to
+say that's with the Air Force um I don't
+want to speak out of turn
+here but uh let's see modern erever
+error devc op
+pipeline so you go to uh I would just
+dip in Platform One into Google it's
+going to bring it up here and you'll
+know you're in the right place because
+there's a um there's a badge on the
+front and there's a little character
+that looks like baby Yoda um in a
+platform one badge but basically says
+under Platform One this allows users to
+deploy devc op software Factory and
+start solving software problems with a
+90% solution day one instead of starting
+from
+nothing I would go to the website and
+read through that as well it looks like
+they also have some dates for um
+upcoming sessions where they will brief
+you on kind of what they're doing what
+the process looks like so so looking at
+that I think will help so there are a
+lot of requirements if you are doing
+anything with data but is a huge huge
+area every conference I've been to
+lately is focused on data how do we
+solve V various data related problem so
+if you're looking for a niche if you're
+looking for an area to focus I would
+start reading um I would go i' get your
+apia and by the way I don't get a I
+don't get a piece of this I'm an fcm
+member so but I do get the signal
+magazine reading that is going to help
+you understand where the military is at
+so that's kind of Step One is if you're
+just getting started maybe taking a look
+at signal magazine um looking at FIA is
+going to give you some good big pitch
+ideas of where the military is headed as
+far as data is concerned and then I
+would go to the platform one website and
+the FED ramp website and start looking
+at some of the security requirements and
+then if you're overwhelmed or with any
+of that I would say that a good place to
+start you know if you're just starting
+you don't have the requirements in place
+you just have maybe a solution that
+you're building out take a look at the
+SB program because you may be able to
+it's going to get your foot in the door
+because you can do a lot of uh demo and
+test projects that way where you may not
+need an atto or you know some of the
+more advanced security requirements
+right away and I'm not going to speak
+for all every cber is a little bit
+different you can go to c.gov to look at
+some of those opportunities but a lot of
+companies get their foot in the door
+that way they can and they can see that
+there's a government need for what they
+have before they start investing in
+things like the FED ramp process so I'm
+a big believer in making sure that
+before you make a huge investment we see
+that there's a need and there's funding
+available to um you know to build out
+whatever the technological solution is
+that you have um and to potentially go
+on contract with the government it' be
+great if you can get that contract
+initially ahead of time right to help
+kind of build out a prototype and and
+test it out and then as you're seeing
+that there's a need and there's a future
+for what you're building within the dod
+now you can start looking at you know
+some of these more advanced like fed
+ramp and some of these processes so
+anyway those are just my thoughts uh
+take a look take a look at the the
+programs that are available let me know
+in the comments or you can go to dodc
+contract.com if you know you have any
+suggestions on future episodes I'll
+cover you know whatever you guys are
+interested in don't forget to subscribe
+to the episode don't forget to leave a
+comment those always helps and we have
+plenty of programs at DOD cont ra.com
+that we've helped many many clients with
+sbir with things like fedramp and
+Platform One if we can't do it will
+point you in the right direction uh and
+give you to a subject matter expert that
+can do some of that um you know
+everything from we have a great
+interview coming up with former Colonel
+orndorf I should say retired uh he's
+been on before he's 30 years as a
+Contracting officer he has an amazing
+level of knowledge as it comes to
+contracts he talked a little bit about
+you know reviewing rfps and proposals
+for rfps making sure we're hitting the
+Nuance of what the CEO is looking for he
+talks gives a lot of great tips and
+advice too on Contracting what to do
+when you get stuck or if you're if you
+have a problem so that episode will be
+coming out shortly so keep an eye out
+for that head over to dodc contract.com
+and we will see you next time
+[Music]

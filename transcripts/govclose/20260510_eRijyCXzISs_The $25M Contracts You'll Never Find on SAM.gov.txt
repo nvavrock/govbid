@@ -1,0 +1,1213 @@
+Kind: captions
+Language: en
+More and more, I'm seeing that we aren't
+finding all of the opportunities on
+sam.gov.
+A lot of the government contract
+opportunities are going to be spread
+into different places, right? So, and it
+depends on what you're selling. So, if
+you are looking at innovative
+technology, we might be going to an SBIR
+website. We can take a look at that
+today if you have questions on that. If
+you have questions or if you're looking
+at other transaction authority, it
+becomes a little more complicated. This
+is GovClose.
+You know, a lot of you follow us on
+YouTube. If you're not already there,
+subscribe to the channel. We're making
+our way up. We have around 35,000
+subscribers now, which for government
+contracting not bad. Now, I'm going to
+show you
+how to look at the awards, OTA awards,
+but the actual finding the
+opportunities, you have to find the
+right consortium. Oh, and I, it looks
+like this is kind of right up that
+alley. It's not a government
+organization, okay? It's a nonprofit and
+that's on contract
+with the government. So, for me to
+actually verify what I'm looking at cuz
+I'm always thinking, okay, is this a
+company that's just trying to
+link a bunch of opportunities together
+and present them to me or is this
+something that's actually sanctioned by
+the federal government? So, I did quite
+a bit of research on this. So, if you
+want to take a look at this, I would go
+to One Nation
+Innovation.org.
+Okay, so that's One Nation
+Innovation.org. I'm going to put the
+link right here in the comments. So,
+this should pop up for you guys in the
+comment section.
+So, the first thing I do when I take a
+look at a site like this is I want to
+see what's What are they actually
+announcing? What kind of opportunities
+are you know, we clicked on the
+challenge marketplace already and we can
+see some open challenges here. And I was
+able to sign up without
+having to pay, which is good cuz a lot
+of these consortiums you actually have
+to pay.
+Just to give you an idea of what some of
+these are.
+Soldier experimentation data fabric
+fabric prototype.
+Enterprise war room command and control
+prototype.
+Telemetry antenna radome very technical
+stuff here digital forge anvil.
+Kansas City District.
+Rapid user centered centered AV design
+and deployment prototype.
+That's interesting.
+What do you think the AV stands What
+does the AV stand for?
+Audio visual system. Huh.
+For conference spaces. I mean so there's
+there's some interesting stuff in here.
+There's a lot of different
+opportunities.
+This is probably has more opportunities
+than a lot of the portals I've seen. So
+I would recommend that everybody go
+check it out. Yeah.
+It can't hurt. What happens if I click
+on them? So it does give me some
+information.
+So you may need to be logged in to
+actually see these.
+So for this one the go Coliseum
+challenge.
+A USSF so that's US Space Force for
+those of you
+uh that don't know.
+Okay, so what's the objective?
+Prototype demonstrate and validate an
+agile acquisitions process framework.
+Acquisitions is putting companies on
+contract for the government. And I think
+most of you know me on here, but I was
+an acquisitions officer for the Air
+Force.
+20 years in the Air Force then started
+GovCon our training program. So I work
+with companies students professionals
+looking to get into the public sector
+government contracting. So acquisitions
+that's the professional putting
+companies on contract for the
+government. Okay, so then they have a
+problem statement here.
+What's the desired solution, right? So
+this is why we have to read everything.
+The government is is interested in
+comprehensive solutions that meet all or
+individual outlined requirements and
+lines of effort. And there's an
+attachment.
+And see the submission guidelines below.
+So, I guess my point being for you guys
+is is it necessarily
+that you're gung-ho about this
+opportunity, it's when you go to this
+ONI Marketplace, what are you actually
+getting involved with, right? And what
+do you have to do? This is This is very
+acquisitions heavy. So, for any
+acquisitions people, I know and I know
+we have plenty in the GovClose program.
+Um this could be something to take a
+look at if you are interested.
+This is actually really good. They have
+a scoring rubric, right? And anybody
+that's in the GovClose program knows
+that, you know, we have
+a section of GovClose just dedicated to
+building a compliance matrix, to
+proposal writing. We talk a lot about
+how proposals are scored
+by the government, right? And this is
+good cuz it's it's showing you This is
+very clear. It's showing you what how
+they're
+everything. And then if there were
+questions, we'd see some of the
+questions down there. But, you know, for
+me, what I want to know when I'm looking
+at a a site that I'm not familiar with
+is is it real, right? How do I know if
+this is real?
+So, now I'm going to transition. Now,
+we're going to go to sam.gov. You have
+to be logged in to sam.gov to use the
+new
+features that basically take over FPDS.
+So, if I want to see contract awards,
+right?
+If I want like I could in FPDS, got to
+be logged in. So, that's one of like the
+big differences between FPDS versus
+sam.gov. I didn't need to be logged in
+before.
+Meaning I didn't need to be logged into
+FPDS. I could just search for anything.
+Okay, so let's share my screen here
+again.
+All right.
+All right, we're logged in now. So,
+guys, this is not just OTA. So, anybody
+that's
+interested in how to use the
+functionality of sam.gov, and I
+recently, when I did the video I'm like
+I don't pay for tools anymore and I
+don't. I don't pay for government
+contracting research tools anymore
+because
+between sam.gov and USA spending and all
+the AI tools that are out there, you can
+first of all, any tool that you pay for
+for the most part is grabbing
+information for federal it's grabbing it
+from sam.gov now.
+It may also be grabbing OTA information,
+SBIR information, okay? And so you can
+increase your functionality that way,
+but I can also build a tool to do that
+myself with AI. So it just depends on
+whether it's worth the price of
+investment, but regardless of whether
+you're paying for a tool or not, you
+need to understand what sam.gov is
+actually capable of.
+What are some of the new ways of
+searching through things? What are the
+limitations? Okay, and then you make a
+decision for yourself, but this is the
+source of truth.
+Okay, so first thing I'm going to do is
+I'm going to click search.
+My name is Tony Friel. I'm from Chicago.
+I've started a government consulting
+business. I was a in the Marine Corps
+for 10 years. I worked with the Navy
+contracting branch as well, so I've been
+on the the both sides of the contracting
+Funny story here guys is that Tony
+actually joined you know, came to our
+event. This is the second day of our
+event now
+sitting in the room for the first day
+you weren't a a member of our program
+yet. [music] Here we are on this end of
+the first day you're like I'm joining
+this program. Here we are day two,
+you're now in the inner circle [music]
+with us.
+Walk me through yesterday a little bit,
+right? Because by the end of the day
+you're like this is 110% now, I'm
+joining this program. I walked in the
+room and there was like genuineness
+about [music] everybody in the room. So
+I've been to other seminars where
+they're trying to sell you real estate
+training or coaching.
+It's more about the sales than the
+product. So if you see Rick's videos on
+GovClose, he's giving you tremendous
+value [music] on those videos without
+selling you anything, right? Right.
+&gt;&gt; But then he can take that value and
+offer you a course and give you a
+definite process of how do you get from
+zero to 100 and you can get you there
+with the Go Close process. And then
+after I met the people in the room, you
+realized it's real, right? We have a
+retired Navy captain in the course who
+did acquisitions for 30 years. So,
+that's how you know it's real because
+after being in the military, if you
+become a captain or above or a colonel,
+and those guys are wired different. So,
+even get them in the program says a lot.
+If you want to search for contract
+awards, I just clicked on contracting.
+Okay.
+And
+by the way, you guys um
+just type in sam.gov. I don't think I
+need to put the link in here, right?
+You type uh contract awards. This is
+where I'm going to search for contracts
+that have been awarded. Okay, so if you
+are interested in researching contract
+awards, and why would you research these
+awards? Well, I research contract awards
+for a lot of reasons, right? I may be
+doing Well, if I'm doing historical kind
+of analysis where I want to aggregate a
+bunch of contracts for a certain
+industry, I'm probably going to
+USASpending.gov and downloading the
+files, but if I'm looking for a specific
+contract, and I just want to know more
+information on it, how it was awarded,
+um what was awarded recently, I can go
+to contract awards. You can see here if
+I just type in Let's see here.
+Let's see the past week.
+All right, so you can see it's giving me
+18,000
+398 results of contracts that were
+awarded last week. And I can I can
+search through these in a variety of
+ways, right? So, again, what Now I'm
+looking through contracts that were
+awarded.
+You have to be signed in, okay?
+Before you ask. Now,
+Well, okay, Rick, well, what about we
+were just talking about O&amp;I? What What
+are we talking about? You see this tab
+right here, other transactions?
+This is where I what I've been building
+up to here, everyone.
+I'm excited about this, but I'm a
+government contracting nerd or you know,
+the Godfather depending on who you talk
+to but apparently. If I click on other
+transaction authority, okay.
+Now,
+let's go to awardee.
+One Nation Innovation.
+Bam. Okay, now check this out. So at
+first, and this is why you got to just
+keep persisting
+when you are doing government contract
+research. When I first
+looked up Innovation, I could see that
+they had a UEI number,
+but I couldn't find any contract awards
+for them because I was looking at the
+contract awards. But I'm like, okay,
+duh.
+These guys are basically another
+transaction authority
+consortium essentially. They might not
+want to call themselves that. Some of
+the research that I've done says that
+they do a few other things, but they
+have other ways meaning of putting
+companies on contract.
+But
+once I hit other transactions, okay, now
+I can see all of these OTA awards that
+are coming in, right? Does this give me
+confidence
+that this marketplace is used?
+Absolutely, right? Because I can see it.
+And here's the thing,
+I interviewed a director at GAO, the
+Government Accountability Office. So you
+can check that out on the YouTube
+channel.
+One of the
+one of the problems that
+she said they were having with other
+transaction authority is remember, this
+is a faster way for the government to
+buy and it's not regulated by the FAR,
+so to speak, right? So
+that it is beyond the Federal
+Acquisitions Regulations. And if you
+want to know the history of it briefly,
+this is a program that was instituted
+during the space race, back in like the
+'50s or '60s.
+We couldn't buy things fast enough. This
+happens all the time, right? Where you
+go through these cycles where we we have
+so much policy and oversight and
+overhead and rules that it takes a long
+time to put a company on contract. You
+guys know this, right? It takes a long
+time to win a contract with a
+government. It takes a long time for the
+government to award a contract.
+But in order to beat the Russians during
+the space race, we knew we had to buy
+things faster. So, they created other
+transaction authority.
+Now, it's utilized by more than NASA.
+And of course, the Department of War
+last year is doubling down on this. It's
+a faster way to buy. It is beyond the
+federal acquisitions regulations as far
+as um how we normally do business. But
+keep just keep in mind, it's
+acquisitions professionals that are
+involved with this.
+Typically,
+the government is going to One way that
+they do other transaction authority um
+deals is they have consortiums or
+they'll which basically means that a
+company's put on contract by the
+government. And they host a bunch of
+um you know, in this case, they're
+calling them challenges, right? But they
+host a bunch of opportunities. And then
+um the government works with the
+companies to uh put them on contract
+quickly. A lot of prototyping, a lot of
+innovative research stuff, and a lot of
+It reminds me of
+SBIR, frankly. Um but it's a little bit
+faster. And of course, SBIR's actually
+A lot of people think the SBIR program
+or SBIR's are grants, but they're not.
+They're actually government contracts.
+They're not grants.
+Um what we're looking at here
+are these OTA awards, right? And when I
+brought up the GAO interview,
+I brought that up because it could look
+like, if you'll look and I'll try to
+zoom in on it, it it could look like One
+Nation Innovation was awarded $25.4
+million.
+Right? Other transaction agreement. And
+I guess technically they were, but keep
+in mind, they host these opportunities.
+Okay? So, they they host these uh
+challenges, and they award the
+companies, right? Through through this
+whole process. So,
+I'm Now, I'm going to guess here. I
+don't like to guess. I like to know,
+right? You guys know this. But when I
+look at this, I
+am seeing that this funding, this 25
+million with a total contract value of
+36 million, is probably a challenge that
+is being awarded through One Nation
+Innovation to one or multiple companies.
+Okay, and there's a lot of them. So,
+on the surface, I have
+I have a lot more trust in this uh this
+website, this portal, this marketplace
+over the person that was actually um
+asking about this.
+I do. And
+um if you go down, there's not a ton of
+information in here. So, that's the only
+um bad part, but at least I can see the
+awards. And in that for me
+is something that I want to be able to
+see. I want to see that it's real. I
+want to know that I'm not wasting my
+time because there's so many consortiums
+out there, guys, that and again, I know
+I'm sure they don't want me to call them
+a consortium, but
+you want to make sure that if you're
+going to join a consortium, especially
+have to pay cuz a lot of them want you
+to pay, even 500 bucks, but if there's
+not evidence that they're making awards
+and that there's enough of them to be
+involved with it, then
+then I I don't want to be involved with
+it. I want to make sure it's actually
+worth my time.
+Okay, so you can see here BAA
+non-traditional prototype.
+And in the description says all domain
+converged infrastructure innovation
+ecosystem. I mean, look,
+for my money, if that doesn't sound like
+one of their challenges, then I don't
+know what does. So, I'm guessing this is
+awarded through one of their challenges
+and there's several of these, right? So,
+let's see. What else do they got in
+here?
+Uh here's one for 519,000.
+I would guess that that that is a
+modification. We go down to description.
+I think that's where slice system
+prototype efforts. These are prototype
+efforts that they're going through um
+that system. Uh let's see here. I've got
+Is it Tom Clancy or Tom Clancey? Can you
+go ahead and apply for OTAs like Sibers
+or do you need to build a relationship
+first? In O&amp;I, it's not exactly
+possible.
+Mhm.
+That's a good point.
+I would say this, keep in mind this is a
+different way of doing business. So,
+because it's fast,
+you know, I always I always believe in
+the relationship first principle, right?
+But,
+with a lot of these other transaction
+authorities, right? It's it's very
+simple
+for in some cases.
+We'd have to dig into this particular
+one, but it's very simple in some cases
+to
+actually apply.
+So, keep in mind like if I'm writing and
+the reason I don't say that about say a
+regular RFP, writing an RFP could take
+you weeks or months.
+It is painful to actually do it
+correctly. And if you don't have any
+indication up to that point that you
+could potentially win,
+then is it really worth your time? Like
+there's a lot that I need to know before
+I'm going to take the time to write a
+proposal. A lot of these other
+transactions, I mean some of them are
+are minimally involved for a first step.
+I'm not saying this one is, but some of
+them are like 500 words or less describe
+your solution and we'll tell you if we
+want you to write a proposal. Um
+I think it's less important
+to have the relationship first with
+something like this.
+But, you know, if you're working with
+government offices that like your
+solution and they know that there's an
+opportunity coming out, another
+transaction authority coming out through
+a consortium, they may push you to that
+consortium. And look, no matter what the
+regs say, no matter what the policies
+are, there are people on the back side
+of these efforts, right? And they talk.
+So,
+being able to speak with somebody, it
+depends on if they give you an
+opportunity like with SBIR, right? SBIR,
+typically, not always, but typically
+when an SBIR topic comes out, you have a
+time frame where you can talk with the
+technical point of contact. And I always
+tell folks like, I want to find out
+about that opportunity, meaning the
+topic, and we can take a look at it if
+you want. I want to know the topic as
+soon as it drops, and I want to be able
+to talk to the TPOC and ask some
+questions, cuz you can get a lot from
+that conversation, right? A lot of these
+topics could be pretty broad. And, you
+know, if it's a
+you know, you might have a broad topic
+that says something like we want to
+streamline and enhance the health care
+for military veterans, right? And maybe
+you have a
+you know, a maybe you're a user
+interface company, and they're like,
+"Hey, we could streamline the whole
+process where military members or
+veterans, you know, gain health care uh
+information." But,
+you talk to the TPOC, and you know,
+maybe you realize that, "Oh, what
+they're really looking for is,
+you know, not a user interface, but
+like, you don't know, a multimodal
+database, or maybe they're looking for
+um technology that, you know, can help
+with, you know, X, Y, and Z, and it's
+not something you provide." So, that
+conversation, I'm telling you, the
+talking with somebody is always going to
+give you far more clarity than just
+reading, you know, something online.
+Now, having said that, if we're talking
+about OTA, and we're talking or we're
+talking even some of the SBIR topics can
+be really easy to um like with National
+Science Foundation is one where you can
+you send them a quick blurb, and they'll
+tell you if they want to know more. Um
+that can be very helpful, and that can
+reduce some of the complexity. So,
+hopefully that that helps.
+Did that help?
+Um okay, so, let's before I get off of
+this, I know some other people have
+joined since. We're on samdarkov,
+and I was showing some of the new
+functionality here, right? And it ties
+right into a question I got on O&amp;I this
+uh One Nation Innovation Marketplace
+that has challenges that that look a lot
+like an OTA consortium website and then
+I pivoted and went to sam.gov to show
+you some of the new functionality.
+Basically looking up contract
+opportunities and also being able to
+look up
+other transactions. So it's But
+remember, this is showing me the other
+transaction awards, right?
+Now,
+I think it would be interesting. Why
+don't we do this cuz I haven't played
+with this too too much. I'm going to get
+rid of One Nation Innovation.
+Okay.
+And I'm now I I just want to look at
+other transactions.
+And let's put the Let's see. For dates,
+let's just look at the past 3 months.
+How many other transactions have been
+awarded? So 42.
+Not a ton. I wonder what the delay is,
+too. I don't know if anyone has some
+insight on that that's on this, but you
+know, often with USASpending, I get a
+delay
+between the reported
+I should say between the contract award
+and it appearing on USASpending. So
+what's the delay here, right? So what am
+I looking at? What's looking in some of
+these other transaction
+awards are pretty significant, right?
+Look at this. 46 million,
+9 million.
+What is this? Other administration
+action.
+University So we have some universities.
+There's a $2 million one to Inviso
+Communications. What is this one for?
+You know, be curious. When you're
+looking through these
+awards,
+there can be some insight that you can
+gain and you never know what's going to
+resonate with you or give you an idea or
+or maybe even give you a thought about
+how you can either work with a company
+as a consultant or your business if
+you're selling to the government or your
+tech manufacturer like hey well maybe
+there's something here for you, right?
+Um but the only way to learn about
+government contracting is to really dive
+into the details because the details
+matter.
+Um I know
+that what's it giving me? Entity name
+address so it's giving me some entity
+information.
+What else?
+Competed it's giving me a history
+probably some mods that I can click on.
+Where's the description?
+Does it give me anything in the
+description?
+Boat crew communication system.
+So I mean it's it's not a ton of
+information but it's giving me
+something, right? So I kind of I so now
+I I know what this award was for.
+So that's interesting. How is that
+relevant?
+Well it's relevant if I have if I do if
+I'm a company involved with
+boat communications, right? If I'm doing
+something along those uh
+along those lines. Here what we get
+here. Uh I've not been able to find O&amp;I
+OTA separately on SAM. Are they required
+to list the OTAs on SAM?
+Okay so Tom the awards are on SAM.
+But those challenges might not
+necessarily be on SAM because remember
+the FAR
+is not
+overseeing OTA OTAs are separate from
+the Federal Acquisition Regulations.
+Although some of the contracting looks
+pretty similar and eventually your goal
+is to get on to a government contract
+but
+um
+you have to go to the O&amp;I marketplace. I
+mean that's that's the best thing I can
+tell you right now. I've talked to a few
+people that are trying to aggregate uh
+some of these awards and I wouldn't be
+surprised if SAM or another government
+platform
+um puts out gives you one place where
+you can go to see all of the challenges
+or all of the opportunities but I
+haven't found that yet. So again these
+are only OTA awards. We'll take some of
+the questions from one of our recent
+coaching calls and then that we can dive
+into some of the new cyber topics SBIR.
+How do we go about finding other
+consortiums? Okay.
+Here's the way that I do it and this is
+not
+very technical, but
+hey,
+it is what it is. Let's go back to
+my screen here. All I'm doing
+is typing into Google OTA consortium
+list and there's a few good lists out
+there. MITRE has a good list. Sometimes
+the GovWin IQ one pops up.
+So, here's
+one way to do it and there's a lot of
+consortiums.
+This is the MITRE list
+and
+all I'm doing here is
+looking for consortiums that may
+meet what I if I have a company with a
+specific technology, if I have a
+solution in health care, I'm looking for
+a health care consortium. If I'm looking
+for more robotics company, right? I may
+be looking for, you know, I might I
+might actually if you're in robotics or
+data, like that can apply to different
+consortiums, right? This counter weapons
+of mass destruction consortium, it could
+apply to that certainly if I was in
+robotics, right? And then when you click
+on them,
+I'm kind of going through a similar
+drill that we just went through. Do I
+have to pay
+to be part of this? Do they have some
+matchmaking events? This is
+opportunities, but it's going to talk
+about like what is there like CWMD, what
+countering weapons of mass destruction
+is usually what that means
+for those of you that
+didn't grow up in acronym land.
+Here it's talking about CD CWMD. So, you
+can go I go to the consortium site, I
+find a list and I start clicking through
+them. I learn a little bit about it. For
+the membership, it usually tells me
+who is actually in here.
+It's going to tell me how to join. So,
+do I have to pay for this one?
+You apply.
+Agreement.
+I don't actually know if I have to pay
+for this one.
+Hopefully not.
+I can see who are the current members.
+Here's a good thing to
+to check here. It's usually So, you got
+And here we go. We got the list
+of all of the members
+of this consortium.
+429 members.
+And again, this is just one of I don't
+know how many are out there.
+If I'm looking for business
+opportunities, now here's the other
+Here's Here's the real thing. A lot of
+these don't have a ton of opportunities.
+So, I want to know
+how many opportunities is Now, they say
+they've done 220 awards.
+Uh they have a Let's see here.
+Forecasted opportunities.
+One.
+What about open? None.
+RFI.
+I mean, look. So, this This looks like
+it has one. I've paid to join uh some
+Not this particular consortium, but I've
+paid to join these consortiums in the
+past and kind of gotten burned because
+you know, you pay for them. If I'm
+paying for a consortium and I have one
+opportunity,
+like this one's not coming out till Q4
+27.
+Is that one that I actually want to be a
+part of?
+Um not really.
+But that That's what I mean. Look,
+there's It's just going through this
+drill.
+Countering Weapons of Mass Destruction
+Defense Electronic Consortium. So,
+um anyway, that's what I would recommend
+that you do. Go in here. Take a look at
+the different consortiums.
+Start going through the list.
+And I guarantee there's more
+than we're seeing here.
+By the way, like also, you know, the
+government there are government websites
+that are doing this as well.
+Right? So, uh you guys might be familiar
+with DIU, right? DIU uses OTAs.
+And there's three open That's This is
+pretty standard actually for DIU. So,
+I don't know if if everyone's copying
+what I'm doing here, but I'm going
+through a variety of different systems
+to actually find different opportunities
+for me. If I'm working as a consultant
+for some of my clients, I I have a list
+of my clients, right? And I know what
+they're selling.
+And so, I'm going to the different
+websites that I frequent to see, "Hey,
+hey, are there any opportunities out
+here that could apply to them?" We're
+just really We're just touching the top
+of the the peak here, right? So, that I
+went through OUSD(A&amp;T) just cuz it's one
+I didn't hear about. And um
+there were people asking about it on the
+last call, right? So, now we know a
+little bit more about OUSD(A&amp;T) and I'm
+subscribed to that. If, you know,
+there's tons that I go through and I get
+automatic automated updates a lot, too.
+There's the Vulcan system, there's DIU.
+I You know, I'm a big fan of DIU. What
+are the three open pathways for DIU
+right now?
+Here's one.
+Close-in kinetic defeat enhancement.
+Innovative technologies to enhance the
+lethality of integrated weapons and fire
+control systems.
+Here's uh another one called Point
+Break.
+Good movie.
+Department of war relies on radio
+frequency communications that are easily
+susceptible to degrading and disruption.
+Oh, I know about all that. I flew
+reconnaissance planes for the first half
+of my career. I don't know if you guys
+knew that, but yes, so you could jam
+radio frequencies relatively easily. For
+DIU
+for the one that I made it through with,
+we
+basically submitted a three-page essay
+that hit all their parameters. It was
+and actually I didn't max it out. I
+think five pages for the my submission
+was the max.
+I gave them three and then we got to go
+out to
+Silicon Valley and present
+what we had in person.
+See, Project Titan Core modular data
+centers for AI compute. This is huge,
+guys. This
+And by the way, I was I was considering
+talking about the
+um
+the GAO
+report
+on AI
+and what opportunities
+You guys see, by the way, the GAO um the
+Government Accountability Office. This
+is a great place to go if you want to
+know like what's changing in government
+contracting, what are some of the
+concerns out there, where are things
+going, um
+but
+DOW faces a widening gap between the
+computational demands of modern warfare
+and its ability to deliver compute
+across strategic, operational, tactical
+levels. We That's been a problem for a
+long time.
+AI now underpins situational awareness,
+command and control, intelligence
+fusion, and autonomous systems,
+coordination within modern workloads
+requiring
+a bunch of specifications you probably
+don't care about, which represents an
+older an order of magnitude beyond
+Okay.
+Current infrastructure struggle
+struggles to adequately cool modern AI
+accelerators. Oh, I wonder if this is
+actually
+more about
+cooling and
+um
+This is interesting. I don't want to
+bore everybody here, but
+this this is really interesting.
+Have you guys seen the
+latest on data centers in space?
+There was a GAO article about that
+recently, uh which we covered on the
+last call, but you know, data centers,
+it's big in the news because people are
+concerned that it's going to drive their
+electricity prices up. We have to have
+these data centers to support AI.
+And, you know, and then you have people
+on both sides that are both for and
+against some of this work.
+So, interesting that there's a uh a DIU
+other transaction authority
+um opportunity here.
+So, again, that's that's for you guys.
+You can go through a list of
+consortiums, check out the different
+opportunities. What I do every day is I
+have my list depending on who I'm
+working with, and I'm going to go
+through the different sites and see
+what's popping up cuz remember, it's one
+thing to look at
+the news cycle.
+It's not You can look at sam.gov, but
+if the government has money and a
+requirement, that's what they need in
+order to put you on contract.
+With OTA and SBIR, you can get a little
+bit ahead of that. You can if you have
+something innovative like SBIR, um Bill
+has just said, there's a $250 annual
+annual membership fee, uh which is
+renewed each fiscal year. Is that for
+the CWMD?
+Um consortium, Bill?
+I know DIU doesn't have a fee.
+And we have members in GovClose, by the
+way, that some of the founding members
+of DIU, which is uh kind of cool. So, we
+have
+uh Greg Coleman, we did an interview
+with him on YouTube. You guys could
+check that out if you want to get some
+interesting insight there. Uh let's
+check out one of our student uh recent
+Q&amp;A sessions from the GovClose training
+rally.
+Uh um let's see if I can actually
+get this on the stage here. I'm probably
+going to have to do this. A way to, I
+guess, talk to the corps to kind of find
+out like if they're planning any kind of
+modernization for like the upcoming
+re-compete. Mhm.
+&gt;&gt; Just to see if I would fit into
+something that they're doing. And then
+bring myself to the corps, I mean bring
+myself to the point where I'd be like,
+"Hey,
+I know that the agency is going this
+direction. They're trying to do these
+services and this is what I do. So,
+let me sub under you guys, basically."
+But, so my question for you is like, how
+do you kind of like ask those questions
+to like the key personnels to kind of
+find out like where you're planning to
+head
+with this upcoming contract?
+Okay. So, Harold is one of our GovCon
+certified graduates. He has a
+contract with the Army and he also, I
+believe it's a subcontract, and he also
+focuses on CMMC. So, he does CMMC
+consulting for anybody out there that's
+um selling to the US military. This is
+becoming a big thing and having people
+that are certified to help you out, um
+you know, that's going to be something
+that a lot of small businesses are
+probably going to struggle with over uh
+the next couple of years.
+Harold's awesome. What he was actually
+asking about on that particular coaching
+call
+was
+"How do I actually, like
+broach the subject with a contracting
+officer or program manager
+about uh an upcoming contract
+re-compete?" But, this could be about
+anything. This could be about, you know,
+any contract that you think is coming
+up, any question you have. And so, I
+guess some of the questions, if I'm
+going through a checklist, are how do I
+A, how do I get a meeting scheduled? How
+do I get in contact with someone?
+But, once I have that figured out, what
+kind of questions am I asking? Can I be
+blunt? Do I have to beat around the
+bush? Do I have to like, you know, what
+is the protocol?
+I've often said on these calls that,
+you know, companies that were savvy at
+government contracting when I was an
+acquisitions officer for the Air Force
+and running a acquisitions branch, they
+figured out how to get into my office,
+right? And by the way, we have a we the
+government acquisitions core
+has a mandated certain parts of the
+acquisitions process
+to speak with companies and to be vocal
+and to be transparent, right? So, you
+can schedule calls with some of these
+offices. Some of them may be harder than
+others and you always want to attempt or
+attempt you always want to do this
+before the solicitation comes out,
+right? Cuz remember,
+there are very strict rules that are
+enforced in these acquisitions offices.
+Nobody wants to be guilty of giving a
+company information that another company
+doesn't have
+after the solicitation comes out cuz
+that's grounds for protest, right? So,
+um the government tries to be very
+very clear about what they want by the
+time the solicitation comes out and then
+if they're going to provide any answers
+after that, it's usually going to be
+something like a notification on sam.gov
+that everybody can access. But before
+that,
+that's your time to get in there. Now,
+Harold's particular case, if I'm
+remembering it correctly, his question
+was about a upcoming re-compete.
+How do I talk to
+um the contracting officer? How do I how
+do I do this? Now, if you already know
+them,
+right? That could be as simple as
+sending them an email.
+It could be especially once you're on
+contract, I I tell everyone the best way
+to sell to the government is to upsell
+your existing customers. And make sure
+that whatever it is that you sold the
+government is working, you know, when
+I'm on the selling side of this, when
+I'm working for a company selling to the
+government, I'm taking all the
+contracts, all the prior contracts and I
+am reaching out to the program office.
+Hey, is our technology is it still
+working? Any problems? And if there is a
+problem,
+that's your opportunity to go down
+there. Foot in the door, I'm going to
+I'm coming down down with an engineer.
+Oh, my services, my people aren't doing
+what you need. Hey, I'm going to come,
+I'm going to take care of
+What you're doing is you're establishing
+rapport with that office. They know that
+you're going to take care of it.
+They know they can get their hands on
+you and that you're not um you're not
+just out to make money, but also it
+gives you the opportunity to make more
+money because if you have you know, if
+there's new services contracts coming
+out or if you're selling software, they
+might need more licenses. You want to
+have that open communication.
+So,
+the best case scenario for Harold would
+be if he already had a
+uh relationship in place and he could
+talk to
+the contracting officer or program
+manager.
+If he didn't, right now you're looking
+at okay, well, maybe I can get in there
+with a sources sought. If I respond to
+that, I can ask for a meeting. Um you
+can reach out to the small business
+office.
+If you if you're not getting any
+response from the acquisitions
+uh team, reach out to the small business
+office. They can potentially get you in
+there. But again, timing's everything.
+We're not just reaching out. Remember,
+he had a particular contract that he was
+asking about, right? So,
+first step is opportunity. Second step
+is I need to get my foot in the door. If
+I know the office already, now I'm
+reaching out directly. Email, phone,
+whatever. You can set up a meeting or
+you can just ask, but
+here's the thing.
+Why can't you just ask, right? So, if
+you want to know
+there's a thousand things you might want
+to know. Hey, I'm tracking this contract
+and it was a three-year contract. I'm
+wondering I haven't seen anything on
+sam.gov. Is it going to be re-competed
+this year? Now, what they may tell you
+is oh, we're going to extend it
+a year, right? It's a year out. But you
+wouldn't have known that if you didn't
+ask. Or
+uh yes, we're going to re-compete it and
+we're planning on putting it on GSA. So,
+you have to be on GSA uh when it comes
+out if you want to know about this.
+Or you know, it could be something else
+or hey, we're not Nope, there's no
+funding for it. The funding got cut. So,
+when this contract ends, it's over.
+Well, like any of any of those responses
+is great because now I don't have to
+waste my time going after something that
+doesn't exist anymore, right? Or if it's
+on GSA, I'm going to know, well, either
+I need to be on GSA or I need to partner
+with someone that has the schedule or
+the contract vehicle. Maybe they're
+going to put it on NASA soup.
+Right? I mean, these are things that you
+need to know about. And by the way,
+something else
+um
+current contractors get burned on
+a lot is
+if you are on contract with the
+government and you just let it ride and
+you're not communicating with that
+office and this happens
+so much.
+Um that office may decide that, hey,
+we're we've moved to a different
+vehicle.
+And if you don't know about that, you're
+going to probably not going to be on it.
+So, you could get squeezed out because
+just because you weren't doing your due
+diligence and following up and talking
+to that office.
+All right.
+Cheers. We'll see you. After going
+through the course, I was able to land a
+client that pays me a monthly retainer
+to actually help them develop their
+business and go after these federal
+contracts.
+I was able to get a consulting gig with
+a software company that currently works
+with the intelligence community. Within
+2 months, I have my first client. So,
+the initial contract was for a 3-month
+contract for 4,000 a month. So, 27 years
+old,
+you've never worked in government
+contracting, you've never worked as a
+consultant, and you just uh closed your
+first deal, is that correct?
+That's correct. And I got a couple small
+projects on the side as well. So,
+definitely something one of the best
+investments I've made all year.
+&gt;&gt; A cold call landed a nine-figure
+government contract.
+Started a consulting business
+and a high-salaried position as a
+account executive in public sales. So,
+you're doing both of those things. I'm
+living the best of both worlds right
+now. So, my name is Mike Knickerbocker.
+I am a naval officer that's getting
+ready to retire. Right now, I have three
+firm clients and two more perspectives.
+I'm able to provide value across
+different industries cuz the skill set
+that I learned through the course and
+was able to apply my own experience.
+Gov Cloud came and it was a no-brainer.
+I I wanted some secret sauce. This has
+allowed me to live in Germany. A little
+hazy today, but
+We can give them. Proceed. Oh, yeah,
+dude, that's beautiful. The content, the
+training,
+it's in doubt. It's written
+And Deb, what motivated you to join the
+GovCloud certification program?
+&gt;&gt; Wow. Well, I think that wanting to work
+with a leader in the field, someone who
+understands government contracting on a
+deep basis and has the reputation,
+the experience working with you and your
+company was a natural. The students that
+graduate our program,
+they go on to start their own consulting
+firms,
+winning high-dollar consulting clients.
+They go on to land high-paying salaried
+positions as account executives with
+companies that sell to the government.
+I'm so proud of the people that have
+gone through our program.
+And if you are considering
+either a job or a business, and by the
+way, some of our students are doing
+both,
+as I did, they're running a consulting
+business and they'll have an account
+executive job.
+It's transforming their lives. It's
+bringing true wealth to them and their
+families.
+Back to the video.
+Oh, I'm the godfather?
+All right. I didn't realize I was the
+godfather of government contracting.
+I'll take it.

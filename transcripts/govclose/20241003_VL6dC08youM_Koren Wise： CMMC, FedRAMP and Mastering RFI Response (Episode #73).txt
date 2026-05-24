@@ -1,0 +1,1491 @@
+Kind: captions
+Language: en
+[Music]
+hey guys Ricky here with the dod
+contract Academy I'm here with Corin
+wise of wise Technical Innovations did I
+get that right Corin you did okay
+because for everyone listening I got it
+wrong when I first and I shouldn't have
+because I've known kin for a long time
+so um hey it's great to have you on here
+finally thank you for having me I'm
+excited about it no this is great and so
+uh you know we've known each other for a
+while um you know we've done some work
+within the dod contract Academy um
+you're actually in some of our training
+uh videos from some of the past calls uh
+we were on which is really cool uh but
+you know I really want to have you on
+because I think you are a great example
+of a business that is already started
+you know the process of uh you know
+trying to sell to the government and
+putting all of the procedures in place
+and just kind of letting people know
+where you are what you've uh you know
+the struggles you've had and successes
+you've had and you know and you have a
+really interesting Niche so because I
+don't want to you know completely focus
+on kind of where you are trying to sell
+to the government what you actually do
+is going to benefit a lot of businesses
+especially if they're involved with
+technology software in any way selling
+to the government and those that are and
+are listening to me are probably well
+aware of the questions you get from the
+government involving the FED rant
+process and cmmc and that's Cor in
+specialty helping uh companies through
+that that and and as well as some other
+things here so yeah you know if if
+you're ready I'm ready maybe we could
+get into it but maybe start with you
+like who are you where you from and why
+are you doing what you're doing great
+well I am a Navy brat uh from Virginia
+Beach Virginia so both my brother and
+father are retired officers from the
+Navy and uh I I'd say in like around
+1999 my dad had just retired and gone to
+work for a DOD contractor in the area
+and I was a high school chemistry
+teacher and he was you really need to
+get into this internet thing I think
+it's going to be very
+big so uh he was right he was right
+right so he he offered me to come over
+to the company that he was working for
+um and you know I kind of Dove right in
+right away it was like the first time
+that the mcse or the Microsoft
+engineering curriculum was coming out um
+and Cisco engineering was starting to be
+big and that's kind of where my roots
+are so from there I I was good at
+passing tests because i' you know been
+at just gotten out of College recently
+and so I became a paper certified person
+with not a lot of experience um but that
+changed as I began to get put on more
+and more contracts I started getting
+under the wings of some really talented
+uh networking systems engineers and uh
+eventually um got good enough to start
+teaching the higher level courses to
+other people and going out in the field
+and I've that that continued throughout
+my career I've just always been uh
+partially in the classroom as an
+instructor and then uh out in the field
+as an engineer ER I love the blend of
+the two and no matter how hard I try to
+get away from training I still end up uh
+deeply involved in some type of training
+um and so in 2004 I decided to start my
+own business here in norfol Virginia
+where I moved after I graduated from ODU
+uh with my masters and so I I I was
+doing a lot of um you know deployments
+of products at that time a lot of
+solution development um I've had a lot
+of good local government contracts here
+and a lot of contracts with um
+medical uh you know medical groups or or
+important um Health functions in our
+area uh and so a lot of that was you
+know from year to year it would change
+one year it could be a really good Cisco
+engineering year with routing and
+switching work and the next year could
+be a really good SharePoint year um but
+I was kind of all over the place so I
+decided about right before covid a few
+years before that that I wanted to just
+zoom in and focus on what I love the
+most which it seemed like a lot of my
+work had begun gravitating towards um
+security work and so I knew that I
+needed to at least you know get a few
+things under my belt to to be taken
+seriously in that world so I went and
+worked on my cissp at that time and um
+did a lot of studying whether it was
+certification related or not just a lot
+a lot I don't think I've ever studied or
+read so much as I have in the past five
+years and so um so I just began to zoom
+in on uh on on cyber security but how my
+history could really offer the most in
+that field and when I began to learn
+about assessments I was like wow this is
+right up my alley because I have such a
+strong technical background and then
+I've got this other experient experience
+that you know makes me very relatable to
+people and so uh I I just as soon as I
+found out about all the world of
+Assessments and how it worked and
+everything else I was just that's it
+that's that's what I know this ties
+together everything that I've done so
+far in a really nice way so that's what
+led me
+um to really getting into the assessment
+side of things I find it interesting
+that you are that you had parents that
+were in the military this this is at
+least a trend item amongst some business
+owners that you know I had a someone on
+in the last episode he's the um founder
+of goley and his uh parents were both in
+the military and so versus going into
+the military he kind of focused on the
+the public sector but one one benefit
+that he had was that he kind of the
+language he was used to hearing some of
+the acronyms did you did you find that
+you had that Advantage as well just kind
+of yeah I I I definitely feel that way
+and I feel that you gravitate towards it
+because um you know you have a love of
+service you just have a love of country
+and um you know although I didn't join
+the military there's always this part of
+me that either you know thoroughly
+enjoyed working for the dod contractor
+that my my dad was at that where he was
+vice president of that company um but
+then after that just always want you
+know when I've been teaching loving my
+military students and just always having
+that need to it's just like home you
+know because that's that's what I've
+been used to my whole life between my
+dad and my brother and all of our
+conversations and everything that we
+talk about sure did you guys move around
+a lot growing up or we did not have to
+move around a lot so I was born in Italy
+but um after that he was stationed in
+Virginia Beach for quite quite a large
+portion of his career he was lucky we
+did go to California for a bit when he
+was on the
+Enterprise um but other than that we we
+really did not have to move around as
+much as most people do okay well that's
+good and there's I mean I mean
+especially for the Navy it seems like a
+lot of people end up in California but
+military in general Virginia is there's
+so much going on there that it's pretty
+easy to spend a long you know long
+periods of time there and get multiple
+tours so um so at least it sounds like
+you had some stability growing up which
+is which is nice and then you also
+mentioned I think you said you were a
+high school teacher at one point is that
+did I hear that correctly right I was a
+high school chemistry teacher um for
+about I you know I was only say 23
+teaching 18 year olds and I had uh three
+different chemistries I had you know
+remedial Advanced and regular so I I had
+three different preps and uh it was a
+hard hard job I was working a lot of
+hours a lot of night hours and that's
+what made me tempted when my father said
+uh hey you know you should come over
+here and try this um I loved teaching I
+absolutely loved it it's just you know I
+was it was I was put into a rough
+situation those first two years that
+made me a little tempted to try
+something different okay no that's
+interesting is there a and this is just
+a side note so is that because you
+mentioned you're a chemistry teacher is
+there a rack and stack among the
+teachers like Oh I'm a chemistry teacher
+so I'm like at the top tier and like
+maybe like the gym teachers or the
+English teachers are like lower on the
+total yeah I mean when I was walking in
+in the morning and my my best friend was
+a gym teacher and he had a lunch boox
+and I had like this suitcase of 10 books
+behind me and a bunch of papers to grade
+and he just laughed at me like yeah
+we're getting paid the same oh that's
+funny
+the uh what and I I think it's
+interesting because in um when I was in
+the Acquisitions World on the Air Force
+side the engineers all had like this
+rack and stack kind of this uh this fun
+banter between them where you know the
+uh the mechanical engineers would get
+picked on like oh you guys are kind of
+the lower tier you're not up to where
+the chemical Engineers are and the right
+and that would go back and forth but um
+they all got paid the same so in the end
+just like your your friend it just
+didn't matter um well cool so that that
+I can't uh I can't blame you for wanting
+to kind of leave that and um you know
+kind of vector towards something in the
+the Government Contracting space
+definitely you know at least in some
+regards I would think less stressful
+than having to teach a bunch of high
+school kids um okay great so now you're
+you made that pivot and you started
+working in that realm and eventually you
+kind of found your sweet spot within
+cyber security and assessments um for
+everybody listening that's not from
+familiar with cmmc and fedramp maybe you
+could talk a little bit about what that
+is and maybe just to kind of set the
+stage because I mean as you know we work
+with a lot of companies through the
+Academy I work with a lot of companies
+Consulting since I've um since I've
+gotten out and even from my perspective
+as an Acquisitions officer I can
+remember very clearly finding Solutions
+software solutions to problems that we
+had and you know I talk a lot about the
+the first couple questions the
+acquisition officers going to ask
+themselves right so do they have money
+is this a requirement right which is
+they're not working on if it's not a
+requirement usually do we have funding
+that can be a little bit more tricky how
+can I put this company on contract right
+which is the contract vehicle discussion
+and you know we can talk about that if
+you'd like to but then right after that
+especially if it's a software if it's
+something that has to go on a government
+system or in the cloud now I'm asking
+does this company have an ATO anywhere
+are they have they been on contract do
+they have an approval to operate they
+don't have an approval to operate have
+they been through one of our cyber
+security processes have they you know is
+if it's an existing product does it have
+like different certifications that can
+make this easier for me to get an
+approval on because that approval
+process can take a long time and if
+you're trying to solve a short-term
+problem that that could be a big
+stumbling block so setting setting that
+stage why don't you tell us a little bit
+about fed ramp and CMM
+good I'd love to do that because there's
+a there's a lot of misinformation out
+there about cmmc um at number one where
+where its roots are and then also
+whether or not it's really going to
+happen so I on a daily basis I speak
+with companies that feel the heat coming
+and they feel it really coming now um
+and I'll talk about that too but um you
+know you talk a lot about DARS on your
+show and and the federal acquisition
+regulation and what a lot of people
+don't understand is that um you know
+this has been in the the far for a long
+time and people have been signing that
+they are doing it for a very long time
+so in uh in in the defar Clause there's
+a 7012 is what we call it um where they
+basically attest to the fact that they
+are doing
+8171 8171 is
+110 basic cyber security controls is
+what they call it um and its its Origins
+are from 800 53 which is used has been
+used in the dod for a very long time but
+these security controls are grouped into
+families and anyone who's on a DOD
+contract right now anyone every
+contractor in the United States who's on
+a DOD contract is already writing and
+signing the dotted line that they're
+doing those 110 controls so it you talk
+a lot about you know signing things and
+reading them and it's funny how you know
+people feel like cmmc is something new
+it is not new what the only thing that
+is new is
+third-party uh assessments so in the
+past the government was allowing DOD
+contractors to self a test is what we
+call it and they were doing so through
+the sprs uh system which is the supplier
+risk performance
+system and they are able to just kind of
+go through the 110 controls in 800 171
+and say yep we're doing that we got that
+we we did that you know I mean and every
+DOD contractor most of them anyway are
+just checking it oh yeah yeah we got
+that we got that because it goes into
+sprs and it's something that's looked at
+right alongside with their past
+performance it's in the exact same
+system with their past performance and
+that's what that system is meant to do
+it's meant to help the Acquisitions
+officer ra ra um kind of figure out or
+gauge the the level of risk associated
+with a particular contractor so um so
+now we have and uh we said that was 712
+and it has its iterations but it comes
+up to 7 21 where they say you know in
+2019 this is going to be a thing there
+is going to be a program called cmmc
+where there are going to be a there's
+going to be a program and there's going
+to be these thirdparty assessments every
+three years because what we found as
+they they went out and um I think this
+falls under dcma I can't remember for
+sure but they went out and started
+looking at the companies that had these
+110 scores and of course they found that
+they were far from uh 110 and so that's
+where the the origin for CMC comes from
+and and a lot of people don't realize
+that they were supposed to always be
+doing this and they get upset that they
+have to do it now but um really they
+should be more concerned with false
+claims and things like that because the
+government actually has come out you
+know very loudly lately and said um if
+you are putting incorrect scores in
+there you could be held accountable and
+so the next thing that you you get with
+all this is that a lot of people don't
+think cmmc is really going to happen but
+it's it's well underway and it's it's
+going to happen and um the first chance
+for rule making to be complete comes up
+this March um and it looks like they're
+on track so it looks like Ru making for
+cmmc will be will be completed which
+means it can begin to be worked into
+contracts after the 60-day comment
+period um and so they're not going to do
+that it's not like every contract the
+next day will have this wording in there
+but you will start to see contracts with
+the cmmc requirement just like contracts
+say you have to be you know have a
+facility clearance or you have to have
+this clearance or that clearance it'll
+be no different this will just be a
+section that says this company must be
+level two certified and that would be
+because the contract uh has cui sure
+which is controlled un unclassified
+information um and then if if they're
+not working with contracts that involve
+controlled unclassified information they
+will just have to get certified at level
+one which is 15 controls a little bit a
+little bit easier to tackle but but many
+many contracts have cui so we're talking
+about a huge portion of the defense
+industrial base that will need um that
+level of certification and so it doesn't
+matter what DOD does because it's
+already it's already happening like
+primes don't want to are they're worried
+they don't want to do business with
+companies that don't look like they're
+going to be able to become cmmc
+certified so we have a lot of companies
+coming to us because they're getting
+pressure from the primes and so I mean
+it does matter when DOD puts it in the
+contracts but I can tell you it's
+already here because the prime can do
+whatever they want and they can if they
+want to say we're not working with you
+unless you look like you're able to get
+this level of compliance and they can do
+that and so it's gonna really shake it's
+gonna shake things up a little bit I
+think uh once it's fully underway
+because uh it'll be interesting to see
+what happens if Ru making doesn't work
+in May um or or if they need to delay it
+it would be delayed a year and then it
+would most definitely happen the the
+next year I mean for small businesses
+this really makes makes a lot of sense
+hitting it now and knocking it out
+whether or not this you know comes to be
+in March like you were talking about um
+this is going to make their case for not
+only primes putting them on contract but
+also for the government so if you if you
+you know pitcher five companies coming
+in and they all kind of sell something
+similar and maybe one of them's been
+assessed for you know the cmmc
+requirements like you're talking about
+that's going that's going to you know
+give at least confidence on the other
+side like hey this this company at least
+has put something in place it's been
+verified and you know if if they not
+ated on any system at least that gives
+me a little bit of confidence that we
+can get there right like we're not we're
+not starting from scratch and like you
+said a lot of companies have been are on
+contract and they have these Clauses in
+there and a lot of companies don't even
+read the Clauses or understand them
+right so I shouldn't um I shouldn't say
+that um you know offand like a company's
+just signed any contract and a lot of
+times they just don't understand the
+exactly no you're you're you're right
+and it's not that anyone's um
+purposefully you know and there there's
+actually a lot of uh back and forth
+right now you know where you know
+contractors are calling out to the dod
+for help I mean there is there's things
+like project Spectrum um which is
+supposed to help small companies you
+know to to get to where they need to be
+and they I know that there are going to
+be efforts to try to help companies get
+to where they need to be but it is quite
+quite the Steep uphill battle for some
+companies um and it's just
+you know for a company of one or two
+people it's a lot to do um but there are
+ways to do it uh that are are much more
+simplistic and and cost effective than
+other ways by the way as far as what we
+do in the cmmc ecosystem and I should
+have said this before I got started I
+was accepted into the provisional
+assessor and instructor program there
+was there's about less than 200 of us in
+the United States right now and this was
+before they actually were ready with the
+official certifications um for assessors
+and so they they had these requirements
+and you could apply and if you got in
+you would be in that first uh swing of
+of assessors um that is going to help
+with those you know with the assessments
+when they're when they're underway right
+um but I'm actually a candidate because
+I'm waiting on suitability that's all
+that I'm waiting on and a lot of us are
+waiting on suitability so just like
+other clearances we have to have a
+clearance for that and they're taking a
+long time we're also a licensed training
+provider for the CMM cab so we're in
+official licensed training provider and
+I would say if somebody was trying to
+figure out how to really do this on the
+cheap the best thing they could do is
+send one of their people to that
+training because it does two things you
+won't get ripped off by there's a lot of
+people out there trying to pray on the
+fear of companies that are scared about
+um cmmc compliance and they're not
+really doing what they say they're going
+to do or getting them to where they need
+to be so if you send somebody to class
+you learn about the whole thing front to
+back back to front and you can't get
+taken advantage of and the other thing
+is you can do a lot of it yourself you
+after you get out that class you're much
+more confident like hold on we could
+knock out a lot of this without hiring
+anybody so oh that's awesome well I can
+tell uh I can see you still have the
+passion for teaching so yes yes see I
+told you I can't get away from it I
+still no matter what I still there well
+I mean it's I mean it's a talent to be
+able to break down something complicated
+like this and this is this is probably
+the the clearest uh you know instruction
+I've ever received on it so that's
+really good now how does that relate
+because you know in one hand i'm I hear
+cmmc all the time the other I hear
+fedramp right can you tell us a little
+bit about the FED ramp process and what
+that is and is it related at all so
+fedramp it was originally attend
+intended I'm I'm not a fedramp expert by
+the way but I do know some things about
+it um so that is a separate
+certification program really for a
+different purpose it was meant to
+certify cloud service providers so that
+we can trust all of those things to be
+true about that cloud service provider
+so they have a very rigorous set of
+controls not not exactly like 871 but
+but some of those and then even more
+that would apply to a cloud service
+provider and they undergo very heavy
+scrutiny um by the fedramp assessors to
+get that stamp of approval and then you
+can assume that a certain level of
+security is being utilized by that
+provider uh where you're storing your
+data and it looks like there's going to
+be some reciprocity between CMM
+and fed ramp but you have to understand
+like how far that would go that just
+means like if there are certain controls
+that have to do with storing your data
+and there are and you're storing your
+data up in a Fed ramp compliant or sorry
+certified cloud provider then they will
+accept certain things to be true based
+on that alone and that would help you to
+check off some of the 110 controls but
+not all so there's all types of vendors
+out there um software you know could be
+SAS you know software as a service or
+infrastructure as a service and they're
+like oh yeah we'll get you all the way
+there with just this product just buy
+this product and you're done with cmmc
+if you really looked at the cmmc
+controls that's impossible because there
+are so many controls that have nothing
+to do with Hardware or software they
+have to do with you screening people
+before you hire them they have to do
+with your physical security and locks on
+doors and um you know all types of
+things that are outside of any software
+product and have nothing to do with
+anything that a soft a product or a
+cloud service provider could ever
+accomplish for you so fed ramp again is
+just it it is a highlevel assessment and
+there are different levels you can get
+but you know there's like fedramp
+moderate or whatever but it's basically
+saying that you can trust that that
+cloud service provider has all of these
+controls in place on a consistent basis
+and your data is safe and okay
+interesting so NOP go ahead no that's
+what that is about go you go ahead no I
+was just going to ask so if I was a soft
+Ware company and I was and it was a
+cloud-based software solution fed is
+something that would probably have to
+take place at some point so it's it's a
+it's a long and hard process to do that
+I think it's probably fairly expensive
+for um for a provider to do that but the
+most respected providers are doing that
+so yeah but they might not need cmmc
+certification if they're a cloud
+provider so this is this this is such an
+interesting and highly debated topic
+right now and you could take this topic
+to um just manage service providers
+right so let's talk about all those
+companies out there most of these mom
+and pop shops have a managed service
+provider they don't do their patches
+they don't do all of their basic it
+security needs they don't know how they
+have someone that does that for them
+well that's going to be a pretty big
+problem with cmmc um and you that would
+be a whole another topic but right uh
+yeah they they the so if I ask that same
+question you just asked about a cloud
+service provider or an MSP they're kind
+of equivalent if your COI is touching
+anything to do with those entities or
+they have access to your cui they are
+going to become part of your cmmc
+assessment so they they will be
+something that we have to look at and
+they will be something that we have to
+assess interesting unless we get that
+stamp of approval where they where you
+know the Cyber AB or the dod says oh if
+they're fed ramp certified you can
+assume that this this this and this is
+done but we haven't gotten any of that
+yet so right now if you tell us there's
+a CSP or an MSP um especially the msps
+if you just you should see what I see
+when I go out there and these msps the
+some of the practices that they have um
+I wouldn't say they're wrong or dirty or
+anything like that they're just never
+ever going to pass the cmmc assessment
+with those practices you know sharing
+accounts among multiple employees things
+like that that that's really good to
+know and I think a lot of uh businesses
+listening to this are probably going to
+take that to heart and maybe call you at
+the end of this end of this podcast so
+it's it's more complicated than you know
+just saying hey I'm a cloud service
+provider I might need to go through the
+FED ramp process but I may or may not
+need cmmc I think it's really at the end
+of the day it's going to depend on what
+program are you working on what office
+are you working with what is the
+solution for and what are their
+requirements what are they requiring you
+to do what what are you touching are you
+classified information are you like you
+said cui are we are both on premise and
+in the cloud I mean so there's there's
+so many different variables dictate
+exact and that's why you really do need
+help because it is so complicated um
+when you begin to try to apply the 110
+controls to all of those variables that
+you're talking about um it you probably
+are going just like the same way you
+hire a loyer for certain things and and
+um you know an accountant for that right
+type of matter the same thing here you
+really need someone that understands how
+to make it work and the name of the game
+is something we call reducing scope and
+that is to do exactly what you said to
+put your to change the culture in your
+organization so people stop emailing
+downloading printing cui you've just
+solved a ton you've just saved yourself
+a ton of money if you can get that
+change to occur and if you can put that
+data up in the cloud and have them work
+with it in a in a cloud service provider
+that is fedramp certified you again and
+they never download they never print and
+and if you get get it to the point where
+as much as possible that's what's going
+on that's where it becomes a much easier
+certification process yeah I mean my
+advice to any small business in you know
+we focus on small businesses on this
+show large businesses listen to it also
+and you know people from those
+organizations but they tend to have a
+better once you are a large business
+espe if you're in you know a Technology
+field or software you know anything
+that's going to require one of these
+certifications they tend to be further
+along and have teams of people and
+whatnot but right um but not there's a
+lot of large businesses out there that
+you know haven't uh you know haven't
+gone through the process or started
+either but I would say you know as a
+small business you know if you're
+listening to this I can tell you just
+because I'm in it every day I'm seeing a
+lot like the new requirements that are
+coming out they are right from the gate
+saying hey we are expecting you to
+either and they'll talk about fed ramp
+they'll talk about cmmc but the security
+requirements involved are becoming more
+and more of a mandatory not a and and
+again there's a lot of things that are
+going to come out and change over the
+next couple years but you know my advice
+is start thinking about this now start
+making some moves even if you can't
+accomplish it all at once you you don't
+want to be you know at the doorstep of
+the government with the solution that
+they want and you you haven't even begun
+the process of any of the requirements
+for fed ramp or cmmc and there's some
+other things out there you want to have
+done something so um so and you kind of
+touched on it anyway but hey what what
+what if what's your advice for that
+small business a small business that has
+a great solution they haven't started
+any of this maybe they're hearing it for
+the first time or maybe they've heard it
+from you know their potential customers
+and now they're listening to you you
+know what what are some first steps that
+they can take I would say some of the
+first steps that you can take are to if
+you already have a contract to talk to
+your Contracting officer they they are
+going to be the source of whether or not
+you need to be certified at a certain
+level and you always want to think about
+you know there's going to be this level
+one or level two certification or even
+level three you want to think about the
+types of contracts that you're going to
+be going after over the next three years
+not just today it doesn't matter if you
+don't have a contract with cui right now
+do you think you're going to want one to
+bid on one because it's it's you must be
+certified at the time of a ward once
+this starts to happen and so the first
+step is to think about the contracts
+that you already have or you might want
+to bid on and whether or not those
+contracts would expose your company to
+see you on that's the biggest question
+once you figure that out you really want
+to do something that we call reduce
+scope that I just said so you're trying
+to start changing your culture to where
+you think of ways if you have home
+offices that you begin to limit printing
+downloading and these types of things
+and really think about how your home
+offices are being managed right now
+start to think about your MSP if you
+have someone helping you with your it
+and their practices and take a look at
+8171 it's it's not it's it's plain
+English it's not that hard to understand
+a lot of it and then Mark the ones that
+you do understand and you don't
+understand and start to think about what
+you might have to have somebody help you
+with um and maybe take maybe you're
+pretty technically Savvy maybe you could
+go to cmmc training if not um then
+you're going to need to try to find some
+help from someone that can you're going
+have to start budgeting for someone that
+can come in and help you get there but
+I'd say my my uh my answer is that you
+know Microsoft commercial is a good
+choice for people that don't have FC um
+don't have cui if you have uh cui you
+might be looking at needing GCC High
+which is the more secure government
+version of of Microsoft's Cloud product
+um and by you even though something like
+that might seem very expensive to you
+they've kind of taken away the licensing
+where you had to buy this many licenses
+like a huge number it might be worth it
+you may find that the cost of that
+license is less than all of the
+Consulting and all of the work that you
+would need to do on premise if you don't
+move to something like that and change
+your culture towards something like that
+interesting no that's that's great
+advice and like if they want to look at
+800 171 they can just Google it and oh
+yeah it's not like you know document you
+have to request from the government most
+things absolutely not just go go to this
+website and there's also 800 171a which
+is a little bit less wordy and it's just
+the requirements and their objectives I
+like that one it has an a at the end and
+that one is a really good one for people
+to look through all right good and of
+course they can call you if if they need
+absolutely yeah please do great so okay
+so you've helped us and myself have a
+better understanding of this um you know
+over the past what 20 30 minutes or so
+here what's next for you and your
+business what what are you trying to do
+now what are you trying to accomplish
+you know can we help what's what's going
+on so I think you and I talked a little
+bit about you know the cmmc thing I
+always believe in Insurance like
+everything I've ever done in business I
+always have a backup plan so I won't say
+that cmc's my backup plan but I try to
+go kind of two different ways towards
+the same thing you know knowing that one
+like I told you some years it was Cisco
+that was making me money and the other
+years it was Microsoft that's always
+been kind of my plan of attack and so
+you know as I've gone into the try to to
+win a government contract some of the
+things I've done um is I kept that the
+the cmmc part of things going and that's
+been making me you know enough money to
+sustain me doing the business
+development on the government side of
+things and so what I've done during that
+time is I got um you know Hub Zone
+certified for example I went and got
+edwosb I applied to the adaa program
+like I told you and that's pending and a
+lot of you know I hear people I can't
+tell you how many times like when I
+would go do hubzone somebody said oh
+that's going to take forever you have
+all this and that to do and people are
+always telling you how hard something's
+going to be it's it's impossible you
+can't get on that that's what they said
+about AA but I still try anyway you know
+and I always like see stars aligning so
+like when I did all the paperwork for
+the Hub zone or I did all the paperwork
+for the edws SP I'm like well why
+wouldn't I just take a shot at 8A I've
+got 75% of the paperwork now you know
+and I had to get all this financial data
+perfectly in place to apply to any of
+that stuff so I just kept going with it
+where I'm like you know since you're
+you're already losing money because
+you're spending all this time working on
+this stuff it's not going to hurt you to
+spend one more week doing this other
+stuff which is about what it will take
+and and that's been happening a lot but
+every time that I do that sacrifice or I
+I take that step it turns out awesome
+like when I got the Hub
+Zone it's not that it led to more
+government contracts but what it did
+open the gate to is the 7j program and
+that automatically gave me access to bid
+speed so some somewhere that I can
+manage my contract somewhere that I can
+look and filter and sort through sam.gov
+um all these little things always end up
+leading to something else you know so
+like uh I've been finding that a lot
+with different things that I'm doing
+where I'm like oh that okay this is this
+huge ladder I'm climbing and each one of
+these is like a rung in the ladder and
+it feels like the ladder keeps getting
+longer and longer by the way like right
+when I think I'm there I realize wow you
+know nothing at all you have so much
+more to learn um it's kind of
+overwhelming when you're when you're
+trying to learn all of this about the
+contract in world but some of those
+programs have helped with that learning
+um they've opened up the door to a lot
+of video training and then I you're so
+when I say that I studied a lot a lot of
+my studying was done through audio so I
+consider listening to your program audio
+studying and I listened when I first
+oned your program I listened to it
+probably each episode twice I do that
+with everything I listen to it twice
+because when you're listening you kind
+of lose a little bit of it um I mean you
+fall you probably fall asleep during
+half of it
+no no no I don't I don't but you know I
+definitely was hearing your um your
+Mantra about uh relationships which it
+seems like I'm bubbly probably but I H I
+do have a lot of trouble um going out
+and just you know feeling like I'm a
+bother to someone or calling them or
+asking for a favor or asking you know
+for things and and so I would listen to
+you talking about forming these
+relationships and I'm I just
+kept listening to your coaching and I
+just started following a lot of that
+because what I was doing was all in my
+own head I was doing all of this work
+but I was missing you know I wasn't
+taking the time or putting enough focus
+on the
+relationships um and so I'd say that's
+the biggest thing that I've gotten out
+of your
+show is these relationships the same way
+that I said some of those other steps I
+was taking led to better things the
+relationships are are interesting in
+that way they never lead to what you
+were expecting but they lead to
+something really good um and so you know
+I would I I began to finally start
+bidding and uh when I started bidding I
+was you mentioned it the other day cyber
+security is so competitive you've really
+got to figure out what your plan of
+attack is and
+so I you know an example I I gave you
+once before is I saw some training for
+industrial control cyber security which
+is a very Niche part of cyber security
+it has to do with you know all of the
+controls that are used to operate
+manufacturing equipment scada all that
+stuff yeah um and so I was like well you
+know I I definitely know cyber security
+very very well and I know training very
+very well but what I don't know very
+very well is industrial controls and so
+I just Googled like who's the best at
+industrial controls who is the like
+go-to guy but I didn't mean the best
+like the person selling the most I meant
+the best like the nerd who's the guy
+that really knows industrial control so
+I found this this doctor Michael um I'm
+forgetting his last name right now um
+but he uh was the best and he was
+already doing a lot of work with
+building training programs for the
+government so I just took a shot in the
+dark and called him and he's like
+actually I said you know there's this
+RFP out there on uh GSA hacks which you
+know were were awarded on that and I
+said uh and the cool thing about that is
+not a lot of people are on it so they
+don't when you bring them something
+they're like oh I didn't even see that
+where did you see that at yeah um and so
+I he was like well I I work with this
+other company whenever there's things
+like this or opportunities like this
+would you let me put you in touch with
+them um and so he did and they said yeah
+sure you can put our name down on the
+the response to the RFI which was a
+request for information and I got to
+know them a little bit better so now I'm
+talking to this completely different
+company yeah um that has not just that
+they do a lot more uh than just what I
+was asking about and they work closely
+with that expert and uh so I put them on
+the RFI and then I remembered something
+else you said so I didn't hear anything
+for weeks and weeks and weeks and I'm
+like I think he said that it's more than
+okay to reach out during this time
+because there is not a solicitation out
+and this is something he's been
+preaching over and over so I'm just
+going to try to email directly this the
+guy whose name was on the RFI
+and I did it and we got our meeting and
+it was so cool once I got that meeting
+here I am you know coordinating these
+experts that I've never met but I'm here
+here I am getting to interact with them
+and at least learn from them and the
+whole point is I might not win anything
+off of this but I just learned a lot
+from a lot of different people um and
+I'm and we might have a really good
+chance of winning it as well so we go
+into the meeting and um and can I ask
+who who's in the meeting Okay so so in
+the meeting was the representative for
+the Air Force who was the the the dod
+entity that was asking for the work okay
+and then
+um uh the other company's name was
+Spectra okay and then uh they were
+representing the doctor that I was
+talking about that's the expert with all
+of the industrial controls sure and and
+there were a few of their their
+industrial control experts in the
+meeting as well so there was about five
+of us so it was uh the government
+brought two people we had three people
+from the other company and then myself
+and I made sure to lead that meeting
+because I knew that I was the one that
+had um you know gotten the meeting and I
+knew enough to make sure that it was
+clear in the eyes of the dod that you
+know I was the one that was on the GSA
+and this type of thing because I've had
+that happen too where things get swept
+away yep um but it went it went really
+really well and uh the it what what went
+the best was how thankful the dod was so
+we were bringing we were through that
+company I was able to bring them
+information uh that they didn't have
+already um they they were just kept
+saying man you have no idea how much
+this is going to help us write these
+requirements and get this out a little
+bit faster and I just kept saying okay
+well don't forget you know I I am on GSA
+hacks I'm hoping that they'll put it out
+on Hacks because it is a limited
+audience um but I just used a lot of the
+things that you taught me during during
+your lessons and all of that and uh and
+so that's how I've been using some of
+the things that you taught me and uh so
+we're still waiting for that to come out
+but some advice that you gave me during
+the training sessions was uh in order
+not to miss it I need to understand that
+it might not come back out on GSA hacks
+it could come out anywhere and so uh
+just setting up those filters and the
+different tools to make sure that I
+don't miss it I thought that was just
+really really good advice cu
+it could be called something different
+it could show up on a different vehicle
+could be really easy to miss that so
+first I mean you you did an awesome job
+there and it's actually a really great
+example of exactly what we we talk about
+all the time right which is and people
+have talked about this too on some of
+the other episodes right which is you
+know they're a little intimidated
+talking to the intimidated but some
+people have said hey we're a little
+intimidated talk before we you know
+approach the military talking to the the
+dod Contracting guys but then when we do
+it's the same experience you have like
+humble and gracious and thank you for
+you know informing us because you're not
+the experts I've said this a lot but you
+know you know I wasn't the expert at
+cyber security or you know drone
+software or you know you pick you pick
+the um the technology and so when you go
+in there and you're bringing these
+subject matter experts with you now all
+of a sudden you're really helping out
+their team and and you are helping them
+write the requirements and this is this
+is you know the other half which is hey
+you know now that we're actually focused
+on the market research phase because you
+hear small I hear small businesses and
+in larged businesses a lot will say oh
+well you know defense Contracting is
+rigged because you know this contract
+looks like it was written for certain
+company well no it wasn't Rigg you just
+didn't understand that there was a
+market research phase or you just didn't
+take the initiative to participate
+during that phase and so that's where
+the government you know helps write the
+requirements for the and that's what you
+did you helped them write that so now
+you know more than your competitors
+you're going to understand what's really
+what they really want because you've
+talked to them you've helped them you
+know put what you need to in there now
+they know you and they know your team so
+you know like I've said I mean they
+usually I usually knew who I wanted to
+put on contract I didn't always get to
+hire them but so they probably know that
+you know what you're talking about now
+and that you have a solid team put
+together and that's and and you have
+that relationship I mean there's so many
+benefits out of what you just put
+together that um you know again whether
+you get awarded on this one or not I
+think that that's going to you know you
+just keep pinging them and you know that
+keep that ball rolling well some
+hypothetical questions about what you
+just said do you mind if I ask a few
+yeah no go ahead okay so uh first I just
+wanted to say that although I I did I
+did make sure that they knew I was the
+lead on the project I knew enough to sit
+back and not say a word after that
+because these uh the company I'd come
+with they were so impressive and they
+really had um just true experts in the
+field and so they are amazing and I I
+I'm worried their name is either Spectra
+or Spectrum I want to give them credit
+um but uh my question was you said to
+keep pinging them and pinging them can
+you talk a like so after that I felt
+like they had kind of just said this is
+awesome thank you so much and then we
+did send a follow-up email which they
+were extremely you know like wow what
+you just sent us is unreal good like
+very very helpful yeah but then after
+that I didn't to be tooo pushy how long
+ago was that that was about a month and
+a half ago okay yeah so and they said it
+would be over the next four months yeah
+so no I would now is perfect time for
+you to so they said that it would be
+sometime in the next four months the
+solicitation would come out yeah so I
+would definitely send them an email
+today um I probably would have done it a
+week or two ago but so and again you
+don't want to send them an email every
+week because you're going to be kind of
+pestering at that point right but right
+you provided a lot of value right so I
+think that you know if you're reaching
+out to them once a month or so once
+every five weeks um just to say hey um
+you know just touching Bas this is the
+email I would write something along the
+lines of hey just want to reach out and
+make sure and I will probably reply to
+the last response they gave you just so
+they kind of have that history fresh in
+their minds just wanted to see if you
+needed anything else from us for the
+upcoming
+solicitation also wanted to see if you
+know because we're just we don't want to
+miss it is it you know still coming out
+you know is it going to come out on GSA
+or you know have you made that decision
+yet um you know try to get try to get a
+timeline I would throw something out
+like that okay you know then they you
+know they may respond oh no has we
+haven't decided yet you'll be the first
+to know or or you know keep an eye out
+on sam. depending on who you're talking
+to it sounds like they you are you have
+a good relationship with them or they
+might be like hey um yeah glad you
+reached out we decided to go um you know
+we have a new vehicle it's this or hey
+we're gonna put it on NASA suit you know
+exactly then you would have you would
+have missed it so now you know that um
+you need to partner with a company that
+would be on NASA soup to get in there
+and and do that here's my hypothetical
+question um you've been touching on this
+a lot lately but I think this is a good
+scenario where it's actually uh you know
+relevant so the 8A let's say that we had
+had that exact meeting that I told you
+about and I had I had actually been
+awarded um through the SBA on Ada M what
+could I have done with that during that
+because he said during the meeting um
+some I know he mentioned the word Soul
+Source there's nothing here for us to
+Soul Source it or something like that
+how when does that happen this thing
+you're talking about where they can make
+the choice to Soul Source would it be
+before that after that during that
+conversation yeah
+so when when you say before during so
+you could say all of the above but
+really that conversation's probably one
+of the best times to bring it up um if I
+couldn't get a meeting with them I might
+bring it up before that but so you're
+you're not the first thing you did what
+you're supposed to do which is you're
+not selling your certification you're
+selling the solution that you can
+provide right so you've already proven
+yourself you're a subject matter expert
+you've obviously helped them a lot in
+building out requirements on the
+upcoming
+solicitation now you want to make it as
+easy as possible for them to put you on
+contract so uh what that means if you
+have the adaa certification is there's a
+language in there that can make it
+easier for them to give you a soul
+Source contract um you can because if if
+they wanted to Soul Source uh give you a
+soul Source contract right out the gate
+and I wasn't in the meeting and I don't
+know all the requirements here and I
+don't need to but um you know if they
+want to give you a soul Source contract
+without any help I guess you could say
+from like a certification or some um or
+like if you were a a cber phase 2
+graduate um you know there there are
+certain things that make it a little bit
+easier to give uh give a soul Source
+contract if you know that aside you
+would have to have something so unique
+that no other company would have it
+right it was like proprietary maybe or
+like or it would cost the government so
+much money and so much time with another
+company to build what you already have
+that they could justify giving you a SLE
+Source contract and there's a lot more
+that that go into that I don't there are
+shows out there that you know Focus
+solely on like the fire Clauses and the
+Contracting piece but but you get the
+gist of it you need to it is it is
+incredibly difficult to make the case
+for soul Source Contracting unless you
+actually have ways of kind of getting
+around that and by the way also all
+Contracting officers don't necessarily
+understand like hey you're a cber two
+grad I can make it it can make it easier
+to give a soul Source contract or AA
+certification or even sdvosb there's
+some language there too and I'd actually
+want to look into your Hub Zone
+certification and see if I could find
+anything um okay anything along those
+lines but adaa in particular um what I
+would have done is during that meeting I
+would have said hey you know we're on
+GSA but we're also adaa so and I know
+that that can make that easier for you
+to um produce a contract you know and
+I'd say it like not yeah you know but
+you know if you're just kind of giving
+it to them like you're like hey here are
+some ways that it can be easier for you
+to provide a contract and if that team's
+comfortable every team's different right
+but that team may be comfortable very
+comfortable with giving a contract to an
+adaa company because that's part of like
+the value of having that certification
+is it can make it easier to you know get
+some initial contracts um you know for
+you know just because of the you know
+criteria involved in getting adaa to
+begin with so anyway that's that's how I
+would have done it um you know I would
+have done the same thing if it was cber
+Phase 2 by the way something else I
+would do is I would have that language
+right so they might they're not gonna
+like they're and I was on that side of
+the table right they don't have the fire
+memorized right they've got a hundred
+things they're trying to put on cont
+contract and yours is just one of them
+but so if you have a special way to put
+someone on contract you say Hey you know
+here's the language um in the fire that
+allows for something like this
+especially with like the cber because
+that's less known but even with adaa I
+would also have that and then you know
+maybe homework assignment is read
+through that Hub Zone certification um
+for you and um and I do have a you
+mentioned DC may I have a great he was
+on one of my podcasts col warendorf I
+don't know if you remember that episode
+but I do I do yeah he's he's amazing
+with that type of thing he really
+understands the um the specifications
+involved and you know when you can
+actually use something like that and
+he's actually helped us with other
+students and clients like put language
+together for soul Source Contracting and
+for other things related to that so um
+yeah anyway so Ju Just some food for
+thought but that's how I would do that
+and by the way so now let's go to the
+next step if there is anything in that
+Hub because I'm I'm constantly learning
+right um if there's anything in that Hub
+Zone
+certification that can allow for ease of
+cont Contracting and I don't know like
+it's just I'd have to read through it
+then I would absolutely be using that
+and offering that to them so maybe you
+could read through that first before you
+send that's a good idea because I yeah
+okay I will do they know your Hub Zone
+certified um I'm not sure if I harped on
+that that day because I probably didn't
+know it was uh beneficial I I I thought
+it was more of I need to try to bid on
+things where it's been a set aside for
+Hub Zone I didn't didn't even realize
+that it could be used used in a way uh
+other than that and I don't by the way I
+don't know that it can yeah you never
+know that you're right I need to read
+through now if I go into sam.gov and I
+rightclick on my you know my report um
+is that where I'm looking for the
+wording in my Hub Zone thing or
+where actually in the far yeah I was
+actually just trying to look it up for
+you here but it's just with the zoom
+call it's making a little bit uh
+difficult but yeah no I would look up
+The Hub Zone in fact I'm just typing it
+in right now just to see I had another
+former a former Contracting officer
+actually I was talking with that is a
+service disabled vet and he was talking
+about how that
+certification you know in and this is
+what he's done in the military as a
+Contracting officer that sdvosb
+certification has allowed him to put
+companies on contract uh so without a
+competition a little bit easier and I
+didn't know that so this is far 19136
+Contracting officer shall consider a
+contract award to Hubs own small
+business concern on a soul Source basis
+before considering a small business set
+aside provided none of these exclusions
+apply and then it talks about and and
+there's going to be um you know there's
+some stipulations here uh reasonable
+expectation um that officer would be
+received from two more Hub Zone small
+that sounds like one of the um because
+if you're going to set something side
+for a certain um set aside usually there
+has to be more than one right I've had
+I've had other hubson companies approach
+me about this you know where they're
+like we need you to bid on this too so
+that we can get it as a set aside so I
+would I would read through it and you
+know see see what you think there's
+probably a few more things you could do
+with Google just to um you know
+understand you know where it's been done
+before and some of and by the way I
+would just throw it out to them too like
+hey we didn't talk about this but I'm
+also hubzone I don't know if that makes
+a difference I mean you can just kind
+throw it out there like hey you're the
+expert not me so you know you tell me
+and and I've by the way I've also run
+into teams that even though the
+government can do something that doesn't
+mean they have to right so some teams
+might be comfortable with adaa and soul
+sourcing where others are like nope
+we're competing this and that's the
+direction they're getting and so I mean
+don't fight with them you know every
+team's a little bit different just offer
+them offer them different you know paths
+and they'll pick one and keep you in the
+loop right exactly
+cool well uh Corin this has been awesome
+is there anything that you would like to
+throw out there maybe you know where
+people can reach you you know your
+website if they can they find you on
+LinkedIn that type of thing absolutely
+so I'm on LinkedIn as Coran wise of
+course and I I post all types of thing
+helpful content that has to do with cmmc
+for those that followed that part of the
+podcast and we curious for more
+information um and then uh our company
+website is WTI networks with an
+s.com and so we're also on the GSA for
+hacks which is all of the uh penetration
+testing vulnerability scanning high
+value Asset um threat hunt and we're
+also on the GSA for Health it which is
+another good Niche and then our general
+Professional Services so we can do
+business through that and uh we're here
+in Northfork Virginia if you want to uh
+meet locally I'd love to meet and have a
+cup of coffee if you need help or with
+your cmmc journey or anything else
+related to things I talked about in the
+podcast I'm I'm I'm all about
+mentorships I've had amazing mentors and
+uh I'm hoping that I get to a point
+where I can pay that back so um awes
+always here to talk in in one way or
+another great no that's awesome thank
+you for coming on this has been a great
+conversation both in regards to cmmc and
+fed ramp and to you know just your
+journey I think people are going to be
+inspired by what you've been doing and
+I've learned a lot I think a lot of
+people out there have as well so thank
+you thank you so much for having me
+today all right well hey everyone if you
+want to learn more about what we do you
+can go to dog contract.com cor is giving
+you all of her information so you can
+reach out to her you could certainly
+shoot me a note to and I can uh match
+you with her as uh she's in the academy
+and has been around we know her pretty
+well so thanks again for listening and
+we'll see you next time
+[Music]

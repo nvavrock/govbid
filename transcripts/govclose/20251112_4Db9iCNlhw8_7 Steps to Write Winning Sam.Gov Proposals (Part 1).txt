@@ -1,0 +1,398 @@
+Kind: captions
+Language: en
+You found a solicitation on sam.gov and
+now it's time to write a proposal. But
+how do I write a proposal? There are
+hundred little rules and 100 little
+things that could kill your proposal
+before you even get it off the ground.
+In this module, I'm going to show you
+how to read the solicitation, the
+request for proposal, in the same way
+that a government evaluator is actually
+going to score and decide if it wins or
+not. I'm going to show you how to build
+a simple outline in a first pass
+compliance matrix. By the end, you'll be
+able to build a simple outline in a
+compliance matrix so you can avoid the
+traps that even smart teams that have
+been doing this for a while fall into
+when they're writing proposals to win
+government contracts. And here's a quick
+note. I never tell anyone to just go
+find solicitations and write proposals.
+If you've watched my channel, you know
+that most contracts are won sometimes
+months or years before a solicitation
+even comes out. There's a whole market
+research phase that comes before the
+solicitation. So, if you're watching
+this, my hope is that you have been
+working an opportunity, whether you
+identified something as a source of
+sought, you found a opportunity and
+acquisitions forecast, setting up
+meetings with the government, working it
+through all of the steps that we talked
+about in our other videos to the point
+where a solicitation finally comes out.
+So, this is the end, but it is one of
+the most important things to get right.
+A lot of companies have failed at the
+very end when the solicitation comes out
+because they didn't put enough care and
+attention into writing a proposal for an
+RFP. So, I'm going to make sure that you
+know how to do that correctly. Why do
+proposals even exist? And what are
+evaluators actually looking for? Look,
+the US federal government runs on rules
+and federal contracting is probably the
+most complicated and painful example of
+all of these rules. These rules exist to
+ensure that there is competition among
+companies that are going after
+solicitations to win contracts. If
+you're responding to an RFP, then these
+award decisions are going to be based on
+evaluation factors and significant
+subfactors. When you're in the proposal
+writing stage, it's essential that you
+actually start digging into what is
+often referred to as the FAR. But what
+that acronym stands for is the Federal
+Acquisitions Regulations. I want you to
+go look at the Federal Acquisitions
+Regulations. You can go to
+acquisitions.gov and you can pull it up
+there. There's probably several other
+places that you can look at the FAR
+proposals concerned because you might
+have the best product or service on
+earth, but if you mess up just one of
+the evaluation details or you don't
+understand one of the FAR clauses, you
+could lose the entire contract. We want
+to make sure that we are being very very
+accurate here. So, I want you to look up
+FAR15.304.
+So, 15304.
+Now, many offerers, many companies are
+going to write a proposal. They read the
+solicitation that the government puts
+out from front to back and then they
+just start writing. So they miss the one
+truth that governs the entire process.
+Section L. Now section L is going to
+tell you how to submit the proposal.
+Section M is something else you won't
+have paid particular attention to. This
+tells you how the federal government is
+going to score the proposal. So what
+we're going to do is we're going to pull
+section L and section M. We're going to
+use section L as the outline of your
+proposal. So this is where the outline
+comes from. So where do you find section
+L and section M. So when you go to
+sam.gov and you find the RFP, there are
+going to be some instructions and
+overviews right on the page you go to
+and all. Now you may see section L and
+section M embedded in an attachment that
+you can download from SAM.gov, but you
+may not see anything called L and M if
+you're looking at a RFP, right? Request
+for proposals. So we're not looking at a
+request for quote. This is an RFP. So
+now you're thinking, Rick, there's no L,
+there's no M. You're full of it. I want
+you to just pause.
+And now sometimes, because these
+solicitations are written by people, and
+they're not the same people, they may be
+using different terminology. So you can
+look for instruction to offerers, you
+can look for evaluation factors. So
+instruction to offer would just be an
+alternate way of defining section L. And
+evaluation factors would just be an
+alternate way of saying section M. Okay,
+if you don't see the alphabet soup,
+that's okay. But we're looking for the
+instructions to offers and we're looking
+for the evaluation factors and we're
+going to pull those out. That's step
+one. When you have downloaded section L
+and section M, I want you to take a
+highlighter and anytime you see language
+that says shall, must, will, any words
+like that, you want to highlight those.
+Anytime you see that, those are things
+that you are going to have to adhere to.
+Whether it's the instructions or the
+evaluation factors, these are going to
+come into play later. And you can
+highlight that while I cover the next
+topic because you may have heard me
+mention that we're talking about a
+request for proposal, an RFP, not a
+request for quote RFQ. Well, Rick, I'm
+looking at an RFQ. So, what are you
+talking about? When you're responding to
+an RFP, this offer is called a proposal.
+When you are responding to an RFQ, this
+is not a proposal. This is a quote,
+price quote. And a quote is not an
+offer. What does that mean? What's the
+difference? Here's the difference. When
+you respond to an RFQ, you are just
+giving the government a quote on
+products or services, but a contract is
+not going to be awarded off of that.
+What the government does is then they
+produce an order. So if they like your
+quote, they will order something from
+you. Hey, here is the order, Mr.
+Contractor, and then you do not have a
+contract until you accept that order.
+Okay, so this is a big difference.
+Reason I'm bringing up RFQ during this
+proposal writing process is a lot of
+teams will take their RFP habits and
+principles and just without even
+thinking about them, they'll use the
+exact same, you know, templates and
+their strategies for an RFQ. I just want
+you to be aware if you are responding to
+an RFQ, you want that RFQ response to be
+crisp, clean, straight to the point,
+especially when we are talking about how
+much narrative to include. RFQS are
+governed by FAR part 13. RFPs are
+governed by a different part of the
+federal acquisitions regulations. That's
+part 15. A good rule of thumb is when
+you're writing an RFQ, we're not writing
+a novel there. On the other hand, we may
+be writing a novel for the RFP depending
+on how big it is. Okay, so now you have
+section L all highlighted like we talked
+about earlier. What are we going to do
+with that? You open section L. You want
+to mirror its order exactly for your
+headings and your subheadings in the
+outline you're putting together for your
+proposal. So, I'm going to read this.
+Section L says volume one technical,
+volume two, management, volume three,
+past performance, volume four, price or
+cost. Then that's your skeleton, right?
+That's how we're going to do this. It
+always bugs me a little bit when people
+are selling proposal templates or giving
+the how-to on writing proposals, and I
+want to be very specific. Every
+solicitation's different, right? we
+really have to before we start writing
+doing anything we really have to
+understand what is the government asking
+for and that's going to potentially
+change around the entire structure of
+our proposal. So section L and let's
+mirror what it says in there and make
+that our outline. Now here's a big
+takeaway that most people are not going
+to tell you and keep in mind I was on
+the government side right? So I was a
+program manager for the Air Force and my
+team would put out solicitations. We
+have contracting officers, program
+managers, engineers. We have a lot of
+people on these teams. And that's
+important because very often it is not
+just one person that is reviewing your
+proposal. Often those sections we just
+talked about are going to get split up
+and sent to different teams of people to
+review them. And so remember this, each
+section has to stand on its own. Many
+companies make the mistake of packing a
+bunch of qualifying data into the
+executive summary or into the past
+performance section assuming that
+everybody is going to read the proposal
+in its entirety. And very often that is
+not the case. Okay? So if you have
+critical information that a team that's
+scoring, say your pricing section, your
+technical section, you're going to want
+to have all that information in there.
+Each section has to stand on its own.
+You have to assume the person reviewing
+section one isn't going to see the
+introduction, the summary, or any of the
+other sections. Okay, Rick, what do you
+really mean by that? Section M, right?
+So, section M has all of the qualifying
+factors and subfactors that you're going
+to need, right? So, you want to make
+sure that if you have to hit all of
+those, which you do, you want to make
+sure you're writing to those factors and
+subfactors in each of the sections. Now,
+we'll reinforce that in future modules
+and make sure this passes the common
+sense test. So, if you happen to have
+some factors and subfactors in section M
+that just don't make sense being in the
+section you're writing, great. But the
+point is each section is standalone.
+Let's make sure that we are writing
+those as completely as possible. So, we
+have the big picture and we're answering
+all of the government's asks. Okay. Now,
+we're going to go back to section L and
+section M and any other attachments
+there are. Right? So, when I said I want
+you to highlight shall, will, must,
+these type of statements, okay? Make
+sure you're looking at everything,
+right? And you have them all written
+down so you know what the government's
+asking for. Often what a company will do
+is they'll pay attention to the
+narrative format or what's required in
+the technical section. But what they're
+ignoring are some really big gotchas.
+And this is what I mean by that. Size of
+font, type of font, how many pages,
+what's the limitation? You know, these
+are basic. We need to follow the
+instructions. And from the government
+standpoint, keep in mind I was on the
+government side of this before I was on
+the civilian commercial side of this. If
+you as a company cannot follow simple
+instructions, how many pages, what type
+of font, what size of font, then how
+could I expect you to follow much more
+complicated instructions. If you're
+building a building for us or a piece of
+technology or something that's going to
+be with a war fighter, so remember, if
+you can't do the simple things, then the
+government's not going to have faith in
+you to do the hard things. Nobody said
+writing a proposal is easy. Writing a
+proposal is a pain. This is why I tell
+people to avoid any type of strategy
+that involves them just finding a
+solicitation and trying to write a
+proposal. You turn into proposal writing
+factories and writing a proposal is
+hard. It is a discipline and if you
+actually understand it and can do it
+well, you could get paid just to write
+proposals, right? So, if you're a
+company, you don't want to take the time
+involved to write a proposal unless you
+have very, very high potential of win on
+this solicitation. I'm going to go
+through some of the things that
+companies often miss just so you know
+what to look out for. file names, naming
+conventions, fonts, margins, portal
+rules, compliance, file types, page
+limits, volume, line spacing. Any of
+these things could potentially end up
+getting your proposal rejected because
+you didn't follow the rules. And by the
+way, if you are watching this in our
+Delvlo certification program, make sure
+you grab all of the handouts and
+supported materials. And of course, we
+have several modules uh through this
+proposal writing program. If you're
+interested in taking our proposal
+writing course on its own, uh just let
+us know in the comments. But anybody in
+the gov closed certification program,
+which is our flagship certification
+program, they'll get all of the modules,
+the entire proposal writing program. All
+right, let's break down an actual
+example. So in this example, section L
+requires a 10-page technical volume and
+it specifies two tasks. Section M scores
+understanding approach and risk. So your
+outline becomes H1 heading one task one
+approach. Task two approach each with
+subheadings understanding method tools
+risk and mitigation measures. All right
+let's use a real world example. Section
+L and you're reading the solicitation.
+You pull out L&amp;M just like we talked
+about. Section L says that you are
+required to have a 10-page technical
+volume and there are going to be two
+tasks evaluated. Section M says it
+scores understanding approach and risk.
+So now what you're going to have is a
+tech volume with task one, a tech volume
+with task two. And under each of those
+you're going to have the evaluated areas
+in section M. So the understanding the
+approach so it might be understanding
+method tools risks and mitigations
+measures. This way evaluators can read
+the way that you write your technical
+volume and they're going to go okay
+here's the first task and then you're
+going to identify where section M said
+it's going to be evaluated the
+understanding the approach the risk and
+put it right in their face don't be koi
+about it so now if I'm evaluating it
+okay yep right here 1 2 3 that's for
+number one and one two three that's for
+task number two the compliance matrix
+that you've built is going to show
+exactly where each of those requirements
+are in your proposal. So, what I
+recommend is that you outline them all
+in the compliance matrix and then you
+put, okay, this is going to be found on
+page three of my proposal, paragraph 3,
+this is on page four. And if you're
+keeping that compliance matrix, you can
+build it in spreadsheet if you want to.
+That's what's going to keep you on track
+to make sure you're hitting all of the
+points. Okay, so this was section number
+one of writing a proposal. Now, if you
+are in our program, you'll have the
+10-minute checklist associated with this
+and then the example of the compliance
+matrix as well and then reference
+pointers. And for anyone watching this,
+if it's on YouTube or somewhere else,
+you know, look at FAR part 15 very, very
+closely. I would read that over and over
+again. Same with FAR part 13. If you're
+responding to RFQS instead of request
+for proposals, which is going to be 15.
+Now, in the next section, what we're
+going to go over is how to actually make
+a go no-go decision on this. So, you can
+see we're going through these things
+pretty detailed to decide if we're even
+going to write the proposal. We've built
+a compliance matrix. You know, as you go
+through this, you may find things that
+are going to prohibit you from actually
+selling to the government. So, you want
+to identify those things early, and
+we're going to show you exactly how to
+do that in the next module.

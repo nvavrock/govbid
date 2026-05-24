@@ -1,0 +1,945 @@
+Kind: captions
+Language: en
+hey guys Ricky Howard here and this
+week's edition of the dod contract
+Academy features John Ferry he's the
+co-founder of use Rogue which is a AI
+platform that helps you write proposals
+and it really caught my eye because as
+you know if you're in this space if
+you're going after government contracts
+how much time do you spend writing
+requests for information sources saw it
+responding to rfps and rfqs that is a
+extremely time consuming process and
+even if you're not the one that's
+writing the proposals if you're paying
+someone to do that all of a sudden you
+know your account executive if he has to
+write a proposal he's not looking for
+leads or following up with leads yeah
+that proposal depending on how big it is
+could take a long time and this is a way
+to potentially reduce that timeline
+significantly so I think you're really
+going to find it interesting how John
+came up with this
+so again it should be a really
+interesting conversation I know it is
+because I've already had it with him so
+right now check out my interview with
+John Ferry
+well hey everyone Ricky Howard here with
+DOD contract Academy podcast and today I
+have John Ferry John how's it going
+today
+good Richard how are you can't complain
+can't complain so I first found out
+about you on LinkedIn I was actually
+making a post for uh one of our podcast
+episodes and then I saw you in uh some
+of the banter back and forth and some
+people talking about you and I looked at
+uh your company which I believe you
+co-owned uh called Rogue and what you
+were doing and in fact though the last
+episode people may remember I was we
+were talking about uh using AI for
+another software tool but you if I have
+it correctly Rogue has a um a platform
+that uses AI to help write proposals for
+government contracts is that somewhat
+accurate a hundred percent that is
+exactly what it's designed to do we're
+trying to take kind of the magic of
+generative AI that everyone's really
+kind of coming to grips with right now
+and just hyper focus it on the most
+painful parts of kind of the bid
+proposal capture process that's awesome
+and and I think I'm going to be using it
+soon too because I think all of us uh on
+in the the you know the public sector
+you know whether we're in sales or BD or
+business owners whatever yes that
+proposal writing process the I don't
+know if this applies to other things
+like rfis and what and whatnot yet but
+source of sought but anything that can
+help with some of that I think would be
+really interesting but before we get
+into that that's what you know I'm sure
+everyone's waiting to hear about let's
+learn a little bit about you so if you
+could tell me a little bit about you
+know where you're from and where you
+went to school and then kind of how you
+got to the point where you had this
+brilliant idea of putting a tool like
+this together
+appreciate it so um a little bit about
+me so I joined the Army National Guard
+straight out of high school went the 18
+x-ray program so I went straight into
+Army Special Forces graduated from that
+and then my Government Contracting
+career kind of started initially
+supporting rapid acquisition so about 15
+years ago now uh back during you know
+Iraq and Afghanistan Wars I started
+working at The Joint ID defeat
+organization so I did a bunch of Rapid
+acquisition work there moved from that
+into the Pentagon did some budgeting and
+uh program objective memorandum right
+building building budgets and then from
+there I actually moved over and started
+supporting DARPA so I spent about eight
+years doing technology transition at the
+defense Advanced research projects
+agency which is kind of where AI
+actually started back in the day and so
+about three years ago I bought the
+Government Contracting Company that I
+worked for very small kind of Niche
+Professional Services business about it
+about six months before covid started
+and um and you know when covet hit
+everything shut down a lot of my folks
+went on uh went on distance work and so
+after I took over the company I started
+building out a a digital development
+side of the company and from that we we
+want a challenge uh in partnership with
+the
+Chief digital and artificial
+intelligence office cdao to build a AI
+powered contract writing system right so
+kind of a government side of this
+equation and as we were building that
+out it really
+kind of intuitive you can solve the
+government side of the problem and help
+government push out solicitations and
+announcements much faster that is a huge
+problem on the government side but if
+you're only optimizing the government
+side of the problem you're only solving
+half the problem so we we set up we spun
+out a completely separate company
+set up the platform which is use
+rogue.com which you mentioned and it is
+hyper focused on building uh government
+proposals so and kind of you know from
+our small business pedigree you know our
+kind of ethos is trying to give the same
+capability kind of trying to give a leg
+up to those small disadvantaged
+non-traditional the folks were trying to
+break into that govcon market who can't
+necessarily afford a full stack proposal
+shop who are desperately trying to push
+out you know sbir proposals OTA
+proposals you know the smaller like task
+score they're trying to get in their
+their foot in the door with a bunch of
+our five responses it is a time
+consuming process for those small
+businesses so we really we focused on
+that is really our our initial key user
+community and we we built the platform
+around that pain point and that's that's
+where we are today okay that's that's
+really interesting so this is this is
+really uh two stories right so this is
+not just a a podcast then about an
+awesome tool that people can use to save
+them some time this is also you fall
+right in line with what a lot of the
+companies that I've interviewed on here
+um you know I guess would fall under
+which is you have a business that is
+sold to the government and and started
+so can we go back to where you said you
+you purchased a government Contract
+Services Company is that what you said
+what was the
+um the impetus for that or maybe I
+should ask what was what was their
+specialty what services were you focused
+on at that point yeah great question so
+the the that company trench and
+analytics we go by Tac
+um it was really focused on very
+high-end Professional Services so like
+science engineering technical assistance
+Ceta type support to folks like DARPA
+um
+a team submarine in the Navy we did some
+work for onr so really focusing on s t
+organizations okay we've since expanded
+a little bit into more General
+Professional Services you know Budget
+Finance admin project management but
+when I bought the company with my wife
+we were about 12 people and you know
+over the last three years we've been
+fortunate and we're on about 3x but
+that's awesome yeah totally identify
+with that small business you know
+environment where it is your time sweat
+you know Blood Sweat and Tears that you
+really have to lay on the line to to
+make those advancements yeah and it
+sounds like and I don't know what your
+background is as far as developing
+software but
+I would say it's a pretty significant
+pivot from providing you know Warm
+Bodies and seats right which is what
+what you're I think what you're telling
+me right so like to see the different
+um support uh contractors so you were
+providing people you're basically uh
+giving people jobs and providing them to
+the government right like hey I want to
+hire I did in the Air Force I need to
+hire five cyber Engineers to do X and so
+you might provide program managers right
+so your company could provide those
+program managers year over year during
+that type of work which is uh which can
+be competitive but it's definitely a big
+need in in many many areas right
+um but then you pivoted or you started
+this development part of your company
+how did that come to be did you have
+that special skill set yourself is that
+just someone that you knew maybe that's
+your partner that you uh teamed up with
+how did that go down no so we we
+actually started with small business
+Innovative research programs yeah but we
+when we took over the company what I did
+my specialty supporting DARPA as a
+support contractor was technology
+transition so trying to bridge the quote
+unquote valley of death of getting
+things out of DARPA and into operational
+users hands and I I specialized in the
+Special Operations Community right
+specifically
+um and so
+when I took over the company I was what
+the strategy was was to build out
+capabilities on the sort of digital
+development side and try to dovetail
+those with Professional Services so can
+we do things that are AI related so we
+get past performance and get some chops
+in that realm and potentially sort of
+co-sell those things to potential
+customers right try to try to tie into
+the Professional Services side with the
+digital development side and try to hide
+the digital development in with our
+Professional Services so theoretically
+if I wanted to Branch out from you know
+providing program management support to
+DARPA maybe I want to move into
+um some of the like the code camps and
+the folks in the air force that are
+doing
+um sort of on task development work I
+could build up some professional you
+know some background in doing it on a
+Siver side and then pivot and sell that
+on the Professional Services side yeah
+it's kind of a strategy we had actually
+pretty good success in just building out
+that that digital development side of
+the company and so now we we kind of
+operate those two
+um somewhat independently because
+they're both fairly successful oh good
+good that's awesome and then you know
+you I guess you can never predict what's
+going to happen right and and you were
+successful obviously with what your
+initial strategy was but I guess in the
+process of that and the process of
+winning I think it was a sibra right
+with uh to do the Contracting side of
+you know AI uh I guess I imagine this
+would be AI to help Contracting officers
+and government Acquisitions agencies
+write contracts from the government
+standpoint is that is that accurate
+that's that's correct and it was a other
+transaction agreement
+um so okay
+but uh yeah it's we we built out a
+platform it's actually
+accessible for government folks it's
+called akbot
+acqbot.com under cdao and exactly it's
+it really what we're looking to do there
+is kind of automate or semi-automate and
+bring like large language models and
+graph databases
+um to
+the sort of end-to-end acquisition
+process that's
+being very successful also because
+there's a huge need there oh it's I mean
+it's something we've talked about on the
+the podcast a lot which is the the heavy
+lift the huge lift from the government
+uh to actually put something like a
+solicitation out there I think a lot of
+um we talk a lot about influencing
+requirements on the show and finding
+opportunities ahead of the solicitation
+and
+some are often surprised to find out
+that you know the government team
+doesn't necessarily know all of the
+requirements that need to go into a
+solicitation you know it could be like I
+was when I was a new program manager I
+just had been flying for 10 years and
+they handed me Insider threat and some
+other uh other things like that to
+tackle and I you know that that requires
+completely different skill set and
+research talking to businesses and
+talking to engineers and trying to
+figure out you know basically the the
+cyber security answer which I think
+we're still trying to figure out right
+um but that that tool for the government
+would be huge because that that does
+eliminate a lot of the burden and that
+brings us to us where we are now with
+Rogue which is if if I'm repeating it
+back correctly it's that the government
+said hey you've got or maybe you've
+thought of this yourself which was hey
+we're solving the government problem
+there's a big industry need which you
+are obviously familiar with yourself
+um let's see if we can tackle that
+absolutely yeah and that's that's kind
+of where we started
+um candidly the actual genius of this
+idea came
+like two or three years ago we actually
+sort of I pitched this as a phase one uh
+feasibility study like two years ago to
+an sbir open topic and nobody really
+picked it up but
+it wasn't you know Ai and the
+appreciation of AI has really matured I
+would say over the last two years and
+yeah when chat CPT came to four
+everybody you know kind of got the
+appreciation of really what the power
+was
+um so yeah we built Rogue it's um it's
+functional right you can go sign up for
+it uh and you know I would say the the
+core feature and the the value ad that I
+take on a regular basis because I'm in
+the same boat right I have to push out
+RFI responses sources saw responses uh
+and proposal responses on a regular
+basis
+is you know you can kind of go and you
+know log in there's a kind of a quick
+start guide you can go from the
+description of a requirement and sbirs
+are a great example right you go to an
+sbir there's the description of what
+they're looking for and the sbir format
+is fairly consistent right it's like 12
+sections and for a phase one it's about
+five pages for a phase two it's
+somewhere between 25 and 50 usually
+and so what you can do in Rogue is go in
+start a new proposal take the
+description of the requirement
+paste that in and take the basically the
+table of contents the sections you need
+to fill paste that in hit generate and
+it will take you from those two pieces
+of content to a fully built out draft
+that's about three to five pages
+depending on what you start with okay
+and so it's not going to write the
+proposal for you what it does do is it
+does that initial
+two three four hours of work of trying
+to like you gotta pull the the outline
+out of the baa you have to take what
+they're asking for kind of parse all of
+that you know specific requirements out
+all the shell statements if you will
+right and then start crafting up how you
+would answer those shell statements it
+just does that in about 10 seconds and
+then once you're in the platform like
+once you have that initial outline we
+have some what we call AI magic tools
+like uh there's an expanding tool so you
+can select a sentence of text hit expand
+and turn a sentence into a paragraph or
+turn a paragraph into a page okay and
+the way I look at that is if you tell me
+hey I need you to do X right you you
+give me a problem and I know how to
+solve that problem I can generally
+articulate how I would solve that
+problem in about five to ten seconds
+right if I'm worth my salt
+in just about any other developer can
+any other Professional Services Company
+can tell you how they're going to solve
+your problem otherwise they shouldn't be
+in the game
+The Challenge and the manual efforts the
+really the the lower value manual effort
+is taking that elevator pitch
+from a couple of sentences to the 5 10
+15 20 pages that the government requires
+you legitimately requires you to put
+into your proposal right so that
+expansion tool I can write down the two
+three four sentences the five bullets of
+how I would solve the problem how it
+approach the problem which is unique to
+me that's where I encapsulate my
+solution
+I can hit the expansion tool and it will
+parse and expand That Into You know
+every sentence becomes a paragraph now
+you've turned a quarter of a page into
+three or four pages but I'm trying to
+you know churn out RFI responses and I'm
+you know trying to kind of put the same
+content on multiple Pages it makes
+things go so much better and it allows
+you to focus on the high value tasks
+that are really Exquisite to you right
+and it allows the computer to take over
+the you know explaining what zero trust
+is and putting it in the context of the
+document explaining what cloud computing
+is or you know multi-tenancies right you
+can write that or you can copy and paste
+that or you can have the generative AI
+create that organically right um with
+that we've got a concising tool so if
+you've got you know overly bulky text or
+you're trying desperately to get under
+page count which is something we've all
+experienced
+um you can select a fairly large piece
+of content it uh concise and it will
+keep the key facets of that content and
+just cut out all the extraneous content
+that's interesting really quickly allows
+you to go from a lot to a little and get
+under page counts and there's also a
+paraphrasing cool so similarly
+selected on the the interface hit
+paraphrase and you can take a piece of
+content that might be overly jargon you
+know jargony dense doesn't have kind of
+the one voice with the rest of the
+document and it'll convert that into
+kind of the same amount of text but it's
+more consistent and it's more readable
+with the rest of the document we also
+built in a chat interface so from our
+opinion there's a lot of chats going on
+everybody's taking chat GPT and making a
+new chat for a niche use case
+we put a chat in there we've actually
+made it useful and we in we enabled a
+feature where you can index that chat
+off of your internal content so I've
+written a bunch of responses and
+proposals I've got you know resumes past
+performance things like that built in to
+Rogue at this point because I've been
+using it for a couple of months I toggle
+the index switch
+and I can ask it to you know write me a
+technical approach to a modular systems
+architecture for you know data
+transforms and it will index off of the
+content I've already written so it's
+contextualized yeah right it's it's kind
+of the same thing you would do trying to
+take your shelf wear right and rewrite
+it for the new proposal yeah we'll take
+your shelf wear and it will take the
+proposal you're writing and it will
+create a new organic piece of content
+that's contextually accurate for both of
+those things so a lot of that rewriting
+stuff that you spend a lot of time doing
+does it automatically yeah
+so that's kind of and then there's uh
+there's also uh kind of a fun feature we
+call Snippets where if you have shelf
+wear that you like to reuse on a regular
+basis maybe it's a resume a technical
+approach right the reusable content you
+use regularly you basically save that in
+a shelf in the writing workflow and you
+can just drop that in you can drop it in
+and expand it you could drop it in and
+paraphrase it you could drop it in
+concise it
+so using those tools together you know
+I've written a bunch of proposals things
+that used to take me two weeks for a
+month now take me a few hours yeah and
+so for a small business who's trying to
+like you know expand my opportunity
+space
+um it's huge right yeah it's not only
+does it save you time it enables you to
+go after a lot more opportunities if
+that's what you want to do I mean that's
+gotta take shots on goal right
+um what about security right so I'm a
+small business maybe I'm not a small
+business right and I have some
+proprietary stuff
+maybe it's not even proprietary but is
+this but I don't want to go into like
+the collective where it's you know where
+it's being you know because the way and
+I probably have a very poor man's
+understanding of chat gbt in some of the
+AI but I've used it quite a bit
+um and so I know that chat gbt is
+certainly not perfect and it also it
+seems to take from things that it finds
+on the internet right so I I don't know
+if we have 100 confidence if I'm using a
+tool like that that I have original
+content in front of me now that isn't uh
+what do what do you have in place at
+Rogue that I guess a prevents what I put
+in there from being known to anybody
+else and
+um and B like how how much of it when
+it's Auto generating stuff or expanding
+um you know to my spending a lot of time
+going through it to make sure that I'm
+not plagiarizing somebody or what's the
+a little bit probably the most
+consistent question we get right and
+it's the the two versions of that
+question is
+um how do I write the same proposal for
+the same topic without having exactly
+the same proposal as somebody else who
+used your tool for the same topic right
+that's one uh and the other one is
+we know that llm's you know large
+language models chat GPT right they
+learn right so if I put anything into
+that I'm you know kind of indirectly
+benefiting everybody else who uses it uh
+and so we we solved that problem very
+much from the front end
+um essentially the way to think about it
+is there's the model that does the
+generation that does the creating of new
+text
+um and that's you know it's trained like
+everything else it's tuned to our use
+cases so it's it is built or it is
+narrowed such that it writes really good
+proposal language unlike chat CPT that
+just writes half decent English papers
+um so there's that piece that's kind of
+the engine that does the writing but
+where it draws from is the most
+important part so think of it in the
+sense that everyone uses the same engine
+to get the outputs out but you have a
+secure and private unstructured database
+that all of your content goes into so if
+you you know copy in any content from
+you know previous proposals or any of
+the generation any of the writing you do
+within uh it is encapsulated within your
+organization's private unstructured
+database and so any of the feedstock
+that you would use to do your unique
+Generations are private to you and the
+model itself doesn't learn right it's
+already been trained so it's not going
+to learn new tricks
+but combining that private database with
+that engine provides you the unique and
+tailored outputs that you need so the
+longer you use it the better it's going
+to get as far as understanding your
+technology or solution
+that's great and it's something I mean
+for anyone that's used chat CBT I mean
+you know you log out of it it forgets
+what you put in there you know after
+unless there's a way to use it that I
+don't know about but um you know it kind
+of builds off what you put in there and
+then it forgets it so something like
+this where you could be using it along a
+lot of the time you know um that you're
+not starting from scratch at the
+beginning that that's really good
+um
+okay so we covered some of the things
+that it can help with right so it can
+help with uh RFP responses does it help
+with RFQ responses which are
+a little bit pretty yes so the the
+things that I've used it for a lot and
+you know the the diversity of ways to
+respond to government requirements are
+so varied that it's it's hard to cover
+all the bases
+um rfis are really great to respond to
+right the the sections are pretty
+straightforward
+um
+sources sought a pretty straightforward
+to respond to it's really good for sbirs
+right fairly consistent structured rfps
+grade for responding to the there's a
+lot of value for those who are on
+um
+uh
+ID IQs like stars 3 where there's task
+orders you know task order
+rfqs that come out very quickly right
+they have like a two-week turnaround
+right and they come out very frequently
+um you know vets2 is a similar way uh
+it's incredibly powerful for those
+because you can again increase your
+potential opportunity space and they
+come out so quickly that your the way I
+look at it is your go no-go threshold
+can go down by almost 50 and you can
+just be way more active and reactive off
+of those quick turn uh responses yeah so
+those were you know and we're we are
+I'll be candid we are building out the
+capacity of the platform so and looking
+at larger problems like
+you know the big 100 page proposals that
+you have to write right and how we
+structure the platform to be as powerful
+for that as it is for the the smaller
+responses but particularly for small
+businesses that are trying to take shots
+on goal
+it's great for all those use cases
+interesting so for a siber like for
+instance usually get to include some
+type of commercialization plan if I'm
+writing a server proposal right so
+that's something that this could handle
+in there is that because I'm I'm giving
+it a structure that maybe the sivir
+gave me or is it going to know
+intuitively what a commercialization
+plan is supposed to look like
+I would say the commercial the
+commercialization plan that I've
+generated out of it are relatively
+generic
+um because they're so tailored to the
+actual thing you're proposing uh the
+nice thing that I do is like I've saved
+a lot of my previous commercialization
+plan segments in as Snippets so I'll
+pull those things out and I can tailor
+and we you know the types of things we
+bid on are relatively similar in
+commodity area I would say right we do a
+lot of AI we do a lot of you know
+modular systems architectures so I can
+take that snippet off the shelf I can
+and in the flow of the writing process I
+can tailor that in many cases I can
+tailor that in the uh in the chat I can
+say hey rewrite this section for you
+know insert the technology I'm working
+on today and it'll rewrite it in flow
+and I can just drop into the document
+okay interesting I mean you're right
+there there are so many different
+types of rfps RFQ sources so even
+amongst like just sibers right you have
+different structures among some of the
+different servers sttrs you've got a few
+different areas there and we can
+probably talk about all the different
+types of things that we could respond to
+but let's uh let's kind of pivotal hey
+I'm a small business now I'm listening
+to this I want to start using this how
+is this going to cost me what it costs
+to you know hire a full-time proposal
+writer or you know hire someone on
+upwork what's the you know what kind of
+programs do you have what does the
+pricing look like if you want to discuss
+that how do I get started
+question so our pricing is very clear
+and up front I personally have a bone
+with the folks who are like oh yeah use
+our tool but call us so we can tell you
+how much it's going to cost you I I've
+really despised that so the pricing is
+very clear and it's on the website
+there's a seven day twenty dollar trial
+so if you want to get in there take a
+look at it all of our new users have to
+go through a 15-minute onboarding so we
+get you straight onto the platform
+immediately and then after your seven
+day trial
+if you make less than 17 million in
+annual revenue so if you're below the
+small business cap for the 541 990 nakes
+uh it is 500 a month or five day a year
+right so pretty straightforward pricing
+if you pay by the year you save 10 uh if
+you're above that next code cap it's a
+thousand dollars a month or ten thousand
+dollars a year and that's for five seats
+in either case if you go above five
+seats it's a standard pro rated you know
+Percy cost off of those two structures
+so it's a hundred dollars a seat or two
+hundred dollars a seat uh for every
+additional okay interesting yeah I mean
+that it's really good pricing if you
+anyone that's out there that's had to
+pay someone to write a proposal for them
+or granted you still need to be involved
+with the process but you need to be
+involved in process anyway even if you
+hire somebody to write every you're not
+just handing it over to somebody and
+them generating it for you unless
+they've been working for your business
+for a long time but I mean so you could
+I mean I've seen some companies pay in
+excess of 25 Grand to have a proposal
+written a big proposal so uh you know
+when we're talking you know 500 bucks a
+month thousand bucks a month it you know
+that's that's not bad that's not bad
+um now so for the
+the company that's just getting started
+they may
+not have that yet right
+um but you know I could say I haven't
+used it yet and I'm I plan on use
+getting digging my hands in here
+especially after the conversation but I
+think that this is something that could
+save them a lot of time and it is it's
+relatively inexpensive compared to what
+you might have to pay somebody to help
+you out yeah if you've paid any kind of
+consultant whether it's a proposal
+manager or proposal writer and we're not
+trying to threaten those folks jobs I
+think it will have an immense amount of
+value for those folks as professionals
+right if they can do more work faster if
+they can produce faster it's amazing
+um but yeah like I can speak from a
+small business perspective right one
+we've got monthly pricing so if you use
+it for a month and you can't afford it
+anymore there's no risk drop out right
+it's fine you don't necessarily have to
+sign up for a year and I like that like
+as a small business owner I don't like
+getting locked into three-year contracts
+on stuff because I don't know what next
+year is going to look like and I don't
+want to be contextually you know
+obligated to that uh that fee so that's
+why we really did set up the pricing
+structure to make it a you know
+approachable
+um achievable for small businesses and
+you're absolutely right if you think
+about it in just dollars and cents per
+hour
+how much is an hour of one of your
+people's time's worth right in either
+the number of things you can go after if
+you're trying to multiply your
+opportunity space or like how valuable
+that person's time is for the kind of
+nug work that they're having to grind
+through to just get a proposal off the
+ground
+500 bucks a month is like three hours of
+someone's time in this market three
+hours imagine what you've spent three
+hours on today and that's a month
+platform and if you're hiring a high-end
+consultant speaking as a high-end
+consultant in this field I can tell you
+that you some of us won't even charge by
+the hour because it's actually going to
+be a lot more than that right
+um you know I tell people I'm not a
+proposal writer um but this could
+certainly this could help me enable and
+help my clients right and get them going
+in the right direction so no this has
+really been great so what I'm gonna do
+I'm gonna get into this I'll do another
+episode if you want to join me you can
+after I've used it myself for a little
+while and so I can give everyone my
+feedback I just want to be upfront that
+I haven't actually had to use it yet but
+it's it was so Innovative and it really
+caught my attention when I saw it that I
+wanted to get you on and hear your story
+and hear about the capability so
+um before we end I do have one more
+question
+um is there any I know it's new so there
+you might not yet but has this generated
+any winning proposals yet for anybody
+that you for you or anybody that you
+know we actually I can't say we wrote a
+phase one Proposal with this and we did
+win so okay excellent I can say that it
+has been successful and up until now I
+didn't have that win rate uh data but uh
+yeah we did uh we did a phase one slate
+of uh super topics I think at the
+beginning of this year for DOD and we
+won half of them so awesome
+congratulations congratulations I mean
+incredible listing that that is highly
+dependent on your business and the
+technology you have and what you what
+you plug into the system is you know you
+know I can imagine is going to be what
+it generates for you right maybe just a
+little bit more polished scale so
+um no this has been great uh John thanks
+for coming on is there any any last
+words you have for anyone out there
+that's thinking about this or selling to
+the government any advice you want to
+give before we end the podcast today
+no I think you know from a from an
+industry industry perspective the
+government writ large is looking for
+more small businesses to get in the game
+right you you can look at the news
+stories uh the number of small
+businesses is going down that's
+participating in the market I hear from
+government folks all the time they are
+legitimately worried about it but there
+aren't a whole lot of levers they can
+turn to solve that problem and that's
+again from an ethos perspective that's
+one of the motivating factors for us
+here is we really do want to enable
+those small businesses and and make it
+easier for them to get into the market
+so
+um anything we can do we're very
+customer focused so any feedback you
+give us is 100 Incorporated uh we we
+take into account with all of our
+feature and development decision making
+so please if you're interested in the
+platform reach out to us
+try it out uh and and let us know how it
+works for you if if there's any pain
+points you run into we are 100
+interested in hearing about those things
+so we can make it better
+awesome all right well hey very cool
+thank you for coming on again I'm on the
+website now it's use rogue.com I will
+put your contact information also in the
+show notes and a link to the website so
+people can check it out for themselves
+John Ferry and uh thanks for coming on
+again thank you so much for having me I
+really appreciate it all right take care
+now cheers well hey guys that was our
+episode with John Ferry I know for me
+I'm really looking forward to checking
+out use Rogue and seeing how that can
+help me with our clients and speaking of
+which if you're a small business and
+you're trying to sell to the government
+if you have a Innovative technological
+solution or a more traditional
+contractor providing services
+check out dodcontract.com we have a
+variety of ways that we help our clients
+whether it is as simple as getting a
+course or paying as a traditional
+consultant we also with select companies
+will offer help for Equity so we do have
+some Equity deals as well that we can
+potentially qualify you for and help you
+start winning those government contracts
+so head over to
+dodcontract.com you also may have
+noticed that we had some new music this
+week that was produced by Anwar Johnson
+he's a really great long-time friend of
+mine since we were kids and he's doing
+great with his music and so that's on
+the check them out on iTunes and finally
+check out gobley if you're looking for
+opportunities to bid on maybe you're
+going to use use Rogue to help you write
+some of the proposals but what doubly
+will help you do is find opportunities
+that aren't appearing on sam.gov these
+are the opportunities that are going to
+come out on GSA opportunities coming out
+on some of the big government-wide
+contract vehicles that I discussed a
+little bit with John on the podcast so
+look you can get into govely and
+actually get a pretty significant
+discount if you mentioned that you heard
+it on dodcontract.com it's a great way
+especially if your approach to
+government contracts as a subcontractor
+and there are a lot of companies that do
+take that approach in fact a lot of The
+Bigs are doing both priming and subbing
+just depending on the deal so check that
+out thanks again for listening and I'll
+check you out next week
