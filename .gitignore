@@ -1,3 +1,6 @@
+# WSL/Windows metadata
+*:Zone.Identifier
+
 # Python
 .venv/
 __pycache__/
