@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# SAM data (large)
+data/*.csv
+
+# Logs
+logs/*.log
+
+# GovClose transcripts (generated)
+transcripts/govclose/*.txt
+transcripts/govclose/*.json
+transcripts/govclose/*.vtt
+transcripts/govclose/.archive.txt
+!transcripts/govclose/.gitkeep
