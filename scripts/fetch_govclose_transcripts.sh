@@ -18,6 +18,15 @@
 
 set -euo pipefail
 
+TMP_FILES=()
+cleanup_tmp() {
+  local f
+  for f in "${TMP_FILES[@]}"; do
+    [[ -n "$f" && -f "$f" ]] && rm -f "$f"
+  done
+}
+trap cleanup_tmp EXIT
+
 PROJECT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 OUT_DIR="$PROJECT/transcripts/govclose"
 ARCHIVE="$OUT_DIR/.archive.txt"
@@ -93,7 +102,7 @@ read_info_field() {
   if command -v jq >/dev/null 2>&1; then
     jq -r "$field // empty" "$json"
   else
-    python3 -c "import json,sys; d=json.load(open(sys.argv[1])); print(d.get(sys.argv[2].lstrip('.')) or '')" "$json" "$field"
+    python3 -c "import json,sys; d=json.load(open(sys.argv[1], encoding='utf-8')); print(d.get(sys.argv[2].lstrip('.')) or '')" "$json" "$field"
   fi
 }
 
@@ -101,6 +110,7 @@ build_archive() {
   shopt -s nullglob
   local archive_tmp
   archive_tmp="$(mktemp)"
+  TMP_FILES+=("$archive_tmp")
   : > "$archive_tmp"
   for json in "$OUT_DIR"/*.info.json; do
     [[ "$(basename "$json")" == NA_* ]] && continue
@@ -108,12 +118,18 @@ build_archive() {
     [[ -n "$video_id" ]] && echo "youtube ${video_id}" >> "$archive_tmp"
   done
   mv -f "$archive_tmp" "$ARCHIVE"
+  local _kept=() _t
+  for _t in "${TMP_FILES[@]}"; do
+    [[ "$_t" != "$archive_tmp" ]] && _kept+=("$_t")
+  done
+  TMP_FILES=("${_kept[@]}")
   echo "Updated download archive: $ARCHIVE"
 }
 
 merge_transcripts() {
   local combined_tmp
   combined_tmp="$(mktemp)"
+  TMP_FILES+=("$combined_tmp")
   : > "$combined_tmp"
 
   shopt -s nullglob
@@ -152,6 +168,11 @@ merge_transcripts() {
   done
 
   mv -f "$combined_tmp" "$COMBINED"
+  local _kept=() _t
+  for _t in "${TMP_FILES[@]}"; do
+    [[ "$_t" != "$combined_tmp" ]] && _kept+=("$_t")
+  done
+  TMP_FILES=("${_kept[@]}")
   echo "Wrote combined transcript: $COMBINED"
 }
 

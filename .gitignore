@@ -5,16 +5,18 @@
 .venv/
 __pycache__/
 *.pyc
-
-# SAM data (large)
+*.pyo
+# SAM data (large; refreshed by run_download.sh)
 data/*.csv
+!data/.gitkeep
 
-# Logs
-logs/*.log
+# Logs and runtime locks
+logs/*
+!logs/.gitkeep
 
-# GovClose transcripts (generated)
-#transcripts/govclose/*.txt
-#transcripts/govclose/*.json
+# GovClose fetch artifacts (regenerated locally)
 transcripts/govclose/*.vtt
 transcripts/govclose/.archive.txt
-!transcripts/govclose/.gitkeep
+transcripts/govclose/*.en-en.txt
+
+# Per-video corpus is tracked intentionally (.txt, .info.json, govclose_all.txt)

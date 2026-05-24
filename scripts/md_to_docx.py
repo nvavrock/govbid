@@ -9,7 +9,7 @@ from pathlib import Path
 
 from docx import Document
 from docx.enum.text import WD_BREAK
-from docx.shared import Inches, Pt
+from docx.shared import Pt
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
