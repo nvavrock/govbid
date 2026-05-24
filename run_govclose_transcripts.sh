@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-PROJECT="/home/me/govbid"
+PROJECT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LOG_DIR="$PROJECT/logs"
 
 mkdir -p "$LOG_DIR"
