@@ -1,3 +1,6 @@
+# Cursor debug sessions
+.cursor/debug-*.log
+
 # WSL/Windows metadata
 *:Zone.Identifier
 
