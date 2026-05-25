@@ -41,16 +41,26 @@ cp config/match-profile.example.yaml config/match-profile.yaml
 ### Start the pipeline stack
 
 ```bash
-docker compose up -d
+bash scripts/ensure-docker.sh   # WSL: run this first
+bash scripts/stack-up.sh
 bash scripts/provision-n8n.sh   # after first login at http://localhost:5678
 ```
 
 | Service | URL |
 |---------|-----|
 | n8n | http://localhost:5678 |
-| Adminer | http://localhost:8081 (server: `postgres`) |
+| Adminer | http://localhost:8081 (server: `postgres`, port `5432` inside Docker network) |
 
-**WSL:** If `docker` is missing, run `bash scripts/ensure-docker.sh`.
+Host Postgres port is **5433** (avoids conflict with local PostgreSQL on 5432). Set `POSTGRES_PORT=5433` in `.env` for Python/SQL CLIs.
+
+**WSL / Docker Desktop:** If you see *"docker could not be found in this WSL 2 distro"*:
+
+1. Start **Docker Desktop** on Windows (wait until Running)
+2. **Settings → Resources → WSL integration** → enable **Ubuntu**
+3. In PowerShell: `wsl --shutdown`, then reopen your terminal
+4. Run `bash scripts/ensure-docker.sh` again
+
+Scripts auto-fallback to `docker.exe` when the Linux shim is broken.
 
 ## SAM.gov daily download
 

@@ -5,6 +5,8 @@
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
+# shellcheck source=lib/docker.sh
+source "$ROOT/scripts/lib/docker.sh"
 
 if [[ $# -lt 1 ]]; then
   echo "Usage: bash scripts/run-query.sh <query-name>" >&2
@@ -33,8 +35,8 @@ fi
 : "${POSTGRES_USER:=govbid}"
 : "${POSTGRES_DB:=govbid}"
 
-if docker compose ps postgres --status running -q 2>/dev/null | grep -q .; then
-  docker compose exec -T postgres psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -f "/queries/${NAME}.sql"
+if govbid_resolve_docker >/dev/null 2>&1 && govbid_docker_compose ps postgres --status running -q 2>/dev/null | grep -q .; then
+  govbid_docker_compose exec -T postgres psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -f "/queries/${NAME}.sql"
 elif command -v psql >/dev/null 2>&1; then
   : "${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env for local psql}"
   export PGPASSWORD="$POSTGRES_PASSWORD"

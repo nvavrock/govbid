@@ -1,0 +1,7 @@
+{"sessionId":"884a3e","hypothesisId":"A","location":"docker.sh:govbid_resolve_docker","message":"resolve_start","data":{"path_has_docker":true,"path_has_docker_exe":true}},"timestamp":17796682844457223000}
+{"sessionId":"884a3e","hypothesisId":"B","location":"docker.sh:govbid_resolve_docker","message":"candidate_tested","data":{"candidate":"/usr/bin/docker","ok":true}},"timestamp":1779668287181642427000}
+{"sessionId":"884a3e","hypothesisId":"D","location":"docker.sh:govbid_resolve_docker","message":"chosen","data":{"chosen":"/usr/bin/docker"}},"timestamp":1779668287198373108000}
+{"sessionId":"884a3e","hypothesisId":"E","location":"stack-up.sh","message":"compose_up_ok","data":{"docker":"/usr/bin/docker"}},"timestamp":1779668296113497607000}
+{"sessionId":"884a3e","hypothesisId":"A","location":"docker.sh:govbid_resolve_docker","message":"resolve_start","data":{"path_has_docker":true,"path_has_docker_exe":true}},"timestamp":1779668296386626405000}
+{"sessionId":"884a3e","hypothesisId":"B","location":"docker.sh:govbid_resolve_docker","message":"candidate_tested","data":{"candidate":"/usr/bin/docker","ok":true}},"timestamp":1779668299517393220000}
+{"sessionId":"884a3e","hypothesisId":"D","location":"docker.sh:govbid_resolve_docker","message":"chosen","data":{"chosen":"/usr/bin/docker"}},"timestamp":1779668299543642060000}

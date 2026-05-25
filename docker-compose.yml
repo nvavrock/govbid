@@ -16,7 +16,8 @@ services:
       timeout: 5s
       retries: 10
     ports:
-      - "127.0.0.1:5432:5432"
+      # Host 5433 avoids conflict with local PostgreSQL on Windows/WSL (often 5432)
+      - "127.0.0.1:5433:5432"
 
   n8n:
     image: n8nio/n8n:1.90.0

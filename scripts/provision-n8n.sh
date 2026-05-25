@@ -3,6 +3,12 @@
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
+# shellcheck source=lib/docker.sh
+source "$ROOT/scripts/lib/docker.sh"
+govbid_resolve_docker >/dev/null || {
+  echo "Docker unavailable. Run: bash scripts/ensure-docker.sh" >&2
+  exit 1
+}
 
 if [[ ! -f .env ]]; then
   echo "Missing .env" >&2
@@ -20,12 +26,12 @@ set +a
 
 export POSTGRES_USER POSTGRES_DB POSTGRES_PASSWORD
 
-if ! docker compose ps --status running n8n 2>/dev/null | grep -q n8n; then
+if ! govbid_docker_compose ps --status running n8n 2>/dev/null | grep -q n8n; then
   echo "Starting stack..."
-  docker compose up -d
+  govbid_docker_compose up -d
 fi
 
-USER_ID="$(docker compose exec -T postgres psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -tAc \
+USER_ID="$(govbid_docker_compose exec -T postgres psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -tAc \
   "SELECT id FROM \"user\" WHERE email IS NOT NULL AND email <> '' LIMIT 1;")"
 USER_ID="${USER_ID//[[:space:]]/}"
 
@@ -56,16 +62,16 @@ with open(path, "w") as f:
     json.dump(payload, f)
 PY
 
-docker compose cp "$CRED_FILE" n8n:/tmp/govbid-postgres-credential.json
+govbid_docker_compose cp "$CRED_FILE" n8n:/tmp/govbid-postgres-credential.json
 rm -f "$CRED_FILE"
 
 echo "Importing Postgres credential..."
-docker compose exec -T n8n n8n import:credentials \
+govbid_docker_compose exec -T n8n n8n import:credentials \
   --input=/tmp/govbid-postgres-credential.json \
   --userId="$USER_ID"
 
 echo "Importing workflows..."
-docker compose exec -T n8n n8n import:workflow \
+govbid_docker_compose exec -T n8n n8n import:workflow \
   --separate \
   --input=/workflows/n8n \
   --userId="$USER_ID"
