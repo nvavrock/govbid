@@ -82,9 +82,15 @@ Manual:
 uv run scripts/download_sam_opportunities.py --help
 ```
 
+Load CSV into Postgres:
+
+```bash
+./run_ingest.sh
+```
+
 ## Review queue
 
-After ingest and `refresh_match_scores()`:
+After `./run_ingest.sh` or n8n ingest:
 
 ```bash
 bash scripts/run-query.sh review_queue

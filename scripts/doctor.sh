@@ -59,8 +59,16 @@ if [[ "$n8n_state" != "running" ]]; then
 fi
 echo "OK   n8n running — http://localhost:5678"
 
+opp_count="$(govbid_docker_compose exec -T postgres psql -U "${POSTGRES_USER:-govbid}" -d "${POSTGRES_DB:-govbid}" -tAc \
+  "SELECT count(*) FROM opportunities;" 2>/dev/null | tr -d '[:space:]' || echo 0)"
+if [[ "${opp_count:-0}" -eq 0 ]]; then
+  echo "WARN 0 opportunities in database — run: ./run_ingest.sh (after ./run_download.sh)"
+else
+  echo "OK   $opp_count opportunities in database"
+fi
+
 echo ""
 echo "Next:"
-echo "  1. Complete n8n owner setup in browser (first visit only)"
-echo "  2. bash scripts/provision-n8n.sh"
+echo "  1. ./run_download.sh  (if CSV missing)"
+echo "  2. ./run_ingest.sh    (load CSV into Postgres)"
 echo "  3. bash scripts/run-query.sh review_queue"
