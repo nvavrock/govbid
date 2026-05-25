@@ -8,14 +8,13 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime
 from pathlib import Path
 
 import psycopg
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
-LOG_PATH = ROOT / ".cursor" / "debug-884a3e.log"
 
 NAICS = ["541511", "541512", "541519", "518210", "511210"]
 PSC_PREFIX = ["D3", "7E"]
@@ -23,25 +22,6 @@ KEYWORDS = [
     "software", "application", "cloud", "devsecops", "cybersecurity",
     "api", "modernization", "saas", "database", "agile",
 ]
-
-
-def _log(hypothesis_id: str, message: str, data: dict) -> None:
-    # #region agent log
-    try:
-        LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
-        payload = {
-            "sessionId": "884a3e",
-            "hypothesisId": hypothesis_id,
-            "location": "ingest_sam_csv.py",
-            "message": message,
-            "data": data,
-            "timestamp": int(datetime.now(timezone.utc).timestamp() * 1000),
-        }
-        with LOG_PATH.open("a", encoding="utf-8") as f:
-            f.write(json.dumps(payload) + "\n")
-    except OSError:
-        pass
-    # #endregion
 
 
 def load_env() -> None:
@@ -108,7 +88,6 @@ def latest_csv() -> Path:
 def main() -> int:
     load_env()
     csv_path = latest_csv()
-    _log("F", "ingest_start", {"csv": str(csv_path), "size": csv_path.stat().st_size})
 
     password = os.environ.get("POSTGRES_PASSWORD")
     if not password:
@@ -213,12 +192,10 @@ def main() -> int:
             )
             conn.commit()
 
-        _log("F", "ingest_done", {"processed": processed, "inserted": inserted, "scored": scored})
         print(f"Done: processed {processed:,} rows, upserted {inserted:,} opportunities, scored {scored:,}")
         return 0
     except Exception as exc:
         conn.rollback()
-        _log("F", "ingest_failed", {"error": str(exc)})
         print(f"Ingest failed: {exc}", file=sys.stderr)
         return 1
     finally:

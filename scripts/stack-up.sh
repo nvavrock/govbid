@@ -13,15 +13,7 @@ govbid_resolve_docker >/dev/null || {
 }
 
 echo "Using Docker: $GOVBID_DOCKER"
-if ! govbid_docker_compose up -d; then
-  # #region agent log
-  _govbid_debug_log "E" "stack-up.sh" "compose_up_failed" "{}"
-  # #endregion
-  exit 1
-fi
-# #region agent log
-_govbid_debug_log "E" "stack-up.sh" "compose_up_ok" "{\"docker\":\"${GOVBID_DOCKER//\"/\\\"}\"}"
-# #endregion
+govbid_docker_compose up -d
 
 if [[ -f .env ]]; then
   bash "$ROOT/scripts/sync-postgres-password.sh" >/dev/null 2>&1 || true
