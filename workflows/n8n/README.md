@@ -23,3 +23,12 @@ Credential placeholder ID in exports: `GOVBID_POSTGRES` — n8n will prompt to m
 **Matching rules** are embedded in workflow Code nodes (defaults mirror `config/match-profile.example.yaml`). Update workflows and `review_queue.sql` when you change filters.
 
 Workflow `03` upserts `award_enrichment` by `usaspending_award_id` (requires migration `002_award_dedup_and_scoring.sql` on existing databases).
+
+## Consig API (optional digest summaries)
+
+When `consig-api` is running (`docker compose up` or `./run_consig_api.sh`), workflow `04-review-digest.json` can call:
+
+- `POST http://consig-api:8000/chat` with body `{"briefing": true}` for a narrative summary of today's queue
+- `GET http://consig-api:8000/queue` for raw rows
+
+Requires `OPENAI_API_KEY` in `.env` and a built index (`uv run scripts/build_consig_index.py`).

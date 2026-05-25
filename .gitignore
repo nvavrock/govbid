@@ -15,6 +15,9 @@ __pycache__/
 *.pyo
 node_modules/
 
+# Consig vector index (rebuilt by scripts/build_consig_index.py)
+data/consig_index/
+
 # SAM data (large; refreshed by run_download.sh or n8n ingest)
 data/*.csv
 !data/.gitkeep

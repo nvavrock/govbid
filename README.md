@@ -21,7 +21,8 @@ govbid/
 ├── workflows/n8n/              # import into n8n
 ├── scrapers/states/            # phase 2 state portals
 ├── docs/                       # gameplan, playbooks, reference PDFs
-├── scripts/                    # ingest, queries, n8n provision, check_env
+├── consig/                     # FastAPI + Streamlit capture copilot
+├── scripts/                    # ingest, queries, n8n provision, build_consig_index
 ├── data/                       # SAM bulk CSV (gitignored)
 ├── logs/
 └── transcripts/govclose/       # RAG corpus (tracked in git)
@@ -125,8 +126,41 @@ See [db/DATA_DICTIONARY.md](db/DATA_DICTIONARY.md) and [docs/gameplan.md](docs/g
 /home/me/rs/run_govclose_transcripts.sh
 ```
 
-Corpus for **Consig** RAG: `transcripts/govclose/govclose_all.txt`  
-Consig build plan: [docs/consig-plan.md](docs/consig-plan.md) (branch `feature/consig`)
+## Consig (capture copilot)
+
+OpenAI RAG over GovClose + playbooks, wired to your **review queue** and pass/bid workflow.
+
+**Setup:**
+
+```bash
+# Add to .env: OPENAI_API_KEY=sk-...
+uv sync --extra consig
+uv run scripts/build_consig_index.py    # first time: chunk + embed corpus
+bash scripts/apply_consig_migration.sh  # once per existing Postgres volume
+```
+
+**Run locally:**
+
+```bash
+./run_consig.sh          # Streamlit UI http://127.0.0.1:8501 (in-process chat)
+./run_consig_api.sh      # FastAPI http://127.0.0.1:8000 (for n8n / Docker UI)
+uv run scripts/consig_feedback_report.py
+```
+
+**Docker:**
+
+```bash
+bash scripts/stack-up.sh   # includes consig-api :8000 and consig-ui :8501
+```
+
+| Service | URL |
+|---------|-----|
+| Consig UI | http://localhost:8501 |
+| Consig API | http://localhost:8000/health |
+
+Plan: [docs/consig-plan.md](docs/consig-plan.md) — branch `feature/consig`
+
+Corpus for **Consig** RAG: `transcripts/govclose/govclose_all.txt`
 
 ## Matching
 
