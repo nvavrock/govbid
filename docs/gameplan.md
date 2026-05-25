@@ -169,7 +169,9 @@ Daily habit: open dashboard → scan queue → star 3–5 opportunities for capt
 
 ## Phase 3 — Consig: RAG advisor (weeks 4–6)
 
-**Goal:** Chatbot that answers federal sales questions using your corpus, grounded in official docs.
+**Implementation plan (active branch `feature/consig`):** [consig-plan.md](consig-plan.md) — queue coach, scores/picks workflow, session memory, feedback loop.
+
+**Goal:** Chatbot that answers federal sales questions using your corpus, grounded in official docs, and guides daily review of scored opportunities.
 
 ### 3.1 Knowledge base
 

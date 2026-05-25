@@ -125,7 +125,8 @@ See [db/DATA_DICTIONARY.md](db/DATA_DICTIONARY.md) and [docs/gameplan.md](docs/g
 /home/me/rs/run_govclose_transcripts.sh
 ```
 
-Corpus for **Consig** RAG: `transcripts/govclose/govclose_all.txt`
+Corpus for **Consig** RAG: `transcripts/govclose/govclose_all.txt`  
+Consig build plan: [docs/consig-plan.md](docs/consig-plan.md) (branch `feature/consig`)
 
 ## Matching
 
