@@ -4,14 +4,22 @@
     {
       "parameters": {
         "rule": {
-          "interval": [{"field": "cronExpression", "expression": "0 6 * * *"}]
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 6 * * *"
+            }
+          ]
         }
       },
       "id": "b2000001-0001-4000-8000-000000000001",
       "name": "Daily 6AM ET",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
-      "position": [0, 0]
+      "position": [
+        0,
+        0
+      ]
     },
     {
       "parameters": {
@@ -23,17 +31,30 @@
       "name": "Start Ingest Run",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [220, 0],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        220,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
         "conditions": {
-          "conditions": [{
-            "leftValue": "={{ $env.SAM_API_KEY }}",
-            "rightValue": "",
-            "operator": {"type": "string", "operation": "notEmpty"}
-          }],
+          "conditions": [
+            {
+              "leftValue": "={{ $env.SAM_API_KEY }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty"
+              }
+            }
+          ],
           "combinator": "and"
         }
       },
@@ -41,7 +62,10 @@
       "name": "API Key Set?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
-      "position": [440, 0]
+      "position": [
+        440,
+        0
+      ]
     },
     {
       "parameters": {
@@ -51,7 +75,10 @@
       "name": "Fetch SAM API Pages",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [660, -80]
+      "position": [
+        660,
+        -80
+      ]
     },
     {
       "parameters": {
@@ -61,13 +88,24 @@
       "name": "Map and Filter Records",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [880, -80]
+      "position": [
+        880,
+        -80
+      ]
     },
     {
       "parameters": {
         "operation": "upsert",
-        "schema": {"__rl": true, "mode": "list", "value": "public"},
-        "table": {"__rl": true, "mode": "list", "value": "opportunities"},
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "mode": "list",
+          "value": "opportunities"
+        },
         "columns": {
           "mappingMode": "defineBelow",
           "value": {
@@ -91,15 +129,26 @@
             "active": "={{ $json.active }}",
             "raw_data": "={{ JSON.stringify($json.raw_data) }}"
           },
-          "matchingColumns": ["notice_id", "source"]
+          "matchingColumns": [
+            "notice_id",
+            "source"
+          ]
         }
       },
       "id": "b2000001-0001-4000-8000-000000000006",
       "name": "Upsert Opportunities",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [1100, -80],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        1100,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
@@ -111,8 +160,16 @@
       "name": "Refresh Match Scores",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [1320, -80],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        1320,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
@@ -124,8 +181,16 @@
       "name": "Finish Ingest Run",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [1540, -80],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        1540,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
@@ -137,26 +202,118 @@
       "name": "Fail Missing API Key",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [660, 120],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        660,
+        120
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     }
   ],
   "connections": {
-    "Daily 6AM ET": {"main": [[{"node": "Start Ingest Run", "type": "main", "index": 0}]]},
-    "Start Ingest Run": {"main": [[{"node": "API Key Set?", "type": "main", "index": 0}]]},
-    "API Key Set?": {
+    "Daily 6AM ET": {
       "main": [
-        [{"node": "Fetch SAM API Pages", "type": "main", "index": 0}],
-        [{"node": "Fail Missing API Key", "type": "main", "index": 0}]
+        [
+          {
+            "node": "Start Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
       ]
     },
-    "Fetch SAM API Pages": {"main": [[{"node": "Map and Filter Records", "type": "main", "index": 0}]]},
-    "Map and Filter Records": {"main": [[{"node": "Upsert Opportunities", "type": "main", "index": 0}]]},
-    "Upsert Opportunities": {"main": [[{"node": "Refresh Match Scores", "type": "main", "index": 0}]]},
-    "Refresh Match Scores": {"main": [[{"node": "Finish Ingest Run", "type": "main", "index": 0}]]}
+    "Start Ingest Run": {
+      "main": [
+        [
+          {
+            "node": "API Key Set?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "API Key Set?": {
+      "main": [
+        [
+          {
+            "node": "Fetch SAM API Pages",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Fail Missing API Key",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch SAM API Pages": {
+      "main": [
+        [
+          {
+            "node": "Map and Filter Records",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Map and Filter Records": {
+      "main": [
+        [
+          {
+            "node": "Upsert Opportunities",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Upsert Opportunities": {
+      "main": [
+        [
+          {
+            "node": "Refresh Match Scores",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Refresh Match Scores": {
+      "main": [
+        [
+          {
+            "node": "Finish Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
   },
-  "settings": {"executionOrder": "v1", "timezone": "America/New_York"},
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "America/New_York"
+  },
   "staticData": null,
   "tags": [],
-  "meta": {"templateCredsSetupCompleted": false}
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "active": false,
+  "id": "fe7dfce1-ad48-5859-b12a-8be32fdc5c2c",
+  "versionId": "7f3522a0-7bcb-5290-9480-0df11e6a75f9",
+  "createdAt": "2026-05-25T00:27:57.000Z",
+  "updatedAt": "2026-05-25T00:27:57.000Z",
+  "pinData": {},
+  "triggerCount": 0
 }

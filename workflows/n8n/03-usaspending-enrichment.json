@@ -4,14 +4,22 @@
     {
       "parameters": {
         "rule": {
-          "interval": [{"field": "cronExpression", "expression": "0 3 * * 0"}]
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 3 * * 0"
+            }
+          ]
         }
       },
       "id": "c3000001-0001-4000-8000-000000000001",
       "name": "Weekly Sunday 3AM",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
-      "position": [0, 0]
+      "position": [
+        0,
+        0
+      ]
     },
     {
       "parameters": {
@@ -23,8 +31,16 @@
       "name": "Start Ingest Run",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [220, 0],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        220,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
@@ -36,8 +52,16 @@
       "name": "Get Agency NAICS Pairs",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [440, 0],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        440,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
@@ -47,7 +71,10 @@
       "name": "Fetch USAspending Awards",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [660, 0]
+      "position": [
+        660,
+        0
+      ]
     },
     {
       "parameters": {
@@ -59,8 +86,16 @@
       "name": "Upsert Award Enrichment",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [880, 0],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        880,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
@@ -72,19 +107,89 @@
       "name": "Finish Ingest Run",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [1100, 0],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        1100,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     }
   ],
   "connections": {
-    "Weekly Sunday 3AM": {"main": [[{"node": "Start Ingest Run", "type": "main", "index": 0}]]},
-    "Start Ingest Run": {"main": [[{"node": "Get Agency NAICS Pairs", "type": "main", "index": 0}]]},
-    "Get Agency NAICS Pairs": {"main": [[{"node": "Fetch USAspending Awards", "type": "main", "index": 0}]]},
-    "Fetch USAspending Awards": {"main": [[{"node": "Upsert Award Enrichment", "type": "main", "index": 0}]]},
-    "Upsert Award Enrichment": {"main": [[{"node": "Finish Ingest Run", "type": "main", "index": 0}]]}
+    "Weekly Sunday 3AM": {
+      "main": [
+        [
+          {
+            "node": "Start Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Start Ingest Run": {
+      "main": [
+        [
+          {
+            "node": "Get Agency NAICS Pairs",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Agency NAICS Pairs": {
+      "main": [
+        [
+          {
+            "node": "Fetch USAspending Awards",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch USAspending Awards": {
+      "main": [
+        [
+          {
+            "node": "Upsert Award Enrichment",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Upsert Award Enrichment": {
+      "main": [
+        [
+          {
+            "node": "Finish Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
   },
-  "settings": {"executionOrder": "v1", "timezone": "America/New_York"},
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "America/New_York"
+  },
   "staticData": null,
   "tags": [],
-  "meta": {"templateCredsSetupCompleted": false}
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "active": false,
+  "id": "af28d88f-36f2-579b-9759-f0e27486e49c",
+  "versionId": "50fcb29a-2e18-5246-871c-c70fcc26ce0b",
+  "createdAt": "2026-05-25T00:27:57.000Z",
+  "updatedAt": "2026-05-25T00:27:57.000Z",
+  "pinData": {},
+  "triggerCount": 0
 }

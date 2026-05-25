@@ -4,14 +4,22 @@
     {
       "parameters": {
         "rule": {
-          "interval": [{"field": "cronExpression", "expression": "0 7 * * *"}]
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 7 * * *"
+            }
+          ]
         }
       },
       "id": "d4000001-0001-4000-8000-000000000001",
       "name": "Daily 7AM ET",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
-      "position": [0, 0]
+      "position": [
+        0,
+        0
+      ]
     },
     {
       "parameters": {
@@ -23,8 +31,16 @@
       "name": "Query Review Queue",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [220, 0],
-      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+      "position": [
+        220,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
     },
     {
       "parameters": {
@@ -34,15 +50,50 @@
       "name": "Format and Save Digest",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [440, 0]
+      "position": [
+        440,
+        0
+      ]
     }
   ],
   "connections": {
-    "Daily 7AM ET": {"main": [[{"node": "Query Review Queue", "type": "main", "index": 0}]]},
-    "Query Review Queue": {"main": [[{"node": "Format and Save Digest", "type": "main", "index": 0}]]}
+    "Daily 7AM ET": {
+      "main": [
+        [
+          {
+            "node": "Query Review Queue",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Query Review Queue": {
+      "main": [
+        [
+          {
+            "node": "Format and Save Digest",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
   },
-  "settings": {"executionOrder": "v1", "timezone": "America/New_York"},
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "America/New_York"
+  },
   "staticData": null,
   "tags": [],
-  "meta": {"templateCredsSetupCompleted": false}
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "active": false,
+  "id": "990148c7-378d-5c51-94ef-c0dc4a9d4533",
+  "versionId": "af4a5165-7789-54c4-8502-80822762e103",
+  "createdAt": "2026-05-25T00:27:57.000Z",
+  "updatedAt": "2026-05-25T00:27:57.000Z",
+  "pinData": {},
+  "triggerCount": 0
 }

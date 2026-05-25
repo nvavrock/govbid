@@ -22,6 +22,11 @@ fi
 # #region agent log
 _govbid_debug_log "E" "stack-up.sh" "compose_up_ok" "{\"docker\":\"${GOVBID_DOCKER//\"/\\\"}\"}"
 # #endregion
+
+if [[ -f .env ]]; then
+  bash "$ROOT/scripts/sync-postgres-password.sh" >/dev/null 2>&1 || true
+fi
+
 echo ""
 echo "Services:"
 echo "  n8n     http://localhost:5678"

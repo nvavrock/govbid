@@ -16,7 +16,10 @@
       "name": "Daily 2AM ET",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
-      "position": [0, 0]
+      "position": [
+        0,
+        0
+      ]
     },
     {
       "parameters": {
@@ -28,7 +31,10 @@
       "name": "Start Ingest Run",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [220, 0],
+      "position": [
+        220,
+        0
+      ],
       "credentials": {
         "postgres": {
           "id": "GOVBID_POSTGRES",
@@ -63,7 +69,10 @@
       "name": "CSV URL Set?",
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
-      "position": [440, 0]
+      "position": [
+        440,
+        0
+      ]
     },
     {
       "parameters": {
@@ -81,7 +90,10 @@
       "name": "Download SAM CSV",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [660, -80]
+      "position": [
+        660,
+        -80
+      ]
     },
     {
       "parameters": {
@@ -95,7 +107,10 @@
       "name": "Parse CSV",
       "type": "n8n-nodes-base.extractFromFile",
       "typeVersion": 1,
-      "position": [880, -80]
+      "position": [
+        880,
+        -80
+      ]
     },
     {
       "parameters": {
@@ -105,7 +120,10 @@
       "name": "Filter and Score",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [1100, -80]
+      "position": [
+        1100,
+        -80
+      ]
     },
     {
       "parameters": {
@@ -143,10 +161,25 @@
             "active": "={{ $json.active }}",
             "raw_data": "={{ JSON.stringify($json.raw_data) }}"
           },
-          "matchingColumns": ["notice_id", "source"],
+          "matchingColumns": [
+            "notice_id",
+            "source"
+          ],
           "schema": [
-            {"id": "notice_id", "displayName": "notice_id", "required": true, "defaultMatch": true, "canBeUsedToMatch": true},
-            {"id": "source", "displayName": "source", "required": true, "defaultMatch": true, "canBeUsedToMatch": true}
+            {
+              "id": "notice_id",
+              "displayName": "notice_id",
+              "required": true,
+              "defaultMatch": true,
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "source",
+              "displayName": "source",
+              "required": true,
+              "defaultMatch": true,
+              "canBeUsedToMatch": true
+            }
           ]
         },
         "options": {}
@@ -155,7 +188,10 @@
       "name": "Upsert Opportunities",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [1320, -80],
+      "position": [
+        1320,
+        -80
+      ],
       "credentials": {
         "postgres": {
           "id": "GOVBID_POSTGRES",
@@ -173,7 +209,10 @@
       "name": "Refresh Match Scores",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [1540, -80],
+      "position": [
+        1540,
+        -80
+      ],
       "credentials": {
         "postgres": {
           "id": "GOVBID_POSTGRES",
@@ -191,7 +230,10 @@
       "name": "Finish Ingest Run",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [1760, -80],
+      "position": [
+        1760,
+        -80
+      ],
       "credentials": {
         "postgres": {
           "id": "GOVBID_POSTGRES",
@@ -209,7 +251,10 @@
       "name": "Fail Missing URL",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [660, 120],
+      "position": [
+        660,
+        120
+      ],
       "credentials": {
         "postgres": {
           "id": "GOVBID_POSTGRES",
@@ -220,31 +265,99 @@
   ],
   "connections": {
     "Daily 2AM ET": {
-      "main": [[{"node": "Start Ingest Run", "type": "main", "index": 0}]]
+      "main": [
+        [
+          {
+            "node": "Start Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "Start Ingest Run": {
-      "main": [[{"node": "CSV URL Set?", "type": "main", "index": 0}]]
+      "main": [
+        [
+          {
+            "node": "CSV URL Set?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "CSV URL Set?": {
       "main": [
-        [{"node": "Download SAM CSV", "type": "main", "index": 0}],
-        [{"node": "Fail Missing URL", "type": "main", "index": 0}]
+        [
+          {
+            "node": "Download SAM CSV",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Fail Missing URL",
+            "type": "main",
+            "index": 0
+          }
+        ]
       ]
     },
     "Download SAM CSV": {
-      "main": [[{"node": "Parse CSV", "type": "main", "index": 0}]]
+      "main": [
+        [
+          {
+            "node": "Parse CSV",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "Parse CSV": {
-      "main": [[{"node": "Filter and Score", "type": "main", "index": 0}]]
+      "main": [
+        [
+          {
+            "node": "Filter and Score",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "Filter and Score": {
-      "main": [[{"node": "Upsert Opportunities", "type": "main", "index": 0}]]
+      "main": [
+        [
+          {
+            "node": "Upsert Opportunities",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "Upsert Opportunities": {
-      "main": [[{"node": "Refresh Match Scores", "type": "main", "index": 0}]]
+      "main": [
+        [
+          {
+            "node": "Refresh Match Scores",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "Refresh Match Scores": {
-      "main": [[{"node": "Finish Ingest Run", "type": "main", "index": 0}]]
+      "main": [
+        [
+          {
+            "node": "Finish Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "settings": {
@@ -255,5 +368,12 @@
   "tags": [],
   "meta": {
     "templateCredsSetupCompleted": false
-  }
+  },
+  "active": false,
+  "id": "a7c0bf41-22ab-5551-8dc2-b1b9493f5103",
+  "versionId": "d41e93a3-c942-5a59-ad67-ce85fd329082",
+  "createdAt": "2026-05-25T00:27:57.000Z",
+  "updatedAt": "2026-05-25T00:27:57.000Z",
+  "pinData": {},
+  "triggerCount": 0
 }
