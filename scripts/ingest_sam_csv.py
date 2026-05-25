@@ -15,13 +15,13 @@ import psycopg
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
+sys.path.insert(0, str(ROOT / "scripts"))
 
-NAICS = ["541511", "541512", "541519", "518210", "511210"]
-PSC_PREFIX = ["D3", "7E"]
-KEYWORDS = [
-    "software", "application", "cloud", "devsecops", "cybersecurity",
-    "api", "modernization", "saas", "database", "agile",
-]
+from lib.match_profile import (  # noqa: E402
+    MATCH_PROFILE,
+    load_profile,
+    passes_ingest_filter,
+)
 
 
 def load_env() -> None:
@@ -69,15 +69,6 @@ def parse_ts(value: str | None) -> str | None:
         return None
 
 
-def passes_filter(naics: str | None, psc: str | None, title: str | None) -> bool:
-    if naics and naics in NAICS:
-        return True
-    if psc and any(psc.startswith(p) for p in PSC_PREFIX):
-        return True
-    t = (title or "").lower()
-    return any(k in t for k in KEYWORDS)
-
-
 def latest_csv() -> Path:
     files = sorted(DATA_DIR.glob("ContractOpportunitiesFull_*.csv"))
     if not files:
@@ -87,7 +78,9 @@ def latest_csv() -> Path:
 
 def main() -> int:
     load_env()
+    profile = load_profile()
     csv_path = latest_csv()
+    print(f"Using match profile: {MATCH_PROFILE}")
 
     password = os.environ.get("POSTGRES_PASSWORD")
     if not password:
@@ -126,6 +119,17 @@ def main() -> int:
             updated_at = NOW()
     """
 
+    refresh_sql = """
+        SELECT refresh_match_scores(%s, %s, %s, %s, %s)
+    """
+    refresh_args = (
+        profile["naics_codes"],
+        profile["psc_prefixes"],
+        profile["include_keywords"],
+        profile["exclude_keywords"],
+        profile["exclude_set_asides"],
+    )
+
     try:
         with conn.cursor() as cur:
             cur.execute(
@@ -146,7 +150,7 @@ def main() -> int:
                     title = pick(row, "Title")
                     naics = pick(row, "NaicsCode", "NAICS Code")
                     psc = pick(row, "ClassificationCode", "PSC")
-                    if not passes_filter(naics, psc, title):
+                    if not passes_ingest_filter(naics, psc, title, profile):
                         continue
 
                     ui_link = pick(row, "Link", "uiLink") or (
@@ -182,7 +186,7 @@ def main() -> int:
                 cur.executemany(upsert_sql, batch)
                 inserted += len(batch)
 
-            cur.execute("SELECT refresh_match_scores()")
+            cur.execute(refresh_sql, refresh_args)
             scored = cur.fetchone()[0]
 
             cur.execute(

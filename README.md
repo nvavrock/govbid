@@ -74,19 +74,24 @@ Host Postgres port is **5433** (avoids conflict with local PostgreSQL on 5432). 
 
 Scripts auto-fallback to `docker.exe` when the Linux shim is broken.
 
-## SAM.gov daily download
+## SAM.gov daily pipeline
 
-Host cron (feeds `data/` for n8n bulk ingest):
+**Canonical daily job** (download → ingest → status, uses `config/match-profile.yaml`):
 
 ```bash
-/home/me/rs/run_download.sh
+./run_daily.sh
 ```
 
-```cron
-0 6 * * * /home/me/rs/run_download.sh
+Install host cron (06:00 local time by default):
+
+```bash
+bash scripts/install_daily_cron.sh          # print crontab line
+bash scripts/install_daily_cron.sh --install
 ```
 
-Or let n8n workflow `01-sam-bulk-ingest` download via `SAM_BULK_CSV_URL` in `.env`.
+Logs: `logs/daily.log`. `flock` in `run_daily.sh` / `run_download.sh` / `run_ingest.sh` prevents overlapping runs.
+
+n8n workflow `01-sam-bulk-ingest` is optional backup for very large files; **Python ingest** (`./run_ingest.sh`) is primary.
 
 Manual:
 
@@ -162,9 +167,17 @@ Plan: [docs/consig-plan.md](docs/consig-plan.md) — branch `feature/consig`
 
 Corpus for **Consig** RAG: `transcripts/govclose/govclose_all.txt`
 
+## Phase 1 complete
+
+```bash
+bash scripts/verify_phase1.sh   # exit 0 = Phase 1 done
+```
+
+Deliverable: up to 25 pending opportunities with `rule_score >= min_score` (default 25), deadlines within `days_ahead` (default 30), SAM.gov links in Postgres — all driven by `config/match-profile.yaml`.
+
 ## Matching
 
-Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asides. Keep in sync with `db/queries/review_queue.sql` and n8n Code nodes.
+Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asides, and `review:` (`min_score`, `days_ahead`, `top_n`). Used by `scripts/ingest_sam_csv.py`, scoring refresh, and `scripts/review_queue.py`. Adminer query `db/queries/review_queue.sql` is approximate defaults only.
 
 ## Documentation
 

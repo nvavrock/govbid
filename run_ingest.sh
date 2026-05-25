@@ -5,6 +5,11 @@ PROJECT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # shellcheck source=scripts/lib/common.sh
 source "$PROJECT/scripts/lib/common.sh"
 
+LOG_DIR="$PROJECT/logs"
+LOCK_FILE="$LOG_DIR/ingest.lock"
+mkdir -p "$LOG_DIR"
+govbid_acquire_lock "$LOCK_FILE" "SAM ingest"
+
 UV_BIN="$(govbid_resolve_uv)"
 cd "$PROJECT"
 

@@ -76,20 +76,16 @@ def top_k() -> int:
 
 
 def review_defaults() -> dict:
-    """Queue params from match-profile.yaml or hardcoded defaults."""
+    """Queue params from config/match-profile.yaml."""
     load_env()
     try:
-        import yaml
+        import sys
 
-        profile_path = MATCH_PROFILE if MATCH_PROFILE.is_file() else MATCH_PROFILE_EXAMPLE
-        if profile_path.is_file():
-            data = yaml.safe_load(profile_path.read_text(encoding="utf-8")) or {}
-            review = data.get("review") or {}
-            return {
-                "days_ahead": int(review.get("days_ahead", 30)),
-                "min_score": int(review.get("min_score", 25)),
-                "top_n": int(review.get("top_n", 25)),
-            }
+        scripts = ROOT / "scripts"
+        if str(scripts) not in sys.path:
+            sys.path.insert(0, str(scripts))
+        from lib.match_profile import load_profile
+
+        return load_profile()["review"]
     except Exception:
-        pass
-    return {"days_ahead": 30, "min_score": 25, "top_n": 25}
+        return {"days_ahead": 30, "min_score": 25, "top_n": 25}

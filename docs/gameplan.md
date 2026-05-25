@@ -107,31 +107,44 @@ From `config/match-profile.yaml` — customize as certifications and past perfor
 
 **Goal:** Turn the 230 MB CSV into a ranked, queryable opportunity list aligned with your profile.
 
-### 1.1 Stand up the pipeline stack
+**Definition of done:** `bash scripts/verify_phase1.sh` exits 0.
+
+| Step | Criteria |
+|------|----------|
+| **1.1 Stack** | Docker up, `.env` + `config/match-profile.yaml`, `bash scripts/doctor.sh` passes infra checks |
+| **1.2 Daily ingest** | `SAM_BULK_CSV_URL` or local CSV; `./run_daily.sh` (or cron via `scripts/install_daily_cron.sh`) |
+| **1.3 Matching** | `config/match-profile.yaml` drives ingest filter, `refresh_match_scores()`, and review queue (`scripts/lib/match_profile.py`) |
+| **1.4 Deliverable** | Review queue ≥1 row (up to 25): `rule_score >= min_score`, deadlines within `days_ahead`, valid `ui_link` |
+
+### 1.1 Stand up the pipeline stack ✅
 
 ```bash
 cd /home/me/rs
-cp .env.example .env          # SAM_API_KEY, Postgres, n8n secrets
+cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
-docker compose up -d
+bash scripts/stack-up.sh
 bash scripts/provision-n8n.sh
+bash scripts/doctor.sh
 ```
 
-### 1.2 Wire bulk ingest
+### 1.2 Daily automation ✅
 
-- Point `SAM_BULK_CSV_URL` at the same extract URL used by `download_sam_opportunities.py`.
-- Enable workflow `01-sam-bulk-ingest.json` (daily 2 AM ET).
-- Optional: keep `govbid` repo cron as backup or retire it once pipeline ingest is stable.
+- Set `SAM_BULK_CSV_URL` in `.env` (same URL as `download_sam_opportunities.py`).
+- **Primary:** `./run_daily.sh` or `bash scripts/install_daily_cron.sh --install`
+- **Optional:** n8n `01-sam-bulk-ingest.json` as backup for 220MB+ files
 
 ### 1.3 Validate matching
 
-- Tune `config/match-profile.yaml` (NAICS, PSC, keywords, set-asides).
-- Run `bash scripts/run-query.sh review_queue` — confirm top opportunities look relevant.
-- Inspect false positives/negatives; adjust exclude keywords and set-aside filters.
+```bash
+uv run scripts/review_queue.py
+bash scripts/verify_phase1.sh
+```
+
+Tune `config/match-profile.yaml`; re-run `./run_ingest.sh` only if NAICS/keyword/scoring rules changed (review-only param changes need no re-ingest).
 
 ### 1.4 Deliverable
 
-A **review queue** of 25 opportunities scored ≥25 with deadlines inside 30 days, stored in Postgres with SAM.gov NoticeId for deep links.
+Up to **25** pending opportunities with scores and SAM links in Postgres — params from `match-profile.yaml` → `review:` block.
 
 ---
 

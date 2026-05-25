@@ -4,6 +4,13 @@ set -euo pipefail
 
 PROJECT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT"
+# shellcheck source=scripts/lib/common.sh
+source "$PROJECT/scripts/lib/common.sh"
+
+LOG_DIR="$PROJECT/logs"
+LOCK_FILE="$LOG_DIR/daily.lock"
+mkdir -p "$LOG_DIR"
+govbid_acquire_lock "$LOCK_FILE" "run_daily"
 
 echo "Step 1/3: Download SAM bulk CSV"
 "$PROJECT/run_download.sh"

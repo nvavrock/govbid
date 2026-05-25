@@ -84,7 +84,13 @@ else
 fi
 
 echo ""
-echo "Next:"
-echo "  1. ./run_download.sh  (if CSV missing)"
-echo "  2. ./run_ingest.sh    (load CSV into Postgres)"
-echo "  3. bash scripts/run-query.sh review_queue"
+if bash "$ROOT/scripts/verify_phase1.sh" >/dev/null 2>&1; then
+  echo "Phase 1: COMPLETE — review queue meets match-profile.yaml criteria"
+  echo "  Re-check anytime: bash scripts/verify_phase1.sh"
+else
+  echo "Phase 1: incomplete"
+  echo "  1. cp config/match-profile.example.yaml config/match-profile.yaml  (if missing)"
+  echo "  2. ./run_daily.sh          (download + ingest + status)"
+  echo "  3. bash scripts/verify_phase1.sh"
+  echo "  4. uv run scripts/review_queue.py"
+fi
