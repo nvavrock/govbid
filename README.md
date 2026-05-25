@@ -36,6 +36,16 @@ cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
 # Edit .env — POSTGRES_PASSWORD, N8N_BASIC_AUTH_PASSWORD, N8N_ENCRYPTION_KEY, SAM_API_KEY
 ./scripts/check_env.sh
+bash scripts/stack-up.sh
+bash scripts/provision-n8n.sh
+```
+
+## Daily use
+
+```bash
+./run_daily.sh              # download + ingest + top 15 opportunities
+./scripts/status.sh 10      # health check + top 10 only
+uv run scripts/review_queue.py
 ```
 
 ### Start the pipeline stack
