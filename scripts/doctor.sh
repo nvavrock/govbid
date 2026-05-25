@@ -63,6 +63,17 @@ if [[ "$n8n_state" != "running" ]]; then
   exit 1
 fi
 echo "OK   n8n running — http://localhost:5678"
+OWNER_EMAIL="${N8N_OWNER_EMAIL:-nvavrock@gmail.com}"
+if [[ -n "${N8N_BASIC_AUTH_PASSWORD:-}" ]]; then
+  if curl -sf -X POST http://127.0.0.1:5678/rest/login \
+    -H 'Content-Type: application/json' \
+    -d "{\"emailOrLdapLoginId\":\"$OWNER_EMAIL\",\"password\":\"$N8N_BASIC_AUTH_PASSWORD\"}" \
+    | grep -q '"email"'; then
+    echo "OK   n8n login for $OWNER_EMAIL (password = N8N_BASIC_AUTH_PASSWORD in .env)"
+  else
+    echo "WARN n8n login failed — run: bash scripts/reset-n8n-login.sh"
+  fi
+fi
 
 opp_count="$(govbid_docker_compose exec -T postgres psql -U "${POSTGRES_USER:-govbid}" -d "${POSTGRES_DB:-govbid}" -tAc \
   "SELECT count(*) FROM opportunities;" 2>/dev/null | tr -d '[:space:]' || echo 0)"
