@@ -71,7 +71,7 @@ def fetch_queue() -> list:
 def main() -> None:
     st.set_page_config(page_title="Consig", page_icon="📋", layout="wide")
     st.title("Consig — Capture copilot")
-    st.caption("Review scored SAM opportunities with GovClose-grounded guidance.")
+    st.caption("Review scored SAM opportunities with guidance.")
 
     defaults = review_defaults()
 
