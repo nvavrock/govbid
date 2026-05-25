@@ -35,6 +35,7 @@ uv sync
 cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
 # Edit .env — POSTGRES_PASSWORD, N8N_BASIC_AUTH_PASSWORD, N8N_ENCRYPTION_KEY, SAM_API_KEY
+# n8n UI login uses your owner email (default nvavrock@gmail.com) + N8N_BASIC_AUTH_PASSWORD
 ./scripts/check_env.sh
 bash scripts/stack-up.sh
 bash scripts/provision-n8n.sh

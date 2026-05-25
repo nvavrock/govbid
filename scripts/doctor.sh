@@ -36,6 +36,11 @@ govbid_docker_compose ps 2>/dev/null || true
 
 bash "$ROOT/scripts/sync-postgres-password.sh" >/dev/null 2>&1 && echo "OK   Postgres password synced to .env" || true
 
+N8N_VER="$(govbid_docker_compose exec -T n8n n8n --version 2>/dev/null | tr -d '[:space:]' || true)"
+if [[ -n "$N8N_VER" ]]; then
+  echo "OK   n8n version $N8N_VER"
+fi
+
 if govbid_docker_compose ps n8n --status running -q 2>/dev/null | grep -q .; then
   cfg_key="$(govbid_docker_compose exec -T n8n cat /home/node/.n8n/config 2>/dev/null \
     | python3 -c "import json,sys; print(json.load(sys.stdin).get('encryptionKey',''))" 2>/dev/null || true)"
