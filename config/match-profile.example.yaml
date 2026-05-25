@@ -1,0 +1,65 @@
+# Copy to match-profile.yaml and customize for your business.
+# Defaults are duplicated in n8n workflow Code nodes and refresh_match_scores().
+# Keep review_queue.sql params in sync with the review: section below.
+
+profile:
+  name: "Rocksteady Analytics"
+  capabilities: |
+    Custom software development, cloud migration, DevSecOps,
+    API integrations, and technical consulting.
+
+# Hard filters — NAICS for software / IT services
+naics_codes:
+  - "541511"  # Custom computer programming
+  - "541512"  # Computer systems design
+  - "541519"  # Other computer-related services
+  - "518210"  # Data processing, hosting, related
+  - "511210"  # Software publishers
+
+# PSC prefixes (IT and telecom services — D3xx family)
+psc_prefixes:
+  - "D3"
+  - "7E"  # IT equipment (optional — often hardware-heavy)
+
+# SAM procurement types to include in API delta
+# o=solicitation, k=combined, p=pre-solicitation, r=sources sought
+procurement_types:
+  - "o"
+  - "k"
+  - "p"
+  - "r"
+
+# Soft scoring — case-insensitive substring match on title
+include_keywords:
+  - "software"
+  - "application"
+  - "cloud"
+  - "devsecops"
+  - "cybersecurity"
+  - "api"
+  - "modernization"
+  - "saas"
+  - "database"
+  - "agile"
+
+exclude_keywords:
+  - "construction"
+  - "janitorial"
+  - "landscaping"
+  - "hardware only"
+  - "furniture"
+  - "vehicles"
+
+# Set-aside descriptions to skip (adjust if you hold certifications)
+exclude_set_asides:
+  - "8(a)"
+  - "HUBZone"
+  - "SDVOSB"
+  - "WOSB"
+  - "EDWOSB"
+
+# Review queue — sync with db/queries/review_queue.sql params CTE
+review:
+  days_ahead: 30
+  min_score: 25
+  top_n: 25

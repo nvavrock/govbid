@@ -2,7 +2,7 @@
 
 **Owner:** Rocksteady Analytics  
 **Last updated:** May 2026  
-**Status:** Phase 0 complete — data ingest and knowledge corpus online
+**Status:** Phase 0 complete — ingest, knowledge corpus, and pipeline stack merged into this repo
 
 ---
 
@@ -17,7 +17,7 @@ Build a modular federal contracting system that:
 
 The GovClose corpus (400+ videos, ~287k lines in `govclose_all.txt`) and your playbooks encode the operating model: **research before RFP**, target specific acquisition offices, build a pipeline (not a spreadsheet wish list), and treat proposals as compliance exercises against Section L / Section M.
 
-This repo (`govbid`) holds lightweight ingest + knowledge. The Docker pipeline lives in [`govbid-pipeline`](https://github.com/nvavrock/govbid-pipeline) (Postgres, n8n, scoring workflows).
+This repo includes lightweight ingest, the GovClose knowledge corpus, and the full Docker pipeline (Postgres, n8n, scoring workflows) in one place.
 
 ---
 
@@ -37,7 +37,7 @@ This repo (`govbid`) holds lightweight ingest + knowledge. The Docker pipeline l
 
 ### Your capability profile (starting point)
 
-From `govbid-pipeline` match profile — customize as certifications and past performance evolve:
+From `config/match-profile.yaml` — customize as certifications and past performance evolve:
 
 - **NAICS:** 541511, 541512, 541519, 518210, 511210
 - **PSC prefixes:** D3 (IT services), 7E (IT equipment, optional)
@@ -107,10 +107,10 @@ From `govbid-pipeline` match profile — customize as certifications and past pe
 
 **Goal:** Turn the 230 MB CSV into a ranked, queryable opportunity list aligned with your profile.
 
-### 1.1 Stand up `govbid-pipeline`
+### 1.1 Stand up the pipeline stack
 
 ```bash
-cd ~/govbid-pipeline
+cd /home/me/rs
 cp .env.example .env          # SAM_API_KEY, Postgres, n8n secrets
 cp config/match-profile.example.yaml config/match-profile.yaml
 docker compose up -d
@@ -292,11 +292,11 @@ Aligns with the federal sales roadmap from GovClose:
 | Layer | Tool | Repo |
 |-------|------|------|
 | Bulk download | Python + `requests` | `govbid` |
-| Orchestration | n8n Community Edition | `govbid-pipeline` |
-| Database | PostgreSQL + migrations | `govbid-pipeline` |
-| Matching | SQL + `match-profile.yaml` | `govbid-pipeline` |
-| Transcripts | yt-dlp + bash | `govbid` |
-| RAG | pgvector / Chroma + FastAPI | new in `govbid` or `govbid-pipeline` |
+| Orchestration | n8n Community Edition | `workflows/n8n/` |
+| Database | PostgreSQL + migrations | `db/` |
+| Matching | SQL + `match-profile.yaml` | `config/` |
+| Transcripts | yt-dlp + bash | `transcripts/govclose/` |
+| RAG | pgvector / Chroma + FastAPI | new in `scripts/` |
 | Agents | Docker containers, JSON handoffs | new |
 | UI | Streamlit or Adminer (v1) | TBD |
 
@@ -304,7 +304,7 @@ Aligns with the federal sales roadmap from GovClose:
 
 ## Immediate next actions (this week)
 
-1. **Finalize match profile** — edit `~/govbid-pipeline/config/match-profile.yaml` for Rocksteady Analytics.
+1. **Finalize match profile** — edit `config/match-profile.yaml` for Rocksteady Analytics.
 2. **Start Docker pipeline** — ingest today's CSV; verify `review_queue` output.
 3. **Pick dashboard approach** — Adminer for week 1, Streamlit if you want custom UI fast.
 4. **Register on SAM.gov** — entity + API key (raises rate limits from ~10 to ~1,000/day).

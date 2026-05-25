@@ -1,113 +1,119 @@
 # govbid
 
-Federal contract opportunity tooling: SAM.gov bulk download, GovClose training corpus, and agent-assisted capture planning.
+Federal contract opportunity system: SAM.gov bulk download, Postgres scoring pipeline (n8n), GovClose training corpus, and agent-assisted capture planning.
 
 ## Project layout
 
 ```
 govbid/
 ├── README.md
-├── pyproject.toml              # Python deps (requests); managed with uv
-├── run_download.sh             # daily SAM.gov CSV pull
+├── pyproject.toml              # Python deps (requests, psycopg); managed with uv
+├── docker-compose.yml          # Postgres + n8n + Adminer
+├── .env.example
+├── run_download.sh             # daily SAM.gov CSV pull → data/
 ├── run_govclose_transcripts.sh # refresh GovClose transcript corpus
-├── docs/
-│   ├── gameplan.md             # phased build plan (source of truth)
-│   ├── gameplan.docx
-│   ├── federal_contracting_playbook.md
-│   ├── sam_gov_procurement_framework.md
-│   └── reference/              # official SAM / entity docs (PDF)
-├── scripts/
-│   ├── check_env.sh            # preflight sanity checks
-│   ├── download_sam_opportunities.py
-│   ├── fetch_govclose_transcripts.sh
-│   ├── md_to_docx.py
-│   └── lib/common.sh
+├── config/
+│   └── match-profile.example.yaml
+├── db/
+│   ├── migrations/             # Postgres schema (auto on first Docker boot)
+│   ├── queries/                # review_queue, sanity_counts, etc.
+│   └── DATA_DICTIONARY.md
+├── workflows/n8n/              # import into n8n
+├── scrapers/states/            # phase 2 state portals
+├── docs/                       # gameplan, playbooks, reference PDFs
+├── scripts/                    # ingest, queries, n8n provision, check_env
 ├── data/                       # SAM bulk CSV (gitignored)
-├── logs/                       # run logs (gitignored)
+├── logs/
 └── transcripts/govclose/       # RAG corpus (tracked in git)
 ```
-
-Related repo: [`govbid-pipeline`](https://github.com/nvavrock/govbid-pipeline) — Docker + n8n + PostgreSQL stack for ingest, scoring, and review queue (Phase 2+).
 
 ## Setup
 
 ```bash
 cd /home/me/rs
 uv sync
+cp .env.example .env
+cp config/match-profile.example.yaml config/match-profile.yaml
+# Edit .env — POSTGRES_PASSWORD, N8N_BASIC_AUTH_PASSWORD, N8N_ENCRYPTION_KEY, SAM_API_KEY
 ./scripts/check_env.sh
 ```
 
-Optional (regenerate Word doc from markdown):
+### Start the pipeline stack
 
 ```bash
-uv sync --extra docs
-uv run --extra docs python scripts/md_to_docx.py
+docker compose up -d
+bash scripts/provision-n8n.sh   # after first login at http://localhost:5678
 ```
 
+| Service | URL |
+|---------|-----|
+| n8n | http://localhost:5678 |
+| Adminer | http://localhost:8081 (server: `postgres`) |
+
+**WSL:** If `docker` is missing, run `bash scripts/ensure-docker.sh`.
+
 ## SAM.gov daily download
+
+Host cron (feeds `data/` for n8n bulk ingest):
 
 ```bash
 /home/me/rs/run_download.sh
 ```
 
-Cron (daily 6 AM):
-
 ```cron
 0 6 * * * /home/me/rs/run_download.sh
 ```
 
-- Output: `data/ContractOpportunitiesFull_YYYYMMDD.csv` (older exports removed automatically)
-- Uses atomic `.csv.part` writes, retries, and a minimum file-size check
-- Override URL: `SAM_BULK_CSV_URL` (same variable as `govbid-pipeline`)
-- Logs: `logs/download.log` (failures exit non-zero for cron alerting)
+Or let n8n workflow `01-sam-bulk-ingest` download via `SAM_BULK_CSV_URL` in `.env`.
 
-Manual run:
+Manual:
 
 ```bash
 uv run scripts/download_sam_opportunities.py --help
 ```
 
-## GovClose YouTube transcripts
+## Review queue
 
-Fetches English captions from [@govclose](https://www.youtube.com/@govclose/videos) for the **Consig** RAG knowledge base.
-
-**Prerequisite:** [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+After ingest and `refresh_match_scores()`:
 
 ```bash
-sudo apt update && sudo apt install -y yt-dlp
-yt-dlp --version
+bash scripts/run-query.sh review_queue
+uv run scripts/review_queue.py
 ```
 
-**Run:**
+## n8n workflows
+
+| File | Schedule | Purpose |
+|------|----------|---------|
+| `01-sam-bulk-ingest.json` | Daily 2:00 AM ET | Bulk CSV → Postgres |
+| `02-sam-api-delta.json` | Daily 6:00 AM ET | SAM API delta by NAICS |
+| `03-usaspending-enrichment.json` | Weekly | Award history |
+| `04-review-digest.json` | Daily 7:00 AM ET | Top opportunities digest |
+
+See [db/DATA_DICTIONARY.md](db/DATA_DICTIONARY.md) and [docs/gameplan.md](docs/gameplan.md).
+
+## GovClose transcripts
 
 ```bash
 /home/me/rs/run_govclose_transcripts.sh
 ```
 
-**Smoke test (first 3 videos only):**
+Corpus for **Consig** RAG: `transcripts/govclose/govclose_all.txt`
 
-```bash
-PLAYLIST_END=3 /home/me/rs/scripts/fetch_govclose_transcripts.sh
-```
+## Matching
 
-Output:
-
-- `transcripts/govclose/{date}_{id}_{title}.txt` — one file per video
-- `transcripts/govclose/govclose_all.txt` — combined archive with headers
-
-Re-runs skip already-archived videos (`transcripts/govclose/.archive.txt`, local only).
+Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asides. Keep in sync with `db/queries/review_queue.sql` and n8n Code nodes.
 
 ## Documentation
 
 | Doc | Purpose |
 |-----|---------|
-| [docs/gameplan.md](docs/gameplan.md) | Phased roadmap: data → dashboard → agents |
-| [docs/federal_contracting_playbook.md](docs/federal_contracting_playbook.md) | Capture strategy, vehicles, SBIR |
-| [docs/sam_gov_procurement_framework.md](docs/sam_gov_procurement_framework.md) | SAM.gov lifecycle and compliance |
-| [docs/reference/](docs/reference/) | SAM data extract docs, entity checklist |
+| [docs/gameplan.md](docs/gameplan.md) | Phased roadmap |
+| [docs/federal_contracting_playbook.md](docs/federal_contracting_playbook.md) | Capture strategy |
+| [docs/sam_gov_procurement_framework.md](docs/sam_gov_procurement_framework.md) | SAM.gov lifecycle |
 
-## Operations notes
+## Operations
 
 - **Lock files** in `logs/` prevent overlapping cron runs.
-- **Do not scrape SAM.gov** — use the official bulk extract URL or API only.
-- **Regenerate gameplan.docx** after editing `docs/gameplan.md` (see Setup).
+- **Do not scrape SAM.gov** — official bulk extract and API only.
+- Register entity + API key at [sam.gov](https://sam.gov) for higher rate limits.

@@ -35,6 +35,21 @@ if [[ -f "$PROJECT/pyproject.toml" ]]; then
   check "pyproject.toml present" test -f "$PROJECT/pyproject.toml"
 fi
 
+check "docker compose file" test -f "$PROJECT/docker-compose.yml"
+check "postgres migrations" test -d "$PROJECT/db/migrations"
+check "match profile example" test -f "$PROJECT/config/match-profile.example.yaml"
+check "psycopg import" bash -c "cd '$PROJECT' && \"$(govbid_resolve_uv)\" run python -c 'import psycopg'"
+
+if command -v docker >/dev/null 2>&1; then
+  if docker info >/dev/null 2>&1; then
+    echo "OK   docker daemon running"
+  else
+    echo "WARN docker installed but daemon not running (needed for pipeline stack)" >&2
+  fi
+else
+  echo "WARN docker not installed (needed for pipeline stack)" >&2
+fi
+
 if [[ $failures -gt 0 ]]; then
   echo "" >&2
   echo "$failures check(s) failed. Run: cd $PROJECT && uv sync" >&2

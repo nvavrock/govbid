@@ -1,14 +1,22 @@
 # WSL/Windows metadata
 *:Zone.Identifier
 
+# Secrets and local config
+.env
+config/match-profile.yaml
+
 # Python
 .venv/
 __pycache__/
 *.pyc
 *.pyo
-# SAM data (large; refreshed by run_download.sh)
+node_modules/
+
+# SAM data (large; refreshed by run_download.sh or n8n ingest)
 data/*.csv
 !data/.gitkeep
+!data/state-imports/
+!data/state-imports/.gitkeep
 
 # Logs and runtime locks
 logs/*
@@ -20,3 +28,7 @@ transcripts/govclose/.archive.txt
 transcripts/govclose/*.en-en.txt
 
 # Per-video corpus is tracked intentionally (.txt, .info.json, govclose_all.txt)
+
+# Docker / misc
+index.php
+.DS_Store

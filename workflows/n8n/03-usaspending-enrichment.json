@@ -1,0 +1,90 @@
+{
+  "name": "03 - USAspending Enrichment",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{"field": "cronExpression", "expression": "0 3 * * 0"}]
+        }
+      },
+      "id": "c3000001-0001-4000-8000-000000000001",
+      "name": "Weekly Sunday 3AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO ingest_runs (source, status, metadata) VALUES ('usaspending:enrichment', 'running', '{}'::jsonb) RETURNING id;",
+        "options": {}
+      },
+      "id": "c3000001-0001-4000-8000-000000000002",
+      "name": "Start Ingest Run",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [220, 0],
+      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT DISTINCT agency AS awarding_agency, naics AS naics_code FROM opportunities WHERE source = 'federal:sam' AND agency IS NOT NULL AND naics IS NOT NULL AND active = TRUE LIMIT 50;",
+        "options": {}
+      },
+      "id": "c3000001-0001-4000-8000-000000000003",
+      "name": "Get Agency NAICS Pairs",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [440, 0],
+      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+    },
+    {
+      "parameters": {
+        "jsCode": "const pairs = $input.all().map(i => i.json);\nconst runId = $('Start Ingest Run').first().json.id;\nconst awards = [];\nconst seen = new Set();\nconst sleep = (ms) => new Promise(r => setTimeout(r, ms));\n\nfunction agencyMatches(rowAgency, pairAgency) {\n  if (!pairAgency || !rowAgency) return true;\n  const a = String(rowAgency).toLowerCase();\n  const b = String(pairAgency).toLowerCase();\n  return a.includes(b) || b.includes(a);\n}\n\nfor (const pair of pairs) {\n  const body = {\n    filters: {\n      time_period: [{ start_date: '2021-01-01', end_date: '2026-12-31' }],\n      naics_codes: { require: [pair.naics_code] },\n      award_type_codes: ['A', 'B', 'C', 'D'],\n    },\n    fields: ['Award ID', 'Recipient Name', 'Award Amount', 'Start Date', 'Awarding Agency', 'NAICS Code', 'PSC Code'],\n    page: 1,\n    limit: 25,\n    sort: 'Award Amount',\n    order: 'desc',\n  };\n  try {\n    const res = await this.helpers.httpRequest({\n      method: 'POST',\n      url: 'https://api.usaspending.gov/api/v2/search/spending_by_award/',\n      body,\n      json: true,\n    });\n    for (const row of res.results || []) {\n      const awardId = row['Award ID'] || row['generated_internal_id'] || null;\n      if (!awardId || seen.has(awardId)) continue;\n      const rowAgency = row['Awarding Agency'] || '';\n      if (!agencyMatches(rowAgency, pair.awarding_agency)) continue;\n      seen.add(awardId);\n      awards.push({\n        awarding_agency: rowAgency || pair.awarding_agency,\n        naics_code: row['NAICS Code'] || pair.naics_code,\n        psc_code: row['PSC Code'] || null,\n        recipient_name: row['Recipient Name'] || null,\n        award_amount: row['Award Amount'] ?? null,\n        award_date: row['Start Date'] || null,\n        usaspending_award_id: awardId,\n        raw_data: row,\n        ingest_run_id: runId,\n      });\n    }\n  } catch (e) {\n    console.error(`USAspending failed for ${pair.naics_code}/${pair.awarding_agency}:`, e);\n  }\n  await sleep(350);\n}\n\nreturn awards.map(a => ({ json: a }));"
+      },
+      "id": "c3000001-0001-4000-8000-000000000004",
+      "name": "Fetch USAspending Awards",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [660, 0]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO award_enrichment (awarding_agency, naics_code, psc_code, recipient_name, award_amount, award_date, usaspending_award_id, raw_data) VALUES ({{ $json.awarding_agency ? `'${String($json.awarding_agency).replace(/'/g, \"''\")}'` : 'NULL' }}, {{ $json.naics_code ? `'${String($json.naics_code).replace(/'/g, \"''\")}'` : 'NULL' }}, {{ $json.psc_code ? `'${String($json.psc_code).replace(/'/g, \"''\")}'` : 'NULL' }}, {{ $json.recipient_name ? `'${String($json.recipient_name).replace(/'/g, \"''\")}'` : 'NULL' }}, {{ $json.award_amount != null ? $json.award_amount : 'NULL' }}, {{ $json.award_date ? `'${String($json.award_date).replace(/'/g, \"''\")}'` : 'NULL' }}, {{ $json.usaspending_award_id ? `'${String($json.usaspending_award_id).replace(/'/g, \"''\")}'` : 'NULL' }}, {{ $json.raw_data ? `'${JSON.stringify($json.raw_data).replace(/'/g, \"''\")}'::jsonb` : 'NULL' }}) ON CONFLICT (usaspending_award_id) DO UPDATE SET award_amount = EXCLUDED.award_amount, recipient_name = EXCLUDED.recipient_name, raw_data = EXCLUDED.raw_data, enriched_at = NOW();",
+        "options": {}
+      },
+      "id": "c3000001-0001-4000-8000-000000000005",
+      "name": "Upsert Award Enrichment",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [880, 0],
+      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE ingest_runs SET status = 'success', finished_at = NOW(), rows_inserted = {{ $input.all().length }} WHERE id = {{ $('Start Ingest Run').first().json.id }};",
+        "options": {}
+      },
+      "id": "c3000001-0001-4000-8000-000000000006",
+      "name": "Finish Ingest Run",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1100, 0],
+      "credentials": {"postgres": {"id": "GOVBID_POSTGRES", "name": "GovBid Postgres"}}
+    }
+  ],
+  "connections": {
+    "Weekly Sunday 3AM": {"main": [[{"node": "Start Ingest Run", "type": "main", "index": 0}]]},
+    "Start Ingest Run": {"main": [[{"node": "Get Agency NAICS Pairs", "type": "main", "index": 0}]]},
+    "Get Agency NAICS Pairs": {"main": [[{"node": "Fetch USAspending Awards", "type": "main", "index": 0}]]},
+    "Fetch USAspending Awards": {"main": [[{"node": "Upsert Award Enrichment", "type": "main", "index": 0}]]},
+    "Upsert Award Enrichment": {"main": [[{"node": "Finish Ingest Run", "type": "main", "index": 0}]]}
+  },
+  "settings": {"executionOrder": "v1", "timezone": "America/New_York"},
+  "staticData": null,
+  "tags": [],
+  "meta": {"templateCredsSetupCompleted": false}
+}
