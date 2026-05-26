@@ -18,6 +18,13 @@ sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from consig.config import load_env, review_defaults  # noqa: E402
+from consig.survey_schema import (
+    BAD_TAGS,
+    GOOD_TAGS,
+    chunk_id_for_fit_survey,
+    normalize_survey_payload,
+    survey_row_to_rag_text,
+)
 
 load_env()
 
@@ -106,11 +113,66 @@ def apply_review(notice_id: str, status: str, notes: str | None = None) -> None:
     if USE_INPROCESS:
         _db().set_review_status(notice_id, status, notes)
         _db().record_feedback(notice_id, status, notes)
+        if status in ("pass", "bid"):
+            st.session_state.fit_survey_notice_id = notice_id
     else:
         _api_post(
             "/review",
             {"notice_id": notice_id, "status": status, "notes": notes},
         )
+
+
+def submit_fit_survey(
+    notice_id: str,
+    review_status: str,
+    *,
+    fit_rating: int,
+    score_accurate: bool | None,
+    score_direction: str | None,
+    good_tags: list[str],
+    bad_tags: list[str],
+    good_notes: str | None,
+    bad_notes: str | None,
+    lessons_learned: str | None,
+) -> bool:
+    row = _db().save_fit_survey(
+        notice_id,
+        review_status,
+        fit_rating=fit_rating,
+        score_accurate=score_accurate,
+        score_direction=score_direction,
+        good_tags=good_tags,
+        bad_tags=bad_tags,
+        good_notes=good_notes,
+        bad_notes=bad_notes,
+        lessons_learned=lessons_learned,
+    )
+    survey_id = row.get("id")
+    if not survey_id:
+        return False
+
+    # Index immediately for RAG.
+    try:
+        from consig import rag
+
+        fit_row = _db().get_fit_survey_by_id(int(survey_id))
+        if fit_row:
+            rag.index_chunks(
+                [
+                    {
+                        "id": chunk_id_for_fit_survey(int(survey_id)),
+                        "text": survey_row_to_rag_text(fit_row),
+                        "source": f"fit_feedback/survey_{survey_id}",
+                        "title": "fit_feedback",
+                    }
+                ],
+                reset=False,
+            )
+            _db().mark_fit_survey_indexed(int(survey_id))
+    except Exception:
+        # Leave indexed_at NULL; batch index script can fill later.
+        pass
+    return True
 
 
 def _format_reasons(val: Any) -> str:
@@ -371,6 +433,123 @@ def tab_chat() -> None:
         st.rerun()
 
 
+def tab_fit_survey() -> None:
+    st.subheader("Fit survey")
+    st.caption("Was this opportunity a good project fit for you? This improves grading explanations.")
+
+    try:
+        shortlist = _db().get_shortlist(limit=50)
+    except Exception:
+        shortlist = []
+
+    try:
+        queue = _db().get_review_queue(top_n=25)
+    except Exception:
+        queue = []
+
+    notice_ids = sorted(
+        {r.get("notice_id") for r in shortlist + queue if r.get("notice_id")}
+    )
+    if not notice_ids:
+        st.info("No opportunities available. Run ./run_daily.sh and ensure matches are in the queue.")
+        return
+
+    prefill_notice_id = st.session_state.get("fit_survey_notice_id")
+    default_idx = 0
+    if prefill_notice_id and prefill_notice_id in notice_ids:
+        default_idx = notice_ids.index(prefill_notice_id)
+
+    selected_notice_id = st.selectbox(
+        "Opportunity (notice_id)",
+        notice_ids,
+        index=default_idx,
+        key="fit_survey_notice_select",
+    )
+
+    opp = _db().get_opportunity(selected_notice_id)
+    if not opp:
+        st.error("Could not load opportunity details.")
+        return
+
+    st.divider()
+    st.write(f"Title: {opp.get('title', '')}")
+    st.write(f"Agency: {opp.get('agency', '')}")
+    st.write(f"Score: {opp.get('rule_score', '')}")
+    st.write(f"Current review_status: {opp.get('review_status', '')}")
+    if opp.get("match_reasons"):
+        st.caption(f"Match reasons: {opp.get('match_reasons')}")
+    if opp.get("ui_link"):
+        st.link_button("Open SAM.gov", opp["ui_link"], use_container_width=True)
+
+    status_default = opp.get("review_status") or "pending"
+    review_status = st.selectbox(
+        "Survey status (tie it to what you decided)",
+        ["pending", "reviewing", "bid", "pass", "expired"],
+        index=["pending", "reviewing", "bid", "pass", "expired"].index(status_default)
+        if status_default in {"pending", "reviewing", "bid", "pass", "expired"}
+        else 0,
+        key="fit_survey_review_status",
+    )
+
+    st.subheader("Rate fit")
+
+    fit_rating = st.slider(
+        "Overall fit for your firm (1–5)",
+        1,
+        5,
+        3,
+        key="fit_survey_fit_rating",
+    )
+    score_direction = st.selectbox(
+        "Was the match score direction correct?",
+        ["", "about_right", "too_high", "too_low"],
+        index=0,
+        key="fit_survey_score_direction",
+    )
+    score_accurate: bool | None = None
+    if score_direction == "about_right":
+        score_accurate = True
+    elif score_direction in {"too_high", "too_low"}:
+        score_accurate = False
+
+    good_tags = st.multiselect(
+        "Good tags",
+        sorted(GOOD_TAGS),
+        default=[],
+        key="fit_survey_good_tags",
+    )
+    bad_tags = st.multiselect(
+        "Bad tags",
+        sorted(BAD_TAGS),
+        default=[],
+        key="fit_survey_bad_tags",
+    )
+
+    good_notes = st.text_area("Good notes (optional)")
+    bad_notes = st.text_area("Bad notes (optional)")
+    lessons_learned = st.text_area("Lessons learned (optional)")
+
+    submitted = st.button("Submit fit survey", type="primary", key="fit_survey_submit")
+    if submitted:
+        ok = submit_fit_survey(
+            selected_notice_id,
+            review_status,
+            fit_rating=fit_rating,
+            score_accurate=score_accurate,
+            score_direction=score_direction or None,
+            good_tags=good_tags,
+            bad_tags=bad_tags,
+            good_notes=good_notes or None,
+            bad_notes=bad_notes or None,
+            lessons_learned=lessons_learned or None,
+        )
+        if ok:
+            st.session_state.fit_survey_notice_id = None
+            st.success("Fit survey saved (and indexed for RAG if embeddings are available).")
+        else:
+            st.error("Fit survey save failed.")
+
+
 def main() -> None:
     st.set_page_config(page_title="Consig", page_icon="📋", layout="wide")
     st.title("Consig — Opportunity dashboard")
@@ -384,11 +563,13 @@ def main() -> None:
         st.session_state.messages = []
     if "focus_notice_id" not in st.session_state:
         st.session_state.focus_notice_id = None
+    if "fit_survey_notice_id" not in st.session_state:
+        st.session_state.fit_survey_notice_id = None
 
     min_score, days_ahead, top_n = render_sidebar(defaults)
 
-    tab1, tab2, tab3, tab4 = st.tabs(
-        ["Today's queue", "Browse / detail", "Shortlist", "Chat"]
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(
+        ["Today's queue", "Browse / detail", "Shortlist", "Chat", "Fit survey"]
     )
     with tab1:
         tab_queue(min_score, days_ahead, top_n)
@@ -398,6 +579,8 @@ def main() -> None:
         tab_shortlist()
     with tab4:
         tab_chat()
+    with tab5:
+        tab_fit_survey()
 
 
 if __name__ == "__main__":

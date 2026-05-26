@@ -35,6 +35,7 @@ SELECT
     o.ui_link,
     o.description_url,
     o.procurement_type,
+    o.id AS opportunity_id,
     m.rule_score,
     m.match_reasons,
     m.review_status,
@@ -289,3 +290,201 @@ def record_feedback(
                 (notice_id, action, user_reason, helpful),
             )
         conn.commit()
+
+
+# --- Fit surveys (004 migration) ---
+
+
+def ensure_fit_surveys_schema() -> None:
+    """Apply 004_fit_surveys.sql if table is missing."""
+    migration = QUERIES_DIR.parent / "migrations" / "004_fit_surveys.sql"
+    if not migration.is_file():
+        return
+    with _connect() as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                "SELECT 1 FROM information_schema.tables WHERE table_name = 'consig_fit_surveys'"
+            )
+            if cur.fetchone():
+                return
+        sql = migration.read_text(encoding="utf-8")
+        with conn.cursor() as cur:
+            cur.execute(sql)
+        conn.commit()
+
+
+def save_fit_survey(
+    notice_id: str,
+    review_status: str,
+    *,
+    fit_rating: int,
+    rule_score: int | None = None,
+    score_accurate: bool | None = None,
+    score_direction: str | None = None,
+    good_tags: list[str] | None = None,
+    bad_tags: list[str] | None = None,
+    good_notes: str | None = None,
+    bad_notes: str | None = None,
+    lessons_learned: str | None = None,
+) -> dict[str, Any]:
+    ensure_consig_schema()
+    ensure_fit_surveys_schema()
+    if review_status not in VALID_REVIEW_STATUSES:
+        raise ValueError(f"Invalid review_status {review_status!r}")
+    opp = get_opportunity(notice_id)
+    if not opp:
+        raise LookupError(f"No opportunity for notice_id={notice_id!r}")
+    opportunity_id = opp.get("opportunity_id")
+    if rule_score is None:
+        rule_score = opp.get("rule_score")
+    sql = """
+        INSERT INTO consig_fit_surveys (
+            notice_id, opportunity_id, review_status, rule_score, fit_rating,
+            score_accurate, score_direction, good_tags, bad_tags,
+            good_notes, bad_notes, lessons_learned
+        ) VALUES (
+            %(notice_id)s, %(opportunity_id)s, %(review_status)s, %(rule_score)s, %(fit_rating)s,
+            %(score_accurate)s, %(score_direction)s, %(good_tags)s::jsonb, %(bad_tags)s::jsonb,
+            %(good_notes)s, %(bad_notes)s, %(lessons_learned)s
+        )
+        RETURNING id, notice_id, created_at
+    """
+    payload = {
+        "notice_id": notice_id,
+        "opportunity_id": opportunity_id,
+        "review_status": review_status,
+        "rule_score": rule_score,
+        "fit_rating": fit_rating,
+        "score_accurate": score_accurate,
+        "score_direction": score_direction,
+        "good_tags": json.dumps(good_tags or []),
+        "bad_tags": json.dumps(bad_tags or []),
+        "good_notes": good_notes,
+        "bad_notes": bad_notes,
+        "lessons_learned": lessons_learned,
+    }
+    with _connect() as conn:
+        with conn.cursor() as cur:
+            cur.execute(sql, payload)
+            row = cur.fetchone()
+        conn.commit()
+    return _serialize_row(row) if row else {}
+
+
+def list_fit_surveys(
+    *, notice_id: str | None = None, limit: int = 50
+) -> list[dict[str, Any]]:
+    ensure_fit_surveys_schema()
+    where = "WHERE notice_id = %(notice_id)s" if notice_id else ""
+    params: dict[str, Any] = {"limit": limit}
+    if notice_id:
+        params["notice_id"] = notice_id
+    sql = f"""
+        SELECT
+            s.id,
+            s.notice_id,
+            s.opportunity_id,
+            s.review_status,
+            s.rule_score,
+            s.fit_rating,
+            s.score_accurate,
+            s.score_direction,
+            s.good_tags,
+            s.bad_tags,
+            s.good_notes,
+            s.bad_notes,
+            s.lessons_learned,
+            s.indexed_at,
+            s.created_at,
+            o.title,
+            o.agency
+        FROM consig_fit_surveys s
+        LEFT JOIN opportunities o ON o.notice_id = s.notice_id
+        {where}
+        ORDER BY s.created_at DESC
+        LIMIT %(limit)s
+    """
+    with _connect() as conn:
+        with conn.cursor() as cur:
+            cur.execute(sql, params)
+            rows = cur.fetchall()
+    return [_serialize_row(r) for r in rows]
+
+
+def list_unindexed_fit_surveys() -> list[dict[str, Any]]:
+    ensure_fit_surveys_schema()
+    sql = """
+        SELECT s.id, s.notice_id, s.review_status, s.rule_score, s.fit_rating,
+               s.score_accurate, s.score_direction, s.good_tags, s.bad_tags,
+               s.good_notes, s.bad_notes, s.lessons_learned, s.created_at,
+               o.title, o.agency
+        FROM consig_fit_surveys s
+        LEFT JOIN opportunities o ON o.notice_id = s.notice_id
+        WHERE s.indexed_at IS NULL
+        ORDER BY s.id ASC
+    """
+    with _connect() as conn:
+        with conn.cursor() as cur:
+            cur.execute(sql)
+            rows = cur.fetchall()
+    return [_serialize_row(r) for r in rows]
+
+
+def mark_fit_survey_indexed(survey_id: int) -> None:
+    ensure_fit_surveys_schema()
+    with _connect() as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                "UPDATE consig_fit_surveys SET indexed_at = NOW() WHERE id = %s",
+                (survey_id,),
+            )
+        conn.commit()
+
+
+def get_recent_fit_survey_summaries(*, limit: int = 10) -> list[str]:
+    """Short lines for chat system context."""
+    ensure_fit_surveys_schema()
+    sql = """
+        SELECT s.notice_id, s.fit_rating, s.rule_score, s.score_direction,
+               s.good_tags, s.bad_tags, s.lessons_learned, o.title
+        FROM consig_fit_surveys s
+        LEFT JOIN opportunities o ON o.notice_id = s.notice_id
+        ORDER BY s.created_at DESC
+        LIMIT %s
+    """
+    with _connect() as conn:
+        with conn.cursor() as cur:
+            cur.execute(sql, (limit,))
+            rows = cur.fetchall()
+    lines: list[str] = []
+    for r in rows:
+        title = (r.get("title") or "")[:60]
+        nid = r.get("notice_id", "")[:12]
+        fit = r.get("fit_rating")
+        sd = r.get("score_direction") or ""
+        ll = (r.get("lessons_learned") or "")[:120]
+        lines.append(
+            f"notice {nid}… fit {fit}/5 score_dir={sd} — {title}"
+            + (f" | lesson: {ll}" if ll else "")
+        )
+    return lines
+
+
+def get_fit_survey_by_id(survey_id: int) -> dict[str, Any] | None:
+    """Return a full fit survey row (including opportunity title/agency) for indexing and RAG context."""
+    ensure_fit_surveys_schema()
+    sql = """
+        SELECT
+            s.*,
+            o.title,
+            o.agency
+        FROM consig_fit_surveys s
+        LEFT JOIN opportunities o ON o.notice_id = s.notice_id
+        WHERE s.id = %s
+        LIMIT 1;
+    """
+    with _connect() as conn:
+        with conn.cursor() as cur:
+            cur.execute(sql, (survey_id,))
+            row = cur.fetchone()
+    return _serialize_row(row) if row else None

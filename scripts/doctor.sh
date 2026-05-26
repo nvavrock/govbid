@@ -105,3 +105,16 @@ else
   echo "  3. bash scripts/verify_phase2.sh"
   echo "  See: docs/dashboard.md"
 fi
+
+echo ""
+if bash "$ROOT/scripts/verify_phase3.sh" >/dev/null 2>&1; then
+  echo "Phase 3: COMPLETE — fit survey + RAG feedback loop"
+  echo "  Daily habit: fill Fit survey after Pass/Bid in Consig."
+else
+  echo "Phase 3: incomplete"
+  echo "  1. bash scripts/apply_fit_survey_migration.sh"
+  echo "  2. uv run scripts/build_consig_index.py   (corpus)"
+  echo "  3. uv run scripts/index_fit_feedback.py --dry-run"
+  echo "  4. bash scripts/verify_phase3.sh"
+  echo "  See: docs/gameplan.md (Phase 3) and docs/consig-plan.md"
+fi

@@ -194,6 +194,10 @@ Daily habit: open Consig → scan queue → shortlist 3–5 → mark bid/pass �
 
 **Goal:** Chatbot that answers federal sales questions using your corpus, grounded in official docs, and guides daily review of scored opportunities.
 
+**Definition of done:** `bash scripts/verify_phase3.sh` exits 0 (requires Phase 1 + 2).
+
+In practice, Consig should support a structured “fit survey” (good/bad project fit + score accuracy) that you fill after Pass/Bid so the next chat can explain scoring quality using those human labels.
+
 ### 3.1 Knowledge base
 
 | Source | Path | Use |

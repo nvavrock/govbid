@@ -2,7 +2,7 @@
 
 **Branch:** `feature/consig`  
 **Owner:** Rocksteady Analytics  
-**Status:** Planning — build on working ingest + review queue (Phase 1 complete)
+**Status:** In progress — Phase A/B implemented on `main`; Phase C fit survey + feedback loop implemented; remaining Phase C/D polish
 
 ---
 
@@ -81,13 +81,13 @@ Optional: enable **pgvector** extension + `consig_chunks` (`content`, `embedding
 
 **Goal:** Prove RAG + Postgres context in one process.
 
-- [ ] Add deps: `fastapi`, `uvicorn`, `httpx`, embedding client, `pgvector` or `chromadb`
-- [ ] Chunk script: `scripts/build_consig_index.py` — markdown + txt first; PDF later
-- [ ] `consig/db.py` — read queue + opportunity by `notice_id`
-- [ ] `consig/rag.py` — embed query, top-k retrieval
-- [ ] `consig/chat.py` — single-turn: user message + injected queue summary (no tools yet)
-- [ ] `.env.example`: `CONSIG_LLM_PROVIDER`, `ANTHROPIC_API_KEY` or `OPENAI_API_KEY`
-- [ ] Manual test: 10 questions from gameplan success metrics
+- [x] Add deps: `fastapi`, `uvicorn`, `httpx`, embedding client, Chroma-based retrieval
+- [x] Chunk script: `scripts/build_consig_index.py` — markdown + txt first; PDF later
+- [x] `consig/db.py` — read queue + opportunity by `notice_id`
+- [x] `consig/rag.py` — embed query, top-k retrieval
+- [x] `consig/chat.py` — single-turn: user message + injected queue summary
+- [x] `.env.example`: `OPENAI_API_KEY` + embedding model
+- [x] Manual test: queue-based score explanations (Phase 1/2 verification)
 
 **Exit:** Answer “What is sources sought?” with citation; answer “Why is notice X score 60?” using live DB row.
 
@@ -95,14 +95,14 @@ Optional: enable **pgvector** extension + `consig_chunks` (`content`, `embedding
 
 **Goal:** Two-way workflow on scores and picks.
 
-- [ ] `POST /chat` with `session_id` persistence (`consig_messages`)
-- [ ] System prompt: GovClose tone + use `match_reasons` + never invent FAR
-- [ ] Tools / structured outputs:
+- [x] `POST /chat` with `session_id` persistence (`consig_messages`)
+- [x] System prompt: GovClose tone + use `match_reasons` + never invent FAR
+- [x] Tools / structured outputs:
   - `get_review_queue(limit, min_score, days_ahead)`
   - `get_opportunity(notice_id)`
   - `set_review_status(notice_id, status, notes)`
-- [ ] Opening turn: proactive daily briefing from queue
-- [ ] `scripts/consig_cli.py` or minimal Streamlit (`consig/ui.py`)
+- [x] Opening turn: proactive daily briefing from queue
+- [x] Minimal Streamlit (`consig/ui.py`)
 
 **Exit:** User marks 3 opps pass/bid via chat; DB reflects status; next queue excludes `pass`.
 
@@ -111,8 +111,9 @@ Optional: enable **pgvector** extension + `consig_chunks` (`content`, `embedding
 **Goal:** Strengthen advice over time without blind auto-tuning.
 
 - [ ] `capture_preferences` CRUD via chat (“remember I don’t chase EDWOSB”)
-- [ ] On `pass`/`bid`, prompt for short reason → `notes` + `consig_feedback`
-- [ ] `scripts/consig_feedback_report.py` — aggregate pass reasons → suggested `match-profile.yaml` diff (print only; human applies)
+- [x] On `pass`/`bid`, prompt for short reason → `notes` + `consig_feedback`
+- [x] Structured fit survey: `POST /fit-survey`, `consig_fit_surveys` migration, Streamlit tab, and Chroma indexing
+- [x] `scripts/consig_feedback_report.py` — aggregate pass reasons + fit-survey patterns (human applies)
 - [ ] Session summary stored on close (for long threads)
 
 **Exit:** Second session references preference; weekly report lists top false-positive patterns.

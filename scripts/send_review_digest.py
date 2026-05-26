@@ -41,11 +41,14 @@ def _format_reasons(val: Any) -> str:
 def build_slack_payload(rows: list[dict[str, Any]], *, top_n: int) -> dict[str, Any]:
     today = date.today().isoformat()
     review = load_profile()["review"]
+    openai_key = (os.environ.get("OPENAI_API_KEY") or "").strip()
     header = (
         f"*GovBid review digest* — {today}\n"
         f"{len(rows)} opportunities (min_score={review['min_score']}, "
         f"days_ahead={review['days_ahead']}, showing up to {top_n})"
     )
+    if openai_key:
+        header += "\n\nAfter you mark pass/bid in Consig, complete the Fit survey to improve grading for the next run."
     blocks: list[dict[str, Any]] = [
         {"type": "section", "text": {"type": "mrkdwn", "text": header}},
         {"type": "divider"},

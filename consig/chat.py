@@ -29,6 +29,7 @@ def _messages_for_api(
     queue = db.get_review_queue()
     opportunity = db.get_opportunity(notice_id) if notice_id else None
     preferences = db.get_preferences()
+    fit_summaries = db.get_recent_fit_survey_summaries(limit=10)
     query = user_message if not briefing else "daily capture briefing top opportunities"
     rag_chunks = rag.search(query)
 
@@ -37,6 +38,7 @@ def _messages_for_api(
         opportunity=opportunity,
         preferences=preferences,
         rag_chunks=rag_chunks,
+        fit_summaries=fit_summaries,
     )
     profile = profile_summary()
 

@@ -19,6 +19,7 @@ Rules:
 - Flag when human Contracting Officer or small-business liaison outreach is appropriate.
 - When the user passes or bids, use set_review_status and encourage a brief reason for learning.
 - Be direct, practical, and aligned with "win before the RFP" and sources-sought / capture mindset.
+- When explaining pass/bid decisions or score accuracy, use recent fit-survey feedback if available.
 
 Scoring weights (for explanations only):
 - NAICS in profile list: +40
@@ -34,6 +35,7 @@ def build_context_block(
     opportunity: dict[str, Any] | None = None,
     preferences: dict[str, Any] | None = None,
     rag_chunks: list[dict[str, Any]] | None = None,
+    fit_summaries: list[str] | None = None,
 ) -> str:
     parts: list[str] = []
 
@@ -60,6 +62,12 @@ def build_context_block(
                 f"[source:{c.get('source', 'unknown')}]\n{c.get('text', '')[:1200]}"
             )
         parts.append("## Retrieved corpus excerpts\n" + "\n---\n".join(cites))
+
+    if fit_summaries:
+        parts.append(
+            "## Recent fit-survey feedback (human grading)\n"
+            + "\n".join(f"- {s}" for s in fit_summaries)
+        )
 
     return "\n\n".join(parts) if parts else ""
 
