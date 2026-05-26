@@ -86,11 +86,22 @@ fi
 echo ""
 if bash "$ROOT/scripts/verify_phase1.sh" >/dev/null 2>&1; then
   echo "Phase 1: COMPLETE — review queue meets match-profile.yaml criteria"
-  echo "  Re-check anytime: bash scripts/verify_phase1.sh"
+  echo "  Re-check: bash scripts/verify_phase1.sh"
 else
   echo "Phase 1: incomplete"
   echo "  1. cp config/match-profile.example.yaml config/match-profile.yaml  (if missing)"
   echo "  2. ./run_daily.sh          (download + ingest + status)"
   echo "  3. bash scripts/verify_phase1.sh"
   echo "  4. uv run scripts/review_queue.py"
+fi
+
+if bash "$ROOT/scripts/verify_phase2.sh" >/dev/null 2>&1; then
+  echo "Phase 2: COMPLETE — Consig dashboard + digest script ready"
+  echo "  Daily UI: ./run_consig.sh  |  Digest: ./run_digest.sh"
+else
+  echo "Phase 2: incomplete"
+  echo "  1. ./run_consig.sh           (opportunity dashboard)"
+  echo "  2. Set SLACK_WEBHOOK_URL in .env (for Slack digest)"
+  echo "  3. bash scripts/verify_phase2.sh"
+  echo "  See: docs/dashboard.md"
 fi

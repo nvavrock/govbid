@@ -22,15 +22,20 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
+DIGEST_SCHEDULE="${GOVBID_DIGEST_CRON:-30 6 * * *}"
 CRON_LINE="$CRON_SCHEDULE cd $ROOT && $ROOT/run_daily.sh >> $ROOT/logs/daily.log 2>&1"
+DIGEST_LINE="$DIGEST_SCHEDULE cd $ROOT && $ROOT/run_digest.sh >> $ROOT/logs/digest.log 2>&1"
 
 echo "=== GovBid daily cron ==="
 echo ""
 echo "Canonical daily job (download + ingest + status):"
 echo "  $ROOT/run_daily.sh"
 echo ""
-echo "Crontab line:"
+echo "Crontab line (ingest):"
 echo "  $CRON_LINE"
+echo ""
+echo "Optional Slack digest (after ingest):"
+echo "  $DIGEST_LINE"
 echo ""
 
 if [[ "$INSTALL" != true ]]; then
@@ -45,8 +50,9 @@ fi
 mkdir -p "$ROOT/logs"
 touch "$ROOT/logs/daily.log"
 
-( crontab -l 2>/dev/null | grep -v "run_daily.sh" || true
+( crontab -l 2>/dev/null | grep -vE "run_daily.sh|run_digest.sh" || true
   echo "$CRON_LINE"
+  echo "$DIGEST_LINE"
 ) | crontab -
 
 echo "Installed. Current crontab:"

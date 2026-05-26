@@ -152,31 +152,39 @@ Up to **25** pending opportunities with scores and SAM links in Postgres — par
 
 **Goal:** Browse, filter, and open SAM.gov opportunity pages without writing SQL.
 
-### 2.1 Minimum viable dashboard
+**Definition of done:** `bash scripts/verify_phase2.sh` exits 0 (requires Phase 1).
 
-Options (pick one for v1):
+| Step | Criteria |
+|------|----------|
+| **2.1 Dashboard** | Consig Streamlit (`./run_consig.sh`) — queue table, browse/detail, shortlist, Pass/Bid/Shortlist actions |
+| **2.2 Slack digest** | `SLACK_WEBHOOK_URL` + `scripts/send_review_digest.py` or n8n `04-review-digest.json` |
+| **2.3 Habit** | Daily: Consig queue → shortlist 3–5 → optional Slack digest next morning |
 
-| Option | Effort | Notes |
-|--------|--------|-------|
-| **Adminer + saved queries** | Low | Already in pipeline; paste `review_queue.sql` |
-| **Streamlit / Dash on Postgres** | Medium | Custom filters, SAM link column, export CSV |
-| **Retool / Metabase** | Medium | Faster UI if you already use them |
+**Chosen v1 dashboard:** Consig Streamlit (extends Phase 3 copilot). Adminer remains SQL fallback — see [dashboard.md](dashboard.md).
 
-**Required columns**
+### 2.1 Opportunity dashboard ✅
 
-- Title, agency/office, posted date, response deadline
-- NAICS, PSC, set-aside, type (sources sought / solicitation / award)
-- Match score + keyword hits
-- **SAM.gov link:** `https://sam.gov/opp/{NoticeId}/view`
+```bash
+./run_consig.sh    # http://127.0.0.1:8501
+```
 
-### 2.2 n8n daily digest
+Tabs: Today's queue (CSV export), Browse/detail, Shortlist (`reviewing` + `bid`), Chat.
 
-- Workflow `04-review-digest.json` — email or Slack with top N opportunities.
-- Include one-line AI summary per opportunity (Phase 3 prep).
+### 2.2 Slack digest ✅
+
+```bash
+# .env: SLACK_WEBHOOK_URL, optional DIGEST_TOP_N=10
+bash scripts/send_review_digest.py --dry-run
+./run_digest.sh
+```
+
+n8n workflow `04-review-digest.json` posts Block Kit message when `SLACK_WEBHOOK_URL` is set in n8n env; also writes `data/review-digest-YYYY-MM-DD.md`.
+
+Per-opportunity AI summaries deferred to Phase 3.
 
 ### 2.3 Deliverable
 
-Daily habit: open dashboard → scan queue → star 3–5 opportunities for capture work.
+Daily habit: open Consig → scan queue → shortlist 3–5 → mark bid/pass → check Slack digest.
 
 ---
 

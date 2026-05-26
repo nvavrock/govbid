@@ -45,10 +45,14 @@ bash scripts/provision-n8n.sh
 ## Daily use
 
 ```bash
-./run_daily.sh              # download + ingest + top 15 opportunities
+./run_daily.sh              # download + ingest + status
+./run_consig.sh             # Phase 2 dashboard + capture copilot (http://127.0.0.1:8501)
+./run_digest.sh             # Slack review digest (needs SLACK_WEBHOOK_URL)
 ./scripts/status.sh 10      # health check + top 10 only
 uv run scripts/review_queue.py
 ```
+
+See [docs/dashboard.md](docs/dashboard.md) for queue tabs, shortlist workflow, and Adminer fallback.
 
 ### Start the pipeline stack
 
@@ -174,6 +178,14 @@ bash scripts/verify_phase1.sh   # exit 0 = Phase 1 done
 ```
 
 Deliverable: up to 25 pending opportunities with `rule_score >= min_score` (default 25), deadlines within `days_ahead` (default 30), SAM.gov links in Postgres — all driven by `config/match-profile.yaml`.
+
+## Phase 2 complete
+
+```bash
+bash scripts/verify_phase2.sh   # exit 0 = Phase 2 done (requires Phase 1)
+```
+
+Deliverable: Consig dashboard for browse/shortlist/picks; Slack digest via `run_digest.sh` or n8n workflow `04`.
 
 ## Matching
 

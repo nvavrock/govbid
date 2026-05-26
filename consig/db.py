@@ -10,54 +10,14 @@ from typing import Any
 import psycopg
 from psycopg.rows import dict_row
 
+import sys
+from pathlib import Path
+
 from consig.config import QUERIES_DIR, postgres_params, review_defaults
 
-REVIEW_QUEUE_SQL = """
-WITH params AS (
-    SELECT %(days_ahead)s::int AS days_ahead,
-           %(min_score)s::int AS min_score,
-           %(top_n)s::int AS top_n
-)
-SELECT
-    o.notice_id,
-    o.solicitation_number,
-    o.title,
-    o.agency,
-    o.naics,
-    o.psc,
-    o.set_aside,
-    o.posted_date,
-    o.response_deadline,
-    o.ui_link,
-    o.description_url,
-    m.rule_score,
-    m.match_reasons,
-    m.review_status,
-    m.notes,
-    (
-        SELECT COUNT(*)
-        FROM award_enrichment ae
-        WHERE ae.naics_code = o.naics
-          AND ae.awarding_agency = o.agency
-    ) AS related_awards_count
-FROM opportunities o
-JOIN match_scores m ON m.opportunity_id = o.id
-CROSS JOIN params p
-WHERE o.active = TRUE
-  AND o.source LIKE 'federal:%%'
-  AND m.review_status = 'pending'
-  AND m.rule_score >= p.min_score
-  AND (
-      o.response_deadline IS NULL
-      OR o.response_deadline >= NOW()
-  )
-  AND (
-      o.response_deadline IS NULL
-      OR o.response_deadline <= NOW() + (p.days_ahead || ' days')::INTERVAL
-  )
-ORDER BY m.rule_score DESC, o.response_deadline ASC NULLS LAST
-LIMIT (SELECT top_n FROM params);
-"""
+_SCRIPTS = Path(__file__).resolve().parent.parent / "scripts"
+if str(_SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS))
 
 OPPORTUNITY_SQL = """
 SELECT
@@ -99,17 +59,46 @@ def get_review_queue(
     min_score: int | None = None,
     top_n: int | None = None,
 ) -> list[dict[str, Any]]:
-    defaults = review_defaults()
-    params = {
-        "days_ahead": days_ahead if days_ahead is not None else defaults["days_ahead"],
-        "min_score": min_score if min_score is not None else defaults["min_score"],
-        "top_n": top_n if top_n is not None else defaults["top_n"],
-    }
-    with _connect() as conn:
-        with conn.cursor() as cur:
-            cur.execute(REVIEW_QUEUE_SQL, params)
-            rows = cur.fetchall()
+    from lib.review_queue_lib import get_review_queue as _lib_queue
+
+    rows = _lib_queue(days_ahead=days_ahead, min_score=min_score, top_n=top_n)
     return [_serialize_row(r) for r in rows]
+
+
+def get_shortlist(*, limit: int = 50) -> list[dict[str, Any]]:
+    from lib.review_queue_lib import get_shortlist as _lib_shortlist
+
+    return [_serialize_row(r) for r in _lib_shortlist(limit=limit)]
+
+
+def list_opportunities(
+    *,
+    status: str | None = None,
+    min_score: int | None = None,
+    days_ahead: int | None = None,
+    agency_ilike: str | None = None,
+    naics: str | None = None,
+    limit: int = 100,
+    offset: int = 0,
+) -> list[dict[str, Any]]:
+    from lib.review_queue_lib import list_opportunities as _lib_list
+
+    rows = _lib_list(
+        status=status,
+        min_score=min_score,
+        days_ahead=days_ahead,
+        agency_ilike=agency_ilike,
+        naics=naics,
+        limit=limit,
+        offset=offset,
+    )
+    return [_serialize_row(r) for r in rows]
+
+
+def count_by_review_status() -> dict[str, int]:
+    from lib.review_queue_lib import count_by_review_status as _lib_count
+
+    return _lib_count()
 
 
 def get_opportunity(notice_id: str) -> dict[str, Any] | None:

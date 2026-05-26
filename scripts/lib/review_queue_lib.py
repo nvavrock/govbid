@@ -1,4 +1,4 @@
-"""Profile-driven review queue query (shared by CLI, verify, Consig)."""
+"""Profile-driven review queue query (shared by CLI, verify, Consig, digest)."""
 
 from __future__ import annotations
 
@@ -34,9 +34,11 @@ SELECT
     o.response_deadline,
     o.ui_link,
     o.description_url,
+    o.procurement_type,
     m.rule_score,
     m.match_reasons,
     m.review_status,
+    m.notes,
     (
         SELECT COUNT(*)
         FROM award_enrichment ae
@@ -60,6 +62,84 @@ WHERE o.active = TRUE
   )
 ORDER BY m.rule_score DESC, o.response_deadline ASC NULLS LAST
 LIMIT (SELECT top_n FROM params);
+"""
+
+SHORTLIST_SQL = """
+SELECT
+    o.notice_id,
+    o.solicitation_number,
+    o.title,
+    o.agency,
+    o.naics,
+    o.psc,
+    o.set_aside,
+    o.posted_date,
+    o.response_deadline,
+    o.ui_link,
+    o.description_url,
+    o.procurement_type,
+    m.rule_score,
+    m.match_reasons,
+    m.review_status,
+    m.notes,
+    m.reviewed_at
+FROM opportunities o
+JOIN match_scores m ON m.opportunity_id = o.id
+WHERE o.active = TRUE
+  AND o.source LIKE 'federal:%%'
+  AND m.review_status IN ('reviewing', 'bid')
+ORDER BY m.reviewed_at DESC NULLS LAST, m.rule_score DESC
+LIMIT %(limit)s;
+"""
+
+LIST_OPPORTUNITIES_SQL = """
+SELECT
+    o.notice_id,
+    o.solicitation_number,
+    o.title,
+    o.agency,
+    o.naics,
+    o.psc,
+    o.set_aside,
+    o.posted_date,
+    o.response_deadline,
+    o.ui_link,
+    o.description_url,
+    o.procurement_type,
+    m.rule_score,
+    m.match_reasons,
+    m.review_status,
+    m.notes,
+    m.reviewed_at
+FROM opportunities o
+JOIN match_scores m ON m.opportunity_id = o.id
+WHERE o.active = TRUE
+  AND o.source LIKE 'federal:%%'
+  AND (%(status)s::text IS NULL OR m.review_status = %(status)s)
+  AND m.rule_score >= %(min_score)s
+  AND (%(agency_ilike)s::text IS NULL OR o.agency ILIKE %(agency_ilike)s)
+  AND (%(naics)s::text IS NULL OR o.naics = %(naics)s)
+  AND (
+      %(days_ahead)s::int IS NULL
+      OR o.response_deadline IS NULL
+      OR o.response_deadline >= NOW()
+  )
+  AND (
+      %(days_ahead)s::int IS NULL
+      OR o.response_deadline IS NULL
+      OR o.response_deadline <= NOW() + (%(days_ahead)s::int * INTERVAL '1 day')
+  )
+ORDER BY m.rule_score DESC, o.response_deadline ASC NULLS LAST
+LIMIT %(limit)s OFFSET %(offset)s;
+"""
+
+COUNT_BY_STATUS_SQL = """
+SELECT m.review_status, COUNT(*)::int AS cnt
+FROM opportunities o
+JOIN match_scores m ON m.opportunity_id = o.id
+WHERE o.active = TRUE AND o.source LIKE 'federal:%%'
+GROUP BY m.review_status
+ORDER BY m.review_status;
 """
 
 
@@ -105,6 +185,47 @@ def get_review_queue(
         with conn.cursor() as cur:
             cur.execute(REVIEW_QUEUE_SQL, params)
             return list(cur.fetchall())
+
+
+def get_shortlist(*, limit: int = 50) -> list[dict[str, Any]]:
+    with psycopg.connect(**connect_params(), row_factory=dict_row) as conn:
+        with conn.cursor() as cur:
+            cur.execute(SHORTLIST_SQL, {"limit": limit})
+            return list(cur.fetchall())
+
+
+def list_opportunities(
+    *,
+    status: str | None = None,
+    min_score: int | None = None,
+    days_ahead: int | None = None,
+    agency_ilike: str | None = None,
+    naics: str | None = None,
+    limit: int = 100,
+    offset: int = 0,
+) -> list[dict[str, Any]]:
+    review = load_profile()["review"]
+    params = {
+        "status": status,
+        "min_score": min_score if min_score is not None else review["min_score"],
+        "days_ahead": days_ahead,
+        "agency_ilike": f"%{agency_ilike}%" if agency_ilike else None,
+        "naics": naics,
+        "limit": limit,
+        "offset": offset,
+    }
+    with psycopg.connect(**connect_params(), row_factory=dict_row) as conn:
+        with conn.cursor() as cur:
+            cur.execute(LIST_OPPORTUNITIES_SQL, params)
+            return list(cur.fetchall())
+
+
+def count_by_review_status() -> dict[str, int]:
+    with psycopg.connect(**connect_params(), row_factory=dict_row) as conn:
+        with conn.cursor() as cur:
+            cur.execute(COUNT_BY_STATUS_SQL)
+            rows = cur.fetchall()
+    return {r["review_status"]: r["cnt"] for r in rows}
 
 
 def count_review_queue() -> int:
