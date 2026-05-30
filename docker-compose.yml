@@ -79,6 +79,7 @@ services:
     volumes:
       - ./data:/app/data
       - ./config:/app/config:ro
+      - ./transcripts:/app/transcripts:ro
 
   consig-ui:
     build:
@@ -99,6 +100,7 @@ services:
     volumes:
       - ./data:/app/data
       - ./config:/app/config:ro
+      - ./transcripts:/app/transcripts:ro
 
 volumes:
   postgres_data:

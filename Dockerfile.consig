@@ -10,7 +10,7 @@ COPY scripts ./scripts
 COPY db ./db
 COPY config ./config
 COPY docs ./docs
-COPY transcripts/govclose/govclose_all.txt ./transcripts/govclose/
+# Proprietary corpus mounted at runtime via docker-compose (./transcripts -> /app/transcripts)
 
 RUN uv sync --extra consig --no-dev
 

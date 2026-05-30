@@ -1,7 +1,7 @@
 [project]
 name = "govbid"
 version = "0.1.0"
-description = "SAM.gov ingest, opportunity scoring, GovClose RAG corpus, and capture tooling"
+description = "SAM.gov ingest, opportunity scoring, local training corpus RAG, and capture tooling"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
