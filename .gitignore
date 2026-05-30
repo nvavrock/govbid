@@ -9,9 +9,5 @@ data/*.csv
 # Logs
 logs/*.log
 
-# GovClose transcripts (generated)
-transcripts/govclose/*.txt
-transcripts/govclose/*.json
-transcripts/govclose/*.vtt
-transcripts/govclose/.archive.txt
-!transcripts/govclose/.gitkeep
+# Proprietary transcript data (local only)
+transcripts/
