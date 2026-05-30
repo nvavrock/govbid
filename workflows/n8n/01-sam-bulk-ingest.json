@@ -1,0 +1,379 @@
+{
+  "name": "01 - SAM Bulk CSV Ingest",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 2 * * *"
+            }
+          ]
+        }
+      },
+      "id": "a1000001-0001-4000-8000-000000000001",
+      "name": "Daily 2AM ET",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO ingest_runs (source, status, metadata) VALUES ('federal:sam:bulk', 'running', '{\"workflow\":\"01-sam-bulk-ingest\"}'::jsonb) RETURNING id;",
+        "options": {}
+      },
+      "id": "a1000001-0001-4000-8000-000000000002",
+      "name": "Start Ingest Run",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        220,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "cond-url",
+              "leftValue": "={{ $env.SAM_BULK_CSV_URL }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "a1000001-0001-4000-8000-000000000003",
+      "name": "CSV URL Set?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        440,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "url": "={{ $env.SAM_BULK_CSV_URL }}",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "file"
+            }
+          },
+          "timeout": 300000
+        }
+      },
+      "id": "a1000001-0001-4000-8000-000000000004",
+      "name": "Download SAM CSV",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        660,
+        -80
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "csv",
+        "options": {
+          "delimiter": ",",
+          "headerRow": true
+        }
+      },
+      "id": "a1000001-0001-4000-8000-000000000005",
+      "name": "Parse CSV",
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1,
+      "position": [
+        880,
+        -80
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const NAICS = ['541511','541512','541519','518210','511210'];\nconst PSC_PREFIX = ['D3','7E'];\nconst KEYWORDS = ['software','application','cloud','devsecops','cybersecurity','api','modernization','saas','database','agile'];\n\nfunction norm(k){return String(k||'').toLowerCase().replace(/[^a-z0-9]/g,'');}\nfunction pick(row,...keys){const m={};for(const[k,v]of Object.entries(row))m[norm(k)]=v;for(const key of keys){const val=m[norm(key)];if(val!=null&&String(val).trim()!=='')return String(val).trim();}return null;}\nfunction parseDate(v){if(!v)return null;const d=new Date(v);return isNaN(d)?null:d.toISOString().slice(0,10);}\nfunction parseTs(v){if(!v)return null;const d=new Date(v);return isNaN(d)?null:d.toISOString();}\nfunction passes(opp){\n  if(NAICS.includes(opp.naics||''))return true;\n  if(PSC_PREFIX.some(p=>(opp.psc||'').startsWith(p)))return true;\n  const t=(opp.title||'').toLowerCase();\n  return KEYWORDS.some(k=>t.includes(k));\n}\nfunction score(opp){\n  let s=0;const r=[];const t=(opp.title||'').toLowerCase();\n  if(NAICS.includes(opp.naics||'')){s+=40;r.push('naics_match');}\n  if(PSC_PREFIX.some(p=>(opp.psc||'').startsWith(p))){s+=20;r.push('psc_match');}\n  for(const k of KEYWORDS){if(t.includes(k)){s+=10;r.push('keyword:'+k);}}\n  return {rule_score:Math.min(100,s),match_reasons:r};\n}\n\nconst runId=$('Start Ingest Run').first().json.id;\nconst out=[];\nfor(const item of $input.all()){\n  const row=item.json;\n  const noticeId=pick(row,'NoticeId','Notice ID','noticeid');\n  if(!noticeId) continue;\n  const opp={\n    notice_id:noticeId,source:'federal:sam',\n    solicitation_number:pick(row,'Sol#','SolicitationNumber','Solicitation Number'),\n    title:pick(row,'Title','title'),\n    posted_date:parseDate(pick(row,'PostedDate','Posted Date')),\n    response_deadline:parseTs(pick(row,'ResponseDeadLine','Response Deadline')),\n    naics:pick(row,'NaicsCode','NAICS Code','naics'),\n    psc:pick(row,'ClassificationCode','PSC'),\n    set_aside:pick(row,'SetASide','Set Aside'),\n    set_aside_code:pick(row,'SetAsideCode'),\n    procurement_type:pick(row,'Type','Notice Type'),\n    agency:pick(row,'Department/Ind.Agency','Department','Agency'),\n    office:pick(row,'Office','Sub-Tier'),\n    place_of_performance:pick(row,'PopCity','Place of Performance'),\n    state_code:pick(row,'PopState','State'),\n    ui_link:pick(row,'Link','uiLink'),\n    description_url:pick(row,'Description'),\n    active:true,raw_data:row,ingest_run_id:runId\n  };\n  if(!passes(opp)) continue;\n  const sc=score(opp);\n  out.push({json:{...opp,...sc}});\n}\nreturn out;"
+      },
+      "id": "a1000001-0001-4000-8000-000000000006",
+      "name": "Filter and Score",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1100,
+        -80
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "mode": "list",
+          "value": "opportunities"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "notice_id": "={{ $json.notice_id }}",
+            "source": "={{ $json.source }}",
+            "solicitation_number": "={{ $json.solicitation_number }}",
+            "title": "={{ $json.title }}",
+            "posted_date": "={{ $json.posted_date }}",
+            "response_deadline": "={{ $json.response_deadline }}",
+            "naics": "={{ $json.naics }}",
+            "psc": "={{ $json.psc }}",
+            "set_aside": "={{ $json.set_aside }}",
+            "set_aside_code": "={{ $json.set_aside_code }}",
+            "procurement_type": "={{ $json.procurement_type }}",
+            "agency": "={{ $json.agency }}",
+            "office": "={{ $json.office }}",
+            "place_of_performance": "={{ $json.place_of_performance }}",
+            "state_code": "={{ $json.state_code }}",
+            "ui_link": "={{ $json.ui_link }}",
+            "description_url": "={{ $json.description_url }}",
+            "active": "={{ $json.active }}",
+            "raw_data": "={{ JSON.stringify($json.raw_data) }}"
+          },
+          "matchingColumns": [
+            "notice_id",
+            "source"
+          ],
+          "schema": [
+            {
+              "id": "notice_id",
+              "displayName": "notice_id",
+              "required": true,
+              "defaultMatch": true,
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "source",
+              "displayName": "source",
+              "required": true,
+              "defaultMatch": true,
+              "canBeUsedToMatch": true
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "a1000001-0001-4000-8000-000000000007",
+      "name": "Upsert Opportunities",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        1320,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT refresh_match_scores();",
+        "options": {}
+      },
+      "id": "a1000001-0001-4000-8000-000000000008",
+      "name": "Refresh Match Scores",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        1540,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE ingest_runs SET status = 'success', finished_at = NOW(), rows_processed = {{ $('Filter and Score').all().length }} WHERE id = {{ $('Start Ingest Run').first().json.id }};",
+        "options": {}
+      },
+      "id": "a1000001-0001-4000-8000-000000000009",
+      "name": "Finish Ingest Run",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        1760,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE ingest_runs SET status = 'failed', finished_at = NOW(), error_message = 'SAM_BULK_CSV_URL not set in .env' WHERE id = {{ $('Start Ingest Run').first().json.id }};",
+        "options": {}
+      },
+      "id": "a1000001-0001-4000-8000-000000000010",
+      "name": "Fail Missing URL",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        660,
+        120
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Daily 2AM ET": {
+      "main": [
+        [
+          {
+            "node": "Start Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Start Ingest Run": {
+      "main": [
+        [
+          {
+            "node": "CSV URL Set?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "CSV URL Set?": {
+      "main": [
+        [
+          {
+            "node": "Download SAM CSV",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Fail Missing URL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Download SAM CSV": {
+      "main": [
+        [
+          {
+            "node": "Parse CSV",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse CSV": {
+      "main": [
+        [
+          {
+            "node": "Filter and Score",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter and Score": {
+      "main": [
+        [
+          {
+            "node": "Upsert Opportunities",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Upsert Opportunities": {
+      "main": [
+        [
+          {
+            "node": "Refresh Match Scores",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Refresh Match Scores": {
+      "main": [
+        [
+          {
+            "node": "Finish Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "America/New_York"
+  },
+  "staticData": null,
+  "tags": [],
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "active": false,
+  "id": "a7c0bf41-22ab-5551-8dc2-b1b9493f5103",
+  "versionId": "d41e93a3-c942-5a59-ad67-ce85fd329082",
+  "createdAt": "2026-05-25T00:27:57.000Z",
+  "updatedAt": "2026-05-25T00:27:57.000Z",
+  "pinData": {},
+  "triggerCount": 0
+}

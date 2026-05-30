@@ -1,0 +1,319 @@
+{
+  "name": "02 - SAM API Daily Delta",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 6 * * *"
+            }
+          ]
+        }
+      },
+      "id": "b2000001-0001-4000-8000-000000000001",
+      "name": "Daily 6AM ET",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO ingest_runs (source, status, metadata) VALUES ('federal:sam:api', 'running', '{\"workflow\":\"02-sam-api-delta\"}'::jsonb) RETURNING id;",
+        "options": {}
+      },
+      "id": "b2000001-0001-4000-8000-000000000002",
+      "name": "Start Ingest Run",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        220,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "conditions": [
+            {
+              "leftValue": "={{ $env.SAM_API_KEY }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty"
+              }
+            }
+          ],
+          "combinator": "and"
+        }
+      },
+      "id": "b2000001-0001-4000-8000-000000000003",
+      "name": "API Key Set?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        440,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const apiKey = $env.SAM_API_KEY;\nif (!apiKey) throw new Error('SAM_API_KEY not set');\n\nconst naicsList = ($env.SAM_NAICS_CODES || '541511,541512,541519,518210,511210').split(',').map(s => s.trim()).filter(Boolean);\nconst ptypes = ['o','k','p','r'];\n\nfunction fmt(d) {\n  const m = String(d.getMonth()+1).padStart(2,'0');\n  const day = String(d.getDate()).padStart(2,'0');\n  const y = d.getFullYear();\n  return `${m}/${day}/${y}`;\n}\n\nconst end = new Date();\nconst start = new Date();\nstart.setDate(start.getDate() - 1);\nconst postedFrom = fmt(start);\nconst postedTo = fmt(end);\n\nconst all = [];\n\nfor (const ncode of naicsList) {\n  for (const ptype of ptypes) {\n    let offset = 0;\n    while (true) {\n      const qs = new URLSearchParams({\n        api_key: apiKey,\n        postedFrom,\n        postedTo,\n        ncode,\n        ptype,\n        limit: '1000',\n        offset: String(offset),\n      });\n      const url = `https://api.sam.gov/opportunities/v2/search?${qs}`;\n      const res = await this.helpers.httpRequest({ method: 'GET', url, json: true });\n      const records = res.opportunitiesData || res.data || [];\n      if (!Array.isArray(records) || records.length === 0) break;\n      all.push(...records);\n      if (records.length < 1000) break;\n      offset += 1000;\n    }\n  }\n}\n\nreturn [{ json: { records: all, count: all.length, postedFrom, postedTo } }];"
+      },
+      "id": "b2000001-0001-4000-8000-000000000004",
+      "name": "Fetch SAM API Pages",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        660,
+        -80
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "const NAICS = ['541511','541512','541519','518210','511210'];\nconst PSC_PREFIX = ['D3','7E'];\nconst KEYWORDS = ['software','application','cloud','devsecops','cybersecurity','api','modernization','saas','database','agile'];\n\nfunction parseDate(v){if(!v)return null;const d=new Date(v);return isNaN(d)?null:d.toISOString().slice(0,10);}\nfunction parseTs(v){if(!v)return null;const d=new Date(v);return isNaN(d)?null:d.toISOString();}\nfunction passes(opp){\n  if(NAICS.includes(opp.naics||''))return true;\n  if(PSC_PREFIX.some(p=>(opp.psc||'').startsWith(p)))return true;\n  const t=(opp.title||'').toLowerCase();\n  return KEYWORDS.some(k=>t.includes(k));\n}\n\nconst records = $input.first().json.records || [];\nconst out = [];\nconst seen = new Set();\n\nfor (const rec of records) {\n  const noticeId = rec.noticeId || rec.noticeid;\n  if (!noticeId || seen.has(noticeId)) continue;\n  seen.add(noticeId);\n  const pop = rec.placeOfPerformance || {};\n  const opp = {\n    notice_id: noticeId,\n    source: 'federal:sam',\n    solicitation_number: rec.solicitationNumber || null,\n    title: rec.title || null,\n    posted_date: parseDate(rec.postedDate),\n    response_deadline: parseTs(rec.responseDeadLine || rec.responseDeadline),\n    naics: rec.naicsCode || rec.naics || null,\n    psc: rec.classificationCode || null,\n    set_aside: rec.setAside || null,\n    set_aside_code: rec.setAsideCode || null,\n    procurement_type: rec.type || rec.ptype || null,\n    agency: rec.fullParentPathName || rec.department || null,\n    office: typeof rec.officeAddress === 'string' ? rec.officeAddress : null,\n    place_of_performance: [pop.city, pop.state, pop.zip].filter(Boolean).join(', ') || null,\n    state_code: pop.state || null,\n    ui_link: rec.uiLink || null,\n    description_url: rec.description || null,\n    active: true,\n    raw_data: rec,\n  };\n  if (!passes(opp)) continue;\n  out.push({ json: opp });\n}\nreturn out;"
+      },
+      "id": "b2000001-0001-4000-8000-000000000005",
+      "name": "Map and Filter Records",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        880,
+        -80
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "mode": "list",
+          "value": "opportunities"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "notice_id": "={{ $json.notice_id }}",
+            "source": "={{ $json.source }}",
+            "solicitation_number": "={{ $json.solicitation_number }}",
+            "title": "={{ $json.title }}",
+            "posted_date": "={{ $json.posted_date }}",
+            "response_deadline": "={{ $json.response_deadline }}",
+            "naics": "={{ $json.naics }}",
+            "psc": "={{ $json.psc }}",
+            "set_aside": "={{ $json.set_aside }}",
+            "set_aside_code": "={{ $json.set_aside_code }}",
+            "procurement_type": "={{ $json.procurement_type }}",
+            "agency": "={{ $json.agency }}",
+            "office": "={{ $json.office }}",
+            "place_of_performance": "={{ $json.place_of_performance }}",
+            "state_code": "={{ $json.state_code }}",
+            "ui_link": "={{ $json.ui_link }}",
+            "description_url": "={{ $json.description_url }}",
+            "active": "={{ $json.active }}",
+            "raw_data": "={{ JSON.stringify($json.raw_data) }}"
+          },
+          "matchingColumns": [
+            "notice_id",
+            "source"
+          ]
+        }
+      },
+      "id": "b2000001-0001-4000-8000-000000000006",
+      "name": "Upsert Opportunities",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        1100,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT refresh_match_scores();",
+        "options": {}
+      },
+      "id": "b2000001-0001-4000-8000-000000000007",
+      "name": "Refresh Match Scores",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        1320,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE ingest_runs SET status = 'success', finished_at = NOW(), rows_processed = {{ $('Fetch SAM API Pages').first().json.count }}, metadata = metadata || jsonb_build_object('filtered', {{ $('Map and Filter Records').all().length }}) WHERE id = {{ $('Start Ingest Run').first().json.id }};",
+        "options": {}
+      },
+      "id": "b2000001-0001-4000-8000-000000000008",
+      "name": "Finish Ingest Run",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        1540,
+        -80
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE ingest_runs SET status = 'failed', finished_at = NOW(), error_message = 'SAM_API_KEY not set' WHERE id = {{ $('Start Ingest Run').first().json.id }};",
+        "options": {}
+      },
+      "id": "b2000001-0001-4000-8000-000000000009",
+      "name": "Fail Missing API Key",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [
+        660,
+        120
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Daily 6AM ET": {
+      "main": [
+        [
+          {
+            "node": "Start Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Start Ingest Run": {
+      "main": [
+        [
+          {
+            "node": "API Key Set?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "API Key Set?": {
+      "main": [
+        [
+          {
+            "node": "Fetch SAM API Pages",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Fail Missing API Key",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch SAM API Pages": {
+      "main": [
+        [
+          {
+            "node": "Map and Filter Records",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Map and Filter Records": {
+      "main": [
+        [
+          {
+            "node": "Upsert Opportunities",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Upsert Opportunities": {
+      "main": [
+        [
+          {
+            "node": "Refresh Match Scores",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Refresh Match Scores": {
+      "main": [
+        [
+          {
+            "node": "Finish Ingest Run",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "America/New_York"
+  },
+  "staticData": null,
+  "tags": [],
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "active": false,
+  "id": "fe7dfce1-ad48-5859-b12a-8be32fdc5c2c",
+  "versionId": "7f3522a0-7bcb-5290-9480-0df11e6a75f9",
+  "createdAt": "2026-05-25T00:27:57.000Z",
+  "updatedAt": "2026-05-25T00:27:57.000Z",
+  "pinData": {},
+  "triggerCount": 0
+}

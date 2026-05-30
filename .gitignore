@@ -1,13 +1,36 @@
+# Cursor debug sessions
+.cursor/debug-*.log
+
+# WSL/Windows metadata
+*:Zone.Identifier
+
+# Secrets and local config
+.env
+config/match-profile.yaml
+
 # Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+node_modules/
 
-# SAM data (large)
+# Consig vector index (rebuilt by scripts/build_consig_index.py)
+data/consig_index/
+
+# SAM data (large; refreshed by run_download.sh or n8n ingest)
 data/*.csv
+!data/.gitkeep
+!data/state-imports/
+!data/state-imports/.gitkeep
 
-# Logs
-logs/*.log
+# Logs and runtime locks
+logs/*
+!logs/.gitkeep
 
 # Proprietary transcript data (local only)
 transcripts/
+
+# Docker / misc
+index.php
+.DS_Store

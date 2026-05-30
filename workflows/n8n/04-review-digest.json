@@ -1,0 +1,74 @@
+{
+  "name": "04 - Review Digest",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 7 * * *"
+            }
+          ]
+        }
+      },
+      "id": "d4000001-0001-4000-8000-000000000001",
+      "name": "Daily 7AM ET",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "WITH params AS (SELECT 30 AS days_ahead, 25 AS min_score, 10 AS top_n)\nSELECT o.notice_id, o.solicitation_number, o.title, o.agency, o.naics, o.set_aside,\n  o.response_deadline, o.ui_link, m.rule_score, m.match_reasons\nFROM opportunities o\nJOIN match_scores m ON m.opportunity_id = o.id\nCROSS JOIN params p\nWHERE o.active = TRUE AND o.source LIKE 'federal:%'\n  AND m.review_status = 'pending' AND m.rule_score >= p.min_score\n  AND (o.response_deadline IS NULL OR o.response_deadline >= NOW())\n  AND (o.response_deadline IS NULL OR o.response_deadline <= NOW() + (p.days_ahead || ' days')::INTERVAL)\nORDER BY m.rule_score DESC, o.response_deadline ASC NULLS LAST\nLIMIT (SELECT top_n FROM params);",
+        "options": {}
+      },
+      "id": "d4000001-0001-4000-8000-000000000002",
+      "name": "Query Review Queue",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [220, 0],
+      "credentials": {
+        "postgres": {
+          "id": "GOVBID_POSTGRES",
+          "name": "GovBid Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const rows = $input.all().map(i => i.json);\nconst today = new Date().toISOString().slice(0, 10);\nconst webhook = $env.SLACK_WEBHOOK_URL || '';\n\nfunction reasons(r) {\n  const m = r.match_reasons;\n  if (Array.isArray(m)) return m.slice(0, 4).join(', ');\n  return m ? String(m) : '';\n}\n\nconst header = `*GovBid review digest* — ${today}\\n${rows.length} opportunities (sync params with match-profile.yaml)`;\nconst blocks = [\n  { type: 'section', text: { type: 'mrkdwn', text: header } },\n  { type: 'divider' },\n];\n\nif (rows.length === 0) {\n  blocks.push({ type: 'section', text: { type: 'mrkdwn', text: '_No opportunities matched filters today._' } });\n} else {\n  rows.forEach((r, i) => {\n    const title = (r.title || 'Untitled').slice(0, 120);\n    const deadline = r.response_deadline ? new Date(r.response_deadline).toISOString().slice(0, 10) : 'N/A';\n    const link = r.ui_link || '';\n    let text = `*${i + 1}. [${r.rule_score}] ${title}*\\n${r.agency || 'N/A'} | deadline ${deadline}\\n_${reasons(r)}_`;\n    if (link) text += `\\n<${link}|SAM.gov>`;\n    blocks.push({ type: 'section', text: { type: 'mrkdwn', text } });\n  });\n}\n\nlet slack_sent = false;\nif (webhook) {\n  await this.helpers.httpRequest({\n    method: 'POST',\n    url: webhook,\n    headers: { 'Content-Type': 'application/json' },\n    body: { blocks },\n  });\n  slack_sent = true;\n}\n\nlet md = `# Gov Contracts Review Digest\\n\\nDate: ${today}\\n\\nFound **${rows.length}** opportunities.\\n\\n`;\nfor (const r of rows) {\n  const deadline = r.response_deadline ? new Date(r.response_deadline).toISOString().slice(0, 10) : 'N/A';\n  md += `## ${r.title || 'Untitled'}\\n- Score: ${r.rule_score} | Deadline: ${deadline}\\n- [SAM.gov](${r.ui_link || '#'})\\n\\n`;\n}\nconst fs = require('fs');\nconst filePath = `/data/review-digest-${today}.md`;\nfs.writeFileSync(filePath, md, 'utf8');\n\nreturn [{ json: { file_path: filePath, count: rows.length, slack_sent } }];"
+      },
+      "id": "d4000001-0001-4000-8000-000000000003",
+      "name": "Slack and Save Digest",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [440, 0]
+    }
+  ],
+  "connections": {
+    "Daily 7AM ET": {
+      "main": [[{ "node": "Query Review Queue", "type": "main", "index": 0 }]]
+    },
+    "Query Review Queue": {
+      "main": [[{ "node": "Slack and Save Digest", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "America/New_York"
+  },
+  "staticData": null,
+  "tags": [],
+  "meta": {
+    "templateCredsSetupCompleted": false
+  },
+  "active": false,
+  "id": "990148c7-378d-5c51-94ef-c0dc4a9d4533",
+  "versionId": "af4a5165-7789-54c4-8502-80822762e103",
+  "createdAt": "2026-05-25T00:27:57.000Z",
+  "updatedAt": "2026-05-25T00:27:57.000Z",
+  "pinData": {},
+  "triggerCount": 0
+}
