@@ -119,7 +119,7 @@ From `config/match-profile.yaml` — customize as certifications and past perfor
 ### 1.1 Stand up the pipeline stack ✅
 
 ```bash
-cd /home/me/rs
+cd /home/me/govbid
 cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
 bash scripts/stack-up.sh
@@ -354,6 +354,7 @@ Aligns with the federal sales roadmap from the training corpus:
 
 ## References in this repo
 
+- [Lightweight SDLC](sdlc.md)
 - [Federal Contracting Playbook](federal_contracting_playbook.md)
 - [SAM.gov Procurement Framework](sam_gov_procurement_framework.md)
 - [SAM Data Extract Documentation](reference/Contract%20Opportunities%20Data%20Extract%20Documentation.pdf)

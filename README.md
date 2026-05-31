@@ -188,6 +188,7 @@ Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asid
 
 | Doc | Purpose |
 |-----|---------|
+| [docs/sdlc.md](docs/sdlc.md) | Lightweight SDLC (plan → verify → deploy) |
 | [docs/gameplan.md](docs/gameplan.md) | Phased roadmap |
 | [docs/federal_contracting_playbook.md](docs/federal_contracting_playbook.md) | Capture strategy |
 | [docs/sam_gov_procurement_framework.md](docs/sam_gov_procurement_framework.md) | SAM.gov lifecycle |
