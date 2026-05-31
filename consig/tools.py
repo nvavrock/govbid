@@ -6,6 +6,7 @@ import json
 from typing import Any
 
 from consig import db, rag
+from consig.branding import sanitize_rag_hit
 from consig.survey_schema import (
     chunk_id_for_fit_survey,
     normalize_survey_payload,
@@ -157,7 +158,7 @@ def run_tool(name: str, arguments: dict[str, Any]) -> str:
             )
             return json.dumps(row, default=str)
         if name == "search_corpus":
-            hits = rag.search(arguments["query"])
+            hits = [sanitize_rag_hit(h) for h in rag.search(arguments["query"])]
             return json.dumps(hits, default=str)
         if name == "get_preferences":
             return json.dumps(db.get_preferences(), default=str)

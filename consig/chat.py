@@ -9,6 +9,7 @@ from openai import OpenAI
 
 from consig.config import llm_model, openai_api_key
 from consig import db, rag
+from consig.branding import sanitize_rag_hit, sanitize_source_label, sanitize_user_facing
 from consig.prompts import SYSTEM_PROMPT, build_context_block, profile_summary
 from consig.tools import TOOL_SCHEMAS, run_tool
 
@@ -31,7 +32,7 @@ def _messages_for_api(
     preferences = db.get_preferences()
     fit_summaries = db.get_recent_fit_survey_summaries(limit=10)
     query = user_message if not briefing else "daily capture briefing top opportunities"
-    rag_chunks = rag.search(query)
+    rag_chunks = [sanitize_rag_hit(h) for h in rag.search(query)]
 
     context = build_context_block(
         queue=queue,
@@ -128,8 +129,8 @@ def handle_chat(
                         for h in hits[:3]:
                             citations.append(
                                 {
-                                    "source": h.get("source", ""),
-                                    "snippet": (h.get("text") or "")[:200],
+                                    "source": sanitize_source_label(h.get("source", "")),
+                                    "snippet": sanitize_user_facing((h.get("text") or "")[:200]),
                                 }
                             )
                     except json.JSONDecodeError:
@@ -143,7 +144,7 @@ def handle_chat(
                 )
             continue
 
-        reply = (msg.content or "").strip()
+        reply = sanitize_user_facing((msg.content or "").strip())
         db.append_message(session_id, "assistant", reply, notice_id)
         return {
             "session_id": session_id,
@@ -152,7 +153,7 @@ def handle_chat(
             "actions_taken": actions_taken,
         }
 
-    reply = "I hit the tool call limit. Please try a simpler question."
+    reply = sanitize_user_facing("I hit the tool call limit. Please try a simpler question.")
     db.append_message(session_id, "assistant", reply, notice_id)
     return {
         "session_id": session_id,

@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from consig.config import load_env, review_defaults  # noqa: E402
+from consig.branding import sanitize_user_facing  # noqa: E402
 from consig.survey_schema import (
     BAD_TAGS,
     GOOD_TAGS,
@@ -276,7 +277,7 @@ def render_sidebar(defaults: dict) -> tuple[int, int, int]:
                 result = run_chat("", st.session_state.session_id, None, briefing=True)
             st.session_state.session_id = result["session_id"]
             st.session_state.messages.append(
-                {"role": "assistant", "content": result["reply"]}
+                {"role": "assistant", "content": sanitize_user_facing(result["reply"])}
             )
             st.rerun()
         if not USE_INPROCESS:
@@ -410,7 +411,10 @@ def tab_chat() -> None:
 
     for msg in st.session_state.messages:
         with st.chat_message(msg["role"]):
-            st.markdown(msg["content"])
+            content = msg["content"]
+            if msg["role"] == "assistant":
+                content = sanitize_user_facing(content)
+            st.markdown(content)
 
     prompt = st.chat_input("Ask about strategy, scores, or pass/bid...")
     if prompt:
@@ -423,13 +427,13 @@ def tab_chat() -> None:
             )
         st.session_state.session_id = result["session_id"]
         st.session_state.messages.append(
-            {"role": "assistant", "content": result["reply"]}
+            {"role": "assistant", "content": sanitize_user_facing(result["reply"])}
         )
         if result.get("citations"):
             with st.expander("Sources"):
                 for c in result["citations"]:
-                    st.caption(c.get("source", ""))
-                    st.text(c.get("snippet", ""))
+                    st.caption(sanitize_user_facing(c.get("source", "")))
+                    st.text(sanitize_user_facing(c.get("snippet", "")))
         st.rerun()
 
 

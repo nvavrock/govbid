@@ -13,13 +13,14 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
 from consig.config import ROOT as PROJECT_ROOT, load_env  # noqa: E402
+from consig.branding import sanitize_user_facing  # noqa: E402
 from consig import rag  # noqa: E402
 
 CHUNK_SIZE = 900
 CHUNK_OVERLAP = 120
 
 SOURCES = [
-    (PROJECT_ROOT / "transcripts" / "corpus" / "combined.txt", "combined.txt"),
+    (PROJECT_ROOT / "transcripts" / "corpus" / "combined.txt", "capture_training.txt"),
     (PROJECT_ROOT / "docs" / "federal_contracting_playbook.md", "federal_contracting_playbook.md"),
     (PROJECT_ROOT / "docs" / "sam_gov_procurement_framework.md", "sam_gov_procurement_framework.md"),
 ]
@@ -40,6 +41,12 @@ def chunk_text(text: str, source: str, title: str) -> list[dict]:
                 end = break_at
         piece = text[start:end].strip()
         if len(piece) > 80:
+            piece = sanitize_user_facing(piece)
+            if len(piece) <= 80:
+                start = max(end - CHUNK_OVERLAP, end)
+                if start >= len(text):
+                    break
+                continue
             chunk_id = hashlib.sha256(f"{source}:{idx}:{piece[:64]}".encode()).hexdigest()[:24]
             chunks.append(
                 {

@@ -151,11 +151,11 @@ Up to **25** pending opportunities with scores and SAM links in Postgres — par
 
 ---
 
-## Phase 2 — Dashboard and opportunity UI (current focus)
+## Phase 2 — Dashboard and opportunity UI ✅ (verified)
 
 **Goal:** Browse, filter, and open SAM.gov opportunity pages without writing SQL.
 
-**Definition of done:** `bash scripts/verify_phase2.sh` exits 0 (requires Phase 1). **Not yet verified** — needs `SLACK_WEBHOOK_URL` for digest gate (see [STATUS.md](STATUS.md)).
+**Definition of done:** `bash scripts/verify_phase2.sh` exits 0 (requires Phase 1). **Pass** locally (see [STATUS.md](STATUS.md)).
 
 | Step | Criteria |
 |------|----------|
@@ -336,11 +336,9 @@ Aligns with the federal sales roadmap from the training corpus:
 
 See [STATUS.md](STATUS.md) for the live ops snapshot. Current priorities:
 
-1. **Phase 2 gate** — set `SLACK_WEBHOOK_URL` in `.env`, run `bash scripts/verify_phase2.sh`.
-2. **Phase 3 gate** — set `OPENAI_API_KEY`, run `uv run scripts/build_consig_index.py`, then `bash scripts/verify_phase3.sh`.
-3. **Daily habit** — `./run_daily.sh` (or cron) → Consig queue review → shortlist 3–5 opportunities.
-4. **Ops hygiene** — consider consolidating duplicate 6 AM crons (`run_download.sh` + `run_daily.sh`; daily already downloads).
-5. **SAM.gov** — register entity + API key if not done (raises API rate limits).
+1. **Phase 4 gate** — research + proposal agents (see gameplan Phase 4)
+2. Optional: `OPENAI_API_KEY` → `uv run scripts/build_consig_index.py` for full RAG Chat
+3. Daily habit: Consig queue → shortlist 3–5 → Slack digest → fit survey on pass/bid
 
 ---
 

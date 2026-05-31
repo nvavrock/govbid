@@ -34,3 +34,6 @@ transcripts/
 # Docker / misc
 index.php
 .DS_Store
+
+# Excel
+*.xlsx

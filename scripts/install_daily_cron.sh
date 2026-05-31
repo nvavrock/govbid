@@ -50,7 +50,7 @@ fi
 mkdir -p "$ROOT/logs"
 touch "$ROOT/logs/daily.log"
 
-( crontab -l 2>/dev/null | grep -vE "run_daily.sh|run_digest.sh" || true
+( crontab -l 2>/dev/null | grep -vE "run_download.sh|run_daily.sh|run_digest.sh" || true
   echo "$CRON_LINE"
   echo "$DIGEST_LINE"
 ) | crontab -
