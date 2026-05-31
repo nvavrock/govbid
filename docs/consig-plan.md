@@ -1,8 +1,7 @@
 # Consig implementation plan
 
-**Branch:** `feature/consig`  
 **Owner:** Rocksteady Analytics  
-**Status:** In progress — Phase A/B implemented on `main`; Phase C fit survey + feedback loop implemented; remaining Phase C/D polish
+**Status:** On `main` — Phase A/B done; Phase C fit survey + feedback loop done; Phase C/D polish remaining (see below)
 
 ---
 
@@ -58,7 +57,7 @@ review queue → Consig ↔ you (scores, picks, chat) → bid/reviewing → Rese
                      Chroma local)      via .env)
 ```
 
-**Docker:** add `consig` service to `docker-compose.yml` after spike proves local dev loop.
+**Docker:** `consig-api` and `consig-ui` services in `docker-compose.yml` (ports 8000 / 8501).
 
 ---
 
@@ -122,9 +121,9 @@ Optional: enable **pgvector** extension + `consig_chunks` (`content`, `embedding
 
 **Goal:** Fit the rest of the stack.
 
-- [ ] Docker service `consig` in compose; healthcheck `/health`
+- [x] Docker services `consig-api` + `consig-ui` in compose; healthcheck `/health`
 - [ ] n8n `04-review-digest.json` — HTTP node calls Consig for one-line summaries (optional)
-- [ ] README + gameplan link to this doc
+- [x] README + gameplan link to this doc
 - [ ] Handoff JSON stub for Research agent (`notice_id`, `review_status=bid`)
 
 ---
@@ -219,15 +218,12 @@ docs/
 
 ---
 
-## Order of work on `feature/consig`
+## Order of work (remaining)
 
-1. Migration `003_consig.sql` + pgvector decision (Chroma local first = faster spike).
-2. Index builder + 5 smoke retrieval queries.
-3. FastAPI `/health`, `/queue`, `/chat` (read-only).
-4. Tool calling for `set_review_status`.
-5. CLI or Streamlit.
-6. Feedback report script.
-7. Docker + docs.
+1. `capture_preferences` CRUD via chat (Phase C).
+2. Session summary on close (Phase C).
+3. Optional: n8n digest → Consig one-line summaries (Phase D).
+4. Research agent handoff JSON stub (Phase D).
 
 ---
 

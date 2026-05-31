@@ -9,8 +9,8 @@ Federal contract opportunity system: SAM.gov bulk download, Postgres scoring pip
 ```
 govbid/
 ├── README.md
-├── pyproject.toml              # Python deps (requests, psycopg); managed with uv
-├── docker-compose.yml          # Postgres + n8n + Adminer
+├── pyproject.toml              # Python deps (requests, psycopg, pyyaml); managed with uv
+├── docker-compose.yml          # Postgres + n8n + Adminer + Consig API/UI
 ├── .env.example
 ├── run_download.sh             # daily SAM.gov CSV pull → data/
 ├── config/
@@ -39,8 +39,7 @@ cp config/match-profile.example.yaml config/match-profile.yaml
 # Edit .env — POSTGRES_PASSWORD, N8N_BASIC_AUTH_PASSWORD, N8N_ENCRYPTION_KEY, N8N_OWNER_EMAIL, SAM_API_KEY
 # n8n owner is auto-provisioned from .env on stack-up (no /setup wizard)
 ./scripts/check_env.sh
-bash scripts/generate-n8n-owner-hash.sh
-bash scripts/stack-up.sh
+bash scripts/stack-up.sh        # also runs generate-n8n-owner-hash.sh
 bash scripts/provision-n8n.sh
 ```
 
@@ -66,8 +65,10 @@ bash scripts/provision-n8n.sh   # import Postgres credential + workflows
 
 | Service | URL |
 |---------|-----|
-| n8n | http://localhost:5678 |
+| n8n | http://localhost:5678 (owner login: `N8N_OWNER_EMAIL` + `N8N_BASIC_AUTH_PASSWORD`) |
 | Adminer | http://localhost:8081 (server: `postgres`, port `5432` inside Docker network) |
+| Consig UI | http://localhost:8501 |
+| Consig API | http://localhost:8000/health |
 
 Host Postgres port is **5433** (avoids conflict with local PostgreSQL on 5432). Set `POSTGRES_PORT=5433` in `.env` for Python/SQL CLIs.
 
@@ -122,6 +123,8 @@ uv run scripts/review_queue.py
 
 ## n8n workflows
 
+Import automatically via `bash scripts/provision-n8n.sh` (recommended). Manual import: **Workflows → Import from File** in the n8n UI. See [workflows/n8n/README.md](workflows/n8n/README.md).
+
 | File | Schedule | Purpose |
 |------|----------|---------|
 | `01-sam-bulk-ingest.json` | Daily 2:00 AM ET | Bulk CSV → Postgres |
@@ -163,11 +166,13 @@ bash scripts/stack-up.sh   # includes consig-api :8000 and consig-ui :8501
 | Consig UI | http://localhost:8501 |
 | Consig API | http://localhost:8000/health |
 
-Plan: [docs/consig-plan.md](docs/consig-plan.md) — branch `feature/consig`
+Plan: [docs/consig-plan.md](docs/consig-plan.md)
 
 Corpus for **Consig** RAG: `transcripts/corpus/combined.txt` (local, gitignored)
 
 ## Phase 1 complete
+
+Phase 1 is **verified locally** — see [docs/STATUS.md](docs/STATUS.md).
 
 ```bash
 bash scripts/verify_phase1.sh   # exit 0 = Phase 1 done
@@ -176,6 +181,8 @@ bash scripts/verify_phase1.sh   # exit 0 = Phase 1 done
 Deliverable: up to 25 pending opportunities with `rule_score >= min_score` (default 25), deadlines within `days_ahead` (default 30), SAM.gov links in Postgres — all driven by `config/match-profile.yaml`.
 
 ## Phase 2 complete
+
+Requires `SLACK_WEBHOOK_URL` for the digest gate. See [docs/STATUS.md](docs/STATUS.md).
 
 ```bash
 bash scripts/verify_phase2.sh   # exit 0 = Phase 2 done (requires Phase 1)
@@ -194,6 +201,9 @@ Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asid
 | [docs/STATUS.md](docs/STATUS.md) | **Living project status** (update after verify / merges) |
 | [docs/sdlc.md](docs/sdlc.md) | Lightweight SDLC (plan → verify → deploy) |
 | [docs/gameplan.md](docs/gameplan.md) | Phased roadmap |
+| [docs/dashboard.md](docs/dashboard.md) | Consig UI + Adminer + Slack digest |
+| [docs/consig-plan.md](docs/consig-plan.md) | Consig implementation detail |
+| [workflows/n8n/README.md](workflows/n8n/README.md) | n8n workflow import + digest |
 | [docs/federal_contracting_playbook.md](docs/federal_contracting_playbook.md) | Capture strategy |
 | [docs/sam_gov_procurement_framework.md](docs/sam_gov_procurement_framework.md) | SAM.gov lifecycle |
 
@@ -202,3 +212,5 @@ Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asid
 - **Lock files** in `logs/` prevent overlapping cron runs.
 - **Do not scrape SAM.gov** — official bulk extract and API only.
 - Register entity + API key at [sam.gov](https://sam.gov) for higher rate limits.
+- **n8n owner:** auto-provisioned from `.env` on `stack-up`; password change → `bash scripts/reset-n8n-login.sh`.
+- **Cron note:** `install_daily_cron.sh` may install both `run_download.sh` and `run_daily.sh` at 6 AM; daily already downloads — consider keeping only `run_daily.sh`.

@@ -1,5 +1,7 @@
 # Opportunity dashboard (Phase 2)
 
+**Prerequisite:** Phase 1 pass — `bash scripts/verify_phase1.sh`. Phase 2 gate: `bash scripts/verify_phase2.sh` (needs `SLACK_WEBHOOK_URL` for digest). See [STATUS.md](STATUS.md).
+
 ## Primary UI — Consig (Streamlit)
 
 ```bash

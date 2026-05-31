@@ -21,7 +21,7 @@ Run the SDLC loop for every change. Gameplan phases are milestones inside that l
 | **Design** | [db/migrations/](../db/migrations/), [DATA_DICTIONARY.md](../db/DATA_DICTIONARY.md), [workflows/n8n/](../workflows/n8n/), `docker-compose.yml` |
 | **Build** | [scripts/](../scripts/), [consig/](../consig/), `pyproject.toml`, feature branches |
 | **Test** | `scripts/check_env.sh`, `doctor.sh`, `verify_phase1.sh` … `verify_phase3.sh` |
-| **Deploy** | `scripts/stack-up.sh`, `./run_daily.sh`, cron via `scripts/install_daily_cron.sh` |
+| **Deploy** | `scripts/stack-up.sh` (n8n owner hash + Docker), `scripts/provision-n8n.sh`, `./run_daily.sh`, cron via `scripts/install_daily_cron.sh` |
 | **Operate** | `logs/`, `scripts/status.sh`, Consig review loop, tune `match-profile.yaml` |
 
 ## Before merging to `main`
@@ -50,6 +50,7 @@ After verify passes, update [STATUS.md](STATUS.md) phase table and **Last update
 2. `bash scripts/verify_phaseN.sh` — for current milestone
 3. Cron for SAM download / daily ingest (see [README.md](../README.md))
 4. If corpus changed: `uv run scripts/build_consig_index.py`
+5. After `.env` n8n password change: `bash scripts/reset-n8n-login.sh`
 
 ## Example: tighten NAICS filter
 

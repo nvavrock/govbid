@@ -1,5 +1,18 @@
 # n8n Workflow Imports
 
+**Stack:** n8n **2.17+** with owner auto-provisioned from `.env` (see [README.md](../../README.md) setup).
+
+## Automated import (recommended)
+
+```bash
+bash scripts/stack-up.sh
+bash scripts/provision-n8n.sh
+```
+
+This imports the **GovBid Postgres** credential and all workflow JSON files under `workflows/n8n/`.
+
+## Manual import
+
 Import these JSON files in n8n: **Workflows → Import from File**.
 
 After import, for each workflow:
@@ -40,3 +53,11 @@ Add to n8n container env in `docker-compose.yml` or n8n UI:
 - `DIGEST_TOP_N` — optional (default 10)
 
 Keep queue SQL params roughly in sync with `match-profile.yaml` → `review:` (same as workflow 01 Code nodes).
+
+## Password / owner changes
+
+Owner credentials come from `.env` (`N8N_OWNER_EMAIL`, `N8N_BASIC_AUTH_PASSWORD`). To change the password:
+
+```bash
+bash scripts/reset-n8n-login.sh   # regenerates hash + restarts n8n
+```

@@ -103,11 +103,11 @@ From `config/match-profile.yaml` — customize as certifications and past perfor
 
 ---
 
-## Phase 1 — Filter, score, and load (weeks 1–2)
+## Phase 1 — Filter, score, and load ✅ (verified)
 
 **Goal:** Turn the 230 MB CSV into a ranked, queryable opportunity list aligned with your profile.
 
-**Definition of done:** `bash scripts/verify_phase1.sh` exits 0.
+**Definition of done:** `bash scripts/verify_phase1.sh` exits 0 — **Pass** locally (see [STATUS.md](STATUS.md)).
 
 | Step | Criteria |
 |------|----------|
@@ -122,10 +122,13 @@ From `config/match-profile.yaml` — customize as certifications and past perfor
 cd /home/me/govbid
 cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
-bash scripts/stack-up.sh
-bash scripts/provision-n8n.sh
+# Edit .env — POSTGRES_PASSWORD, N8N_* (owner auto-provisioned; see .env.example)
+bash scripts/stack-up.sh          # generates owner hash, starts n8n 2.17+, Postgres, Consig
+bash scripts/provision-n8n.sh     # import Postgres credential + workflows
 bash scripts/doctor.sh
 ```
+
+n8n owner account is **auto-provisioned from `.env`** on stack-up (no manual `/setup` wizard). Sign in at http://localhost:5678 with `N8N_OWNER_EMAIL` + `N8N_BASIC_AUTH_PASSWORD`.
 
 ### 1.2 Daily automation ✅
 
@@ -148,11 +151,11 @@ Up to **25** pending opportunities with scores and SAM links in Postgres — par
 
 ---
 
-## Phase 2 — Dashboard and opportunity UI (weeks 2–4)
+## Phase 2 — Dashboard and opportunity UI (current focus)
 
 **Goal:** Browse, filter, and open SAM.gov opportunity pages without writing SQL.
 
-**Definition of done:** `bash scripts/verify_phase2.sh` exits 0 (requires Phase 1).
+**Definition of done:** `bash scripts/verify_phase2.sh` exits 0 (requires Phase 1). **Not yet verified** — needs `SLACK_WEBHOOK_URL` for digest gate (see [STATUS.md](STATUS.md)).
 
 | Step | Criteria |
 |------|----------|
@@ -188,13 +191,13 @@ Daily habit: open Consig → scan queue → shortlist 3–5 → mark bid/pass �
 
 ---
 
-## Phase 3 — Consig: RAG advisor (weeks 4–6)
+## Phase 3 — Consig: RAG advisor
 
-**Implementation plan (active branch `feature/consig`):** [consig-plan.md](consig-plan.md) — queue coach, scores/picks workflow, session memory, feedback loop.
+**Implementation plan:** [consig-plan.md](consig-plan.md) — merged on `main`; queue coach, scores/picks workflow, session memory, feedback loop.
 
 **Goal:** Chatbot that answers federal sales questions using your corpus, grounded in official docs, and guides daily review of scored opportunities.
 
-**Definition of done:** `bash scripts/verify_phase3.sh` exits 0 (requires Phase 1 + 2).
+**Definition of done:** `bash scripts/verify_phase3.sh` exits 0 (requires Phase 1 + 2). **Not yet verified** — needs `OPENAI_API_KEY` and Consig index (see [STATUS.md](STATUS.md)).
 
 In practice, Consig should support a structured “fit survey” (good/bad project fit + score accuracy) that you fill after Pass/Bid so the next chat can explain scoring quality using those human labels.
 
@@ -230,7 +233,7 @@ Consig API (FastAPI) ◄── n8n webhook / simple chat UI
 
 ### 3.4 Deliverable
 
-Docker container `consig` with `/chat` endpoint; n8n can call it from digest workflow to append summaries.
+`consig-api` + `consig-ui` in Docker Compose; FastAPI `/chat` endpoint; n8n can call Consig from digest workflow for optional summaries.
 
 ---
 
@@ -318,24 +321,26 @@ Aligns with the federal sales roadmap from the training corpus:
 
 | Layer | Tool | Repo |
 |-------|------|------|
-| Bulk download | Python + `requests` | `govbid` |
-| Orchestration | n8n Community Edition | `workflows/n8n/` |
+| Bulk download | Python + `requests` | `scripts/download_sam_opportunities.py` |
+| Orchestration | n8n 2.17+ Community Edition | `workflows/n8n/`, `docker-compose.yml` |
 | Database | PostgreSQL + migrations | `db/` |
 | Matching | SQL + `match-profile.yaml` | `config/` |
-| Transcripts | local corpus | `transcripts/corpus/` |
-| RAG | pgvector / Chroma + FastAPI | new in `scripts/` |
-| Agents | Docker containers, JSON handoffs | new |
-| UI | Streamlit or Adminer (v1) | TBD |
+| Transcripts | local corpus | `transcripts/corpus/` (gitignored) |
+| RAG | Chroma + FastAPI + Streamlit | `consig/`, `scripts/build_consig_index.py` |
+| Agents | Docker containers, JSON handoffs | Phase 4 (planned) |
+| UI | Consig Streamlit + Adminer SQL fallback | `./run_consig.sh`, http://localhost:8081 |
 
 ---
 
-## Immediate next actions (this week)
+## Immediate next actions
 
-1. **Finalize match profile** — edit `config/match-profile.yaml` for Rocksteady Analytics.
-2. **Start Docker pipeline** — ingest today's CSV; verify `review_queue` output.
-3. **Pick dashboard approach** — Adminer for week 1, Streamlit if you want custom UI fast.
-4. **Register on SAM.gov** — entity + API key (raises rate limits from ~10 to ~1,000/day).
-5. **Spike Consig** — chunk `combined.txt`, embed 100 pages, test 10 questions against playbook answers.
+See [STATUS.md](STATUS.md) for the live ops snapshot. Current priorities:
+
+1. **Phase 2 gate** — set `SLACK_WEBHOOK_URL` in `.env`, run `bash scripts/verify_phase2.sh`.
+2. **Phase 3 gate** — set `OPENAI_API_KEY`, run `uv run scripts/build_consig_index.py`, then `bash scripts/verify_phase3.sh`.
+3. **Daily habit** — `./run_daily.sh` (or cron) → Consig queue review → shortlist 3–5 opportunities.
+4. **Ops hygiene** — consider consolidating duplicate 6 AM crons (`run_download.sh` + `run_daily.sh`; daily already downloads).
+5. **SAM.gov** — register entity + API key if not done (raises API rate limits).
 
 ---
 

@@ -1,6 +1,6 @@
 # GovBid status
 
-**Last updated:** 2026-05-31  
+**Last updated:** 2026-05-23  
 **Owner:** Rocksteady Analytics  
 
 > Update this file when phase gates change, after merges to `main`, or weekly during ops checks.  
