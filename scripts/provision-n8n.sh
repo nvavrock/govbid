@@ -26,6 +26,8 @@ set +a
 
 export POSTGRES_USER POSTGRES_DB POSTGRES_PASSWORD
 
+bash "$ROOT/scripts/generate-n8n-owner-hash.sh"
+
 if ! govbid_docker_compose ps --status running n8n 2>/dev/null | grep -q n8n; then
   echo "Starting stack..."
   govbid_docker_compose up -d
@@ -38,12 +40,22 @@ bash "$ROOT/scripts/wait-n8n.sh" 45 || {
   exit 1
 }
 
+OWNER_EMAIL="${N8N_OWNER_EMAIL:-nvavrock@gmail.com}"
 USER_ID="$(govbid_docker_compose exec -T postgres psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -tAc \
-  "SELECT id FROM \"user\" WHERE email IS NOT NULL AND email <> '' LIMIT 1;")"
+  "SELECT id FROM \"user\" WHERE email = '$OWNER_EMAIL' LIMIT 1;")"
 USER_ID="${USER_ID//[[:space:]]/}"
 
 if [[ -z "$USER_ID" ]]; then
-  echo "No n8n owner user found. Complete owner setup at http://localhost:5678 first." >&2
+  echo "No n8n owner yet — restarting n8n to apply env-provisioned owner ..."
+  govbid_docker_compose restart n8n >/dev/null
+  bash "$ROOT/scripts/wait-n8n.sh" 60
+  USER_ID="$(govbid_docker_compose exec -T postgres psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -tAc \
+    "SELECT id FROM \"user\" WHERE email = '$OWNER_EMAIL' LIMIT 1;")"
+  USER_ID="${USER_ID//[[:space:]]/}"
+fi
+
+if [[ -z "$USER_ID" ]]; then
+  echo "No n8n owner user found. Run: bash scripts/stack-up.sh" >&2
   exit 1
 fi
 
@@ -84,7 +96,7 @@ WF_COUNT="$(govbid_docker_compose exec -T postgres psql -U "$POSTGRES_USER" -d "
 if [[ "${WF_COUNT:-0}" -ge 4 ]]; then
   echo "Workflows already imported ($WF_COUNT). Skipping workflow import."
 else
-  echo "Normalizing workflow JSON for n8n 1.90..."
+  echo "Normalizing workflow JSON for n8n 2.x..."
   python3 "$ROOT/scripts/normalize_n8n_workflows.py"
   echo "Importing workflows..."
   if ! govbid_docker_compose exec -T n8n n8n import:workflow \

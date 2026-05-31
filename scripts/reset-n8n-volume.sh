@@ -44,8 +44,10 @@ else
 fi
 
 echo "Starting n8n with encryption key from .env..."
+bash "$ROOT/scripts/generate-n8n-owner-hash.sh" 2>/dev/null || true
 govbid_docker_compose up -d n8n
 
 echo ""
-echo "Wait ~30s, then open http://localhost:5678 and complete owner setup."
+echo "Wait ~30s, then run: bash scripts/stack-up.sh"
+echo "Owner account is auto-provisioned from .env (no /setup wizard)."
 echo "Then run: bash scripts/provision-n8n.sh"

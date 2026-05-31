@@ -12,12 +12,18 @@ govbid_resolve_docker >/dev/null || {
   exit 1
 }
 
+if [[ -f .env ]]; then
+  bash "$ROOT/scripts/generate-n8n-owner-hash.sh"
+fi
+
 echo "Using Docker: $GOVBID_DOCKER"
 govbid_docker_compose up -d
 
 if [[ -f .env ]]; then
   bash "$ROOT/scripts/sync-postgres-password.sh" >/dev/null 2>&1 || true
 fi
+
+bash "$ROOT/scripts/wait-n8n.sh" 60 >/dev/null 2>&1 || true
 
 echo ""
 echo "Services:"

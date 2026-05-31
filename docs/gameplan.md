@@ -2,7 +2,7 @@
 
 **Owner:** Rocksteady Analytics  
 **Last updated:** May 2026  
-**Status:** Phase 0 complete — ingest, knowledge corpus, and pipeline stack merged into this repo
+**Status:** See [STATUS.md](STATUS.md) for current phase gates and ops snapshot
 
 ---
 
@@ -354,6 +354,7 @@ Aligns with the federal sales roadmap from the training corpus:
 
 ## References in this repo
 
+- [Project status (living doc)](STATUS.md)
 - [Lightweight SDLC](sdlc.md)
 - [Federal Contracting Playbook](federal_contracting_playbook.md)
 - [SAM.gov Procurement Framework](sam_gov_procurement_framework.md)

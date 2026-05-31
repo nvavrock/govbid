@@ -71,7 +71,7 @@ if [[ -n "${N8N_BASIC_AUTH_PASSWORD:-}" ]]; then
     | grep -q '"email"'; then
     echo "OK   n8n login for $OWNER_EMAIL (password = N8N_BASIC_AUTH_PASSWORD in .env)"
   else
-    echo "WARN n8n login failed — run: bash scripts/reset-n8n-login.sh"
+    echo "WARN n8n login failed — run: bash scripts/generate-n8n-owner-hash.sh && bash scripts/stack-up.sh"
   fi
 fi
 

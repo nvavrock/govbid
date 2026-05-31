@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add n8n 1.90 required fields to workflow JSON files before CLI import."""
+"""Add n8n 2.x required fields to workflow JSON files before CLI import."""
 
 from __future__ import annotations
 

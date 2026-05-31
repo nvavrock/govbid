@@ -2,6 +2,8 @@
 
 Federal contract opportunity system: SAM.gov bulk download, Postgres scoring pipeline (n8n), and agent-assisted capture planning.
 
+**Current status:** [docs/STATUS.md](docs/STATUS.md)
+
 ## Project layout
 
 ```
@@ -19,7 +21,7 @@ govbid/
 │   └── DATA_DICTIONARY.md
 ├── workflows/n8n/              # import into n8n
 ├── scrapers/states/            # phase 2 state portals
-├── docs/                       # gameplan, playbooks, reference PDFs
+├── docs/                       # STATUS, gameplan, playbooks, reference PDFs
 ├── consig/                     # FastAPI + Streamlit capture copilot
 ├── scripts/                    # ingest, queries, n8n provision, build_consig_index
 ├── data/                       # SAM bulk CSV (gitignored)
@@ -34,9 +36,10 @@ cd /home/me/govbid
 uv sync
 cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
-# Edit .env — POSTGRES_PASSWORD, N8N_BASIC_AUTH_PASSWORD, N8N_ENCRYPTION_KEY, SAM_API_KEY
-# n8n UI login uses your owner email (default nvavrock@gmail.com) + N8N_BASIC_AUTH_PASSWORD
+# Edit .env — POSTGRES_PASSWORD, N8N_BASIC_AUTH_PASSWORD, N8N_ENCRYPTION_KEY, N8N_OWNER_EMAIL, SAM_API_KEY
+# n8n owner is auto-provisioned from .env on stack-up (no /setup wizard)
 ./scripts/check_env.sh
+bash scripts/generate-n8n-owner-hash.sh
 bash scripts/stack-up.sh
 bash scripts/provision-n8n.sh
 ```
@@ -58,7 +61,7 @@ See [docs/dashboard.md](docs/dashboard.md) for queue tabs, shortlist workflow, a
 ```bash
 bash scripts/ensure-docker.sh   # WSL: run this first
 bash scripts/stack-up.sh
-bash scripts/provision-n8n.sh   # after first login at http://localhost:5678
+bash scripts/provision-n8n.sh   # import Postgres credential + workflows
 ```
 
 | Service | URL |
@@ -188,6 +191,7 @@ Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asid
 
 | Doc | Purpose |
 |-----|---------|
+| [docs/STATUS.md](docs/STATUS.md) | **Living project status** (update after verify / merges) |
 | [docs/sdlc.md](docs/sdlc.md) | Lightweight SDLC (plan → verify → deploy) |
 | [docs/gameplan.md](docs/gameplan.md) | Phased roadmap |
 | [docs/federal_contracting_playbook.md](docs/federal_contracting_playbook.md) | Capture strategy |

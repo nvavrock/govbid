@@ -20,7 +20,7 @@ services:
       - "127.0.0.1:5433:5432"
 
   n8n:
-    image: n8nio/n8n:1.121.0
+    image: n8nio/n8n:2.17.0
     restart: unless-stopped
     depends_on:
       postgres:
@@ -35,6 +35,12 @@ services:
       N8N_BASIC_AUTH_ACTIVE: "true"
       N8N_BASIC_AUTH_USER: ${N8N_BASIC_AUTH_USER:-admin}
       N8N_BASIC_AUTH_PASSWORD: ${N8N_BASIC_AUTH_PASSWORD:?Set N8N_BASIC_AUTH_PASSWORD in .env}
+      N8N_RUNNERS_ENABLED: "true"
+      N8N_INSTANCE_OWNER_MANAGED_BY_ENV: "true"
+      N8N_INSTANCE_OWNER_EMAIL: ${N8N_OWNER_EMAIL:-nvavrock@gmail.com}
+      N8N_INSTANCE_OWNER_FIRST_NAME: ${N8N_OWNER_FIRST_NAME:-Admin}
+      N8N_INSTANCE_OWNER_LAST_NAME: ${N8N_OWNER_LAST_NAME:-User}
+      N8N_INSTANCE_OWNER_PASSWORD_HASH: ${N8N_INSTANCE_OWNER_PASSWORD_HASH:?Run bash scripts/generate-n8n-owner-hash.sh}
       GENERIC_TIMEZONE: America/New_York
       TZ: America/New_York
       SAM_API_KEY: ${SAM_API_KEY:-}

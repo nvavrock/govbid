@@ -36,6 +36,8 @@ bash scripts/verify_phase3.sh   # if RAG / chat changed
 
 Verification scripts are acceptance tests—no separate test suite required at this scale.
 
+After verify passes, update [STATUS.md](STATUS.md) phase table and **Last updated** date.
+
 ## Git flow (solo)
 
 - `main` — stable; passes verify for your current gameplan phase

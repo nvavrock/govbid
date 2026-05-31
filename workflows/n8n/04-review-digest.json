@@ -16,7 +16,10 @@
       "name": "Daily 7AM ET",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
-      "position": [0, 0]
+      "position": [
+        0,
+        0
+      ]
     },
     {
       "parameters": {
@@ -28,7 +31,10 @@
       "name": "Query Review Queue",
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.5,
-      "position": [220, 0],
+      "position": [
+        220,
+        0
+      ],
       "credentials": {
         "postgres": {
           "id": "GOVBID_POSTGRES",
@@ -38,21 +44,40 @@
     },
     {
       "parameters": {
-        "jsCode": "const rows = $input.all().map(i => i.json);\nconst today = new Date().toISOString().slice(0, 10);\nconst webhook = $env.SLACK_WEBHOOK_URL || '';\n\nfunction reasons(r) {\n  const m = r.match_reasons;\n  if (Array.isArray(m)) return m.slice(0, 4).join(', ');\n  return m ? String(m) : '';\n}\n\nconst header = `*GovBid review digest* — ${today}\\n${rows.length} opportunities (sync params with match-profile.yaml)`;\nconst blocks = [\n  { type: 'section', text: { type: 'mrkdwn', text: header } },\n  { type: 'divider' },\n];\n\nif (rows.length === 0) {\n  blocks.push({ type: 'section', text: { type: 'mrkdwn', text: '_No opportunities matched filters today._' } });\n} else {\n  rows.forEach((r, i) => {\n    const title = (r.title || 'Untitled').slice(0, 120);\n    const deadline = r.response_deadline ? new Date(r.response_deadline).toISOString().slice(0, 10) : 'N/A';\n    const link = r.ui_link || '';\n    let text = `*${i + 1}. [${r.rule_score}] ${title}*\\n${r.agency || 'N/A'} | deadline ${deadline}\\n_${reasons(r)}_`;\n    if (link) text += `\\n<${link}|SAM.gov>`;\n    blocks.push({ type: 'section', text: { type: 'mrkdwn', text } });\n  });\n}\n\nlet slack_sent = false;\nif (webhook) {\n  await this.helpers.httpRequest({\n    method: 'POST',\n    url: webhook,\n    headers: { 'Content-Type': 'application/json' },\n    body: { blocks },\n  });\n  slack_sent = true;\n}\n\nlet md = `# Gov Contracts Review Digest\\n\\nDate: ${today}\\n\\nFound **${rows.length}** opportunities.\\n\\n`;\nfor (const r of rows) {\n  const deadline = r.response_deadline ? new Date(r.response_deadline).toISOString().slice(0, 10) : 'N/A';\n  md += `## ${r.title || 'Untitled'}\\n- Score: ${r.rule_score} | Deadline: ${deadline}\\n- [SAM.gov](${r.ui_link || '#'})\\n\\n`;\n}\nconst fs = require('fs');\nconst filePath = `/data/review-digest-${today}.md`;\nfs.writeFileSync(filePath, md, 'utf8');\n\nreturn [{ json: { file_path: filePath, count: rows.length, slack_sent } }];"
+        "jsCode": "const rows = $input.all().map(i => i.json);\nconst today = new Date().toISOString().slice(0, 10);\nconst webhook = $env.SLACK_WEBHOOK_URL || '';\n\nfunction reasons(r) {\n  const m = r.match_reasons;\n  if (Array.isArray(m)) return m.slice(0, 4).join(', ');\n  return m ? String(m) : '';\n}\n\nconst header = `*GovBid review digest* \u2014 ${today}\\n${rows.length} opportunities (sync params with match-profile.yaml)`;\nconst blocks = [\n  { type: 'section', text: { type: 'mrkdwn', text: header } },\n  { type: 'divider' },\n];\n\nif (rows.length === 0) {\n  blocks.push({ type: 'section', text: { type: 'mrkdwn', text: '_No opportunities matched filters today._' } });\n} else {\n  rows.forEach((r, i) => {\n    const title = (r.title || 'Untitled').slice(0, 120);\n    const deadline = r.response_deadline ? new Date(r.response_deadline).toISOString().slice(0, 10) : 'N/A';\n    const link = r.ui_link || '';\n    let text = `*${i + 1}. [${r.rule_score}] ${title}*\\n${r.agency || 'N/A'} | deadline ${deadline}\\n_${reasons(r)}_`;\n    if (link) text += `\\n<${link}|SAM.gov>`;\n    blocks.push({ type: 'section', text: { type: 'mrkdwn', text } });\n  });\n}\n\nlet slack_sent = false;\nif (webhook) {\n  await this.helpers.httpRequest({\n    method: 'POST',\n    url: webhook,\n    headers: { 'Content-Type': 'application/json' },\n    body: { blocks },\n  });\n  slack_sent = true;\n}\n\nlet md = `# Gov Contracts Review Digest\\n\\nDate: ${today}\\n\\nFound **${rows.length}** opportunities.\\n\\n`;\nfor (const r of rows) {\n  const deadline = r.response_deadline ? new Date(r.response_deadline).toISOString().slice(0, 10) : 'N/A';\n  md += `## ${r.title || 'Untitled'}\\n- Score: ${r.rule_score} | Deadline: ${deadline}\\n- [SAM.gov](${r.ui_link || '#'})\\n\\n`;\n}\nconst fs = require('fs');\nconst filePath = `/data/review-digest-${today}.md`;\nfs.writeFileSync(filePath, md, 'utf8');\n\nreturn [{ json: { file_path: filePath, count: rows.length, slack_sent } }];"
       },
       "id": "d4000001-0001-4000-8000-000000000003",
       "name": "Slack and Save Digest",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [440, 0]
+      "position": [
+        440,
+        0
+      ]
     }
   ],
   "connections": {
     "Daily 7AM ET": {
-      "main": [[{ "node": "Query Review Queue", "type": "main", "index": 0 }]]
+      "main": [
+        [
+          {
+            "node": "Query Review Queue",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     },
     "Query Review Queue": {
-      "main": [[{ "node": "Slack and Save Digest", "type": "main", "index": 0 }]]
+      "main": [
+        [
+          {
+            "node": "Slack and Save Digest",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "settings": {
