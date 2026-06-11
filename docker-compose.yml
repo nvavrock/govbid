@@ -1,4 +1,6 @@
 services:
+  # Legacy local stack — target deployment is AWS (see docs/aws-deploy.md).
+  # Use until RDS is provisioned; then point .env at RDS and run without Docker.
   postgres:
     image: postgres:16-alpine
     restart: unless-stopped

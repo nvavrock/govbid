@@ -4,6 +4,13 @@
 # WSL/Windows metadata
 *:Zone.Identifier
 
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+
 # Secrets and local config
 .env
 config/match-profile.yaml

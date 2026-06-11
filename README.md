@@ -2,7 +2,12 @@
 
 Federal contract opportunity system: SAM.gov bulk download, Postgres scoring pipeline (n8n), and agent-assisted capture planning.
 
-**Current status:** [docs/STATUS.md](docs/STATUS.md)
+> **Paused (2026-06-10):** GovBid is **not a current priority**. AWS migration is incomplete. When you return, start with **[docs/PAUSE_REPORT.md](docs/PAUSE_REPORT.md)** — do not run the full Docker stack unless you intentionally need legacy local dev.
+
+**Current status:** [docs/STATUS.md](docs/STATUS.md)  
+**Deployment target:** [docs/aws-deploy.md](docs/aws-deploy.md) (RDS + AWS compute — retiring Docker Desktop)
+
+> **Note:** Duplicate local clone `~/rs` was removed; **`~/govbid`** is the only working copy.
 
 ## Project layout
 
@@ -10,7 +15,8 @@ Federal contract opportunity system: SAM.gov bulk download, Postgres scoring pip
 govbid/
 ├── README.md
 ├── pyproject.toml              # Python deps (requests, psycopg, pyyaml); managed with uv
-├── docker-compose.yml          # Postgres + n8n + Adminer + Consig API/UI
+├── docker-compose.yml          # Legacy local stack (optional until AWS cutover)
+├── terraform/                  # AWS RDS (Phase 1)
 ├── .env.example
 ├── run_download.sh             # daily SAM.gov CSV pull → data/
 ├── config/
@@ -31,14 +37,30 @@ govbid/
 
 ## Setup
 
+**Recommended:** [AWS RDS](docs/aws-deploy.md) — no Docker Desktop required for Postgres.
+
 ```bash
 cd /home/me/govbid
 uv sync
 cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
-# Edit .env — POSTGRES_PASSWORD, N8N_BASIC_AUTH_PASSWORD, N8N_ENCRYPTION_KEY, N8N_OWNER_EMAIL, SAM_API_KEY
-# n8n owner is auto-provisioned from .env on stack-up (no /setup wizard)
+# Edit .env — POSTGRES_* (RDS endpoint after terraform apply), SAM_API_KEY, n8n keys if using local n8n
 ./scripts/check_env.sh
+```
+
+### AWS RDS (Postgres)
+
+```bash
+cd terraform && cp terraform.tfvars.example terraform.tfvars
+# Edit terraform.tfvars, then:
+terraform init && terraform apply
+# Set POSTGRES_HOST from: terraform output -raw postgres_endpoint
+cd .. && bash scripts/apply_migrations.sh
+```
+
+### Legacy local Docker (optional)
+
+```bash
 bash scripts/stack-up.sh        # also runs generate-n8n-owner-hash.sh
 bash scripts/provision-n8n.sh
 ```
@@ -56,6 +78,10 @@ uv run scripts/review_queue.py
 See [docs/dashboard.md](docs/dashboard.md) for queue tabs, shortlist workflow, and Adminer fallback.
 
 ### Start the pipeline stack
+
+**AWS:** Point `.env` at RDS — run `./run_daily.sh` from WSL (no Docker).
+
+**Legacy Docker** (optional):
 
 ```bash
 bash scripts/ensure-docker.sh   # WSL: run this first
@@ -198,7 +224,9 @@ Edit `config/match-profile.yaml` (gitignored) — NAICS, PSC, keywords, set-asid
 
 | Doc | Purpose |
 |-----|---------|
+| [docs/PAUSE_REPORT.md](docs/PAUSE_REPORT.md) | **Paused — resume here when GovBid is a priority again** |
 | [docs/STATUS.md](docs/STATUS.md) | **Living project status** (update after verify / merges) |
+| [docs/aws-deploy.md](docs/aws-deploy.md) | **AWS deployment** (RDS, retire Docker) |
 | [docs/sdlc.md](docs/sdlc.md) | Lightweight SDLC (plan → verify → deploy) |
 | [docs/gameplan.md](docs/gameplan.md) | Phased roadmap |
 | [docs/dashboard.md](docs/dashboard.md) | Consig UI + Adminer + Slack digest |

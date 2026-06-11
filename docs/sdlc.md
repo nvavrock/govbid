@@ -21,7 +21,7 @@ Run the SDLC loop for every change. Gameplan phases are milestones inside that l
 | **Design** | [db/migrations/](../db/migrations/), [DATA_DICTIONARY.md](../db/DATA_DICTIONARY.md), [workflows/n8n/](../workflows/n8n/), `docker-compose.yml` |
 | **Build** | [scripts/](../scripts/), [consig/](../consig/), `pyproject.toml`, feature branches |
 | **Test** | `scripts/check_env.sh`, `doctor.sh`, `verify_phase1.sh` … `verify_phase3.sh` |
-| **Deploy** | `scripts/stack-up.sh` (n8n owner hash + Docker), `scripts/provision-n8n.sh`, `./run_daily.sh`, cron via `scripts/install_daily_cron.sh` |
+| **Deploy** | [aws-deploy.md](aws-deploy.md), `terraform/`, `./run_daily.sh`, cron; legacy: `stack-up.sh` (Docker) |
 | **Operate** | `logs/`, `scripts/status.sh`, Consig review loop, tune `match-profile.yaml` |
 
 ## Before merging to `main`

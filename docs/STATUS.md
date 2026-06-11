@@ -1,6 +1,6 @@
 # GovBid status
 
-**Last updated:** 2026-05-31  
+**Last updated:** 2026-06-10  
 **Owner:** Rocksteady Analytics  
 
 > Update this file when phase gates change, after merges to `main`, or weekly during ops checks.  
@@ -8,7 +8,11 @@
 
 ## Current focus
 
-Phases 1–3 **verified locally**. Optional: set `OPENAI_API_KEY` and build full RAG corpus index for Chat/embeddings; Consig Phase C/D polish per [consig-plan.md](consig-plan.md).
+**Paused (2026-06-10)** — GovBid is not a current priority. See **[PAUSE_REPORT.md](PAUSE_REPORT.md)** for what was done, blockers, and the resume checklist.
+
+Infrastructure migration to AWS ([aws-deploy.md](aws-deploy.md)) is **incomplete** (Terraform RDS not applied; `doctor.sh` still Docker-dependent). Last successful ingest: 2026-06-10 (4,743 opportunities on legacy Postgres).
+
+Phases 1–3 were **verified locally** on 2026-05-31 (Docker Postgres).
 
 ## Phase gates
 
@@ -37,14 +41,14 @@ Phases 1–3 **verified locally**. Optional: set `OPENAI_API_KEY` and build full
 
 ## In progress
 
-- Consig: Phase C/D polish (preferences CRUD, session summaries) per [consig-plan.md](consig-plan.md)
-- Optional: full corpus RAG index when `OPENAI_API_KEY` is set
+_(none — project paused; see [PAUSE_REPORT.md](PAUSE_REPORT.md))_
 
-## Blocked / next
+## Blocked / next (when resumed)
 
-1. Optional: `OPENAI_API_KEY` → `uv run scripts/build_consig_index.py` for Chat tab + embedding smoke
-2. Phase 4: research + proposal agents (not started)
-3. Daily habit: Consig queue → shortlist 3–5 → Slack digest → fit survey on pass/bid
+1. Fix Terraform free-tier + apply RDS — [PAUSE_REPORT.md](PAUSE_REPORT.md)
+2. `psql` + `apply_migrations.sh` → point `.env` at RDS
+3. RDS-aware `doctor.sh` / status (retire Docker dependency)
+4. Optional: `OPENAI_API_KEY` → full RAG index; Consig Phase C/D per [consig-plan.md](consig-plan.md)
 
 ## Ops snapshot
 
@@ -55,7 +59,9 @@ Phases 1–3 **verified locally**. Optional: set `OPENAI_API_KEY` and build full
 | Digest cron | `30 6 * * * run_digest.sh` (Slack webhook configured) |
 | `.env` | Present (gitignored) |
 | `config/match-profile.yaml` | Present (gitignored) |
-| Docker stack | Postgres :5433, n8n 2.17 :5678, Adminer :8081, Consig :8000/:8501 |
+| Docker stack (legacy) | Postgres :5433, n8n :5678 — **migrating to AWS RDS** |
+| AWS RDS | Phase 1 — `terraform/` (**not applied** — see PAUSE_REPORT) |
+| Project | **Paused** — not a current priority |
 | Last ingest | 2026-05-30 — success, 4,793 opportunities, 25 review queue rows |
 | Shortlist | 1 reviewing, 1 bid (as of Phase 2 verify) |
 | Training corpus | Local: `transcripts/corpus/combined.txt` (gitignored) |

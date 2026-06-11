@@ -17,7 +17,7 @@ Build a modular federal contracting system that:
 
 The training corpus (~287k lines in `transcripts/corpus/combined.txt`) and your playbooks encode the operating model: **research before RFP**, target specific acquisition offices, build a pipeline (not a spreadsheet wish list), and treat proposals as compliance exercises against Section L / Section M.
 
-This repo includes lightweight ingest, the local knowledge corpus, and the full Docker pipeline (Postgres, n8n, scoring workflows) in one place.
+This repo includes lightweight ingest, the local knowledge corpus, and the scoring pipeline (Postgres + n8n workflows). **Target infra:** AWS RDS + managed compute ([aws-deploy.md](aws-deploy.md)); Docker Compose is legacy local dev only.
 
 ---
 
