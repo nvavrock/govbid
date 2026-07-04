@@ -1,4 +1,4 @@
-"""Environment and paths for Consig."""
+"""Environment and paths for Counsel."""
 
 from __future__ import annotations
 
@@ -36,7 +36,7 @@ def postgres_params() -> dict:
         raise RuntimeError("POSTGRES_PASSWORD not set in .env")
     return {
         "host": os.environ.get("POSTGRES_HOST", "localhost"),
-        "port": int(os.environ.get("POSTGRES_PORT", "5433")),
+        "port": int(os.environ.get("POSTGRES_PORT", "5432")),
         "user": os.environ.get("POSTGRES_USER", "govbid"),
         "password": password,
         "dbname": os.environ.get("POSTGRES_DB", "govbid"),
@@ -53,17 +53,17 @@ def openai_api_key() -> str:
 
 def llm_model() -> str:
     load_env()
-    return os.environ.get("CONSIG_LLM_MODEL", "gpt-4o-mini")
+    return os.environ.get("COUNSEL_LLM_MODEL", "gpt-4o-mini")
 
 
 def embedding_model() -> str:
     load_env()
-    return os.environ.get("CONSIG_EMBEDDING_MODEL", "text-embedding-3-small")
+    return os.environ.get("COUNSEL_EMBEDDING_MODEL", "text-embedding-3-small")
 
 
 def chroma_path() -> Path:
     load_env()
-    raw = os.environ.get("CONSIG_DATA_DIR", "data/consig_index")
+    raw = os.environ.get("COUNSEL_DATA_DIR", "data/counsel_index")
     path = Path(raw)
     if not path.is_absolute():
         path = ROOT / path
@@ -72,7 +72,7 @@ def chroma_path() -> Path:
 
 def top_k() -> int:
     load_env()
-    return int(os.environ.get("CONSIG_TOP_K", "6"))
+    return int(os.environ.get("COUNSEL_TOP_K", "6"))
 
 
 def review_defaults() -> dict:
@@ -88,4 +88,4 @@ def review_defaults() -> dict:
 
         return load_profile()["review"]
     except Exception:
-        return {"days_ahead": 30, "min_score": 25, "top_n": 25}
+        return {"days_ahead": 30, "min_score": 0, "top_n": 25}

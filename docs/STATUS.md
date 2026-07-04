@@ -1,73 +1,65 @@
 # GovBid status
 
-**Last updated:** 2026-06-10  
+**Last updated:** 2026-07-04  
 **Owner:** Rocksteady Analytics  
 
-> Update this file when phase gates change, after merges to `main`, or weekly during ops checks.  
-> Re-run verification: `bash scripts/doctor.sh` and `bash scripts/verify_phase1.sh` … `verify_phase3.sh`
+> Update this file when phase gates change, after merges to `main`, or weekly during ops checks.
 
 ## Current focus
 
-**Paused (2026-06-10)** — GovBid is not a current priority. See **[PAUSE_REPORT.md](PAUSE_REPORT.md)** for what was done, blockers, and the resume checklist.
-
-Infrastructure migration to AWS ([aws-deploy.md](aws-deploy.md)) is **incomplete** (Terraform RDS not applied; `doctor.sh` still Docker-dependent). Last successful ingest: 2026-06-10 (4,743 opportunities on legacy Postgres).
-
-Phases 1–3 were **verified locally** on 2026-05-31 (Docker Postgres).
+**Counsel** — Phase 1 done: **76,824** opportunities ingested; best-fit queue with `fit_band`. Next: **Phase 2 profile UI** ([counsel-plan.md](counsel-plan.md)).
 
 ## Phase gates
 
 | Phase | Goal | Gate | Last verified | Result |
 |-------|------|------|---------------|--------|
-| 0 | Foundation (download, docs, corpus) | Manual | 2026-05-31 | **Done** |
-| 1 | Filter, score, load to Postgres | `bash scripts/verify_phase1.sh` | 2026-05-31 | **Pass** — 4,793 opportunities; 25 pending review rows |
-| 2 | Dashboard + digest | `bash scripts/verify_phase2.sh` | 2026-05-31 | **Pass** — Consig UI; Slack digest sent; 2 shortlist rows |
-| 3 | Consig RAG + fit survey | `bash scripts/verify_phase3.sh` | 2026-05-31 | **Pass** — fit survey tables; `OPENAI_API_KEY` optional for embedding smoke |
+| 0 | Foundation (download, docs, corpus) | Manual | 2026-05-31 | **Done** (code) |
+| 1 | Filter, score, load to Postgres | `bash scripts/verify_phase1.sh` | 2026-05-31 | **Pass** (historical) — re-verify after fresh DB |
+| 2 | Dashboard + digest | `bash scripts/verify_phase2.sh` | 2026-05-31 | **Pass** (historical) — re-verify after fresh DB |
+| 3 | Counsel RAG + fit survey | `bash scripts/verify_phase3.sh` | 2026-05-31 | **Pass** (historical) — re-verify after fresh DB |
 | 4 | Research + proposal agents | — | — | **Not started** |
 | 5 | Live capture execution | — | — | **Ongoing** (business process) |
 
-**Code vs runtime:** Phases 1–3 implemented and verified on `main`. Full RAG chat quality improves with `OPENAI_API_KEY` + `build_consig_index.py`.
+## What's done (code & repo)
 
-## What's done
-
-- SAM bulk CSV download; daily pipeline via `run_daily.sh` at 6:00 AM
-- Slack digest via `run_digest.sh` at 6:30 AM (`SLACK_WEBHOOK_URL` configured)
-- Full repo on GitHub (`nvavrock/govbid`) — Consig, Postgres migrations, n8n workflows
-- Legacy vendor transcript tooling removed; `transcripts/` gitignored (proprietary, local only)
-- Docs: gameplan, consig-plan, SDLC, playbooks
-- Latest local CSV: `data/ContractOpportunitiesFull_20260530.csv` (~229 MB)
-- Local `.env` + `config/match-profile.yaml`; Docker stack up; ingest complete
-- n8n 2.17+ owner auto-provisioned from `.env` (no manual `/setup` wizard)
-- Consig dashboard at http://localhost:8501; shortlist workflow exercised
+- SAM bulk CSV download (`run_download.sh`); Python ingest (`run_ingest.sh`)
+- Postgres schema in `db/migrations/`; match profile in `config/match-profile.yaml`
+- Counsel (FastAPI + Streamlit + Chroma RAG); Slack digest script
+- Repo on GitHub (`nvavrock/govbid`); docs (gameplan, SDLC, counsel-plan)
+- Legacy vendor transcript tooling removed; `transcripts/` gitignored (local only)
 
 ## In progress
 
-_(none — project paused; see [PAUSE_REPORT.md](PAUSE_REPORT.md))_
+1. **Fresh Postgres** — user-space install in `.postgres/` (no Docker, no sudo)
 
-## Blocked / next (when resumed)
+## Blocked / next
 
-1. Fix Terraform free-tier + apply RDS — [PAUSE_REPORT.md](PAUSE_REPORT.md)
-2. `psql` + `apply_migrations.sh` → point `.env` at RDS
-3. RDS-aware `doctor.sh` / status (retire Docker dependency)
-4. Optional: `OPENAI_API_KEY` → full RAG index; Consig Phase C/D per [consig-plan.md](consig-plan.md)
+Do these in order:
+
+1. ~~**Postgres + schema**~~ — done (2026-07-04): `setup_user_postgres.sh` + `apply_migrations.sh`
+2. ~~**Smoke ingest**~~ — done (2026-07-04): 4,675 opportunities; review queue populated
+3. ~~**Cron**~~ — fixed (2026-07-04): `PATH` in crontab; scripts bootstrap `uv` + Postgres
+4. **Health scripts** — `doctor.sh` still Docker-only; use `scripts/status.sh` instead
+5. **Later:** Counsel re-index, Slack digest, optional n8n or AWS ([aws-deploy.md](aws-deploy.md))
 
 ## Ops snapshot
 
 | Item | Status |
 |------|--------|
-| Git branch | `main` (synced with `origin/main`) |
-| Daily pipeline cron | `0 6 * * * cd /home/me/govbid && run_daily.sh` |
-| Digest cron | `30 6 * * * run_digest.sh` (Slack webhook configured) |
+| Git branch | `main` |
+| Postgres | **Up** — user-space on `127.0.0.1:5432` (`.postgres/`); run `bash scripts/setup_user_postgres.sh` after reboot |
+| Docker / n8n | **Removed** — not in use |
+| AWS RDS | Not applied (optional; see [PAUSE_REPORT.md](PAUSE_REPORT.md)) |
+| Cron | **Active** — 6:00 daily, 6:30 digest (`PATH` includes `uv` + mamba `psql`) |
 | `.env` | Present (gitignored) |
 | `config/match-profile.yaml` | Present (gitignored) |
-| Docker stack (legacy) | Postgres :5433, n8n :5678 — **migrating to AWS RDS** |
-| AWS RDS | Phase 1 — `terraform/` (**not applied** — see PAUSE_REPORT) |
-| Project | **Paused** — not a current priority |
-| Last ingest | 2026-05-30 — success, 4,793 opportunities, 25 review queue rows |
-| Shortlist | 1 reviewing, 1 bid (as of Phase 2 verify) |
+| Latest CSV on disk | `data/ContractOpportunitiesFull_20260704.csv` |
+| Database rows | **76,824** active opportunities (full ingest 2026-07-04) |
 | Training corpus | Local: `transcripts/corpus/combined.txt` (gitignored) |
 
 ## Related docs
 
 - [gameplan.md](gameplan.md) — phased roadmap (what to build)
 - [sdlc.md](sdlc.md) — how to build (verify before merge)
-- [consig-plan.md](consig-plan.md) — Consig implementation detail
+- [community-standards.md](community-standards.md) — quality bar and anti-slop policy
+- [PAUSE_REPORT.md](PAUSE_REPORT.md) — June pause notes (partially superseded by fresh-start plan above)

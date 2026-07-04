@@ -1,6 +1,6 @@
 -- Opportunity fit surveys for RAG + human-in-the-loop scoring feedback
 
-CREATE TABLE IF NOT EXISTS consig_fit_surveys (
+CREATE TABLE IF NOT EXISTS counsel_fit_surveys (
     id              BIGSERIAL PRIMARY KEY,
     notice_id       TEXT NOT NULL,
     opportunity_id  BIGINT REFERENCES opportunities (id) ON DELETE SET NULL,
@@ -22,6 +22,6 @@ CREATE TABLE IF NOT EXISTS consig_fit_surveys (
     created_at      TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
 
-CREATE INDEX IF NOT EXISTS idx_fit_surveys_notice ON consig_fit_surveys (notice_id);
-CREATE INDEX IF NOT EXISTS idx_fit_surveys_created ON consig_fit_surveys (created_at DESC);
-CREATE INDEX IF NOT EXISTS idx_fit_surveys_unindexed ON consig_fit_surveys (indexed_at) WHERE indexed_at IS NULL;
+CREATE INDEX IF NOT EXISTS idx_fit_surveys_notice ON counsel_fit_surveys (notice_id);
+CREATE INDEX IF NOT EXISTS idx_fit_surveys_created ON counsel_fit_surveys (created_at DESC);
+CREATE INDEX IF NOT EXISTS idx_fit_surveys_unindexed ON counsel_fit_surveys (indexed_at) WHERE indexed_at IS NULL;

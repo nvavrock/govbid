@@ -1,4 +1,4 @@
-"""Strip third-party training vendor names from user-facing Consig text."""
+"""Strip third-party training vendor names from user-facing Counsel text."""
 
 from __future__ import annotations
 

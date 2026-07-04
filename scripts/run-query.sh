@@ -42,6 +42,6 @@ elif command -v psql >/dev/null 2>&1; then
   export PGPASSWORD="$POSTGRES_PASSWORD"
   psql -h "${POSTGRES_HOST:-${PGHOST:-localhost}}" -p "${POSTGRES_PORT:-${PGPORT:-5432}}" -U "$POSTGRES_USER" -d "$POSTGRES_DB" -v ON_ERROR_STOP=1 -f "$QUERY_FILE"
 else
-  echo "Start Postgres (docker compose up -d) or install psql." >&2
+  echo "Start Postgres: bash scripts/setup_user_postgres.sh — or docker compose up -d postgres — or install psql." >&2
   exit 1
 fi

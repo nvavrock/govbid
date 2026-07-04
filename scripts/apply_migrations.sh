@@ -18,6 +18,11 @@ set +a
 : "${POSTGRES_HOST:=localhost}"
 : "${POSTGRES_PORT:=5432}"
 
+MAMBA_PSQL="$ROOT/.postgres/mamba/bin"
+if ! command -v psql >/dev/null 2>&1 && [[ -x "$MAMBA_PSQL/psql" ]]; then
+  export PATH="$MAMBA_PSQL:$PATH"
+fi
+
 if ! command -v psql >/dev/null 2>&1; then
   echo "Install psql (postgresql-client) for RDS migrations." >&2
   exit 1

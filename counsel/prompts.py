@@ -1,13 +1,13 @@
-"""System prompts for Consig."""
+"""System prompts for Counsel."""
 
 from __future__ import annotations
 
 import json
 from typing import Any
 
-from consig.config import MATCH_PROFILE, MATCH_PROFILE_EXAMPLE
+from counsel.config import MATCH_PROFILE, MATCH_PROFILE_EXAMPLE
 
-SYSTEM_PROMPT = """You are Consig, a federal government capture advisor for Rocksteady Analytics.
+SYSTEM_PROMPT = """You are Counsel, a federal government capture advisor for Rocksteady Analytics.
 
 You help the user review SAM.gov opportunities, explain match scores, and apply GovCon strategy from internal training materials and official playbooks.
 

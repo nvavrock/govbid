@@ -13,7 +13,7 @@ Build a modular federal contracting system that:
 1. **Ingests** the full SAM.gov contract opportunities bulk extract daily (~230 MB CSV).
 2. **Filters and scores** opportunities against your IT/software capabilities (NAICS, PSC, keywords, set-asides).
 3. **Surfaces** a review dashboard with direct SAM.gov links and enriched context.
-4. **Assists capture and proposals** through modular AI agents, starting with **Consig** — a RAG chatbot trained on a local training corpus and official SAM documentation.
+4. **Assists capture and proposals** through modular AI agents, starting with **Counsel** — a RAG chatbot trained on a local training corpus and official SAM documentation.
 
 The training corpus (~287k lines in `transcripts/corpus/combined.txt`) and your playbooks encode the operating model: **research before RFP**, target specific acquisition offices, build a pipeline (not a spreadsheet wish list), and treat proposals as compliance exercises against Section L / Section M.
 
@@ -69,7 +69,7 @@ From `config/match-profile.yaml` — customize as certifications and past perfor
 │                      AGENT LAYER (Phase 3–4)                            │
 │                                                                         │
 │  ┌──────────┐    handoff    ┌──────────┐    handoff    ┌──────────┐   │
-│  │  Consig  │ ────────────► │ Research │ ────────────► │ Proposal │   │
+│  │  Counsel  │ ────────────► │ Research │ ────────────► │ Proposal │   │
 │  │  (RAG)   │               │  Agent   │               │  Agent   │   │
 │  └──────────┘               └──────────┘               └──────────┘   │
 │       │                          │                            │         │
@@ -82,7 +82,7 @@ From `config/match-profile.yaml` — customize as certifications and past perfor
 
 - Each agent is a **containerized module** with a defined input/output contract (JSON handoff).
 - **n8n** orchestrates scheduled jobs (ingest, digest, enrichment) and agent chains.
-- **Consig** is the entry point: strategy Q&A, playbook guidance, and opportunity context.
+- **Counsel** is the entry point: strategy Q&A, playbook guidance, and opportunity context.
 - Agents share Postgres as the system of record; RAG uses a vector store over transcripts + PDFs.
 
 ---
@@ -123,7 +123,7 @@ cd /home/me/govbid
 cp .env.example .env
 cp config/match-profile.example.yaml config/match-profile.yaml
 # Edit .env — POSTGRES_PASSWORD, N8N_* (owner auto-provisioned; see .env.example)
-bash scripts/stack-up.sh          # generates owner hash, starts n8n 2.17+, Postgres, Consig
+bash scripts/stack-up.sh          # generates owner hash, starts n8n 2.17+, Postgres, Counsel
 bash scripts/provision-n8n.sh     # import Postgres credential + workflows
 bash scripts/doctor.sh
 ```
@@ -159,16 +159,16 @@ Up to **25** pending opportunities with scores and SAM links in Postgres — par
 
 | Step | Criteria |
 |------|----------|
-| **2.1 Dashboard** | Consig Streamlit (`./run_consig.sh`) — queue table, browse/detail, shortlist, Pass/Bid/Shortlist actions |
+| **2.1 Dashboard** | Counsel Streamlit (`./run_counsel.sh`) — queue table, browse/detail, shortlist, Pass/Bid/Shortlist actions |
 | **2.2 Slack digest** | `SLACK_WEBHOOK_URL` + `scripts/send_review_digest.py` or n8n `04-review-digest.json` |
-| **2.3 Habit** | Daily: Consig queue → shortlist 3–5 → optional Slack digest next morning |
+| **2.3 Habit** | Daily: Counsel queue → shortlist 3–5 → optional Slack digest next morning |
 
-**Chosen v1 dashboard:** Consig Streamlit (extends Phase 3 copilot). Adminer remains SQL fallback — see [dashboard.md](dashboard.md).
+**Chosen v1 dashboard:** Counsel Streamlit (extends Phase 3 copilot). Adminer remains SQL fallback — see [dashboard.md](dashboard.md).
 
 ### 2.1 Opportunity dashboard ✅
 
 ```bash
-./run_consig.sh    # http://127.0.0.1:8501
+./run_counsel.sh    # http://127.0.0.1:8501
 ```
 
 Tabs: Today's queue (CSV export), Browse/detail, Shortlist (`reviewing` + `bid`), Chat.
@@ -187,19 +187,19 @@ Per-opportunity AI summaries deferred to Phase 3.
 
 ### 2.3 Deliverable
 
-Daily habit: open Consig → scan queue → shortlist 3–5 → mark bid/pass → check Slack digest.
+Daily habit: open Counsel → scan queue → shortlist 3–5 → mark bid/pass → check Slack digest.
 
 ---
 
-## Phase 3 — Consig: RAG advisor
+## Phase 3 — Counsel: RAG advisor
 
-**Implementation plan:** [consig-plan.md](consig-plan.md) — merged on `main`; queue coach, scores/picks workflow, session memory, feedback loop.
+**Implementation plan:** [counsel-plan.md](counsel-plan.md) — multi-user fit dashboard, best-fit ranking.
 
 **Goal:** Chatbot that answers federal sales questions using your corpus, grounded in official docs, and guides daily review of scored opportunities.
 
-**Definition of done:** `bash scripts/verify_phase3.sh` exits 0 (requires Phase 1 + 2). **Not yet verified** — needs `OPENAI_API_KEY` and Consig index (see [STATUS.md](STATUS.md)).
+**Definition of done:** `bash scripts/verify_phase3.sh` exits 0 (requires Phase 1 + 2). **Not yet verified** — needs `OPENAI_API_KEY` and Counsel index (see [STATUS.md](STATUS.md)).
 
-In practice, Consig should support a structured “fit survey” (good/bad project fit + score accuracy) that you fill after Pass/Bid so the next chat can explain scoring quality using those human labels.
+In practice, Counsel should support a structured “fit survey” (good/bad project fit + score accuracy) that you fill after Pass/Bid so the next chat can explain scoring quality using those human labels.
 
 ### 3.1 Knowledge base
 
@@ -211,7 +211,7 @@ In practice, Consig should support a structured “fit survey” (good/bad proje
 | SAM data extract documentation | `docs/reference/Contract Opportunities Data Extract Documentation.pdf` | CSV field definitions |
 | Entity checklist | `docs/reference/entity-checklist.pdf` | Registration requirements |
 
-### 3.2 Consig capabilities (v1)
+### 3.2 Counsel capabilities (v1)
 
 - Q&A: "What is a sources sought?" / "How do I read Section L?"
 - Opportunity brief: given NoticeId, summarize title, buyer, deadline, fit score, recommended next step
@@ -224,7 +224,7 @@ In practice, Consig should support a structured “fit survey” (good/bad proje
 Chunk corpus → embed → vector DB (pgvector or Chroma)
          │
          ▼
-Consig API (FastAPI) ◄── n8n webhook / simple chat UI
+Counsel API (FastAPI) ◄── n8n webhook / simple chat UI
          │
          ├── retrieval (top-k chunks)
          ├── LLM (Claude / GPT)
@@ -233,7 +233,7 @@ Consig API (FastAPI) ◄── n8n webhook / simple chat UI
 
 ### 3.4 Deliverable
 
-`consig-api` + `consig-ui` in Docker Compose; FastAPI `/chat` endpoint; n8n can call Consig from digest workflow for optional summaries.
+`counsel-api` + `counsel-ui` in Docker Compose; FastAPI `/chat` endpoint; n8n can call Counsel from digest workflow for optional summaries.
 
 ---
 
@@ -268,7 +268,7 @@ Consig API (FastAPI) ◄── n8n webhook / simple chat UI
 {
   "notice_id": "abc123",
   "phase": "capture",
-  "from_agent": "consig",
+  "from_agent": "counsel",
   "to_agent": "research-agent",
   "context": {
     "title": "...",
@@ -281,7 +281,7 @@ Consig API (FastAPI) ◄── n8n webhook / simple chat UI
 
 ### Deliverable
 
-Two additional containers; n8n workflow chains Consig → Research → Proposal on starred opportunities.
+Two additional containers; n8n workflow chains Counsel → Research → Proposal on starred opportunities.
 
 ---
 
@@ -303,8 +303,8 @@ Aligns with the federal sales roadmap from the training corpus:
 | Stage | Activity | Tool support |
 |-------|----------|--------------|
 | **Identify** | Sources sought, forecasts, saved searches | Phase 1–2 ingest + dashboard |
-| **Qualify** | Go/no-go, set-aside fit, deadline feasibility | Consig + Research agent |
-| **Capture** | CO meetings, capability statement, teaming | Consig + manual |
+| **Qualify** | Go/no-go, set-aside fit, deadline feasibility | Counsel + Research agent |
+| **Capture** | CO meetings, capability statement, teaming | Counsel + manual |
 | **Propose** | Section L/M compliance matrix, write | Proposal agent |
 | **Win / learn** | Debrief, past performance update | Postgres + playbook update |
 
@@ -312,7 +312,7 @@ Aligns with the federal sales roadmap from the training corpus:
 
 1. **Prime contractor** — direct awards on SAM solicitations (longest path, highest upside)
 2. **Subcontractor** — build past performance with established primes
-3. **Consulting / BD** — leverage Consig + corpus to advise other small businesses
+3. **Consulting / BD** — leverage Counsel + corpus to advise other small businesses
 4. **SBIR** — non-dilutive R&D if you have a differentiated technical offering
 
 ---
@@ -326,9 +326,9 @@ Aligns with the federal sales roadmap from the training corpus:
 | Database | PostgreSQL + migrations | `db/` |
 | Matching | SQL + `match-profile.yaml` | `config/` |
 | Transcripts | local corpus | `transcripts/corpus/` (gitignored) |
-| RAG | Chroma + FastAPI + Streamlit | `consig/`, `scripts/build_consig_index.py` |
+| RAG | Chroma + FastAPI + Streamlit | `counsel/`, `scripts/build_counsel_index.py` |
 | Agents | Docker containers, JSON handoffs | Phase 4 (planned) |
-| UI | Consig Streamlit + Adminer SQL fallback | `./run_consig.sh`, http://localhost:8081 |
+| UI | Counsel Streamlit + Adminer SQL fallback | `./run_counsel.sh`, http://localhost:8081 |
 
 ---
 
@@ -337,8 +337,8 @@ Aligns with the federal sales roadmap from the training corpus:
 See [STATUS.md](STATUS.md) for the live ops snapshot. Current priorities:
 
 1. **Phase 4 gate** — research + proposal agents (see gameplan Phase 4)
-2. Optional: `OPENAI_API_KEY` → `uv run scripts/build_consig_index.py` for full RAG Chat
-3. Daily habit: Consig queue → shortlist 3–5 → Slack digest → fit survey on pass/bid
+2. Optional: `OPENAI_API_KEY` → `uv run scripts/build_counsel_index.py` for full RAG Chat
+3. Daily habit: Counsel queue → shortlist 3–5 → Slack digest → fit survey on pass/bid
 
 ---
 
@@ -348,7 +348,7 @@ See [STATUS.md](STATUS.md) for the live ops snapshot. Current priorities:
 |-----------|--------|
 | Daily ingest running | 7 consecutive days without failure |
 | Review queue precision | ≥70% of top-25 are genuinely bidable |
-| Consig answer quality | Grounded answers with citations on 20 test questions |
+| Counsel answer quality | Grounded answers with citations on 20 test questions |
 | First capture brief | 1 opportunity researched end-to-end via agents |
 | First proposal outline | 1 compliance matrix from a real solicitation |
 | First contract action | Sources sought response or capability statement sent to a CO |

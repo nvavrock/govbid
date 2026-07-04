@@ -1,5 +1,5 @@
 -- Top opportunities for human review (Adminer / run-query.sh defaults).
--- CLI and Consig use config/match-profile.yaml via scripts/lib/review_queue_lib.py.
+-- CLI and Counsel use config/match-profile.yaml via scripts/lib/review_queue_lib.py.
 -- Keep params CTE roughly in sync with match-profile.yaml → review:
 
 WITH params AS (

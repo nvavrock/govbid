@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chunk and index training corpus + playbooks into Chroma for Consig RAG."""
+"""Chunk and index training corpus + playbooks into Chroma for Counsel RAG."""
 
 from __future__ import annotations
 
@@ -12,9 +12,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from consig.config import ROOT as PROJECT_ROOT, load_env  # noqa: E402
-from consig.branding import sanitize_user_facing  # noqa: E402
-from consig import rag  # noqa: E402
+from counsel.config import ROOT as PROJECT_ROOT, load_env  # noqa: E402
+from counsel.branding import sanitize_user_facing  # noqa: E402
+from counsel import rag  # noqa: E402
 
 CHUNK_SIZE = 900
 CHUNK_OVERLAP = 120
@@ -76,13 +76,13 @@ def collect_chunks() -> list[dict]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Build Consig Chroma index")
+    parser = argparse.ArgumentParser(description="Build Counsel Chroma index")
     parser.add_argument("--reset", action="store_true", help="Drop and rebuild collection")
     args = parser.parse_args()
 
     load_env()
     try:
-        from consig.config import openai_api_key
+        from counsel.config import openai_api_key
 
         openai_api_key()
     except RuntimeError as exc:

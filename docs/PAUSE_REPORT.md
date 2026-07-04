@@ -1,5 +1,7 @@
 # GovBid — pause report (2026-06-10)
 
+> **Superseded for ops (2026-07-04):** See **[STATUS.md](STATUS.md)** — user-space Postgres, full SAM ingest, active cron. This file is historical context for the AWS migration pause only.
+
 **Status:** Paused — not a current priority.  
 **Canonical repo:** `~/govbid` only (`~/rs` duplicate deleted 2026-06-10).
 
@@ -26,7 +28,7 @@ GovBid infrastructure was mid-migration from **Docker Desktop** to **AWS**. The 
 2. **Install psql** — `sudo apt install postgresql-client`, then `bash scripts/apply_migrations.sh`.
 3. **Update `.env`** — `POSTGRES_HOST` = RDS endpoint from `terraform output -raw postgres_endpoint`, `POSTGRES_PORT=5432`.
 4. **Retire Docker checks** — `scripts/doctor.sh` and `scripts/status.sh` assume Docker + n8n; need RDS-aware path or skip doctor when on AWS.
-5. **Phase 2 (later)** — n8n + Consig on App Runner/ECS or n8n Cloud.
+5. **Phase 2 (later)** — n8n + Counsel on App Runner/ECS or n8n Cloud.
 
 ## Where data lives today
 
@@ -58,7 +60,7 @@ bash scripts/apply_migrations.sh
 ./run_download.sh && ./run_ingest.sh
 uv run scripts/review_queue.py
 
-# 5. Read aws-deploy.md for Phase 2 (n8n, Consig)
+# 5. Read aws-deploy.md for Phase 2 (n8n, Counsel)
 ```
 
 ## Related docs

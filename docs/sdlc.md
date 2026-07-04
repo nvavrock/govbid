@@ -9,7 +9,7 @@ Product milestones live in [gameplan.md](gameplan.md) (Phases 0–5). This doc m
 | Concept | Meaning |
 |---------|---------|
 | **SDLC stages** | How you build: plan → design → code → test → deploy → maintain |
-| **Gameplan phases** | What the product delivers: ingest → dashboard → Consig → agents → capture |
+| **Gameplan phases** | What the product delivers: ingest → dashboard → Counsel → agents → capture |
 
 Run the SDLC loop for every change. Gameplan phases are milestones inside that loop.
 
@@ -17,20 +17,23 @@ Run the SDLC loop for every change. Gameplan phases are milestones inside that l
 
 | SDLC stage | govbid artifacts |
 |------------|------------------|
-| **Plan** | [gameplan.md](gameplan.md), [consig-plan.md](consig-plan.md), `config/match-profile.yaml` |
+| **Plan** | [gameplan.md](gameplan.md), [counsel-plan.md](counsel-plan.md), `config/match-profile.yaml` |
 | **Design** | [db/migrations/](../db/migrations/), [DATA_DICTIONARY.md](../db/DATA_DICTIONARY.md), [workflows/n8n/](../workflows/n8n/), `docker-compose.yml` |
-| **Build** | [scripts/](../scripts/), [consig/](../consig/), `pyproject.toml`, feature branches |
-| **Test** | `scripts/check_env.sh`, `doctor.sh`, `verify_phase1.sh` … `verify_phase3.sh` |
-| **Deploy** | [aws-deploy.md](aws-deploy.md), `terraform/`, `./run_daily.sh`, cron; legacy: `stack-up.sh` (Docker) |
-| **Operate** | `logs/`, `scripts/status.sh`, Consig review loop, tune `match-profile.yaml` |
+| **Build** | [scripts/](../scripts/), [counsel/](../counsel/), `pyproject.toml`, feature branches |
+| **Test** | `scripts/check_env.sh`, `scripts/status.sh`, `scripts/doctor.sh`, `verify_phase1.sh` … `verify_phase3.sh` |
+| **Deploy** | [aws-deploy.md](aws-deploy.md), `terraform/`, `./run_daily.sh`, cron; optional: `stack-up.sh` |
+| **Operate** | `logs/`, `scripts/status.sh`, Counsel review loop, tune `match-profile.yaml` |
 
 ## Before merging to `main`
 
+Read [community-standards.md](community-standards.md) (anti-slop, verify what you claim).
+
 ```bash
 cd /home/me/govbid
+bash scripts/check_env.sh
 bash scripts/doctor.sh
 bash scripts/verify_phase1.sh   # always
-bash scripts/verify_phase2.sh   # if Consig / dashboard changed
+bash scripts/verify_phase2.sh   # if Counsel / dashboard changed
 bash scripts/verify_phase3.sh   # if RAG / chat changed
 ```
 
@@ -46,17 +49,17 @@ After verify passes, update [STATUS.md](STATUS.md) phase table and **Last update
 
 ## Release checklist (local deploy)
 
-1. `bash scripts/doctor.sh` — clean
+1. `bash scripts/status.sh` — Postgres up, opportunities loaded
 2. `bash scripts/verify_phaseN.sh` — for current milestone
-3. Cron for SAM download / daily ingest (see [README.md](../README.md))
-4. If corpus changed: `uv run scripts/build_consig_index.py`
-5. After `.env` n8n password change: `bash scripts/reset-n8n-login.sh`
+3. Cron: `bash scripts/install_daily_cron.sh --install` if needed
+4. If corpus changed: `uv run scripts/build_counsel_index.py`
+5. Legacy Docker/n8n: `bash scripts/doctor.sh`, `reset-n8n-login.sh` as needed
 
 ## Example: tighten NAICS filter
 
 | Stage | Action |
 |-------|--------|
-| Plan | Note goal in gameplan or consig-plan |
+| Plan | Note goal in gameplan or counsel-plan |
 | Design | Edit `config/match-profile.yaml` |
 | Build | `./run_ingest.sh` if ingest filters changed |
 | Test | `bash scripts/verify_phase1.sh` |

@@ -7,11 +7,11 @@ from typing import Any
 
 from openai import OpenAI
 
-from consig.config import llm_model, openai_api_key
-from consig import db, rag
-from consig.branding import sanitize_rag_hit, sanitize_source_label, sanitize_user_facing
-from consig.prompts import SYSTEM_PROMPT, build_context_block, profile_summary
-from consig.tools import TOOL_SCHEMAS, run_tool
+from counsel.config import llm_model, openai_api_key
+from counsel import db, rag
+from counsel.branding import sanitize_rag_hit, sanitize_source_label, sanitize_user_facing
+from counsel.prompts import SYSTEM_PROMPT, build_context_block, profile_summary
+from counsel.tools import TOOL_SCHEMAS, run_tool
 
 MAX_TOOL_ROUNDS = 6
 

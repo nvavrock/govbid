@@ -26,12 +26,12 @@ def main() -> int:
         score = int(top.get("rule_score") or 0)
         link = (top.get("ui_link") or "").strip()
         print(f"top_score={score}")
-        print(f"top_score_ok={1 if score >= review['min_score'] else 0}")
+        print(f"top_score_ok={1 if score >= review['min_score'] and (top.get('fit_band') or 'none') != 'none' else 0}")
         print(f"top_link_ok={1 if link.startswith('http') else 0}")
     print("--- sample ---")
     for i, row in enumerate(rows[:5], 1):
         title = (row.get("title") or "")[:70]
-        print(f"{i}. [{row.get('rule_score')}] {title}")
+        print(f"{i}. [{row.get('fit_band', 'n/a')}] {title}")
         print(f"   {row.get('agency', '')} | deadline {row.get('response_deadline', 'n/a')}")
     print("--- end ---")
     return 0

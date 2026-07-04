@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Smoke-test creating + (optionally) indexing a consig_fit_surveys row."""
+"""Smoke-test creating + (optionally) indexing a counsel_fit_surveys row."""
 
 from __future__ import annotations
 
@@ -15,9 +15,9 @@ sys.path.insert(0, str(ROOT))
 import psycopg
 from psycopg.rows import dict_row
 
-from consig.config import load_env, postgres_params
-from consig import db, rag
-from consig.survey_schema import chunk_id_for_fit_survey, survey_row_to_rag_text
+from counsel.config import load_env, postgres_params
+from counsel import db, rag
+from counsel.survey_schema import chunk_id_for_fit_survey, survey_row_to_rag_text
 
 
 def _select_notice_id(conn: psycopg.Connection[Any]) -> str:
@@ -92,7 +92,7 @@ def main() -> int:
 
         # cleanup
         with conn.cursor() as cur:
-            cur.execute("DELETE FROM consig_fit_surveys WHERE id=%s", (int(survey_id),))
+            cur.execute("DELETE FROM counsel_fit_surveys WHERE id=%s", (int(survey_id),))
         conn.commit()
 
         print(f"survey_id={survey_id} indexed_ok={indexed_ok}")

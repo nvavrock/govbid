@@ -1,4 +1,4 @@
-"""FastAPI app for Consig."""
+"""FastAPI app for Counsel."""
 
 from __future__ import annotations
 
@@ -7,9 +7,9 @@ from typing import Any
 from fastapi import FastAPI, HTTPException, Query
 from pydantic import BaseModel, Field
 
-from consig import chat, db, rag
-from consig.config import load_env, review_defaults
-from consig.survey_schema import (
+from counsel import chat, db, rag
+from counsel.config import load_env, review_defaults
+from counsel.survey_schema import (
     chunk_id_for_fit_survey,
     normalize_survey_payload,
     survey_row_to_rag_text,
@@ -17,7 +17,7 @@ from consig.survey_schema import (
 
 load_env()
 
-app = FastAPI(title="Consig", version="0.1.0")
+app = FastAPI(title="Counsel", version="0.1.0")
 
 
 class ChatRequest(BaseModel):
@@ -51,6 +51,43 @@ class FitSurveyRequest(BaseModel):
     lessons_learned: str | None = None
 
 
+class FitProfileCreate(BaseModel):
+    slug: str
+    name: str
+    capabilities: str | None = None
+    naics_codes: list[str] = Field(default_factory=list)
+    psc_prefixes: list[str] = Field(default_factory=list)
+    include_keywords: list[str] = Field(default_factory=list)
+    exclude_keywords: list[str] = Field(default_factory=list)
+    exclude_set_asides: list[str] = Field(default_factory=list)
+    eligible_set_asides: list[str] = Field(default_factory=list)
+    home_states: list[str] = Field(default_factory=list)
+    include_remote: bool = True
+    include_unknown_location: bool = False
+    is_default: bool = False
+
+
+class FitProfileUpdate(BaseModel):
+    slug: str | None = None
+    name: str | None = None
+    capabilities: str | None = None
+    naics_codes: list[str] | None = None
+    psc_prefixes: list[str] | None = None
+    include_keywords: list[str] | None = None
+    exclude_keywords: list[str] | None = None
+    exclude_set_asides: list[str] | None = None
+    eligible_set_asides: list[str] | None = None
+    home_states: list[str] | None = None
+    include_remote: bool | None = None
+    include_unknown_location: bool | None = None
+    is_default: bool | None = None
+
+
+class RefreshScoresResponse(BaseModel):
+    profile_id: int
+    rows_updated: int
+
+
 @app.get("/health")
 def health() -> dict[str, Any]:
     return {
@@ -59,16 +96,24 @@ def health() -> dict[str, Any]:
     }
 
 
+@app.get("/naics")
+def distinct_naics(limit: int = Query(5000, ge=1, le=10000)) -> list[str]:
+    return db.list_distinct_naics(limit=limit)
+
+
 @app.get("/queue")
 def queue(
     days_ahead: int | None = None,
     min_score: int | None = None,
     top_n: int | None = None,
+    fit_bands: str | None = Query(None, description="Comma-separated: strong,good,stretch"),
 ) -> list[dict[str, Any]]:
+    bands = [b.strip() for b in fit_bands.split(",") if b.strip()] if fit_bands else None
     return db.get_review_queue(
         days_ahead=days_ahead,
         min_score=min_score,
         top_n=top_n,
+        fit_bands=bands,
     )
 
 
@@ -148,6 +193,86 @@ def post_preference(req: PreferenceRequest) -> dict[str, str]:
 @app.get("/review-defaults")
 def review_params() -> dict[str, int]:
     return review_defaults()
+
+
+@app.get("/fit-profiles")
+def list_fit_profiles() -> list[dict[str, Any]]:
+    return db.list_fit_profiles()
+
+
+@app.get("/fit-profiles/{profile_id}")
+def get_fit_profile(profile_id: int) -> dict[str, Any]:
+    row = db.get_fit_profile(profile_id)
+    if not row:
+        raise HTTPException(404, "Fit profile not found")
+    return row
+
+
+@app.post("/fit-profiles")
+def create_fit_profile(req: FitProfileCreate) -> dict[str, Any]:
+    try:
+        return db.create_fit_profile(
+            slug=req.slug,
+            name=req.name,
+            capabilities=req.capabilities,
+            naics_codes=req.naics_codes,
+            psc_prefixes=req.psc_prefixes,
+            include_keywords=req.include_keywords,
+            exclude_keywords=req.exclude_keywords,
+            exclude_set_asides=req.exclude_set_asides,
+            eligible_set_asides=req.eligible_set_asides,
+            home_states=req.home_states,
+            include_remote=req.include_remote,
+            include_unknown_location=req.include_unknown_location,
+            is_default=req.is_default,
+        )
+    except ValueError as exc:
+        raise HTTPException(400, str(exc)) from exc
+
+
+@app.put("/fit-profiles/{profile_id}")
+def update_fit_profile(profile_id: int, req: FitProfileUpdate) -> dict[str, Any]:
+    try:
+        return db.update_fit_profile(
+            profile_id,
+            slug=req.slug,
+            name=req.name,
+            capabilities=req.capabilities,
+            naics_codes=req.naics_codes,
+            psc_prefixes=req.psc_prefixes,
+            include_keywords=req.include_keywords,
+            exclude_keywords=req.exclude_keywords,
+            exclude_set_asides=req.exclude_set_asides,
+            eligible_set_asides=req.eligible_set_asides,
+            home_states=req.home_states,
+            include_remote=req.include_remote,
+            include_unknown_location=req.include_unknown_location,
+            is_default=req.is_default,
+        )
+    except LookupError as exc:
+        raise HTTPException(404, str(exc)) from exc
+    except ValueError as exc:
+        raise HTTPException(400, str(exc)) from exc
+
+
+@app.delete("/fit-profiles/{profile_id}")
+def delete_fit_profile(profile_id: int) -> dict[str, str]:
+    try:
+        db.delete_fit_profile(profile_id)
+        return {"ok": "true"}
+    except LookupError as exc:
+        raise HTTPException(404, str(exc)) from exc
+    except ValueError as exc:
+        raise HTTPException(400, str(exc)) from exc
+
+
+@app.post("/fit-profiles/{profile_id}/refresh-scores")
+def refresh_fit_profile_scores(profile_id: int) -> RefreshScoresResponse:
+    try:
+        rows = db.refresh_scores_for_profile(profile_id)
+        return RefreshScoresResponse(profile_id=profile_id, rows_updated=rows)
+    except LookupError as exc:
+        raise HTTPException(404, str(exc)) from exc
 
 
 @app.post("/fit-survey")

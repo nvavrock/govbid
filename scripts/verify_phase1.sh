@@ -4,6 +4,8 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
+# shellcheck source=lib/postgres.sh
+source "$ROOT/scripts/lib/postgres.sh"
 
 FAIL=0
 warn() { echo "WARN $*"; }
@@ -18,49 +20,46 @@ else
   ok "match-profile.yaml present"
 fi
 
-if [[ -f .env ]]; then
-  set -a
-  # shellcheck disable=SC1091
-  source .env
-  set +a
-else
-  fail "Missing .env"
-fi
-
 if [[ -n "${SAM_BULK_CSV_URL:-}" ]] || compgen -G "$ROOT/data/ContractOpportunitiesFull_*.csv" >/dev/null; then
   ok "SAM data source (URL or local CSV)"
 else
   fail "No SAM_BULK_CSV_URL and no data/ContractOpportunitiesFull_*.csv"
 fi
 
-# shellcheck source=lib/docker.sh
-source "$ROOT/scripts/lib/docker.sh" 2>/dev/null || true
-if command -v docker >/dev/null 2>&1 && govbid_resolve_docker >/dev/null 2>&1; then
-  opp_count="$(govbid_docker_compose exec -T postgres psql -U "${POSTGRES_USER:-govbid}" -d "${POSTGRES_DB:-govbid}" -tAc \
-    "SELECT count(*) FROM opportunities;" 2>/dev/null | tr -d '[:space:]' || echo 0)"
+if govbid_psql_prepare "$ROOT"; then
+  ok "Postgres (${PGHOST}:${PGPORT})"
+  opp_count="$(govbid_psql_scalar "SELECT count(*) FROM opportunities;")"
   if [[ "${opp_count:-0}" -gt 0 ]]; then
     ok "$opp_count opportunities in database"
   else
     fail "0 opportunities — run: ./run_daily.sh"
   fi
 
-  ingest_status="$(govbid_docker_compose exec -T postgres psql -U "${POSTGRES_USER:-govbid}" -d "${POSTGRES_DB:-govbid}" -tAc \
-    "SELECT status FROM ingest_runs ORDER BY id DESC LIMIT 1;" 2>/dev/null | tr -d '[:space:]' || true)"
+  ingest_status="$(govbid_psql_scalar "SELECT status FROM ingest_runs ORDER BY id DESC LIMIT 1;")"
   if [[ "$ingest_status" == "success" ]]; then
     ok "last ingest_run: success"
-    ingest_age_h="$(govbid_docker_compose exec -T postgres psql -U "${POSTGRES_USER:-govbid}" -d "${POSTGRES_DB:-govbid}" -tAc \
-      "SELECT EXTRACT(EPOCH FROM (NOW() - COALESCE(finished_at, started_at))) / 3600 FROM ingest_runs WHERE status = 'success' ORDER BY id DESC LIMIT 1;" 2>/dev/null | tr -d '[:space:]' || echo 999)"
+    ingest_age_h="$(govbid_psql_scalar \
+      "SELECT EXTRACT(EPOCH FROM (NOW() - COALESCE(finished_at, started_at))) / 3600 FROM ingest_runs WHERE status = 'success' ORDER BY id DESC LIMIT 1;")"
     if [[ -n "$ingest_age_h" ]] && awk "BEGIN {exit !($ingest_age_h > 48)}" 2>/dev/null; then
       warn "last successful ingest older than 48h — run: ./run_daily.sh"
     fi
   else
-    warn "last ingest_run not success ($ingest_status) — run: ./run_ingest.sh"
+    warn "last ingest_run not success (${ingest_status:-none}) — run: ./run_ingest.sh"
+  fi
+
+  profile_count="$(govbid_psql_scalar "SELECT count(*) FROM fit_profiles;")"
+  if [[ "${profile_count:-0}" -ge 1 ]]; then
+    ok "fit_profiles table populated ($profile_count row(s))"
+  else
+    warn "fit_profiles empty — run: ./run_ingest.sh to sync from match-profile.yaml"
   fi
 else
-  warn "Docker/Postgres not available — run: bash scripts/doctor.sh"
+  fail "Postgres not reachable — run: bash scripts/setup_user_postgres.sh"
 fi
 
-UV_BIN="$(command -v uv 2>/dev/null || true)"
+# shellcheck source=lib/common.sh
+source "$ROOT/scripts/lib/common.sh"
+UV_BIN="$(govbid_resolve_uv 2>/dev/null || true)"
 if [[ -z "$UV_BIN" ]]; then
   warn "uv not found — skipping review queue checks"
 else
@@ -76,7 +75,7 @@ else
       fail "review queue empty — tune match-profile.yaml or run ./run_ingest.sh"
     fi
     if [[ "${qcount:-0}" -ge 1 && "${top_score_ok:-0}" != "1" ]]; then
-      fail "top row rule_score below min_score (${top_score} < ${min_score})"
+      fail "top row failed fit check (score=${top_score}, min_score=${min_score})"
     fi
     if [[ "${qcount:-0}" -ge 1 && "${top_link_ok:-0}" != "1" ]]; then
       fail "top row missing valid ui_link"

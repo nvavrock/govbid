@@ -69,10 +69,10 @@ services:
     environment:
       ADMINER_DEFAULT_SERVER: postgres
 
-  consig-api:
+  counsel-api:
     build:
       context: .
-      dockerfile: Dockerfile.consig
+      dockerfile: Dockerfile.counsel
     restart: unless-stopped
     depends_on:
       postgres:
@@ -81,7 +81,7 @@ services:
     environment:
       POSTGRES_HOST: postgres
       POSTGRES_PORT: 5432
-      CONSIG_DATA_DIR: /app/data/consig_index
+      COUNSEL_DATA_DIR: /app/data/counsel_index
     ports:
       - "127.0.0.1:8000:8000"
     volumes:
@@ -89,18 +89,18 @@ services:
       - ./config:/app/config:ro
       - ./transcripts:/app/transcripts:ro
 
-  consig-ui:
+  counsel-ui:
     build:
       context: .
-      dockerfile: Dockerfile.consig
+      dockerfile: Dockerfile.counsel
     restart: unless-stopped
-    command: ["uv", "run", "streamlit", "run", "consig/ui.py", "--server.port", "8501", "--server.address", "0.0.0.0"]
+    command: ["uv", "run", "streamlit", "run", "counsel/ui.py", "--server.port", "8501", "--server.address", "0.0.0.0"]
     depends_on:
-      - consig-api
+      - counsel-api
     env_file: .env
     environment:
-      CONSIG_API_URL: http://consig-api:8000
-      CONSIG_INPROCESS: "0"
+      COUNSEL_API_URL: http://counsel-api:8000
+      COUNSEL_INPROCESS: "0"
       POSTGRES_HOST: postgres
       POSTGRES_PORT: 5432
     ports:

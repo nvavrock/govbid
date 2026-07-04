@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Smoke test for Consig third-party branding sanitization."""
+"""Smoke test for Counsel third-party branding sanitization."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from consig.branding import sanitize_rag_hit, sanitize_source_label, sanitize_user_facing  # noqa: E402
+from counsel.branding import sanitize_rag_hit, sanitize_source_label, sanitize_user_facing  # noqa: E402
 
 
 def _vendor_brand() -> str:

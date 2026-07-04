@@ -9,7 +9,7 @@ import chromadb
 from chromadb.config import Settings
 from openai import OpenAI
 
-from consig.config import chroma_path, embedding_model, openai_api_key, top_k
+from counsel.config import chroma_path, embedding_model, openai_api_key, top_k
 
 COLLECTION_NAME = "govbid_corpus"
 

@@ -1,6 +1,21 @@
 # Shared helpers for govbid shell entrypoints.
 # Source from repo root runners: source "$PROJECT/scripts/lib/common.sh"
 
+govbid_bootstrap_env() {
+  local project="${1:-}"
+  [[ -n "$project" ]] || return 0
+  export PATH="$HOME/.local/bin:${project}/.postgres/mamba/bin:${PATH}"
+  if [[ -z "${UV:-}" && -x "$HOME/.local/bin/uv" ]]; then
+    export UV="$HOME/.local/bin/uv"
+  fi
+}
+
+govbid_ensure_postgres() {
+  local project="${1:-}"
+  [[ -n "$project" ]] || return 0
+  bash "$project/scripts/setup_user_postgres.sh"
+}
+
 govbid_require_cmd() {
   local cmd="$1"
   local hint="${2:-}"
@@ -29,6 +44,10 @@ govbid_resolve_uv() {
   fi
   if command -v uv >/dev/null 2>&1; then
     command -v uv
+    return 0
+  fi
+  if [[ -x "$HOME/.local/bin/uv" ]]; then
+    echo "$HOME/.local/bin/uv"
     return 0
   fi
   echo "Error: uv not found. Install: https://docs.astral.sh/uv/" >&2

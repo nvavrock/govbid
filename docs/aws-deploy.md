@@ -10,8 +10,8 @@ GovBid is moving off **Docker Desktop** to **AWS managed services**. Docker Comp
 |-----------|----------------------|------------|
 | Postgres | `postgres` container :5433 | **RDS PostgreSQL 16** (`terraform/rds.tf`) |
 | n8n | `n8n` container :5678 | **ECS Fargate** or n8n Cloud (Phase 2) |
-| Consig API | `consig-api` :8000 | **App Runner** or **Lambda + API Gateway** |
-| Consig UI | `consig-ui` :8501 | **App Runner** (Streamlit) |
+| Counsel API | `counsel-api` :8000 | **App Runner** or **Lambda + API Gateway** |
+| Counsel UI | `counsel-ui` :8501 | **App Runner** (Streamlit) |
 | Adminer | container :8081 | **RDS Query Editor** or local `psql` |
 | Daily cron | WSL `crontab` | **EventBridge + Lambda** or keep WSL cron → RDS |
 
@@ -39,11 +39,11 @@ GovBid is moving off **Docker Desktop** to **AWS managed services**. Docker Comp
    ```bash
    bash scripts/apply_migrations.sh   # uses psql against POSTGRES_HOST
    ```
-6. Point Python ingest / Consig at RDS — no Docker required for Postgres.
+6. Point Python ingest / Counsel at RDS — no Docker required for Postgres.
 
 ## Phase 2 — Compute (next)
 
-- Build Consig image → **ECR** → **App Runner** (same pattern as `~/production` week 1).
+- Build Counsel image → **ECR** → **App Runner** (same pattern as `~/production` week 1).
 - n8n: evaluate **n8n Cloud** vs self-hosted on ECS (workflows in `workflows/n8n/`).
 
 ## Phase 3 — Retire Docker
@@ -62,7 +62,7 @@ Cron on WSL can stay — it only needs `POSTGRES_HOST` pointing at RDS:
 ```bash
 ./run_daily.sh      # download + ingest → RDS
 ./run_digest.sh     # Slack digest
-./run_consig.sh     # local Streamlit → RDS + OpenAI
+./run_counsel.sh     # local Streamlit → RDS + OpenAI
 ```
 
 ## Security notes

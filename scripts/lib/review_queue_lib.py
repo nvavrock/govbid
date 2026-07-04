@@ -1,4 +1,4 @@
-"""Profile-driven review queue query (shared by CLI, verify, Consig, digest)."""
+"""Profile-driven review queue query (shared by CLI, verify, Counsel, digest)."""
 
 from __future__ import annotations
 
@@ -15,12 +15,18 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from lib.match_profile import load_profile  # noqa: E402
+from lib.fit_profiles import load_default_geography  # noqa: E402
 
 REVIEW_QUEUE_SQL = """
 WITH params AS (
     SELECT %(days_ahead)s::int AS days_ahead,
            %(min_score)s::int AS min_score,
-           %(top_n)s::int AS top_n
+           %(top_n)s::int AS top_n,
+           %(require_match_reasons)s::boolean AS require_match_reasons,
+           %(fit_bands)s::text[] AS fit_bands,
+           %(home_states)s::text[] AS home_states,
+           %(include_remote)s::boolean AS include_remote,
+           %(include_unknown_location)s::boolean AS include_unknown_location
 )
 SELECT
     o.notice_id,
@@ -30,6 +36,9 @@ SELECT
     o.naics,
     o.psc,
     o.set_aside,
+    o.state_code,
+    o.place_of_performance,
+    o.work_mode,
     o.posted_date,
     o.response_deadline,
     o.ui_link,
@@ -37,6 +46,7 @@ SELECT
     o.procurement_type,
     m.rule_score,
     m.match_reasons,
+    m.fit_band,
     m.review_status,
     m.notes,
     (
@@ -53,6 +63,23 @@ WHERE o.active = TRUE
   AND m.review_status = 'pending'
   AND m.rule_score >= p.min_score
   AND (
+      p.fit_bands IS NULL
+      OR COALESCE(m.fit_band, 'none') = ANY (p.fit_bands)
+  )
+  AND (
+      cardinality(p.home_states) = 0
+      OR o.state_code = ANY (p.home_states)
+      OR (p.include_remote AND COALESCE(o.work_mode, 'unknown') = 'remote')
+      OR (p.include_unknown_location AND COALESCE(o.work_mode, 'unknown') = 'unknown')
+  )
+  AND (
+      NOT p.require_match_reasons
+      OR (
+          jsonb_array_length(COALESCE(m.match_reasons, '[]'::jsonb)) > 0
+          AND COALESCE(m.fit_band, 'none') <> 'none'
+      )
+  )
+  AND (
       o.response_deadline IS NULL
       OR o.response_deadline >= NOW()
   )
@@ -60,7 +87,15 @@ WHERE o.active = TRUE
       o.response_deadline IS NULL
       OR o.response_deadline <= NOW() + (p.days_ahead || ' days')::INTERVAL
   )
-ORDER BY m.rule_score DESC, o.response_deadline ASC NULLS LAST
+ORDER BY
+    CASE COALESCE(m.fit_band, 'none')
+        WHEN 'strong' THEN 1
+        WHEN 'good' THEN 2
+        WHEN 'stretch' THEN 3
+        ELSE 4
+    END,
+    m.rule_score DESC,
+    o.response_deadline ASC NULLS LAST
 LIMIT (SELECT top_n FROM params);
 """
 
@@ -169,17 +204,29 @@ def connect_params() -> dict[str, Any]:
     }
 
 
+DEFAULT_FIT_BANDS = ("strong", "good", "stretch")
+
+
 def get_review_queue(
     *,
     days_ahead: int | None = None,
     min_score: int | None = None,
     top_n: int | None = None,
+    fit_bands: list[str] | None = None,
 ) -> list[dict[str, Any]]:
     review = load_profile()["review"]
+    geo = load_default_geography()
+    home_states = [s.strip().upper() for s in geo.get("home_states") or [] if s and str(s).strip()]
+    bands = fit_bands if fit_bands is not None else list(DEFAULT_FIT_BANDS)
     params = {
         "days_ahead": days_ahead if days_ahead is not None else review["days_ahead"],
         "min_score": min_score if min_score is not None else review["min_score"],
         "top_n": top_n if top_n is not None else review["top_n"],
+        "require_match_reasons": review.get("require_match_reasons", True),
+        "fit_bands": bands or None,
+        "home_states": home_states or None,
+        "include_remote": bool(geo.get("include_remote", True)),
+        "include_unknown_location": bool(geo.get("include_unknown_location", False)),
     }
     with psycopg.connect(**connect_params(), row_factory=dict_row) as conn:
         with conn.cursor() as cur:

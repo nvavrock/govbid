@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aggregate Consig pass/bid feedback and suggest match-profile tuning (human applies)."""
+"""Aggregate Counsel pass/bid feedback and suggest match-profile tuning (human applies)."""
 
 from __future__ import annotations
 
@@ -10,22 +10,22 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from consig.config import load_env  # noqa: E402
-from consig import db  # noqa: E402
+from counsel.config import load_env  # noqa: E402
+from counsel import db  # noqa: E402
 
 
 def main() -> int:
     load_env()
-    db.ensure_consig_schema()
+    db.ensure_counsel_schema()
 
     import psycopg
     from psycopg.rows import dict_row
 
-    from consig.config import postgres_params
+    from counsel.config import postgres_params
 
     sql = """
         SELECT f.action, f.user_reason, f.notice_id, o.title, o.agency, m.match_reasons
-        FROM consig_feedback f
+        FROM counsel_feedback f
         LEFT JOIN opportunities o ON o.notice_id = f.notice_id
         LEFT JOIN match_scores m ON m.opportunity_id = o.id
         ORDER BY f.created_at DESC
@@ -37,10 +37,10 @@ def main() -> int:
             records = cur.fetchall()
 
     if not records:
-        print("No consig_feedback rows yet. Mark pass/bid in Consig chat to collect reasons.")
+        print("No counsel_feedback rows yet. Mark pass/bid in Counsel chat to collect reasons.")
         return 0
 
-    print("=== Consig feedback report ===\n")
+    print("=== Counsel feedback report ===\n")
     by_action = Counter(r["action"] for r in records)
     print("Actions:", dict(by_action))
 
@@ -56,7 +56,7 @@ def main() -> int:
     try:
         sql2 = """
             SELECT bad_tags, score_direction, score_accurate, fit_rating, rule_score
-            FROM consig_fit_surveys
+            FROM counsel_fit_surveys
             ORDER BY created_at DESC
             LIMIT 300
         """

@@ -48,7 +48,7 @@ def build_slack_payload(rows: list[dict[str, Any]], *, top_n: int) -> dict[str, 
         f"days_ahead={review['days_ahead']}, showing up to {top_n})"
     )
     if openai_key:
-        header += "\n\nAfter you mark pass/bid in Consig, complete the Fit survey to improve grading for the next run."
+        header += "\n\nAfter you mark pass/bid in Counsel, complete the Fit survey to improve grading for the next run."
     blocks: list[dict[str, Any]] = [
         {"type": "section", "text": {"type": "mrkdwn", "text": header}},
         {"type": "divider"},

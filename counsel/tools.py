@@ -1,13 +1,13 @@
-"""OpenAI tool definitions and execution for Consig."""
+"""OpenAI tool definitions and execution for Counsel."""
 
 from __future__ import annotations
 
 import json
 from typing import Any
 
-from consig import db, rag
-from consig.branding import sanitize_rag_hit
-from consig.survey_schema import (
+from counsel import db, rag
+from counsel.branding import sanitize_rag_hit
+from counsel.survey_schema import (
     chunk_id_for_fit_survey,
     normalize_survey_payload,
     survey_row_to_rag_text,

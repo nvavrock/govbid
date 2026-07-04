@@ -5,18 +5,18 @@ WORKDIR /app
 RUN pip install --no-cache-dir uv
 
 COPY pyproject.toml uv.lock ./
-COPY consig ./consig
+COPY counsel ./counsel
 COPY scripts ./scripts
 COPY db ./db
 COPY config ./config
 COPY docs ./docs
 # Proprietary corpus mounted at runtime via docker-compose (./transcripts -> /app/transcripts)
 
-RUN uv sync --extra consig --no-dev
+RUN uv sync --extra counsel --no-dev
 
 ENV PYTHONPATH=/app
-ENV CONSIG_DATA_DIR=/app/data/consig_index
+ENV COUNSEL_DATA_DIR=/app/data/counsel_index
 
 EXPOSE 8000 8501
 
-CMD ["uv", "run", "uvicorn", "consig.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uv", "run", "uvicorn", "counsel.main:app", "--host", "0.0.0.0", "--port", "8000"]

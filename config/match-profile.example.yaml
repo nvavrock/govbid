@@ -1,35 +1,35 @@
 # Copy to match-profile.yaml and customize for your business.
-# Defaults are duplicated in n8n workflow Code nodes and refresh_match_scores().
-# Keep review_queue.sql params in sync with the review: section below.
+# Synced to fit_profiles table on ingest. See docs/counsel-plan.md.
 
 profile:
+  slug: default
   name: "Rocksteady Analytics"
   capabilities: |
     Custom software development, cloud migration, DevSecOps,
     API integrations, and technical consulting.
 
-# Hard filters — NAICS for software / IT services
-naics_codes:
-  - "541511"  # Custom computer programming
-  - "541512"  # Computer systems design
-  - "541519"  # Other computer-related services
-  - "518210"  # Data processing, hosting, related
-  - "511210"  # Software publishers
+# full = load all active SAM rows; filtered = NAICS/PSC/keyword gate at ingest
+ingest:
+  mode: full
 
-# PSC prefixes (IT and telecom services — D3xx family)
+# Hard filters — used for scoring and for ingest when mode=filtered
+naics_codes:
+  - "541511"
+  - "541512"
+  - "541519"
+  - "518210"
+  - "511210"
+
 psc_prefixes:
   - "D3"
-  - "7E"  # IT equipment (optional — often hardware-heavy)
+  - "7E"
 
-# SAM procurement types to include in API delta
-# o=solicitation, k=combined, p=pre-solicitation, r=sources sought
 procurement_types:
   - "o"
   - "k"
   - "p"
   - "r"
 
-# Soft scoring — case-insensitive substring match on title
 include_keywords:
   - "software"
   - "application"
@@ -50,7 +50,6 @@ exclude_keywords:
   - "furniture"
   - "vehicles"
 
-# Set-aside descriptions to skip (adjust if you hold certifications)
 exclude_set_asides:
   - "8(a)"
   - "HUBZone"
@@ -58,8 +57,15 @@ exclude_set_asides:
   - "WOSB"
   - "EDWOSB"
 
-# Review queue — sync with db/queries/review_queue.sql params CTE
+# Best-fit queue: rank by rule_score; min_score 0 = no numeric gate
 review:
   days_ahead: 30
-  min_score: 25
+  min_score: 0
   top_n: 25
+  require_match_reasons: true
+
+# Geography: local home state(s) + remote; hide on-site work elsewhere
+geography:
+  home_states: []
+  include_remote: true
+  include_unknown_location: false

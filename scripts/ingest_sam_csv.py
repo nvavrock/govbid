@@ -20,7 +20,13 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from lib.match_profile import (  # noqa: E402
     MATCH_PROFILE,
     load_profile,
-    passes_ingest_filter,
+    should_ingest_row,
+)
+from lib.fit_profiles import sync_default_profile  # noqa: E402
+from lib.geography import (  # noqa: E402
+    classify_work_mode,
+    place_of_performance_from_row,
+    state_code_from_row,
 )
 
 
@@ -80,7 +86,7 @@ def main() -> int:
     load_env()
     profile = load_profile()
     csv_path = latest_csv()
-    print(f"Using match profile: {MATCH_PROFILE}")
+    print(f"Using match profile: {MATCH_PROFILE} (ingest_mode={profile['ingest_mode']})")
 
     password = os.environ.get("POSTGRES_PASSWORD")
     if not password:
@@ -103,9 +109,11 @@ def main() -> int:
         INSERT INTO opportunities (
             notice_id, source, solicitation_number, title, posted_date,
             response_deadline, naics, psc, set_aside, set_aside_code,
-            procurement_type, agency, office, ui_link, description_url, active, raw_data
+            procurement_type, agency, office, state_code, place_of_performance,
+            work_mode, ui_link, description_url, active, raw_data
         ) VALUES (
-            %s, 'federal:sam', %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, TRUE, %s::jsonb
+            %s, 'federal:sam', %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+            %s, %s, %s, TRUE, %s::jsonb
         )
         ON CONFLICT (notice_id, source) DO UPDATE SET
             title = EXCLUDED.title,
@@ -115,6 +123,9 @@ def main() -> int:
             psc = EXCLUDED.psc,
             set_aside = EXCLUDED.set_aside,
             agency = EXCLUDED.agency,
+            state_code = EXCLUDED.state_code,
+            place_of_performance = EXCLUDED.place_of_performance,
+            work_mode = EXCLUDED.work_mode,
             ui_link = EXCLUDED.ui_link,
             updated_at = NOW()
     """
@@ -150,11 +161,27 @@ def main() -> int:
                     title = pick(row, "Title")
                     naics = pick(row, "NaicsCode", "NAICS Code")
                     psc = pick(row, "ClassificationCode", "PSC")
-                    if not passes_ingest_filter(naics, psc, title, profile):
+                    active = pick(row, "Active")
+                    if not should_ingest_row(
+                        notice_id=notice_id,
+                        naics=naics,
+                        psc=psc,
+                        title=title,
+                        active=active,
+                        profile=profile,
+                    ):
                         continue
 
                     ui_link = pick(row, "Link", "uiLink") or (
                         f"https://sam.gov/opp/{notice_id}/view"
+                    )
+                    state = state_code_from_row(row)
+                    pop = place_of_performance_from_row(row)
+                    description = pick(row, "Description")
+                    work_mode = classify_work_mode(
+                        title=title,
+                        description=description,
+                        state_code=state,
                     )
                     batch.append((
                         notice_id,
@@ -169,8 +196,11 @@ def main() -> int:
                         pick(row, "Type", "Notice Type"),
                         pick(row, "Department/Ind.Agency", "Department", "Agency"),
                         pick(row, "Office", "Sub-Tier"),
+                        state,
+                        pop,
+                        work_mode,
                         ui_link,
-                        pick(row, "Description"),
+                        description,
                         json.dumps(row, default=str),
                     ))
 
@@ -186,6 +216,7 @@ def main() -> int:
                 cur.executemany(upsert_sql, batch)
                 inserted += len(batch)
 
+            sync_default_profile(conn)
             cur.execute(refresh_sql, refresh_args)
             scored = cur.fetchone()[0]
 

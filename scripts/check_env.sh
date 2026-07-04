@@ -22,7 +22,7 @@ check() {
 check "project root exists" test -d "$PROJECT"
 check "data directory" test -d "$PROJECT/data"
 check "logs directory" test -d "$PROJECT/logs"
-check "transcripts directory" test -d "$PROJECT/transcripts"
+check "transcripts directory" test -d "$PROJECT/transcripts" || echo "WARN transcripts/ missing — Counsel RAG corpus optional until build_counsel_index" >&2
 check "uv available" bash -c "source '$PROJECT/scripts/lib/common.sh' && govbid_resolve_uv >/dev/null"
 check "python requests import" bash -c "cd '$PROJECT' && \"$(govbid_resolve_uv)\" run python -c 'import requests'"
 check "download script syntax" python3 -m py_compile "$PROJECT/scripts/download_sam_opportunities.py"
@@ -39,12 +39,12 @@ check "psycopg import" bash -c "cd '$PROJECT' && \"$(govbid_resolve_uv)\" run py
 
 if command -v docker >/dev/null 2>&1; then
   if docker info >/dev/null 2>&1; then
-    echo "OK   docker daemon running"
+    echo "OK   docker daemon running (optional legacy stack)"
   else
-    echo "WARN docker installed but daemon not running (needed for pipeline stack)" >&2
+    echo "WARN docker installed but daemon not running (optional — use scripts/setup_user_postgres.sh)" >&2
   fi
 else
-  echo "WARN docker not installed (needed for pipeline stack)" >&2
+  echo "INFO docker not installed (optional legacy stack; primary: user-space Postgres or RDS)" >&2
 fi
 
 if [[ $failures -gt 0 ]]; then

@@ -22,8 +22,8 @@ __pycache__/
 *.pyo
 node_modules/
 
-# Consig vector index (rebuilt by scripts/build_consig_index.py)
-data/consig_index/
+# Counsel vector index (rebuilt by scripts/build_counsel_index.py)
+data/counsel_index/
 
 # SAM data (large; refreshed by run_download.sh or n8n ingest)
 data/*.csv
@@ -38,8 +38,11 @@ logs/*
 # Proprietary transcript data (local only)
 transcripts/
 
+# User-space PostgreSQL (scripts/setup_user_postgres.sh)
+.postgres/
+bin/micromamba
+
 # Docker / misc
-index.php
 .DS_Store
 
 # Excel

@@ -1,120 +1,128 @@
 #!/usr/bin/env bash
-# Diagnose and repair common govbid stack issues (WSL Docker, ports, n8n, Postgres).
+# Health check: Postgres pipeline (primary) + optional legacy Docker/n8n stack.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
-# shellcheck source=lib/docker.sh
-source "$ROOT/scripts/lib/docker.sh"
+# shellcheck source=lib/postgres.sh
+source "$ROOT/scripts/lib/postgres.sh"
+# shellcheck source=lib/common.sh
+source "$ROOT/scripts/lib/common.sh"
+govbid_bootstrap_env "$ROOT"
+
+FAIL=0
+warn() { echo "WARN $*"; }
+fail() { echo "FAIL $*"; FAIL=1; }
+ok() { echo "OK   $*"; }
 
 echo "=== GovBid doctor ==="
-
-if ! govbid_resolve_docker >/dev/null; then
-  echo "FAIL: Docker not available. Run: bash scripts/ensure-docker.sh"
-  exit 1
-fi
-echo "OK   Docker ($GOVBID_DOCKER)"
+echo ""
 
 if [[ ! -f .env ]]; then
-  echo "FAIL: Missing .env — run: cp .env.example .env"
+  fail "Missing .env — run: cp .env.example .env"
+  echo ""
+  echo "Doctor FAILED (missing .env)"
   exit 1
 fi
-set -a
-# shellcheck disable=SC1091
-source .env
-set +a
 
-if [[ "${POSTGRES_PORT:-5432}" == "5432" ]]; then
-  echo "WARN POSTGRES_PORT=5432 — host mapping is 5433; set POSTGRES_PORT=5433 in .env"
-fi
-
-if [[ "${N8N_ENCRYPTION_KEY:-}" == *change_me* ]]; then
-  echo "WARN N8N_ENCRYPTION_KEY still placeholder — generate with: openssl rand -hex 16"
-fi
-
-govbid_docker_compose ps 2>/dev/null || true
-
-bash "$ROOT/scripts/sync-postgres-password.sh" >/dev/null 2>&1 && echo "OK   Postgres password synced to .env" || true
-
-N8N_VER="$(govbid_docker_compose exec -T n8n n8n --version 2>/dev/null | tr -d '[:space:]' || true)"
-if [[ -n "$N8N_VER" ]]; then
-  echo "OK   n8n version $N8N_VER"
-fi
-
-if govbid_docker_compose ps n8n --status running -q 2>/dev/null | grep -q .; then
-  cfg_key="$(govbid_docker_compose exec -T n8n cat /home/node/.n8n/config 2>/dev/null \
-    | python3 -c "import json,sys; print(json.load(sys.stdin).get('encryptionKey',''))" 2>/dev/null || true)"
-  if [[ -n "$cfg_key" && "$cfg_key" != "${N8N_ENCRYPTION_KEY:-}" ]]; then
-    echo "FAIL n8n encryption key mismatch (config vs .env)"
-    echo "     Fix: GOVBID_CONFIRM_RESET=yes bash scripts/reset-n8n-volume.sh"
-    exit 1
-  fi
-fi
-
-n8n_state="$(govbid_docker_compose ps n8n --format '{{.State}}' 2>/dev/null || echo missing)"
-if [[ "$n8n_state" != "running" ]]; then
-  if govbid_docker_compose logs n8n --tail 5 2>/dev/null | grep -q "encryption keys"; then
-    echo "FAIL n8n encryption key mismatch"
-    echo "     Fix: GOVBID_CONFIRM_RESET=yes bash scripts/reset-n8n-volume.sh"
-  else
-    echo "FAIL n8n state: $n8n_state"
-    echo "     Logs: govbid_docker_compose logs n8n --tail 20"
-  fi
-  exit 1
-fi
-echo "OK   n8n running — http://localhost:5678"
-OWNER_EMAIL="${N8N_OWNER_EMAIL:-nvavrock@gmail.com}"
-if [[ -n "${N8N_BASIC_AUTH_PASSWORD:-}" ]]; then
-  if curl -sf -X POST http://127.0.0.1:5678/rest/login \
-    -H 'Content-Type: application/json' \
-    -d "{\"emailOrLdapLoginId\":\"$OWNER_EMAIL\",\"password\":\"$N8N_BASIC_AUTH_PASSWORD\"}" \
-    | grep -q '"email"'; then
-    echo "OK   n8n login for $OWNER_EMAIL (password = N8N_BASIC_AUTH_PASSWORD in .env)"
-  else
-    echo "WARN n8n login failed — run: bash scripts/generate-n8n-owner-hash.sh && bash scripts/stack-up.sh"
-  fi
-fi
-
-opp_count="$(govbid_docker_compose exec -T postgres psql -U "${POSTGRES_USER:-govbid}" -d "${POSTGRES_DB:-govbid}" -tAc \
-  "SELECT count(*) FROM opportunities;" 2>/dev/null | tr -d '[:space:]' || echo 0)"
-if [[ "${opp_count:-0}" -eq 0 ]]; then
-  echo "WARN 0 opportunities in database — run: ./run_ingest.sh (after ./run_download.sh)"
+if bash "$ROOT/scripts/check_env.sh" >/dev/null 2>&1; then
+  ok "check_env.sh passed"
 else
-  echo "OK   $opp_count opportunities in database"
+  warn "check_env.sh reported issues — run: bash scripts/check_env.sh"
+fi
+
+if [[ -f config/match-profile.yaml ]]; then
+  ok "match-profile.yaml present"
+else
+  warn "config/match-profile.yaml missing — cp config/match-profile.example.yaml config/match-profile.yaml"
+fi
+
+if govbid_psql_prepare "$ROOT"; then
+  ok "Postgres (${PGHOST}:${PGPORT})"
+  opp_count="$(govbid_psql_scalar "SELECT count(*) FROM opportunities;")"
+  if [[ "${opp_count:-0}" -gt 0 ]]; then
+    ok "$opp_count opportunities in database"
+  else
+    warn "0 opportunities — run: ./run_daily.sh"
+  fi
+
+  fit_count="$(govbid_psql_scalar \
+    "SELECT count(*) FROM match_scores WHERE fit_band IN ('strong','good','stretch');")"
+  if [[ "${fit_count:-0}" -gt 0 ]]; then
+    ok "$fit_count opportunities with fit_band (strong/good/stretch)"
+  else
+    warn "no fit matches scored — check match-profile.yaml and run ./run_ingest.sh"
+  fi
+
+  ingest_status="$(govbid_psql_scalar "SELECT status FROM ingest_runs ORDER BY id DESC LIMIT 1;")"
+  if [[ "$ingest_status" == "success" ]]; then
+    ok "last ingest_run: success"
+  else
+    warn "last ingest_run: ${ingest_status:-none}"
+  fi
+else
+  fail "Postgres not reachable — run: bash scripts/setup_user_postgres.sh"
 fi
 
 echo ""
+echo "=== Optional legacy Docker stack ==="
+
+# shellcheck source=lib/docker.sh
+source "$ROOT/scripts/lib/docker.sh" 2>/dev/null || true
+if govbid_resolve_docker >/dev/null 2>&1; then
+  ok "Docker ($GOVBID_DOCKER)"
+  govbid_docker_compose ps 2>/dev/null || true
+
+  govbid_load_env 2>/dev/null || true
+  bash "$ROOT/scripts/sync-postgres-password.sh" >/dev/null 2>&1 && \
+    ok "Docker Postgres password synced" || true
+
+  n8n_state="$(govbid_docker_compose ps n8n --format '{{.State}}' 2>/dev/null || echo missing)"
+  if [[ "$n8n_state" == "running" ]]; then
+    ok "n8n running — http://localhost:5678"
+    N8N_VER="$(govbid_docker_compose exec -T n8n n8n --version 2>/dev/null | tr -d '[:space:]' || true)"
+    [[ -n "$N8N_VER" ]] && ok "n8n version $N8N_VER"
+  else
+    warn "n8n not running (optional) — bash scripts/stack-up.sh"
+  fi
+else
+  echo "INFO Docker not available — skipping n8n/Adminer checks (primary path: user-space Postgres)"
+fi
+
+echo ""
+echo "=== Phase gates ==="
+
 if bash "$ROOT/scripts/verify_phase1.sh" >/dev/null 2>&1; then
-  echo "Phase 1: COMPLETE — review queue meets match-profile.yaml criteria"
+  echo "Phase 1: COMPLETE — best-fit review queue"
   echo "  Re-check: bash scripts/verify_phase1.sh"
 else
   echo "Phase 1: incomplete"
-  echo "  1. cp config/match-profile.example.yaml config/match-profile.yaml  (if missing)"
-  echo "  2. ./run_daily.sh          (download + ingest + status)"
-  echo "  3. bash scripts/verify_phase1.sh"
-  echo "  4. uv run scripts/review_queue.py"
+  echo "  1. ./run_daily.sh"
+  echo "  2. bash scripts/verify_phase1.sh"
 fi
 
 if bash "$ROOT/scripts/verify_phase2.sh" >/dev/null 2>&1; then
-  echo "Phase 2: COMPLETE — Consig dashboard + digest script ready"
-  echo "  Daily UI: ./run_consig.sh  |  Digest: ./run_digest.sh"
+  echo "Phase 2: COMPLETE — Counsel dashboard + digest script"
+  echo "  UI: ./run_counsel.sh  |  Digest: ./run_digest.sh"
 else
   echo "Phase 2: incomplete"
-  echo "  1. ./run_consig.sh           (opportunity dashboard)"
-  echo "  2. Set SLACK_WEBHOOK_URL in .env (for Slack digest)"
-  echo "  3. bash scripts/verify_phase2.sh"
-  echo "  See: docs/dashboard.md"
+  echo "  1. uv sync --extra counsel && ./run_counsel.sh"
+  echo "  2. bash scripts/verify_phase2.sh"
+fi
+
+if bash "$ROOT/scripts/verify_phase3.sh" >/dev/null 2>&1; then
+  echo "Phase 3: COMPLETE — fit survey + RAG feedback loop"
+else
+  echo "Phase 3: incomplete"
+  echo "  1. bash scripts/apply_migrations.sh"
+  echo "  2. uv run scripts/build_counsel_index.py"
+  echo "  3. bash scripts/verify_phase3.sh"
 fi
 
 echo ""
-if bash "$ROOT/scripts/verify_phase3.sh" >/dev/null 2>&1; then
-  echo "Phase 3: COMPLETE — fit survey + RAG feedback loop"
-  echo "  Daily habit: fill Fit survey after Pass/Bid in Consig."
-else
-  echo "Phase 3: incomplete"
-  echo "  1. bash scripts/apply_fit_survey_migration.sh"
-  echo "  2. uv run scripts/build_consig_index.py   (corpus)"
-  echo "  3. uv run scripts/index_fit_feedback.py --dry-run"
-  echo "  4. bash scripts/verify_phase3.sh"
-  echo "  See: docs/gameplan.md (Phase 3) and docs/consig-plan.md"
+if [[ "$FAIL" -eq 0 ]]; then
+  echo "Doctor PASSED (core pipeline healthy)"
+  exit 0
 fi
+echo "Doctor FAILED (fix Postgres / .env first)"
+exit 1

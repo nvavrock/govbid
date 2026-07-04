@@ -4,6 +4,10 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
+# shellcheck source=lib/postgres.sh
+source "$ROOT/scripts/lib/postgres.sh"
+# shellcheck source=lib/common.sh
+source "$ROOT/scripts/lib/common.sh"
 
 FAIL=0
 warn() { echo "WARN $*"; }
@@ -14,34 +18,32 @@ echo "=== Phase 3 verification ==="
 
 if ! bash "$ROOT/scripts/verify_phase2.sh" >/dev/null 2>&1; then
   fail "Phase 2 verification failed — fix Phase 2 first"
-fi
-
-source "$ROOT/scripts/lib/docker.sh" 2>/dev/null || true
-if ! command -v docker >/dev/null 2>&1; then
-  warn "docker not available — skipping Postgres checks"
 else
-  if command -v govbid_resolve_docker >/dev/null 2>&1 && govbid_resolve_docker >/dev/null 2>&1; then
-    table_exists="$(govbid_docker_compose exec -T postgres psql -U "${POSTGRES_USER:-govbid}" -d "${POSTGRES_DB:-govbid}" -tAc \
-      "SELECT to_regclass('public.consig_fit_surveys') IS NOT NULL;" 2>/dev/null || echo false)"
-    if [[ "$table_exists" == "t" || "$table_exists" == "true" ]]; then
-      ok "consig_fit_surveys table exists"
-    else
-      fail "consig_fit_surveys table missing — run: bash scripts/apply_fit_survey_migration.sh"
-    fi
-  else
-    warn "Docker/Postgres not available — skipping table existence check"
-  fi
+  ok "Phase 2 checks passed"
 fi
 
-UV_BIN="$(command -v uv 2>/dev/null || true)"
+if govbid_psql_prepare "$ROOT" 2>/dev/null; then
+  table_exists="$(govbid_psql_scalar \
+    "SELECT to_regclass('public.counsel_fit_surveys') IS NOT NULL;")"
+  if [[ "$table_exists" == "t" || "$table_exists" == "true" ]]; then
+    ok "counsel_fit_surveys table exists"
+  else
+    fail "counsel_fit_surveys table missing — run: bash scripts/apply_migrations.sh"
+  fi
+else
+  fail "Postgres not reachable — run: bash scripts/setup_user_postgres.sh"
+fi
+
+govbid_load_env 2>/dev/null || true
+
+UV_BIN="$(govbid_resolve_uv 2>/dev/null || true)"
 if [[ -z "$UV_BIN" ]]; then
   fail "uv not found"
 else
-  # Chroma presence smoke (no embeddings required)
-  if "$UV_BIN" run python -c "from consig import rag; print(rag.collection_count())" >/dev/null 2>&1; then
+  if "$UV_BIN" run python -c "from counsel import rag; print(rag.collection_count())" >/dev/null 2>&1; then
     ok "Chroma collection_count() callable"
   else
-    warn "Chroma collection_count() check failed"
+    warn "Chroma collection_count() check failed — run: uv run scripts/build_counsel_index.py"
   fi
 
   if "$UV_BIN" run scripts/index_fit_feedback.py --dry-run >/dev/null 2>&1; then
@@ -55,12 +57,11 @@ else
     fail "save_fit_survey round-trip failed"
   fi
 
-  # Optional: embeddings index smoke (only if OPENAI_API_KEY is set)
   if [[ -n "${OPENAI_API_KEY:-}" ]]; then
     if "$UV_BIN" run scripts/smoke_fit_survey_roundtrip.py --index >/dev/null 2>&1; then
       ok "Chroma indexing smoke (embeddings)"
     else
-      warn "Embeddings indexing smoke failed — check OPENAI_API_KEY / embeddings"
+      warn "Embeddings indexing smoke failed — check OPENAI_API_KEY"
     fi
   else
     warn "OPENAI_API_KEY not set — skipping embeddings indexing smoke"
@@ -74,4 +75,3 @@ if [[ "$FAIL" -eq 0 ]]; then
 fi
 echo "Phase 3 verification FAILED"
 exit 1
-

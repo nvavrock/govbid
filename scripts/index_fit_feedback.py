@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Index Consig fit surveys into Chroma for RAG explanations.
+"""Index Counsel fit surveys into Chroma for RAG explanations.
 
-Reads consig_fit_surveys where indexed_at IS NULL by default.
+Reads counsel_fit_surveys where indexed_at IS NULL by default.
 """
 
 from __future__ import annotations
@@ -15,8 +15,8 @@ from typing import Any
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from consig import db, rag  # noqa: E402
-from consig.survey_schema import survey_row_to_rag_text  # noqa: E402
+from counsel import db, rag  # noqa: E402
+from counsel.survey_schema import survey_row_to_rag_text  # noqa: E402
 
 
 def _chunk_id(survey_id: int) -> str:
@@ -53,7 +53,7 @@ def index_surveys(surveys: list[dict[str, Any]], *, reset: bool = False) -> int:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Index Consig fit surveys into Chroma.")
+    parser = argparse.ArgumentParser(description="Index Counsel fit surveys into Chroma.")
     parser.add_argument("--reset", action="store_true", help="Drop and rebuild fit feedback collection")
     parser.add_argument("--all", action="store_true", help="Index all fit surveys (may require re-run)")
     parser.add_argument("--survey-id", type=int, default=None, help="Index a single survey id")

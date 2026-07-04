@@ -6,6 +6,7 @@ PROJECT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT"
 # shellcheck source=scripts/lib/common.sh
 source "$PROJECT/scripts/lib/common.sh"
+govbid_bootstrap_env "$PROJECT"
 
 LOG_DIR="$PROJECT/logs"
 LOCK_FILE="$LOG_DIR/daily.lock"
@@ -17,6 +18,7 @@ echo "Step 1/3: Download SAM bulk CSV"
 
 echo ""
 echo "Step 2/3: Ingest into Postgres"
+govbid_ensure_postgres "$PROJECT"
 "$PROJECT/run_ingest.sh"
 
 echo ""
