@@ -19,6 +19,24 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from counsel.config import load_env, review_defaults  # noqa: E402
 from counsel.branding import sanitize_user_facing  # noqa: E402
+from counsel.display import (  # noqa: E402
+    ACTION_HELP,
+    ACTION_LABELS,
+    DEADLINE_PRESETS,
+    EMPTY_QUEUE_MESSAGE,
+    FIT_BAND_OPTIONS,
+    GLOSSARY_SOLICITATION,
+    MATCH_QUALITY_CHOICES,
+    ONBOARDING_STEPS,
+    SHOW_ME_PRESETS,
+    context_summary,
+    explain_match_reasons,
+    fit_band_badge,
+    humanize_deadline,
+    location_summary,
+    opportunity_card_label,
+    work_mode_label,
+)
 from counsel.survey_schema import (
     BAD_TAGS,
     GOOD_TAGS,
@@ -57,14 +75,9 @@ QUEUE_COLUMNS = [
 ]
 
 US_STATE_OPTIONS = sorted(US_STATE_CODES)
-WORK_MODE_LABELS = {"remote": "Remote", "onsite": "On-site", "unknown": "Location TBD"}
 
-FIT_BAND_OPTIONS = ["strong", "good", "stretch"]
-FIT_BAND_LABELS = {
-    "strong": "Strong fit",
-    "good": "Good fit",
-    "stretch": "Stretch",
-}
+SHOW_ME_LABELS = list(SHOW_ME_PRESETS.keys())
+DEADLINE_LABELS = list(DEADLINE_PRESETS.keys())
 
 
 def _lines_to_list(text: str) -> list[str]:
@@ -339,7 +352,7 @@ def _rows_for_display(rows: list[dict]) -> list[dict]:
         row["naics_label"] = label_for_code(str(naics)) if naics else ""
         mode = row.get("work_mode")
         if mode:
-            row["work_mode"] = WORK_MODE_LABELS.get(str(mode), str(mode))
+            row["work_mode"] = work_mode_label(str(mode))
         if row.get("title") and len(str(row["title"])) > 80:
             row["title"] = str(row["title"])[:77] + "..."
         out.append(row)
@@ -364,20 +377,49 @@ def _csv_bytes(rows: list[dict]) -> bytes:
 def _review_buttons(notice_id: str, key_prefix: str, notes: str = "") -> None:
     c1, c2, c3, c4 = st.columns(4)
     with c1:
-        if st.button("Shortlist", key=f"{key_prefix}_reviewing"):
+        if st.button(
+            ACTION_LABELS["reviewing"],
+            key=f"{key_prefix}_reviewing",
+            help=ACTION_HELP["reviewing"],
+        ):
             apply_review(notice_id, "reviewing", notes or None)
             st.rerun()
     with c2:
-        if st.button("Bid", key=f"{key_prefix}_bid"):
+        if st.button(
+            ACTION_LABELS["bid"],
+            key=f"{key_prefix}_bid",
+            help=ACTION_HELP["bid"],
+        ):
             apply_review(notice_id, "bid", notes or None)
             st.rerun()
     with c3:
-        if st.button("Pass", key=f"{key_prefix}_pass"):
+        if st.button(
+            ACTION_LABELS["pass"],
+            key=f"{key_prefix}_pass",
+            help=ACTION_HELP["pass"],
+        ):
             apply_review(notice_id, "pass", notes or None)
             st.rerun()
     with c4:
-        if st.button("Reset", key=f"{key_prefix}_pending"):
+        if st.button(
+            ACTION_LABELS["pending"],
+            key=f"{key_prefix}_pending",
+            help=ACTION_HELP["pending"],
+        ):
             apply_review(notice_id, "pending", notes or None)
+            st.rerun()
+
+
+def render_onboarding() -> None:
+    if "onboarding_seen" not in st.session_state:
+        st.session_state.onboarding_seen = False
+    expanded = not st.session_state.onboarding_seen
+    with st.expander("How Counsel works", expanded=expanded):
+        for i, step in enumerate(ONBOARDING_STEPS, 1):
+            st.markdown(f"{i}. {step}")
+        st.caption(GLOSSARY_SOLICITATION)
+        if st.button("Got it — hide this next time", key="onboarding_dismiss"):
+            st.session_state.onboarding_seen = True
             st.rerun()
 
 
@@ -393,7 +435,7 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
         st.sidebar.caption(f"Profiles unavailable: {exc}")
 
     with st.sidebar:
-        st.subheader("Fit profile")
+        st.subheader("Your company")
         if profiles:
             labels = {p["id"]: f"{p.get('name', p.get('slug', 'profile'))}" for p in profiles}
             default_id = active_profile["id"] if active_profile else profiles[0]["id"]
@@ -405,55 +447,79 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
                 key="active_profile_id",
             )
             active_profile = next(p for p in profiles if p["id"] == selected_id)
-            st.caption(f"Slug: `{active_profile.get('slug', '')}`")
             home = active_profile.get("home_states") or []
             if home:
                 st.caption(
-                    f"Geography: {', '.join(home)}"
+                    f"Location filter: {', '.join(home)}"
                     + (" + remote" if active_profile.get("include_remote", True) else "")
                 )
             else:
-                st.caption("Geography: all locations (set home states in My fit profile)")
+                st.caption("Showing all U.S. locations — set home states in Your company profile")
         else:
-            st.info("No fit profile yet — use the My fit profile tab.")
+            st.info("Set up your company profile in the **Your company profile** tab.")
 
         st.divider()
-        st.subheader("Best fits filters")
-        fit_bands = st.multiselect(
-            "Fit bands",
-            FIT_BAND_OPTIONS,
-            default=FIT_BAND_OPTIONS,
-            format_func=lambda b: FIT_BAND_LABELS.get(b, b),
-            key="filter_fit_bands",
+        st.subheader("Today's list")
+        show_label = st.selectbox(
+            "Show me",
+            SHOW_ME_LABELS,
+            index=SHOW_ME_LABELS.index("25 standard (recommended)")
+            if "25 standard (recommended)" in SHOW_ME_LABELS
+            else 1,
+            key="filter_show_me",
         )
-        days_ahead = st.slider(
-            "Days ahead",
-            7,
-            90,
-            int(defaults["days_ahead"]),
-            key="filter_days_ahead",
-        )
-        top_n = st.slider(
-            "Top N",
-            5,
-            50,
-            int(defaults["top_n"]),
-            key="filter_top_n",
-        )
-        st.caption("Ranked by fit band, then relevance — no min score gate.")
+        top_n = SHOW_ME_PRESETS[show_label]
 
-        try:
-            counts = _db().count_by_review_status() if USE_INPROCESS else {}
-            if counts:
-                st.divider()
-                st.subheader("Status counts")
-                for status, cnt in sorted(counts.items()):
-                    st.text(f"{status}: {cnt}")
-        except Exception as exc:
-            st.caption(f"Counts unavailable: {exc}")
+        deadline_label = st.selectbox(
+            "Deadlines",
+            DEADLINE_LABELS,
+            index=DEADLINE_LABELS.index("Next 30 days")
+            if "Next 30 days" in DEADLINE_LABELS
+            else 1,
+            key="filter_deadline_preset",
+        )
+        days_ahead = DEADLINE_PRESETS[deadline_label]
+
+        st.markdown("**Match quality**")
+        fit_bands: list[str] = []
+        for band in FIT_BAND_OPTIONS:
+            if st.checkbox(
+                MATCH_QUALITY_CHOICES[band].split(" — ")[0],
+                value=True,
+                help=MATCH_QUALITY_CHOICES[band],
+                key=f"filter_quality_{band}",
+            ):
+                fit_bands.append(band)
+
+        with st.expander("Advanced filters", expanded=False):
+            st.caption("These settings control which federal solicitations appear in Today's matches.")
+            top_n = st.slider(
+                "Exact number to show",
+                5,
+                50,
+                top_n,
+                key="filter_top_n_adv",
+            )
+            days_ahead = st.slider(
+                "Exact days until deadline",
+                7,
+                90,
+                days_ahead,
+                key="filter_days_ahead_adv",
+            )
+            if profiles and active_profile:
+                st.caption(f"Profile slug: `{active_profile.get('slug', '')}`")
+            try:
+                counts = _db().count_by_review_status() if USE_INPROCESS else {}
+                if counts:
+                    st.markdown("**Pipeline counts**")
+                    for status, cnt in sorted(counts.items()):
+                        st.text(f"{status}: {cnt}")
+            except Exception as exc:
+                st.caption(f"Counts unavailable: {exc}")
 
         st.divider()
-        st.subheader("Chat session")
+        st.subheader("Ask Counsel")
         if st.button("New chat session"):
             st.session_state.session_id = None
             st.session_state.messages = []
@@ -471,55 +537,117 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
     return fit_bands, days_ahead, top_n, active_profile
 
 
-def tab_best_fits(fit_bands: list[str], days_ahead: int, top_n: int) -> None:
-    st.subheader("Best fits")
-    st.caption("Top opportunities for your active fit profile, ranked by fit band.")
+def tab_best_fits(
+    fit_bands: list[str],
+    days_ahead: int,
+    top_n: int,
+    active_profile: dict | None,
+) -> None:
+    st.subheader("Today's matches")
     if not fit_bands:
-        st.warning("Select at least one fit band in the sidebar.")
+        st.warning("Select at least one match quality level in the sidebar.")
         return
     try:
         queue = fetch_queue(days_ahead, top_n, fit_bands)
     except Exception as exc:
-        st.error(f"Could not load queue: {exc}")
+        st.error(f"Could not load matches: {exc}")
         return
+
+    profile_name = (active_profile or {}).get("name")
+    home_states = (active_profile or {}).get("home_states") or []
+    include_remote = bool((active_profile or {}).get("include_remote", True))
+    st.markdown(
+        context_summary(
+            count=len(queue),
+            days_ahead=days_ahead,
+            profile_name=profile_name,
+            home_states=home_states,
+            include_remote=include_remote,
+        )
+    )
 
     if not queue:
-        st.info(
-            "No pending opportunities match your filters. "
-            "Edit your fit profile or run `./run_daily.sh` after ingest."
-        )
+        st.info(EMPTY_QUEUE_MESSAGE)
         return
 
-    display = _rows_for_display(queue)
-    st.dataframe(
-        [{k: r.get(k) for k in QUEUE_COLUMNS if k in r} for r in display],
-        use_container_width=True,
-        hide_index=True,
-    )
-    st.download_button(
-        "Export best fits CSV",
-        _csv_bytes(queue),
-        file_name="best_fits.csv",
-        mime="text/csv",
-    )
+    with st.expander("Export spreadsheet", expanded=False):
+        st.download_button(
+            "Download CSV",
+            _csv_bytes(queue),
+            file_name="todays_matches.csv",
+            mime="text/csv",
+        )
+
+    notice_ids = [r["notice_id"] for r in queue if r.get("notice_id")]
+    id_to_row = {r["notice_id"]: r for r in queue if r.get("notice_id")}
+
+    for row in queue:
+        nid = row.get("notice_id")
+        if not nid:
+            continue
+        with st.container(border=True):
+            c1, c2 = st.columns([4, 1])
+            with c1:
+                st.markdown(f"**{fit_band_badge(row.get('fit_band'))}** · {row.get('title', 'Untitled')}")
+                st.caption(
+                    f"{row.get('agency', 'Unknown agency')} · "
+                    f"{humanize_deadline(row.get('response_deadline'))} · "
+                    f"{location_summary(row)}"
+                )
+                reasons = explain_match_reasons(row.get("match_reasons"), limit=2)
+                if reasons:
+                    st.markdown(" · ".join(f"_{r}_" for r in reasons))
+            with c2:
+                if st.button("Review", key=f"card_review_{nid}"):
+                    st.session_state.selected_match_id = nid
+                    st.rerun()
 
     st.divider()
-    st.markdown("**Quick actions** — select a notice_id:")
-    notice_ids = [r["notice_id"] for r in queue if r.get("notice_id")]
-    selected = st.selectbox("Opportunity", notice_ids, key="queue_select_notice")
-    if selected:
-        row = next(r for r in queue if r.get("notice_id") == selected)
-        band = row.get("fit_band") or "none"
-        st.markdown(f"**{row.get('title', '')}** — _{FIT_BAND_LABELS.get(band, band)}_")
-        link = row.get("ui_link") or ""
-        if link:
-            st.link_button("Open SAM.gov", link)
-        notes = st.text_input("Notes (optional)", key="queue_action_notes")
-        _review_buttons(selected, "queue", notes)
+    st.markdown("**Review an opportunity**")
+    default_nid = st.session_state.get("selected_match_id")
+    if default_nid not in notice_ids:
+        default_nid = notice_ids[0]
+    selected = st.radio(
+        "Select by title",
+        notice_ids,
+        index=notice_ids.index(default_nid),
+        format_func=lambda nid: opportunity_card_label(id_to_row[nid]),
+        key="queue_select_notice",
+        label_visibility="collapsed",
+    )
+    st.session_state.selected_match_id = selected
+
+    row = id_to_row.get(selected)
+    if not row:
+        return
+
+    st.markdown(f"### {row.get('title', '')}")
+    d1, d2, d3 = st.columns(3)
+    d1.metric("Match", fit_band_badge(row.get("fit_band")))
+    d2.metric("Deadline", humanize_deadline(row.get("response_deadline")))
+    d3.metric("Location", location_summary(row))
+
+    st.markdown(f"**Agency:** {row.get('agency', '—')}")
+    naics = row.get("naics")
+    if naics:
+        st.markdown(f"**Industry code:** {label_for_code(str(naics)) or naics}")
+
+    reasons = explain_match_reasons(row.get("match_reasons"))
+    if reasons:
+        st.markdown("**Why this matched**")
+        for reason in reasons:
+            st.markdown(f"- {reason}")
+
+    link = row.get("ui_link") or ""
+    if link:
+        st.link_button("View on SAM.gov", link)
+    notes = st.text_input("Your notes (optional)", key="queue_action_notes")
+    _review_buttons(selected, "queue", notes)
 
 
 def tab_detail(days_ahead: int, active_profile: dict | None) -> None:
-    st.subheader("Opportunity detail")
+    st.subheader("Search all opportunities")
+    st.caption("Browse the full database when you need to look outside today's ranked list.")
     agency_filter = st.text_input("Agency contains", key="browse_agency")
     naics_pick = _naics_selectbox(key="browse_naics")
     status_pick = st.selectbox(
@@ -561,8 +689,8 @@ def tab_detail(days_ahead: int, active_profile: dict | None) -> None:
 
 
 def tab_shortlist() -> None:
-    st.subheader("Shortlist (reviewing + bid)")
-    st.caption("Goal: keep 3–5 opportunities here for capture work.")
+    st.subheader("Saved opportunities")
+    st.caption("Opportunities you marked **Save for review** or **Pursuing**. Aim for 3–5 active pursuits.")
     try:
         rows = _db().get_shortlist() if USE_INPROCESS else []
     except Exception as exc:
@@ -570,10 +698,10 @@ def tab_shortlist() -> None:
         return
 
     if not rows:
-        st.info("No shortlisted opportunities yet. Use Shortlist or Bid on the queue tab.")
+        st.info("Nothing saved yet. Use **Save for review** or **Pursuing** on Today's matches.")
         return
 
-    st.metric("Shortlist size", len(rows))
+    st.metric("Saved count", len(rows))
     display = _rows_for_display(rows)
     st.dataframe(display, use_container_width=True, hide_index=True)
     st.download_button(
@@ -595,7 +723,8 @@ def tab_shortlist() -> None:
 
 
 def tab_chat() -> None:
-    st.subheader("Chat with Counsel")
+    st.subheader("Ask Counsel")
+    st.caption("Get capture advice, briefings, and help deciding whether to pursue an opportunity.")
     if st.session_state.focus_notice_id:
         st.info(f"Focus: `{st.session_state.focus_notice_id}`")
 
@@ -628,10 +757,10 @@ def tab_chat() -> None:
 
 
 def tab_fit_profile(active_profile: dict | None) -> None:
-    st.subheader("My fit profile")
+    st.subheader("Your company profile")
     st.caption(
-        "Edit what your firm pursues. Saving updates Postgres; "
-        "refresh scores to re-rank all opportunities."
+        "Tell Counsel what your company does and where you work. "
+        "We use this to rank federal solicitations from SAM.gov."
     )
 
     try:
@@ -664,9 +793,9 @@ def tab_fit_profile(active_profile: dict | None) -> None:
                 st.rerun()
 
     st.subheader("Geography")
-    st.caption(
-        "Show opportunities in your home state(s), plus remote work. "
-        "On-site requirements in other states are hidden."
+    st.info(
+        "**Home state(s):** Where your team can work on-site. "
+        "We'll still show remote and nationwide opportunities when enabled below."
     )
     home_states_default = profile.get("home_states") or []
     include_remote_default = bool(profile.get("include_remote", True))
@@ -700,6 +829,10 @@ def tab_fit_profile(active_profile: dict | None) -> None:
             )
         c1, c2 = st.columns(2)
         with c1:
+            st.caption(
+                "**Industry codes (NAICS):** What your company sells or builds. "
+                "Use the sector browser above to pick labeled codes."
+            )
             naics_text = st.text_area(
                 "NAICS codes you pursue (one per line)",
                 value=st.session_state.fit_profile_naics_draft,
@@ -754,7 +887,11 @@ def tab_fit_profile(active_profile: dict | None) -> None:
             except Exception as exc:
                 st.error(f"Save failed: {exc}")
 
-    if st.button("Refresh scores from this profile", type="secondary"):
+    if st.button(
+        "Refresh scores from this profile",
+        type="secondary",
+        help="After you change your profile, re-rank all SAM opportunities (about a minute).",
+    ):
         with st.spinner("Recomputing match scores for all active opportunities…"):
             try:
                 rows = refresh_profile_scores(profile_id)
@@ -770,8 +907,8 @@ def tab_fit_profile(active_profile: dict | None) -> None:
 
 
 def tab_fit_survey() -> None:
-    st.subheader("Fit survey")
-    st.caption("Was this opportunity a good project fit for you? This improves grading explanations.")
+    st.subheader("Rate a match")
+    st.caption("Help Counsel learn whether our recommendations were useful after you pass or pursue an opportunity.")
 
     try:
         shortlist = _db().get_shortlist(limit=50)
@@ -810,10 +947,12 @@ def tab_fit_survey() -> None:
     st.divider()
     st.write(f"Title: {opp.get('title', '')}")
     st.write(f"Agency: {opp.get('agency', '')}")
-    st.write(f"Fit band: {opp.get('fit_band', 'n/a')}")
+    st.write(f"Match level: {fit_band_badge(opp.get('fit_band'))}")
     st.write(f"Current review_status: {opp.get('review_status', '')}")
     if opp.get("match_reasons"):
-        st.caption(f"Match reasons: {opp.get('match_reasons')}")
+        st.markdown("**Why it matched**")
+        for reason in explain_match_reasons(opp.get("match_reasons")):
+            st.markdown(f"- {reason}")
     if opp.get("ui_link"):
         st.link_button("Open SAM.gov", opp["ui_link"], use_container_width=True)
 
@@ -888,8 +1027,8 @@ def tab_fit_survey() -> None:
 
 def main() -> None:
     st.set_page_config(page_title="Counsel", page_icon="📋", layout="wide")
-    st.title("Counsel — Opportunity dashboard")
-    st.caption("Review queue, shortlist picks, and capture copilot.")
+    st.title("Counsel")
+    st.caption("Federal contract opportunities matched to your company.")
 
     defaults = review_defaults()
 
@@ -901,22 +1040,33 @@ def main() -> None:
         st.session_state.focus_notice_id = None
     if "fit_survey_notice_id" not in st.session_state:
         st.session_state.fit_survey_notice_id = None
+    if "selected_match_id" not in st.session_state:
+        st.session_state.selected_match_id = None
+
+    render_onboarding()
 
     fit_bands, days_ahead, top_n, active_profile = render_sidebar(defaults)
 
     tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(
-        ["Best fits", "My fit profile", "Browse / detail", "Shortlist", "Chat", "Fit survey"]
+        [
+            "Today's matches",
+            "Saved opportunities",
+            "Your company profile",
+            "Ask Counsel",
+            "Search all",
+            "Rate a match",
+        ]
     )
     with tab1:
-        tab_best_fits(fit_bands, days_ahead, top_n)
+        tab_best_fits(fit_bands, days_ahead, top_n, active_profile)
     with tab2:
-        tab_fit_profile(active_profile)
-    with tab3:
-        tab_detail(days_ahead, active_profile)
-    with tab4:
         tab_shortlist()
-    with tab5:
+    with tab3:
+        tab_fit_profile(active_profile)
+    with tab4:
         tab_chat()
+    with tab5:
+        tab_detail(days_ahead, active_profile)
     with tab6:
         tab_fit_survey()
 

@@ -1,6 +1,6 @@
-# Opportunity dashboard (Phase 2)
+# Opportunity dashboard
 
-**Prerequisite:** Phase 1 pass — `bash scripts/verify_phase1.sh`. Phase 2 gate: `bash scripts/verify_phase2.sh` (needs `SLACK_WEBHOOK_URL` for digest). See [STATUS.md](STATUS.md).
+**Prerequisite:** Phase 1 pass — `bash scripts/verify_phase1.sh`. Phase 2 gate: `bash scripts/verify_phase2.sh`. See [STATUS.md](STATUS.md).
 
 ## Primary UI — Counsel (Streamlit)
 
@@ -10,27 +10,34 @@
 
 Open **http://127.0.0.1:8501**
 
+### How it works (in the app)
+
+1. Counsel pulls active federal **solicitations** from SAM.gov (updated daily).
+2. It ranks them against **your company profile** — industry codes, keywords, location, set-asides.
+3. You review **Today's matches** — save promising ones, pass on the rest.
+
+A *solicitation* is a government request for goods or services your company might bid on.
+
+### Tabs
+
 | Tab | Use |
 |-----|-----|
-| **Best fits** | Ranked pending opportunities by fit band (strong / good / stretch); export CSV; Shortlist / Bid / Pass / Reset |
-| **My fit profile** | Edit NAICS, keywords, set-asides in Postgres; **Refresh scores** re-ranks all opportunities |
-| **Browse / detail** | Filter by agency, NAICS, status; full row JSON + SAM link |
-| **Shortlist** | `reviewing` and `bid` picks (target 3–5 for capture work) |
-| **Chat** | Counsel copilot for strategy and opportunity briefs |
-| **Fit survey** | Rate fit after pass/bid; feeds RAG feedback loop |
+| **Today's matches** | Ranked opportunities as cards; **Save for review**, **Pursuing**, or **Not for us** |
+| **Saved opportunities** | Items you saved or marked pursuing (aim for 3–5 active pursuits) |
+| **Your company profile** | Home states, industry codes (NAICS), keywords, set-asides |
+| **Ask Counsel** | Capture copilot — strategy, briefings, pass/bid advice |
+| **Search all** | Browse the full database when you need to look outside today's list |
+| **Rate a match** | Feedback after pass/pursue — improves future recommendations |
 
-Sidebar: active fit profile, fit-band filter, days ahead, top N. No min-score slider — ranking uses fit band + relevance.
+### Sidebar (beginner-friendly)
 
-## SQL fallback — Adminer
+| Control | Meaning |
+|---------|---------|
+| **Show me** | How many opportunities to list (10 / 25 / 50) |
+| **Deadlines** | Only show solicitations due in the next 2 weeks, 30 days, or 90 days |
+| **Match quality** | Best / Good / Worth a look — how strongly each row matches your profile |
 
-- URL: **http://localhost:8081**
-- Server: `postgres` (Docker network name)
-- Port: `5432` (inside Docker; host tools use `5433`)
-- User / database / password: from `.env`
-
-Run the saved query [`db/queries/review_queue.sql`](../db/queries/review_queue.sql) for a quick table view. Params in that file are **approximate defaults**; CLI and Counsel use `match-profile.yaml` via Python.
-
-Use Adminer when you need ad-hoc SQL, schema inspection, or bulk updates. Use Counsel for daily review habits and status changes.
+**Advanced filters** (collapsed by default): exact count, exact day window, pipeline counts.
 
 ## Daily Slack digest
 
