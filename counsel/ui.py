@@ -36,6 +36,15 @@ from counsel.display import (  # noqa: E402
     location_summary,
     opportunity_card_label,
     work_mode_label,
+    render_field_label,
+)
+from counsel.onboarding import (  # noqa: E402
+    init_onboarding_state,
+    render_demo_banner,
+    render_landing,
+    render_setup_wizard,
+    should_show_landing,
+    should_show_setup_wizard,
 )
 from counsel.survey_schema import (
     BAD_TAGS,
@@ -251,6 +260,7 @@ def fetch_queue(
     days_ahead: int | None,
     top_n: int | None,
     fit_bands: list[str] | None,
+    active_profile: dict | None = None,
 ) -> list:
     if USE_INPROCESS:
         return _db().get_review_queue(
@@ -258,6 +268,7 @@ def fetch_queue(
             top_n=top_n,
             fit_bands=fit_bands,
             min_score=0,
+            profile=active_profile,
         )
     params: dict[str, Any] = {
         "days_ahead": days_ahead,
@@ -426,9 +437,14 @@ def render_onboarding() -> None:
 def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
     profiles: list[dict] = []
     active_profile: dict | None = None
+    viewing_demo = bool(st.session_state.get("viewing_demo"))
+    forced_id = st.session_state.get("forced_profile_id")
     try:
         profiles = list_fit_profiles()
-        active_profile = next((p for p in profiles if p.get("is_default")), None)
+        if forced_id:
+            active_profile = next((p for p in profiles if p["id"] == forced_id), None)
+        if not active_profile:
+            active_profile = next((p for p in profiles if p.get("is_default")), None)
         if not active_profile and profiles:
             active_profile = profiles[0]
     except Exception as exc:
@@ -436,9 +452,13 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
 
     with st.sidebar:
         st.subheader("Your company")
-        if profiles:
+        if viewing_demo and active_profile:
+            st.caption(f"Example: **{active_profile.get('name', 'Demo profile')}**")
+        elif profiles:
             labels = {p["id"]: f"{p.get('name', p.get('slug', 'profile'))}" for p in profiles}
             default_id = active_profile["id"] if active_profile else profiles[0]["id"]
+            if forced_id and forced_id in labels:
+                default_id = forced_id
             selected_id = st.selectbox(
                 "Active profile",
                 options=list(labels.keys()),
@@ -447,6 +467,11 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
                 key="active_profile_id",
             )
             active_profile = next(p for p in profiles if p["id"] == selected_id)
+            if forced_id and selected_id != forced_id:
+                st.session_state.forced_profile_id = selected_id
+                st.session_state.viewing_demo = (
+                    active_profile.get("slug") == "demo"
+                )
             home = active_profile.get("home_states") or []
             if home:
                 st.caption(
@@ -548,7 +573,7 @@ def tab_best_fits(
         st.warning("Select at least one match quality level in the sidebar.")
         return
     try:
-        queue = fetch_queue(days_ahead, top_n, fit_bands)
+        queue = fetch_queue(days_ahead, top_n, fit_bands, active_profile)
     except Exception as exc:
         st.error(f"Could not load matches: {exc}")
         return
@@ -802,7 +827,12 @@ def tab_fit_profile(active_profile: dict | None) -> None:
     include_unknown_default = bool(profile.get("include_unknown_location", False))
 
     with st.form("fit_profile_form"):
-        name = st.text_input("Business name", value=profile.get("name") or "")
+        render_field_label("Business name", required=True)
+        name = st.text_input(
+            "Business name",
+            value=profile.get("name") or "",
+            label_visibility="collapsed",
+        )
         slug = st.text_input("Slug", value=profile.get("slug") or "", disabled=True)
         capabilities = st.text_area(
             "Capability statement",
@@ -1031,6 +1061,7 @@ def main() -> None:
     st.caption("Federal contract opportunities matched to your company.")
 
     defaults = review_defaults()
+    init_onboarding_state()
 
     if "session_id" not in st.session_state:
         st.session_state.session_id = None
@@ -1042,6 +1073,17 @@ def main() -> None:
         st.session_state.fit_survey_notice_id = None
     if "selected_match_id" not in st.session_state:
         st.session_state.selected_match_id = None
+
+    if should_show_landing():
+        render_landing(_db())
+        return
+
+    if should_show_setup_wizard():
+        render_setup_wizard(_db(), _naics_profile_picker)
+        return
+
+    if st.session_state.get("viewing_demo"):
+        render_demo_banner()
 
     render_onboarding()
 

@@ -5,6 +5,8 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from typing import Any
 
+import streamlit as st
+
 # User-facing fit band labels
 FIT_BAND_BADGES = {
     "strong": "Best match",
@@ -67,6 +69,40 @@ ONBOARDING_STEPS = [
 GLOSSARY_SOLICITATION = (
     "A *solicitation* is a government request for goods or services your company might bid on."
 )
+
+LANDING_HEADLINE = "Find federal contract opportunities matched to your company"
+LANDING_SUBHEAD = (
+    "Counsel pulls active solicitations from SAM.gov and ranks them against your industry, "
+    "location, and keywords. Explore with a sample company or set up your own profile."
+)
+LANDING_DEMO_TITLE = "Try an example"
+LANDING_DEMO_BODY = (
+    "Browse real federal opportunities scored for a sample IT company in Pennsylvania. "
+    "No setup — see how Counsel works in about 30 seconds."
+)
+LANDING_SETUP_TITLE = "Set up my company"
+LANDING_SETUP_BODY = (
+    "Tell us where you work and what you do. We'll rank solicitations for your business "
+    "and show your first matches right away."
+)
+
+DEMO_BANNER = (
+    "**You're viewing an example profile.** Matches are real SAM.gov data scored for a "
+    "sample IT company in Pennsylvania (plus remote work). Set up your own company "
+    "when you're ready for recommendations tailored to your business."
+)
+
+REQUIRED_MARK = '<span style="color:#ff4b4b;font-weight:700;">*</span>'
+
+
+def render_field_label(label: str, *, required: bool = False) -> None:
+    """Show a field label; append a red asterisk when the field is required."""
+    suffix = f" {REQUIRED_MARK}" if required else ""
+    st.markdown(f"{label}{suffix}", unsafe_allow_html=True)
+
+
+def render_required_legend() -> None:
+    st.markdown(f"{REQUIRED_MARK} Required", unsafe_allow_html=True)
 
 
 def fit_band_badge(band: str | None) -> str:

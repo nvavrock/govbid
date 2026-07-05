@@ -60,14 +60,23 @@ def get_review_queue(
     min_score: int | None = None,
     top_n: int | None = None,
     fit_bands: list[str] | None = None,
+    profile: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     from lib.review_queue_lib import get_review_queue as _lib_queue
 
+    geo_kwargs: dict[str, Any] = {}
+    if profile is not None:
+        geo_kwargs = {
+            "home_states": profile.get("home_states") or [],
+            "include_remote": bool(profile.get("include_remote", True)),
+            "include_unknown_location": bool(profile.get("include_unknown_location", False)),
+        }
     rows = _lib_queue(
         days_ahead=days_ahead,
         min_score=min_score,
         top_n=top_n,
         fit_bands=fit_bands,
+        **geo_kwargs,
     )
     return [_serialize_row(r) for r in rows]
 
@@ -736,6 +745,45 @@ def update_fit_profile(
             cur.execute(sql, params)
         conn.commit()
     return get_fit_profile(profile_id) or existing
+
+
+DEMO_PROFILE_SLUG = "demo"
+
+DEMO_PROFILE_FIELDS = {
+    "name": "Example IT Company (Pennsylvania)",
+    "capabilities": (
+        "Custom software development, cloud migration, DevSecOps, "
+        "and cybersecurity services for federal agencies."
+    ),
+    "naics_codes": ["541511", "541512", "541519", "518210"],
+    "psc_prefixes": ["D3", "7E"],
+    "include_keywords": [
+        "software",
+        "cloud",
+        "cybersecurity",
+        "modernization",
+        "application",
+        "devsecops",
+    ],
+    "exclude_keywords": ["construction", "janitorial", "landscaping", "furniture"],
+    "exclude_set_asides": ["8(a)", "HUBZone", "SDVOSB", "WOSB", "EDWOSB"],
+    "home_states": ["PA"],
+    "include_remote": True,
+    "include_unknown_location": False,
+}
+
+
+def ensure_demo_profile() -> dict[str, Any]:
+    """Create or refresh the read-only example profile used for first-run demos."""
+    existing = get_fit_profile_by_slug(DEMO_PROFILE_SLUG)
+    if existing:
+        updated = update_fit_profile(
+            existing["id"],
+            is_default=False,
+            **DEMO_PROFILE_FIELDS,
+        )
+        return updated
+    return create_fit_profile(slug=DEMO_PROFILE_SLUG, is_default=False, **DEMO_PROFILE_FIELDS)
 
 
 def delete_fit_profile(profile_id: int) -> None:
