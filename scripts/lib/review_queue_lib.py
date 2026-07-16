@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from lib.match_profile import load_profile  # noqa: E402
-from lib.fit_profiles import load_default_geography  # noqa: E402
+from lib.fit_profiles import load_default_geography, load_profile_geography  # noqa: E402
 
 REVIEW_QUEUE_SQL = """
 WITH params AS (
@@ -213,23 +213,16 @@ def get_review_queue(
     min_score: int | None = None,
     top_n: int | None = None,
     fit_bands: list[str] | None = None,
-    home_states: list[str] | None = None,
-    include_remote: bool | None = None,
-    include_unknown_location: bool | None = None,
+    profile_id: int | None = None,
 ) -> list[dict[str, Any]]:
     review = load_profile()["review"]
-    if home_states is None and include_remote is None and include_unknown_location is None:
-        geo = load_default_geography()
-        home_states = geo.get("home_states") or []
-        include_remote = bool(geo.get("include_remote", True))
-        include_unknown_location = bool(geo.get("include_unknown_location", False))
+    if profile_id is not None:
+        geo = load_profile_geography(profile_id)
     else:
-        home_states = home_states or []
-        include_remote = True if include_remote is None else include_remote
-        include_unknown_location = (
-            False if include_unknown_location is None else include_unknown_location
-        )
-    home_states = [s.strip().upper() for s in home_states if s and str(s).strip()]
+        geo = load_default_geography()
+    home_states = [s.strip().upper() for s in geo.get("home_states") or [] if s and str(s).strip()]
+    include_remote = bool(geo.get("include_remote", True))
+    include_unknown_location = bool(geo.get("include_unknown_location", False))
     bands = fit_bands if fit_bands is not None else list(DEFAULT_FIT_BANDS)
     params = {
         "days_ahead": days_ahead if days_ahead is not None else review["days_ahead"],

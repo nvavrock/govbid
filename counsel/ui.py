@@ -25,9 +25,7 @@ from counsel.display import (  # noqa: E402
     DEADLINE_PRESETS,
     EMPTY_QUEUE_MESSAGE,
     FIT_BAND_OPTIONS,
-    GLOSSARY_SOLICITATION,
     MATCH_QUALITY_CHOICES,
-    ONBOARDING_STEPS,
     SHOW_ME_PRESETS,
     context_summary,
     explain_match_reasons,
@@ -36,14 +34,10 @@ from counsel.display import (  # noqa: E402
     location_summary,
     opportunity_card_label,
     work_mode_label,
-    render_field_label,
 )
 from counsel.onboarding import (  # noqa: E402
     init_onboarding_state,
-    render_demo_banner,
-    render_landing,
     render_setup_wizard,
-    should_show_landing,
     should_show_setup_wizard,
 )
 from counsel.survey_schema import (
@@ -261,19 +255,22 @@ def fetch_queue(
     top_n: int | None,
     fit_bands: list[str] | None,
     active_profile: dict | None = None,
+    min_score: int | None = None,
 ) -> list:
+    if min_score is None:
+        min_score = int(review_defaults().get("min_score", 25))
     if USE_INPROCESS:
         return _db().get_review_queue(
             days_ahead=days_ahead,
             top_n=top_n,
             fit_bands=fit_bands,
-            min_score=0,
+            min_score=min_score,
             profile=active_profile,
         )
     params: dict[str, Any] = {
         "days_ahead": days_ahead,
         "top_n": top_n,
-        "min_score": 0,
+        "min_score": min_score,
     }
     if fit_bands:
         params["fit_bands"] = ",".join(fit_bands)
@@ -283,13 +280,78 @@ def fetch_queue(
 def apply_review(notice_id: str, status: str, notes: str | None = None) -> None:
     if USE_INPROCESS:
         _db().set_review_status(notice_id, status, notes)
-        _db().record_feedback(notice_id, status, notes)
+        try:
+            _db().record_feedback(notice_id, status, notes)
+        except Exception:
+            pass
         if status in ("pass", "bid"):
             st.session_state.fit_survey_notice_id = notice_id
     else:
         _api_post(
             "/review",
             {"notice_id": notice_id, "status": status, "notes": notes},
+        )
+
+
+def _on_review_action(notice_id: str, status: str, notes_key: str = "queue_action_notes") -> None:
+    """Streamlit on_click handler — runs before the next script render."""
+    notes = (st.session_state.get(notes_key) or "").strip() or None
+    try:
+        apply_review(notice_id, status, notes)
+    except Exception as exc:
+        st.session_state.review_flash = ("error", f"Could not save: {exc}")
+        return
+    label = ACTION_LABELS.get(status, status)
+    st.session_state.review_flash = ("success", f"{label} — saved.")
+    st.session_state.selected_match_id = None
+    if notes_key in st.session_state:
+        st.session_state[notes_key] = ""
+
+
+def _select_match(notice_id: str) -> None:
+    st.session_state.selected_match_id = notice_id
+
+
+def _review_buttons(
+    notice_id: str,
+    key_prefix: str,
+    notes: str = "",
+    *,
+    notes_key: str = "queue_action_notes",
+) -> None:
+    c1, c2, c3, c4 = st.columns(4)
+    with c1:
+        st.button(
+            ACTION_LABELS["reviewing"],
+            key=f"{key_prefix}_reviewing",
+            help=ACTION_HELP["reviewing"],
+            on_click=_on_review_action,
+            args=(notice_id, "reviewing", notes_key),
+            type="primary",
+        )
+    with c2:
+        st.button(
+            ACTION_LABELS["bid"],
+            key=f"{key_prefix}_bid",
+            help=ACTION_HELP["bid"],
+            on_click=_on_review_action,
+            args=(notice_id, "bid", notes_key),
+        )
+    with c3:
+        st.button(
+            ACTION_LABELS["pass"],
+            key=f"{key_prefix}_pass",
+            help=ACTION_HELP["pass"],
+            on_click=_on_review_action,
+            args=(notice_id, "pass", notes_key),
+        )
+    with c4:
+        st.button(
+            ACTION_LABELS["pending"],
+            key=f"{key_prefix}_pending",
+            help=ACTION_HELP["pending"],
+            on_click=_on_review_action,
+            args=(notice_id, "pending", notes_key),
         )
 
 
@@ -385,62 +447,17 @@ def _csv_bytes(rows: list[dict]) -> bytes:
     return buf.getvalue().encode("utf-8")
 
 
-def _review_buttons(notice_id: str, key_prefix: str, notes: str = "") -> None:
-    c1, c2, c3, c4 = st.columns(4)
-    with c1:
-        if st.button(
-            ACTION_LABELS["reviewing"],
-            key=f"{key_prefix}_reviewing",
-            help=ACTION_HELP["reviewing"],
-        ):
-            apply_review(notice_id, "reviewing", notes or None)
-            st.rerun()
-    with c2:
-        if st.button(
-            ACTION_LABELS["bid"],
-            key=f"{key_prefix}_bid",
-            help=ACTION_HELP["bid"],
-        ):
-            apply_review(notice_id, "bid", notes or None)
-            st.rerun()
-    with c3:
-        if st.button(
-            ACTION_LABELS["pass"],
-            key=f"{key_prefix}_pass",
-            help=ACTION_HELP["pass"],
-        ):
-            apply_review(notice_id, "pass", notes or None)
-            st.rerun()
-    with c4:
-        if st.button(
-            ACTION_LABELS["pending"],
-            key=f"{key_prefix}_pending",
-            help=ACTION_HELP["pending"],
-        ):
-            apply_review(notice_id, "pending", notes or None)
-            st.rerun()
-
-
-def render_onboarding() -> None:
-    if "onboarding_seen" not in st.session_state:
-        st.session_state.onboarding_seen = False
-    expanded = not st.session_state.onboarding_seen
-    with st.expander("How Counsel works", expanded=expanded):
-        for i, step in enumerate(ONBOARDING_STEPS, 1):
-            st.markdown(f"{i}. {step}")
-        st.caption(GLOSSARY_SOLICITATION)
-        if st.button("Got it — hide this next time", key="onboarding_dismiss"):
-            st.session_state.onboarding_seen = True
-            st.rerun()
-
-
 def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
     profiles: list[dict] = []
     active_profile: dict | None = None
-    viewing_demo = bool(st.session_state.get("viewing_demo"))
     forced_id = st.session_state.get("forced_profile_id")
     try:
-        profiles = list_fit_profiles()
+        profiles = [
+            p
+            for p in list_fit_profiles()
+            if (p.get("slug") or "") != "demo"
+            and (p.get("is_default") or (p.get("slug") or "") == "default")
+        ]
         if forced_id:
             active_profile = next((p for p in profiles if p["id"] == forced_id), None)
         if not active_profile:
@@ -451,37 +468,38 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
         st.sidebar.caption(f"Profiles unavailable: {exc}")
 
     with st.sidebar:
-        st.subheader("Your company")
-        if viewing_demo and active_profile:
-            st.caption(f"Example: **{active_profile.get('name', 'Demo profile')}**")
-        elif profiles:
-            labels = {p["id"]: f"{p.get('name', p.get('slug', 'profile'))}" for p in profiles}
-            default_id = active_profile["id"] if active_profile else profiles[0]["id"]
-            if forced_id and forced_id in labels:
-                default_id = forced_id
-            selected_id = st.selectbox(
-                "Active profile",
-                options=list(labels.keys()),
-                format_func=lambda pid: labels[pid],
-                index=list(labels.keys()).index(default_id),
-                key="active_profile_id",
-            )
-            active_profile = next(p for p in profiles if p["id"] == selected_id)
-            if forced_id and selected_id != forced_id:
-                st.session_state.forced_profile_id = selected_id
-                st.session_state.viewing_demo = (
-                    active_profile.get("slug") == "demo"
+        st.subheader("Profile")
+        if profiles:
+            if len(profiles) == 1:
+                active_profile = profiles[0]
+                st.caption(f"**{active_profile.get('name', 'Default')}**")
+            else:
+                labels = {
+                    p["id"]: f"{p.get('name', p.get('slug', 'profile'))}" for p in profiles
+                }
+                default_id = active_profile["id"] if active_profile else profiles[0]["id"]
+                if forced_id and forced_id in labels:
+                    default_id = forced_id
+                selected_id = st.selectbox(
+                    "Active profile",
+                    options=list(labels.keys()),
+                    format_func=lambda pid: labels[pid],
+                    index=list(labels.keys()).index(default_id),
+                    key="active_profile_id",
                 )
+                active_profile = next(p for p in profiles if p["id"] == selected_id)
+                if forced_id and selected_id != forced_id:
+                    st.session_state.forced_profile_id = selected_id
             home = active_profile.get("home_states") or []
             if home:
                 st.caption(
-                    f"Location filter: {', '.join(home)}"
+                    f"Location: {', '.join(home)}"
                     + (" + remote" if active_profile.get("include_remote", True) else "")
                 )
             else:
-                st.caption("Showing all U.S. locations — set home states in Your company profile")
+                st.caption("All U.S. locations — set home states in Profile")
         else:
-            st.info("Set up your company profile in the **Your company profile** tab.")
+            st.info("No profile yet. Edit **Profile** or sync match-profile.yaml via ingest.")
 
         st.divider()
         st.subheader("Today's list")
@@ -517,7 +535,10 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
                 fit_bands.append(band)
 
         with st.expander("Advanced filters", expanded=False):
-            st.caption("These settings control which federal solicitations appear in Today's matches.")
+            st.caption(
+                "IT queue uses min score from match-profile.yaml (default 25). "
+                "Adjust count and deadline window here."
+            )
             top_n = st.slider(
                 "Exact number to show",
                 5,
@@ -545,18 +566,24 @@ def render_sidebar(defaults: dict) -> tuple[list[str], int, int, dict | None]:
 
         st.divider()
         st.subheader("Ask Counsel")
-        if st.button("New chat session"):
+        if st.button("New chat session", key="sidebar_new_chat"):
             st.session_state.session_id = None
             st.session_state.messages = []
+            st.toast("Chat cleared — open Ask Counsel to start fresh.")
             st.rerun()
-        if st.button("Daily briefing (chat)"):
-            with st.spinner("Preparing briefing..."):
-                result = run_chat("", st.session_state.session_id, None, briefing=True)
-            st.session_state.session_id = result["session_id"]
-            st.session_state.messages.append(
-                {"role": "assistant", "content": sanitize_user_facing(result["reply"])}
-            )
-            st.rerun()
+        if st.button("Daily briefing (chat)", key="sidebar_daily_briefing"):
+            try:
+                with st.spinner("Preparing briefing..."):
+                    result = run_chat("", st.session_state.session_id, None, briefing=True)
+            except Exception as exc:
+                st.error(f"Briefing failed: {exc}")
+            else:
+                st.session_state.session_id = result["session_id"]
+                st.session_state.messages.append(
+                    {"role": "assistant", "content": sanitize_user_facing(result["reply"])}
+                )
+                st.session_state.show_briefing_banner = True
+                st.rerun()
         if not USE_INPROCESS:
             st.info(f"API: {API_URL}")
     return fit_bands, days_ahead, top_n, active_profile
@@ -606,14 +633,22 @@ def tab_best_fits(
     notice_ids = [r["notice_id"] for r in queue if r.get("notice_id")]
     id_to_row = {r["notice_id"]: r for r in queue if r.get("notice_id")}
 
+    # Keep selection on a still-pending notice (do not share key with a widget).
+    if st.session_state.get("selected_match_id") not in notice_ids:
+        st.session_state.selected_match_id = notice_ids[0]
+
     for row in queue:
         nid = row.get("notice_id")
         if not nid:
             continue
+        selected = st.session_state.selected_match_id == nid
         with st.container(border=True):
             c1, c2 = st.columns([4, 1])
             with c1:
-                st.markdown(f"**{fit_band_badge(row.get('fit_band'))}** · {row.get('title', 'Untitled')}")
+                prefix = "→ " if selected else ""
+                st.markdown(
+                    f"{prefix}**{fit_band_badge(row.get('fit_band'))}** · {row.get('title', 'Untitled')}"
+                )
                 st.caption(
                     f"{row.get('agency', 'Unknown agency')} · "
                     f"{humanize_deadline(row.get('response_deadline'))} · "
@@ -623,51 +658,39 @@ def tab_best_fits(
                 if reasons:
                     st.markdown(" · ".join(f"_{r}_" for r in reasons))
             with c2:
-                if st.button("Review", key=f"card_review_{nid}"):
-                    st.session_state.selected_match_id = nid
-                    st.rerun()
+                st.button(
+                    "Open",
+                    key=f"card_open_{nid}",
+                    on_click=_select_match,
+                    args=(nid,),
+                    type="primary" if selected else "secondary",
+                )
 
-    st.divider()
-    st.markdown("**Review an opportunity**")
-    default_nid = st.session_state.get("selected_match_id")
-    if default_nid not in notice_ids:
-        default_nid = notice_ids[0]
-    selected = st.radio(
-        "Select by title",
-        notice_ids,
-        index=notice_ids.index(default_nid),
-        format_func=lambda nid: opportunity_card_label(id_to_row[nid]),
-        key="queue_select_notice",
-        label_visibility="collapsed",
-    )
-    st.session_state.selected_match_id = selected
+            if selected:
+                st.markdown("---")
+                st.markdown(f"### {row.get('title', '')}")
+                d1, d2, d3 = st.columns(3)
+                d1.metric("Match", fit_band_badge(row.get("fit_band")))
+                d2.metric("Deadline", humanize_deadline(row.get("response_deadline")))
+                d3.metric("Location", location_summary(row))
+                st.markdown(f"**Agency:** {row.get('agency', '—')}")
+                naics = row.get("naics")
+                if naics:
+                    st.markdown(f"**Industry code:** {label_for_code(str(naics)) or naics}")
+                reasons = explain_match_reasons(row.get("match_reasons"))
+                if reasons:
+                    st.markdown("**Why this matched**")
+                    for reason in reasons:
+                        st.markdown(f"- {reason}")
+                link = row.get("ui_link") or ""
+                if link:
+                    st.link_button("View on SAM.gov", link)
+                st.text_input("Your notes (optional)", key="queue_action_notes")
+                _review_buttons(nid, f"q_{nid}", notes_key="queue_action_notes")
 
-    row = id_to_row.get(selected)
-    if not row:
-        return
-
-    st.markdown(f"### {row.get('title', '')}")
-    d1, d2, d3 = st.columns(3)
-    d1.metric("Match", fit_band_badge(row.get("fit_band")))
-    d2.metric("Deadline", humanize_deadline(row.get("response_deadline")))
-    d3.metric("Location", location_summary(row))
-
-    st.markdown(f"**Agency:** {row.get('agency', '—')}")
-    naics = row.get("naics")
-    if naics:
-        st.markdown(f"**Industry code:** {label_for_code(str(naics)) or naics}")
-
-    reasons = explain_match_reasons(row.get("match_reasons"))
-    if reasons:
-        st.markdown("**Why this matched**")
-        for reason in reasons:
-            st.markdown(f"- {reason}")
-
-    link = row.get("ui_link") or ""
-    if link:
-        st.link_button("View on SAM.gov", link)
-    notes = st.text_input("Your notes (optional)", key="queue_action_notes")
-    _review_buttons(selected, "queue", notes)
+    # Fallback if somehow nothing selected
+    if st.session_state.selected_match_id not in id_to_row:
+        st.info("Select an opportunity with **Open** to review it.")
 
 
 def tab_detail(days_ahead: int, active_profile: dict | None) -> None:
@@ -710,7 +733,7 @@ def tab_detail(days_ahead: int, active_profile: dict | None) -> None:
     if link:
         st.link_button("SAM.gov", link)
     notes = st.text_area("Notes", value=row.get("notes") or "", key="detail_notes")
-    _review_buttons(pick, "detail", notes)
+    _review_buttons(pick, "detail", notes_key="detail_notes")
 
 
 def tab_shortlist() -> None:
@@ -744,7 +767,7 @@ def tab_shortlist() -> None:
             if row.get("ui_link"):
                 st.link_button("SAM.gov", row["ui_link"])
             notes = st.text_input("Notes", value=row.get("notes") or "", key=f"sl_notes_{nid}")
-            _review_buttons(nid, f"sl_{nid}", notes)
+            _review_buttons(nid, f"sl_{nid}", notes_key=f"sl_notes_{nid}")
 
 
 def tab_chat() -> None:
@@ -782,14 +805,18 @@ def tab_chat() -> None:
 
 
 def tab_fit_profile(active_profile: dict | None) -> None:
-    st.subheader("Your company profile")
+    st.subheader("Profile")
     st.caption(
-        "Tell Counsel what your company does and where you work. "
-        "We use this to rank federal solicitations from SAM.gov."
+        "Rocksteady IT criteria: software NAICS, keywords, PSC prefixes, set-asides, geography."
     )
 
     try:
-        profiles = list_fit_profiles()
+        profiles = [
+            p
+            for p in list_fit_profiles()
+            if (p.get("slug") or "") != "demo"
+            and (p.get("is_default") or (p.get("slug") or "") == "default")
+        ]
     except Exception as exc:
         st.error(f"Could not load profiles: {exc}")
         return
@@ -818,21 +845,15 @@ def tab_fit_profile(active_profile: dict | None) -> None:
                 st.rerun()
 
     st.subheader("Geography")
-    st.info(
-        "**Home state(s):** Where your team can work on-site. "
-        "We'll still show remote and nationwide opportunities when enabled below."
+    st.caption(
+        "Home state(s) = on-site work. Remote / nationwide can stay enabled separately."
     )
     home_states_default = profile.get("home_states") or []
     include_remote_default = bool(profile.get("include_remote", True))
     include_unknown_default = bool(profile.get("include_unknown_location", False))
 
     with st.form("fit_profile_form"):
-        render_field_label("Business name", required=True)
-        name = st.text_input(
-            "Business name",
-            value=profile.get("name") or "",
-            label_visibility="collapsed",
-        )
+        name = st.text_input("Business name", value=profile.get("name") or "")
         slug = st.text_input("Slug", value=profile.get("slug") or "", disabled=True)
         capabilities = st.text_area(
             "Capability statement",
@@ -1058,7 +1079,9 @@ def tab_fit_survey() -> None:
 def main() -> None:
     st.set_page_config(page_title="Counsel", page_icon="📋", layout="wide")
     st.title("Counsel")
-    st.caption("Federal contract opportunities matched to your company.")
+    st.caption(
+        "Rocksteady IT capture — software & cyber opportunities ranked for your profile."
+    )
 
     defaults = review_defaults()
     init_onboarding_state()
@@ -1074,26 +1097,29 @@ def main() -> None:
     if "selected_match_id" not in st.session_state:
         st.session_state.selected_match_id = None
 
-    if should_show_landing():
-        render_landing(_db())
-        return
-
+    # Wizard only when COUNSEL_SKIP_ONBOARDING=0 (user-facing installs).
     if should_show_setup_wizard():
         render_setup_wizard(_db(), _naics_profile_picker)
         return
 
-    if st.session_state.get("viewing_demo"):
-        render_demo_banner()
+    if st.session_state.pop("show_briefing_banner", False):
+        st.success("Daily briefing is ready — open the **Ask Counsel** tab to read it.")
 
-    render_onboarding()
+    flash = st.session_state.pop("review_flash", None)
+    if flash:
+        kind, msg = flash
+        if kind == "error":
+            st.error(msg)
+        else:
+            st.success(msg)
 
     fit_bands, days_ahead, top_n, active_profile = render_sidebar(defaults)
 
     tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(
         [
             "Today's matches",
-            "Saved opportunities",
-            "Your company profile",
+            "Saved",
+            "Profile",
             "Ask Counsel",
             "Search all",
             "Rate a match",

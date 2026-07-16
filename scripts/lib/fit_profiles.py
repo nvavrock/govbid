@@ -55,6 +55,46 @@ def load_default_geography(conn: psycopg.Connection[Any] | None = None) -> dict[
     return load_profile().get("geography", {})
 
 
+def load_profile_geography(
+    profile_id: int,
+    conn: psycopg.Connection[Any] | None = None,
+) -> dict[str, Any]:
+    """Geography filter for a specific fit_profiles row."""
+    sql = """
+        SELECT home_states, include_remote, include_unknown_location
+        FROM fit_profiles
+        WHERE id = %s
+        LIMIT 1
+    """
+
+    def _row_to_geo(row: tuple[Any, ...] | None) -> dict[str, Any] | None:
+        if not row:
+            return None
+        home = row[0]
+        if isinstance(home, str):
+            home = json.loads(home)
+        return {
+            "home_states": list(home or []),
+            "include_remote": bool(row[1]),
+            "include_unknown_location": bool(row[2]),
+        }
+
+    if conn is not None:
+        with conn.cursor() as cur:
+            cur.execute(sql, (profile_id,))
+            row = cur.fetchone()
+        geo = _row_to_geo(row)
+    else:
+        with psycopg.connect(**connect_params()) as c:
+            with c.cursor() as cur:
+                cur.execute(sql, (profile_id,))
+                row = cur.fetchone()
+            geo = _row_to_geo(row)
+    if geo:
+        return geo
+    return load_default_geography(conn)
+
+
 def sync_default_profile(conn: psycopg.Connection[Any] | None = None) -> int:
     """Upsert the default fit_profiles row from match-profile.yaml. Returns profile id."""
     meta = profile_meta()

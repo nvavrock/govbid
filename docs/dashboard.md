@@ -10,32 +10,33 @@
 
 Open **http://127.0.0.1:8501**
 
-### How it works (in the app)
+Personal/operator mode is the default (`COUNSEL_SKIP_ONBOARDING=1`): open straight to **Today's matches**. Set `COUNSEL_SKIP_ONBOARDING=0` only if you want the first-run setup wizard.
 
-1. Counsel pulls active federal **solicitations** from SAM.gov (updated daily).
-2. It ranks them against **your company profile** — industry codes, keywords, location, set-asides.
-3. You review **Today's matches** — save promising ones, pass on the rest.
+### How it works
 
-A *solicitation* is a government request for goods or services your company might bid on.
+1. Active federal solicitations from SAM.gov (updated daily).
+2. Ranked against your fit profile — NAICS, keywords, geography, set-asides.
+3. Review **Today's matches** — save, pursue, or pass.
 
 ### Tabs
 
 | Tab | Use |
 |-----|-----|
 | **Today's matches** | Ranked opportunities as cards; **Save for review**, **Pursuing**, or **Not for us** |
-| **Saved opportunities** | Items you saved or marked pursuing (aim for 3–5 active pursuits) |
-| **Your company profile** | Home states, industry codes (NAICS), keywords, set-asides |
+| **Saved** | Items you saved or marked pursuing |
+| **Profile** | Home states, NAICS, keywords, set-asides |
 | **Ask Counsel** | Capture copilot — strategy, briefings, pass/bid advice |
-| **Search all** | Browse the full database when you need to look outside today's list |
-| **Rate a match** | Feedback after pass/pursue — improves future recommendations |
+| **Search all** | Browse the full database outside today's list |
+| **Rate a match** | Feedback after pass/pursue |
 
-### Sidebar (beginner-friendly)
+### Sidebar
 
 | Control | Meaning |
 |---------|---------|
+| **Profile** | Active fit profile (name shown when only one) |
 | **Show me** | How many opportunities to list (10 / 25 / 50) |
-| **Deadlines** | Only show solicitations due in the next 2 weeks, 30 days, or 90 days |
-| **Match quality** | Best / Good / Worth a look — how strongly each row matches your profile |
+| **Deadlines** | Due in next 2 weeks, 30 days, or 90 days |
+| **Match quality** | Best / Good / Worth a look |
 
 **Advanced filters** (collapsed by default): exact count, exact day window, pipeline counts.
 

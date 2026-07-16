@@ -56,8 +56,8 @@ ACTION_HELP = {
 }
 
 EMPTY_QUEUE_MESSAGE = (
-    "No matches yet. Set your home state and industry codes under "
-    "**Your company profile**, then check back tomorrow after SAM updates."
+    "No IT matches in this window. Widen Deadlines or Match quality, "
+    "or refresh scores from the Profile tab after editing NAICS/keywords."
 )
 
 ONBOARDING_STEPS = [
@@ -70,26 +70,10 @@ GLOSSARY_SOLICITATION = (
     "A *solicitation* is a government request for goods or services your company might bid on."
 )
 
-LANDING_HEADLINE = "Find federal contract opportunities matched to your company"
-LANDING_SUBHEAD = (
+WIZARD_HEADLINE = "Set up your company"
+WIZARD_SUBHEAD = (
     "Counsel pulls active solicitations from SAM.gov and ranks them against your industry, "
-    "location, and keywords. Explore with a sample company or set up your own profile."
-)
-LANDING_DEMO_TITLE = "Try an example"
-LANDING_DEMO_BODY = (
-    "Browse real federal opportunities scored for a sample IT company in Pennsylvania. "
-    "No setup — see how Counsel works in about 30 seconds."
-)
-LANDING_SETUP_TITLE = "Set up my company"
-LANDING_SETUP_BODY = (
-    "Tell us where you work and what you do. We'll rank solicitations for your business "
-    "and show your first matches right away."
-)
-
-DEMO_BANNER = (
-    "**You're viewing an example profile.** Matches are real SAM.gov data scored for a "
-    "sample IT company in Pennsylvania (plus remote work). Set up your own company "
-    "when you're ready for recommendations tailored to your business."
+    "location, and keywords. Tell us about your business to see your first matches."
 )
 
 REQUIRED_MARK = '<span style="color:#ff4b4b;font-weight:700;">*</span>'

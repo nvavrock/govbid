@@ -1,4 +1,4 @@
-"""First-run landing: demo profile or company setup wizard."""
+"""First-run company setup wizard."""
 
 from __future__ import annotations
 
@@ -14,15 +14,10 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from counsel.display import (
-    DEMO_BANNER,
     GLOSSARY_SOLICITATION,
-    LANDING_DEMO_BODY,
-    LANDING_DEMO_TITLE,
-    LANDING_HEADLINE,
-    LANDING_SETUP_BODY,
-    LANDING_SETUP_TITLE,
-    LANDING_SUBHEAD,
     ONBOARDING_STEPS,
+    WIZARD_HEADLINE,
+    WIZARD_SUBHEAD,
     render_field_label,
     render_required_legend,
 )
@@ -32,14 +27,17 @@ US_STATE_OPTIONS = sorted(US_STATE_CODES)
 
 
 def skip_onboarding() -> bool:
-    return os.environ.get("COUNSEL_SKIP_ONBOARDING", "").strip() == "1"
+    """Personal/operator installs skip the wizard by default.
+
+    Set COUNSEL_SKIP_ONBOARDING=0 to force the first-run setup wizard.
+    """
+    raw = os.environ.get("COUNSEL_SKIP_ONBOARDING", "1").strip().lower()
+    return raw not in ("0", "false", "no", "off")
 
 
 def init_onboarding_state() -> None:
     defaults = {
         "onboarding_complete": False,
-        "viewing_demo": False,
-        "setup_mode": False,
         "forced_profile_id": None,
     }
     for key, value in defaults.items():
@@ -47,20 +45,10 @@ def init_onboarding_state() -> None:
             st.session_state[key] = value
 
 
-def should_show_landing() -> bool:
-    if skip_onboarding():
-        return False
-    if st.session_state.onboarding_complete:
-        return False
-    if st.session_state.setup_mode:
-        return False
-    return True
-
-
 def should_show_setup_wizard() -> bool:
     if skip_onboarding():
         return False
-    return bool(st.session_state.setup_mode)
+    return not st.session_state.onboarding_complete
 
 
 def _slugify(name: str) -> str:
@@ -77,26 +65,7 @@ def _unique_slug(base: str, db: Any) -> str:
     return slug
 
 
-def activate_demo(db: Any) -> None:
-    with st.spinner("Loading example matches…"):
-        demo = db.ensure_demo_profile()
-        db.refresh_scores_for_profile(demo["id"])
-    st.session_state.viewing_demo = True
-    st.session_state.setup_mode = False
-    st.session_state.onboarding_complete = True
-    st.session_state.forced_profile_id = demo["id"]
-    st.session_state.onboarding_seen = True
-
-
-def start_setup() -> None:
-    st.session_state.setup_mode = True
-    st.session_state.viewing_demo = False
-    st.session_state.forced_profile_id = None
-
-
 def finish_setup(profile_id: int) -> None:
-    st.session_state.viewing_demo = False
-    st.session_state.setup_mode = False
     st.session_state.onboarding_complete = True
     st.session_state.forced_profile_id = profile_id
     st.session_state.onboarding_seen = True
@@ -104,38 +73,15 @@ def finish_setup(profile_id: int) -> None:
         del st.session_state["fit_profile_active_id"]
 
 
-def render_landing(db: Any) -> None:
-    st.markdown(f"## {LANDING_HEADLINE}")
-    st.markdown(LANDING_SUBHEAD)
+def render_setup_wizard(db: Any, naics_picker: Any) -> None:
+    st.markdown(f"## {WIZARD_HEADLINE}")
+    st.markdown(WIZARD_SUBHEAD)
     st.caption(GLOSSARY_SOLICITATION)
-
-    col_demo, col_setup = st.columns(2)
-    with col_demo:
-        st.markdown(f"### {LANDING_DEMO_TITLE}")
-        st.markdown(LANDING_DEMO_BODY)
-        if st.button("Explore example", type="primary", key="landing_demo"):
-            activate_demo(db)
-            st.rerun()
-
-    with col_setup:
-        st.markdown(f"### {LANDING_SETUP_TITLE}")
-        st.markdown(LANDING_SETUP_BODY)
-        if st.button("Set up my company", key="landing_setup"):
-            start_setup()
-            st.rerun()
+    render_required_legend()
 
     with st.expander("How Counsel works", expanded=False):
         for i, step in enumerate(ONBOARDING_STEPS, 1):
             st.markdown(f"{i}. {step}")
-
-
-def render_setup_wizard(db: Any, naics_picker: Any) -> None:
-    st.markdown("## Set up your company")
-    st.caption(
-        "We use this to rank federal solicitations from SAM.gov. "
-        "You can change everything later under **Your company profile**."
-    )
-    render_required_legend()
 
     if "setup_naics_draft" not in st.session_state:
         st.session_state.setup_naics_draft = []
@@ -172,15 +118,7 @@ def render_setup_wizard(db: Any, naics_picker: Any) -> None:
             height=100,
             help="Use if you did not pick any NAICS codes above.",
         )
-        col_back, col_submit = st.columns([1, 2])
-        with col_back:
-            back = st.form_submit_button("← Back")
-        with col_submit:
-            submit = st.form_submit_button("Show my matches", type="primary")
-
-    if back:
-        st.session_state.setup_mode = False
-        st.rerun()
+        submit = st.form_submit_button("Show my matches", type="primary")
 
     if not submit:
         return
@@ -216,13 +154,6 @@ def render_setup_wizard(db: Any, naics_picker: Any) -> None:
         st.rerun()
     except Exception as exc:
         st.error(f"Setup failed: {exc}")
-
-
-def render_demo_banner() -> None:
-    st.info(DEMO_BANNER)
-    if st.button("Set up my company", key="demo_banner_setup"):
-        start_setup()
-        st.rerun()
 
 
 def _lines_to_list(text: str) -> list[str]:

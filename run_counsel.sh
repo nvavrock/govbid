@@ -28,5 +28,7 @@ if command -v ss >/dev/null 2>&1; then
 fi
 
 export COUNSEL_INPROCESS=1
+# Personal capture app: skip first-run wizard unless .env sets COUNSEL_SKIP_ONBOARDING=0
+export COUNSEL_SKIP_ONBOARDING="${COUNSEL_SKIP_ONBOARDING:-1}"
 echo "Counsel UI http://127.0.0.1:8501"
 exec "$UV_BIN" run streamlit run counsel/ui.py --server.port 8501 --server.address 127.0.0.1
